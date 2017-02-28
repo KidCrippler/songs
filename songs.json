@@ -4195,6 +4195,32 @@
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/english/page78.jpg",
 				"imageVersion" : 1
 			}
+		}, {
+			"id" : 300079,
+			"name" : "Secret smile -",
+			"singer" : "Semisonic",
+			"isPrivate" : false,
+			"playback": {
+				"youTubeVideoId" : "kryV3E4QKGk"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/english/page79.jpg",
+				"imageVersion" : 1
+			}
+		}, {
+			"id" : 300080,
+			"name" : "Against all odds -",
+			"singer" : "Phil collins",
+			"isPrivate" : false,
+			"playback": {
+				"youTubeVideoId" : "uVjEcIANv1o"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/english/page80.jpg",
+				"imageVersion" : 1
+			}
 		}
 	]
 }
