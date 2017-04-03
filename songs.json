@@ -4268,6 +4268,19 @@
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/english/page81.jpg",
 				"imageVersion" : 1
 			}
+		}, {
+			"id" : 300082,
+			"name" : "Goodbye Yellow Brick Road (A)",
+			"singer" : "Elton John",
+			"isPrivate" : true,
+			"playback": {
+				"youTubeVideoId" : "DDOL7iY8kfo"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/english/page82.jpg",
+				"imageVersion" : 1
+			}
 		}		
 	]
 }
