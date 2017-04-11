@@ -300,7 +300,7 @@
 		}, {
 			"id" : 1000118,
 			"name" : "אם תלך",
-			"singer" : "הפרויקט של עידן רייכל - 118",
+			"singer" : "הפרוייקט של עידן רייכל - 118",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page118.jpg"
 			}
@@ -996,6 +996,21 @@
 			"singer" : "חני נחמיאס - 212",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage212.jpg"
+			}
+		}, {
+			"id" : 2000213,
+			"name" : "מכל האהבות (Am)",
+			"singer" : "הפרוייקט של עידן רייכל - 213",
+			"isPrivate" : true,
+			"lyrics" : {
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage213.jpg"
+			}
+		}, {
+			"id" : 2000214,
+			"name" : "מכל האהבות (Dm)",
+			"singer" : "הפרוייקט של עידן רייכל - 214",
+			"lyrics" : {
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage214.jpg"
 			}
 		}, {
 			"id" : 1000255,
@@ -2398,7 +2413,7 @@
 		}, {
 			"id" : 1000121,
 			"name" : "ממעמקים",
-			"singer" : "עידן רייכל - 121",
+			"singer" : "הפרוייקט של עידן רייכל - 121",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page121.jpg"
 			}
