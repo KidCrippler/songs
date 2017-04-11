@@ -28,14 +28,14 @@
 		}, {
 			"id" : 2000109,
 			"name" : "אגדת השמש והירח",
-			"singer" : " אתניקס - 109",
+			"singer" : "אתניקס - 109",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage109.jpg"
 			}
 		}, {
 			"id" : 20001,
 			"name" : "אדון שוקו",
-			"singer" : " אריק איינשטיין - 1",
+			"singer" : "אריק איינשטיין - 1",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage1.jpg"
 			}
@@ -49,14 +49,14 @@
 		}, {
 			"id" : 20004,
 			"name" : "אהבה",
-			"singer" : " דניאל סלומון - 4",
+			"singer" : "דניאל סלומון - 4",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage4.jpg"
 			}
 		}, {
 			"id" : 20002,
-			"name" : "אהבה (סולם D)",
-			"singer" : " דניאל סלומון  - 2",
+			"name" : "אהבה (D)",
+			"singer" : "דניאל סלומון  - 2",
 			"isPrivate" : true,
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage2.jpg"
@@ -71,14 +71,14 @@
 		}, {
 			"id" : 200182,
 			"name" : "אהבה קצרה",
-			"singer" : " מאיר בנאי - 182",
+			"singer" : "מאיר בנאי - 182",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage182.jpg"
 			}
 		}, {
 			"id" : 200181,
 			"name" : "אהבה קצרה (Am)",
-			"singer" : " מאיר בנאי - 181",
+			"singer" : "מאיר בנאי - 181",
 			"isPrivate" : true,
 			"alternativePublicId" : 200182,
 			"lyrics" : {
@@ -87,7 +87,7 @@
 		}, {
 			"id" : 20003,
 			"name" : "אהבה ראשונה",
-			"singer" : " החלונות הגבוהים - 3",
+			"singer" : "החלונות הגבוהים - 3",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage3.jpg"
 			}
@@ -101,7 +101,7 @@
 		}, {
 			"id" : 20005,
 			"name" : "אהבת פועלי בניין",
-			"singer" : " שלישיית גשר הירקון - 5",
+			"singer" : "שלישיית גשר הירקון - 5",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage5.jpg"
 			}
@@ -128,16 +128,16 @@
 			}
 		}, {
 			"id" : 20007,
-			"name" : "אחכה לך",
-			"singer" : " הנשמות הטהורות - 7",
+			"name" : "אחכה לך (Dm)",
+			"singer" : "הנשמות הטהורות - 7",
+			"isPrivate" : true,
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage7.jpg"
 			}
 		}, {
 			"id" : 20006,
-			"name" : "אחכה לך (סולם C)",
-			"singer" : " הנשמות הטהורות  - 6",
-			"isPrivate" : true,
+			"name" : "אחכה לך",
+			"singer" : "הנשמות הטהורות  - 6",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage6.jpg"
 			}
@@ -165,7 +165,7 @@
 		}, {
 			"id" : 20008,
 			"name" : "אי ירוק בים",
-			"singer" : " יעל לוי - 8",
+			"singer" : "יעל לוי - 8",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage8.jpg"
 			}
@@ -193,7 +193,7 @@
 		}, {
 			"id" : 20009,
 			"name" : "אין לך מה לדאוג",
-			"singer" : " עוזי פוקס - 9",
+			"singer" : "עוזי פוקס - 9",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage9.jpg"
 			}
@@ -215,7 +215,7 @@
 		}, {
 			"id" : 200010,
 			"name" : "אינך יכולה",
-			"singer" : " החלונות הגבוהים - 10",
+			"singer" : "החלונות הגבוהים - 10",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage10.jpg"
 			}
@@ -236,7 +236,7 @@
 		}, {
 			"id" : 200011,
 			"name" : "איתו לנצח",
-			"singer" : " קרח 9 - 11",
+			"singer" : "קרח 9 - 11",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage11.jpg",
 				"imageVersion" : 1
@@ -244,14 +244,14 @@
 		}, {
 			"id" : 2000143,
 			"name" : "אל העולם שלך",
-			"singer" : " רותם כהן - 143",
+			"singer" : "רותם כהן - 143",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage143.jpg"
 			}
 		}, {
 			"id" : 2000110,
 			"name" : "אל תכעסי זה לא אסון",
-			"singer" : " שלישיית גשר הירקון - 110",
+			"singer" : "שלישיית גשר הירקון - 110",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage110.jpg"
 			}
@@ -265,7 +265,7 @@
 		}, {
 			"id" : 2000111,
 			"name" : "אלייך",
-			"singer" : " עידן עמדי - 111",
+			"singer" : "עידן עמדי - 111",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage111.jpg"
 			}
@@ -279,7 +279,7 @@
 		}, {
 			"id" : 200012,
 			"name" : "אלפונסינה והים",
-			"singer" : " מתי כספי והפרברים - 12",
+			"singer" : "מתי כספי והפרברים - 12",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage12.jpg"
 			}
@@ -342,7 +342,7 @@
 		}, {
 			"id" : 200013,
 			"name" : "אני אש",
-			"singer" : " רן דנקר ועילי בוטנר - 13",
+			"singer" : "רן דנקר ועילי בוטנר - 13",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage13.jpg"
 			}
@@ -370,14 +370,14 @@
 		}, {
 			"id" : 200179,
 			"name" : "אני חיה לי מיום ליום",
-			"singer" : " ריטה - 179",
+			"singer" : "ריטה - 179",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage179.jpg"
 			}
 		}, {
 			"id" : 200180,
-			"name" : "אני חיה לי מיום ליום (סולם E)",
-			"singer" : " ריטה - 180",
+			"name" : "אני חיה לי מיום ליום (E)",
+			"singer" : "ריטה - 180",
 			"isPrivate" : true,
 			"alternativePublicId" : 200179,
 			"lyrics" : {
@@ -386,7 +386,7 @@
 		}, {
 			"id" : 200014,
 			"name" : "אני לא מפסיק להתרגש ממך",
-			"singer" : " דני רובס - 14",
+			"singer" : "דני רובס - 14",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage14.jpg"
 			}
@@ -407,7 +407,7 @@
 			}
 		}, {
 			"id" : 2000200,
-			"name" : "עטוף ברחמים (סולם Bm)",
+			"name" : "עטוף ברחמים (Bm)",
 			"singer" : "ריטה - 200",
 			"isPrivate" : true,
 			"lyrics" : {
@@ -482,14 +482,14 @@
 			}
 		}, {
 			"id" : 2000155,
-			"name" : "אנשי הגשם (סולם Am)",
+			"name" : "אנשי הגשם (Am)",
 			"singer" : "צוות חופים - 155",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage155.jpg"
 			}
 		}, {
 			"id" : 2000156,
-			"name" : "אנשי הגשם (סולם Em)",
+			"name" : "אנשי הגשם (Em)",
 			"singer" : "צוות חופים - 156",
 			"isPrivate" : true,
 			"lyrics" : {
@@ -540,13 +540,13 @@
 		}, {
 			"id" : 200017,
 			"name" : "בא לשכונה בחור חדש",
-			"singer" : " אלון אולארצ'יק - 17",
+			"singer" : "אלון אולארצ'יק - 17",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage17.jpg"
 			}
 		}, {
 			"id" : 1000236,
-			"name" : "בא לשכונה בחור חדש (סולם Cm)",
+			"name" : "בא לשכונה בחור חדש (Cm)",
 			"singer" : "אלון אולארצ'יק  - 236",
 			"isPrivate" : true,
 			"lyrics" : {
@@ -554,16 +554,16 @@
 			}
 		},  {
 			"id" : 200016,
-			"name" : "בא לשכונה בחור חדש (סולם G#m)",
-			"singer" : " אלון אולארצ'יק  - 16",
+			"name" : "בא לשכונה בחור חדש (G#m)",
+			"singer" : "אלון אולארצ'יק  - 16",
 			"isPrivate" : true,
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage16.jpg"
 			}
 		}, {
 			"id" : 200015,
-			"name" : "בא לשכונה בחור חדש (סולם Dm)",
-			"singer" : " אלון אולארצ'יק  - 15",
+			"name" : "בא לשכונה בחור חדש (Dm)",
+			"singer" : "אלון אולארצ'יק  - 15",
 			"isPrivate" : true,
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage15.jpg"
@@ -606,13 +606,13 @@
 		}, {
 			"id" : 200018,
 			"name" : "בטי בם",
-			"singer" : " אריאל זילבר - 18",
+			"singer" : "אריאל זילבר - 18",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage18.jpg"
 			}
 		}, {
 			"id" : 1000246,
-			"name" : "ביום ובלילה (סולם Am)",
+			"name" : "ביום ובלילה (Am)",
 			"singer" : "כוורת - 246",
 			"isPrivate" : true,
 			"lyrics" : {
@@ -621,7 +621,7 @@
 		}, {
 			"id" : 200019,
 			"name" : "ביום ובלילה",
-			"singer" : " כוורת - 19",
+			"singer" : "כוורת - 19",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage19.jpg"
 			}
@@ -635,20 +635,20 @@
 		}, {
 			"id" : 200020,
 			"name" : "בלב אחד",
-			"singer" : " חדוה עמרני ולהקת פלפל לבן - 20",
+			"singer" : "חדוה עמרני ולהקת פלפל לבן - 20",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage20.jpg"
 			}
 		}, {
 			"id" : 200021,
 			"name" : "בלדה לסוכן כפול",
-			"singer" : " משינה - 21",
+			"singer" : "משינה - 21",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage21.jpg"
 			}
 		}, {
 			"id" : 1000247,
-			"name" : " בלדה לעוזב קיבוץ",
+			"name" : "בלדה לעוזב קיבוץ",
 			"singer" : "כיף התקווה הטובה - 247",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page247.jpg"
@@ -663,7 +663,7 @@
 		}, {
 			"id" : 200022,
 			"name" : "בלוז מדרגות הרבנות",
-			"singer" : " הכל עובר חביבי - 22",
+			"singer" : "הכל עובר חביבי - 22",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage22.jpg"
 			}
@@ -698,14 +698,14 @@
 		}, {
 			"id" : 200023,
 			"name" : "בשדה ירוק",
-			"singer" : " דני סנדרסון  - 23",
+			"singer" : "דני סנדרסון  - 23",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage23.jpg"
 			}
 		}, {
 			"id" : 200024,
-			"name" : "בשדה ירוק (סולם G)",
-			"singer" : " דני סנדרסון  - 24",
+			"name" : "בשדה ירוק (G)",
+			"singer" : "דני סנדרסון  - 24",
 			"isPrivate" : true,
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage24.jpg"
@@ -722,30 +722,30 @@
 		}, {
 			"id" : 200026,
 			"name" : "גבריאל",
-			"singer" : " עפרה חזה - 26",
+			"singer" : "עפרה חזה - 26",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage26.jpg"
 			}
 		}, {
 			"id" : 200025,
-			"name" : "גבריאל (סולם D)",
-			"singer" : " עפרה חזה  - 25",
+			"name" : "גבריאל (D)",
+			"singer" : "עפרה חזה  - 25",
 			"isPrivate" : true,
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage25.jpg"
 			}
 		}, {
 			"id" : 100078,
-			"name" : "גולית",
+			"name" : "גולית (C)",
 			"singer" : "כוורת - 78",
+			"isPrivate" : true,
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page78.jpg"
 			}
 		}, {
 			"id" : 200160,
-			"name" : "גולית (סולם D)",
-			"singer" : " כוורת - 160",
-			"isPrivate" : true,
+			"name" : "גולית (D)",
+			"singer" : "כוורת - 160",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage160.jpg"
 			}
@@ -759,14 +759,14 @@
 		}, {
 			"id" : 200027,
 			"name" : "גלגל ענק",
-			"singer" : " חלב ודבש - 27",
+			"singer" : "חלב ודבש - 27",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage27.jpg"
 			}
 		}, {
 			"id" : 200028,
 			"name" : "גלי",
-			"singer" : " ירמי קפלן - 28",
+			"singer" : "ירמי קפלן - 28",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage28.jpg"
 			}
@@ -787,15 +787,15 @@
 		}, {
 			"id" : 200170,
 			"name" : "גרעינים",
-			"singer" : " דני רובס - 170",
+			"singer" : "דני רובס - 170",
 			"isPrivate" : true,
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage170.jpg"
 			}
 		}, {
 			"id" : 200030,
-			"name" : "גשם (סולם F)",
-			"singer" : " אלי לוזון - 30",
+			"name" : "גשם (F)",
+			"singer" : "אלי לוזון - 30",
 			"isPrivate" : true,
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage30.jpg"
@@ -817,7 +817,7 @@
 		}, {
 			"id" : 200029,
 			"name" : "גשם חזק",
-			"singer" : " מוניקה סקס - 29",
+			"singer" : "מוניקה סקס - 29",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage29.jpg"
 			}
@@ -844,7 +844,7 @@
 			}
 		}, {
 			"id" : 1000290,
-			"name" : "דם חם (סולם Am)",
+			"name" : "דם חם (Am)",
 			"singer" : "שרי - 290",
 			"isPrivate" : true,
 			"alternativePublicId" : 1000267,
@@ -853,7 +853,7 @@
 			}
 		}, {
 			"id" : 1000267,
-			"name" : "דם חם (סולם Bbm)",
+			"name" : "דם חם (Bbm)",
 			"singer" : "שרי - 267",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page267.jpg"
@@ -895,8 +895,8 @@
 			}
 		}, {
 			"id" : 200032,
-			"name" : "האהבה הישנה (סולם Am)",
-			"singer" : " שלמה ארצי - 32",
+			"name" : "האהבה הישנה (Am)",
+			"singer" : "שלמה ארצי - 32",
 			"isPrivate" : true,
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage32.jpg"
@@ -904,7 +904,7 @@
 		}, {
 			"id" : 200031,
 			"name" : "האהבה הישנה",
-			"singer" : " שלמה ארצי  - 31",
+			"singer" : "שלמה ארצי  - 31",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage31.jpg"
 			}
@@ -918,7 +918,7 @@
 		}, {
 			"id" : 200033,
 			"name" : "האיש ההוא",
-			"singer" : " יהודית רביץ - 33",
+			"singer" : "יהודית רביץ - 33",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage33.jpg"
 			}
@@ -939,7 +939,7 @@
 		}, {
 			"id" : 200034,
 			"name" : "הבלדה על חדוה ושלומיק",
-			"singer" : " מירי אלוני - 34",
+			"singer" : "מירי אלוני - 34",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage34.jpg"
 			}
@@ -976,18 +976,26 @@
 			}
 		}, {
 			"id" : 1000283,
-			"name" : "הדפוק הזה (סולם F)",
+			"name" : "הדפוק הזה (F)",
 			"singer" : "ירמי קפלן - 283",
 			"isPrivate" : true,
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page283.jpg"
 			}
 		}, {
-			"id" : 200166,
-			"name" : "הוא חייב לבוא",
-			"singer" : " חני נחמיאס - 166",
+			"id" : 2000166,
+			"name" : "הוא חייב לבוא (Bb)",
+			"singer" : "חני נחמיאס - 166",
+			"isPrivate" : true,
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage166.jpg"
+			}
+		}, {
+			"id" : 2000212,
+			"name" : "הוא חייב לבוא (C)",
+			"singer" : "חני נחמיאס - 212",
+			"lyrics" : {
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage212.jpg"
 			}
 		}, {
 			"id" : 1000255,
@@ -999,7 +1007,7 @@
 		}, {
 			"id" : 200035,
 			"name" : "הורה האחזות",
-			"singer" : " כוורת - 35",
+			"singer" : "כוורת - 35",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage35.jpg"
 			}
@@ -1027,14 +1035,14 @@
 		}, {
 			"id" : 2000113,
 			"name" : "היא הולכת בדרכים",
-			"singer" : " אלון אולארצ'יק  - 113",
+			"singer" : "אלון אולארצ'יק  - 113",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage113.jpg"
 			}
 		}, {
 			"id" : 2000114,
-			"name" : "היא הולכת בדרכים (סולם Em)",
-			"singer" : " אלון אולארצ'יק  - 114",
+			"name" : "היא הולכת בדרכים (Em)",
+			"singer" : "אלון אולארצ'יק  - 114",
 			"isPrivate" : true,
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage114.jpg"
@@ -1048,7 +1056,7 @@
 			}
 		}, {
 			"id" : 2000157,
-			"name" : "היא התיישבה ליד הפסנתר",
+			"name" : "היא התיישבה ליד פסנתר",
 			"singer" : "גזוז - 157",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage157.jpg"
@@ -1056,13 +1064,13 @@
 		}, {
 			"id" : 200165,
 			"name" : "היא יודעת",
-			"singer" : " נינט טייב - 165",
+			"singer" : "נינט טייב - 165",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage165.jpg"
 			}
 		}, {
 			"id" : 200176,
-			"name" : "היא יודעת (סולם Cm)",
+			"name" : "היא יודעת (Cm)",
 			"singer" : "נינט טייב - 176",
 			"isPrivate" : true,
 			"alternativePublicId" : 200165,
@@ -1078,16 +1086,16 @@
 			}
 		}, {
 			"id" : 2000140,
-			"name" : "היא כל כך יפה (סולם A)",
-			"singer" : " כוורת - 140",
+			"name" : "היא כל כך יפה (A)",
+			"singer" : "כוורת - 140",
 			"isPrivate" : true,
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage140.jpg"
 			}
 		}, {
 			"id" : 2000115,
-			"name" : "היא כל כך יפה (סולם D)",
-			"singer" : " כוורת - 115",
+			"name" : "היא כל כך יפה (D)",
+			"singer" : "כוורת - 115",
 			"isPrivate" : true,
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage115.jpg"
@@ -1102,16 +1110,24 @@
 		}, {
 			"id" : 2000139,
 			"name" : "היא לא תדע",
-			"singer" : " גזוז - 139",
+			"singer" : "גזוז - 139",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage139.jpg"
 			}
 		}, {
 			"id" : 1000240,
-			"name" : " היא לא תשוב",
+			"name" : "היא לא תשוב (G)",
 			"singer" : "אתניקס - 240",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page240.jpg"
+			}
+		}, {
+			"id" : 2000211,
+			"name" : "היא לא תשוב (A)",
+			"singer" : "אתניקס - 211",
+			"isPrivate" : true,
+			"lyrics" : {
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/apage211.jpg"
 			}
 		}, {
 			"id" : 1000129,
@@ -1122,7 +1138,7 @@
 			}
 		}, {
 			"id" : 1000202,
-			"name" : "היה לי חבר, היה לי אח (סולם C)",
+			"name" : "היה לי חבר, היה לי אח (C)",
 			"singer" : "נתנאלה - 202",
 			"isPrivate" : true,
 			"lyrics" : {
@@ -1130,7 +1146,7 @@
 			}
 		}, {
 			"id" : 1000201,
-			"name" : "היה לי חבר, היה לי אח (סולם E)",
+			"name" : "היה לי חבר, היה לי אח (E)",
 			"singer" : "נתנאלה - 201",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page201.jpg"
@@ -1138,14 +1154,14 @@
 		}, {
 			"id" : 200037,
 			"name" : "היום",
-			"singer" : " אהוד בנאי - 37",
+			"singer" : "אהוד בנאי - 37",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage37.jpg"
 			}
 		}, {
 			"id" : 200038,
 			"name" : "הייתי נער",
-			"singer" : " להקת הנחל - 38",
+			"singer" : "להקת הנחל - 38",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage38.jpg"
 			}
@@ -1166,14 +1182,14 @@
 		}, {
 			"id" : 2000144,
 			"name" : "הכל מבינה",
-			"singer" : " פורטרט - 144",
+			"singer" : "פורטרט - 144",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage144.jpg"
 			}
 		}, {
 			"id" : 200039,
 			"name" : "הכניסיני תחת כנפך",
-			"singer" : " אריק איינשטיין - 39",
+			"singer" : "אריק איינשטיין - 39",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage39.jpg"
 			}
@@ -1215,7 +1231,7 @@
 		}, {
 			"id" : 200040,
 			"name" : "המסע הגדול",
-			"singer" : " יוני רכטר - 40",
+			"singer" : "יוני רכטר - 40",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage40.jpg"
 			}
@@ -1229,7 +1245,7 @@
 		}, {
 			"id" : 200041,
 			"name" : "הנני כאן",
-			"singer" : " יהורם גאון - 41",
+			"singer" : "יהורם גאון - 41",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage41.jpg"
 			}
@@ -1242,8 +1258,8 @@
 			}
 		}, {
 			"id" : 200042,
-			"name" : "הצל ואני (סולם Em)",
-			"singer" : " יהודה פוליקר  - 42",
+			"name" : "הצל ואני (Em)",
+			"singer" : "יהודה פוליקר  - 42",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage42.jpg"
 			}
@@ -1264,14 +1280,14 @@
 		}, {
 			"id" : 200173,
 			"name" : "הרקדן האוטומטי",
-			"singer" : " צביקה פיק - 173",
+			"singer" : "צביקה פיק - 173",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage173.jpg"
 			}
 		}, {
 			"id" : 200174,
-			"name" : "הרקדן האוטומטי (סולם D)",
-			"singer" : " צביקה פיק - 174",
+			"name" : "הרקדן האוטומטי (D)",
+			"singer" : "צביקה פיק - 174",
 			"isPrivate" : true,
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage174.jpg"
@@ -1314,15 +1330,15 @@
 		}, {
 			"id" : 200043,
 			"name" : "התחלה חדשה (G)",
-			"singer" : " בנזין  - 43",
+			"singer" : "בנזין  - 43",
 			"isPrivate" : true,
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage43.jpg"
 			}
 		}, {
 			"id" : 2000116,
-			"name" : "התחלה חדשה (סולם G)",
-			"singer" : " בנזין - 116",
+			"name" : "התחלה חדשה (G)",
+			"singer" : "בנזין - 116",
 			"isPrivate" : true,
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage116.jpg"
@@ -1337,7 +1353,7 @@
 		}, {
 			"id" : 200044,
 			"name" : "התחנה הישנה",
-			"singer" : " טיפקס - 44",
+			"singer" : "טיפקס - 44",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage44.jpg"
 			}
@@ -1358,7 +1374,7 @@
 		}, {
 			"id" : 200045,
 			"name" : "והפעם שיר אהבה",
-			"singer" : " טיפקס - 45",
+			"singer" : "טיפקס - 45",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage45.jpg"
 			}
@@ -1378,8 +1394,8 @@
 			}
 		}, {
 			"id" : 2000117,
-			"name" : "זה הכל בשבילך (סולם A)",
-			"singer" : " דני סנדרסון - 117",
+			"name" : "זה הכל בשבילך (A)",
+			"singer" : "דני סנדרסון - 117",
 			"isPrivate" : true,
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage117.jpg"
@@ -1415,7 +1431,7 @@
 		}, {
 			"id" : 200046,
 			"name" : "זמר שלוש התשובות",
-			"singer" : " רבקה זוהר - 46",
+			"singer" : "רבקה זוהר - 46",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage46.jpg"
 			}
@@ -1429,7 +1445,7 @@
 		}, {
 			"id" : 200047,
 			"name" : "חולם בספרדית",
-			"singer" : " שלמה יידוב - 47",
+			"singer" : "שלמה יידוב - 47",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage47.jpg"
 			}
@@ -1499,7 +1515,7 @@
 		}, {
 			"id" : 200048,
 			"name" : "חסקה",
-			"singer" : " להקת חיל הים - 48",
+			"singer" : "להקת חיל הים - 48",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage48.jpg"
 			}
@@ -1540,8 +1556,8 @@
 			}
 		}, {
 			"id" : 2000118,
-			"name" : "טלפני טלפני (סולם D)",
-			"singer" : " שלמה ארצי - 118",
+			"name" : "טלפני טלפני (D)",
+			"singer" : "שלמה ארצי - 118",
 			"isPrivate" : true,
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage118.jpg"
@@ -1549,7 +1565,7 @@
 		}, {
 			"id" : 2000138,
 			"name" : "יו יה",
-			"singer" : " כוורת - 138",
+			"singer" : "כוורת - 138",
 			"isPrivate" : true,
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage138.jpg"
@@ -1557,14 +1573,14 @@
 		}, {
 			"id" : 200049,
 			"name" : "יום יבוא",
-			"singer" : " אל תקרא לי שחור - 49",
+			"singer" : "אל תקרא לי שחור - 49",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage49.jpg"
 			}
 		}, {
 			"id" : 200050,
-			"name" : "יום יבוא (סולם F מז'ור)",
-			"singer" : " אל תקרא לי שחור  - 50",
+			"name" : "יום יבוא (F)",
+			"singer" : "אל תקרא לי שחור - 50",
 			"isPrivate" : true,
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage50.jpg"
@@ -1572,7 +1588,7 @@
 		}, {
 			"id" : 200051,
 			"name" : "יום שישי",
-			"singer" : " בנזין - 51",
+			"singer" : "בנזין - 51",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage51.jpg"
 			}
@@ -1586,7 +1602,7 @@
 		}, {
 			"id" : 200052,
 			"name" : "יומן מסע",
-			"singer" : " אביב גפן ואריק איינשטיין - 52",
+			"singer" : "אביב גפן ואריק איינשטיין - 52",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage52.jpg",
 				"imageVersion" : 1
@@ -1636,7 +1652,7 @@
 		}, {
 			"id" : 200053,
 			"name" : "יחזקאל",
-			"singer" : " החלונות הגבוהים - 53",
+			"singer" : "החלונות הגבוהים - 53",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage53.jpg"
 			}
@@ -1663,8 +1679,8 @@
 			}
 		}, {
 			"id" : 200055,
-			"name" : "ילד של אבא (סולם Em)",
-			"singer" : " מוקי  - 55",
+			"name" : "ילד של אבא (Em)",
+			"singer" : "מוקי  - 55",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage55.jpg"
 			}
@@ -1684,8 +1700,8 @@
 			}
 		}, {
 			"id" : 200164,
-			"name" : "ילדי הירח (סולם D)",
-			"singer" : " שלמה יידוב - 164",
+			"name" : "ילדי הירח (D)",
+			"singer" : "שלמה יידוב - 164",
 			"isPrivate" : true,
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage164.jpg"
@@ -1728,7 +1744,7 @@
 		}, {
 			"id" : 200056,
 			"name" : "ימים של קולנוע",
-			"singer" : " הטוב הרע והנערה - 56",
+			"singer" : "הטוב הרע והנערה - 56",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage56.jpg"
 			}
@@ -1742,7 +1758,7 @@
 		}, {
 			"id" : 2000128,
 			"name" : "יסמין",
-			"singer" : " הפיל הכחול - 128",
+			"singer" : "הפיל הכחול - 128",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage128.jpg"
 			}
@@ -1762,15 +1778,15 @@
 			}
 		}, {
 			"id" : 2000137,
-			"name" : "יש אי שם (סולם A)",
-			"singer" : " גידי גוב - 137",
+			"name" : "יש אי שם (A)",
+			"singer" : "גידי גוב - 137",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage137.jpg"
 			}
 		}, {
 			"id" : 2000136,
-			"name" : "יש אי שם (סולם C)",
-			"singer" : " גידי גוב - 136",
+			"name" : "יש אי שם (C)",
+			"singer" : "גידי גוב - 136",
 			"isPrivate" : true,
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage136.jpg"
@@ -1778,7 +1794,7 @@
 		}, {
 			"id" : 200163,
 			"name" : "יש בי אהבה",
-			"singer" : " אריק איינשטיין - 163",
+			"singer" : "אריק איינשטיין - 163",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage163.jpg"
 			}
@@ -1806,7 +1822,7 @@
 		}, {
 			"id" : 200057,
 			"name" : "יש לי סימפטיה",
-			"singer" : " שלמה גרוניך - 57",
+			"singer" : "שלמה גרוניך - 57",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage57.jpg"
 			}
@@ -1868,7 +1884,7 @@
 			}
 		}, {
 			"id" : 1000288,
-			"name" : "ככלות הקול והתמונה (סולם A)",
+			"name" : "ככלות הקול והתמונה (A)",
 			"singer" : "דני בסן - 288",
 			"isPrivate" : true,
 			"lyrics" : {
@@ -1884,14 +1900,14 @@
 		}, {
 			"id" : 200058,
 			"name" : "כל מה שרצית",
-			"singer" : " הדורבנים - 58",
+			"singer" : "הדורבנים - 58",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage58.jpg"
 			}
 		}, {
 			"id" : 200183,
 			"name" : "כמה אהבה",
-			"singer" : " מאיר בנאי - 183",
+			"singer" : "מאיר בנאי - 183",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage183.jpg"
 			}
@@ -1919,7 +1935,7 @@
 		}, {
 			"id" : 200059,
 			"name" : "כמעט סתיו",
-			"singer" : " גידי גוב - 59",
+			"singer" : "גידי גוב - 59",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage59.jpg"
 			}
@@ -1947,7 +1963,7 @@
 		}, {
 			"id" : 200060,
 			"name" : "כתם הפרי",
-			"singer" : " אתניקס - 60",
+			"singer" : "אתניקס - 60",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage60.jpg"
 			}
@@ -1961,29 +1977,29 @@
 		}, {
 			"id" : 200061,
 			"name" : "לא יכול להוריד ממך את העיניים",
-			"singer" : " מאיר אריאל - 61",
+			"singer" : "מאיר אריאל - 61",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage61.jpg"
 			}
 		}, {
 			"id" : 200172,
-			"name" : "לא נרדמת תל-אביב (סולם Bm)",
-			"singer" : " דני רובס - 172",
+			"name" : "לא נרדמת תל-אביב (Bm)",
+			"singer" : "דני רובס - 172",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage172.jpg"
 			}
 		}, {
 			"id" : 200171,
-			"name" : "לא נרדמת תל-אביב (סולם Dm)",
-			"singer" : " דני רובס - 171",
+			"name" : "לא נרדמת תל-אביב (Dm)",
+			"singer" : "דני רובס - 171",
 			"isPrivate" : true,
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage171.jpg"
 			}
 		}, {
 			"id" : 200159,
-			"name" : "לא נרדמת תל-אביב (סולם Gm)",
-			"singer" : " דני רובס - 159",
+			"name" : "לא נרדמת תל-אביב (Gm)",
+			"singer" : "דני רובס - 159",
 			"isPrivate" : true,
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage159.jpg"
@@ -2005,7 +2021,7 @@
 		}, {
 			"id" : 200177,
 			"name" : "לאן שלא תלכי",
-			"singer" : " שירי מימון - 177",
+			"singer" : "שירי מימון - 177",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage177.jpg"
 			}
@@ -2019,7 +2035,7 @@
 		}, {
 			"id" : 200062,
 			"name" : "לגור איתו",
-			"singer" : " ריקי גל - 62",
+			"singer" : "ריקי גל - 62",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage62.jpg"
 			}
@@ -2032,16 +2048,16 @@
 			}
 		}, {
 			"id" : 2000129,
-			"name" : "להשתטות לפעמים (סולם Dm)",
-			"singer" : " גבי שושן - 129",
+			"name" : "להשתטות לפעמים (Dm)",
+			"singer" : "גבי שושן - 129",
 			"isPrivate" : true,
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage129.jpg"
 			}
 		}, {
 			"id" : 200063,
-			"name" : "להשתטות לפעמים (סולם Em)",
-			"singer" : " גבי שושן  - 63",
+			"name" : "להשתטות לפעמים (Em)",
+			"singer" : "גבי שושן  - 63",
 			"isPrivate" : true,
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage63.jpg"
@@ -2049,14 +2065,14 @@
 		}, {
 			"id" : 200162,
 			"name" : "להתראות נעורים שלום אהבה",
-			"singer" : " משינה - 162",
+			"singer" : "משינה - 162",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage162.jpg"
 			}
 		}, {
 			"id" : 200064,
 			"name" : "לו הייתי פיראט",
-			"singer" : " השלושרים - 64",
+			"singer" : "השלושרים - 64",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage64.jpg"
 			}
@@ -2075,6 +2091,14 @@
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page178.jpg"
 			}
 		}, {
+			"id" : 2000210,
+			"name" : "ליל חניה (F)",
+			"singer" : "חנן יובל, ירדנה ארזי, אפרים שמיר - 210",
+			"isPrivate" : true,
+			"lyrics" : {
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/apage210.jpg"
+			}
+		}, {
 			"id" : 1000217,
 			"name" : "לילה",
 			"singer" : "שלום חנוך - 217",
@@ -2084,7 +2108,7 @@
 		}, {
 			"id" : 200065,
 			"name" : "לילה בחוף אכזיב",
-			"singer" : " שלישיית גשר הירקון - 65",
+			"singer" : "שלישיית גשר הירקון - 65",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage65.jpg"
 			}
@@ -2105,7 +2129,7 @@
 		}, {
 			"id" : 200066,
 			"name" : "לך איתה",
-			"singer" : " אילנה רובינא, נוער שוליים - 66",
+			"singer" : "אילנה רובינא, נוער שוליים - 66",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage66.jpg"
 			}
@@ -2118,7 +2142,7 @@
 			}
 		}, {
 			"id" : 100012,
-			"name" : "למה לי פוליטיקה עכשיו (סולם Am)",
+			"name" : "למה לי פוליטיקה עכשיו (Am)",
 			"singer" : "משינה - 12",
 			"playback": {
 				"youTubeVideoId" : "LnHYjsVVNYs"
@@ -2128,7 +2152,7 @@
 			}
 		}, {
 			"id" : 1000140,
-			"name" : "למה לי פוליטיקה עכשיו (סולם Gm)",
+			"name" : "למה לי פוליטיקה עכשיו (Gm)",
 			"singer" : "משינה - 140",
 			"isPrivate" : true,
 			"lyrics" : {
@@ -2137,7 +2161,7 @@
 		}, {
 			"id" : 200067,
 			"name" : "למה ליבך כמו קרח",
-			"singer" : " גידי גוב - 67",
+			"singer" : "גידי גוב - 67",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage67.jpg"
 			}
@@ -2172,7 +2196,7 @@
 		}, {
 			"id" : 200068,
 			"name" : "לשם",
-			"singer" : " מירי מסיקה - 68",
+			"singer" : "מירי מסיקה - 68",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage68.jpg"
 			}
@@ -2196,7 +2220,7 @@
 			}
 		}, {
 			"id" : 100025,
-			"name" : " מדברים על שלום",
+			"name" : "מדברים על שלום",
 			"singer" : "מוקי - 25",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page25.jpg"
@@ -2253,14 +2277,14 @@
 		}, {
 			"id" : 200069,
 			"name" : "מחכה",
-			"singer" : " ריטה - 69",
+			"singer" : "ריטה - 69",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage69.jpg"
 			}
 		}, {
 			"id" : 200175,
-			"name" : "מחכה (סולם Gm)",
-			"singer" : " ריטה - 175",
+			"name" : "מחכה (Gm)",
+			"singer" : "ריטה - 175",
 			"isPrivate" : true,
 			"alternativePublicId" : 200069,
 			"lyrics" : {
@@ -2331,9 +2355,17 @@
 		}, {
 			"id" : 200070,
 			"name" : "מכתב לאחי",
-			"singer" : " קובי אפללו - 70",
+			"singer" : "קובי אפללו - 70",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage70.jpg"
+			}
+		}, {
+			"id" : 2000209,
+			"name" : "מכתב לאחי (Am)",
+			"singer" : "קובי אפללו - 209",
+			"isPrivate" : true,
+			"lyrics" : {
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage209.jpg"
 			}
 		}, {
 			"id" : 1000284,
@@ -2345,7 +2377,7 @@
 		}, {
 			"id" : 200071,
 			"name" : "מכתב קטן",
-			"singer" : " דני רובס ואופירה יוספי - 71",
+			"singer" : "דני רובס ואופירה יוספי - 71",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage71.jpg"
 			}
@@ -2359,7 +2391,7 @@
 		}, {
 			"id" : 200072,
 			"name" : "מלנכוליה אהובתי",
-			"singer" : " חמי רודנר - 72",
+			"singer" : "חמי רודנר - 72",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage72.jpg"
 			}
@@ -2373,14 +2405,14 @@
 		}, {
 			"id" : 2000142,
 			"name" : "מסמרים ונוצות",
-			"singer" : " מיכה שטרית - 142",
+			"singer" : "מיכה שטרית - 142",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage142.jpg"
 			}
 		}, {
 			"id" : 2000141,
 			"name" : "מסע ומתן",
-			"singer" : " מוש בן ארי - 141",
+			"singer" : "מוש בן ארי - 141",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage141.jpg"
 			}
@@ -2401,7 +2433,7 @@
 		}, {
 			"id" : 200186,
 			"name" : "מעליות",
-			"singer" : " דודו טסה ורוני אלטר - 186",
+			"singer" : "דודו טסה ורוני אלטר - 186",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage186.jpg"
 			}
@@ -2422,7 +2454,7 @@
 		}, {
 			"id" : 200185,
 			"name" : "משהו ממני",
-			"singer" : " הראל סקעת - 185",
+			"singer" : "הראל סקעת - 185",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage185.jpg"
 			}
@@ -2443,21 +2475,21 @@
 		}, {
 			"id" : 200169,
 			"name" : "מתוק התפוח",
-			"singer" : " הפרברים - 169",
+			"singer" : "הפרברים - 169",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage169.jpg"
 			}
 		}, {
 			"id" : 2000146,
 			"name" : "מתוק כשמר לי",
-			"singer" : " אליעד נחום - 146",
+			"singer" : "אליעד נחום - 146",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage146.jpg"
 			}
 		}, {
 			"id" : 2000147,
-			"name" : "מתוק כשמר לי (סולם Am)",
-			"singer" : " אליעד נחום - 147",
+			"name" : "מתוק כשמר לי (Am)",
+			"singer" : "אליעד נחום - 147",
 			"isPrivate" : true,
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage147.jpg"
@@ -2465,7 +2497,7 @@
 		}, {
 			"id" : 1000279,
 			"name" : "מתנות קטנות",
-			"singer" : "רמי קליינשטיין - 279",
+			"singer" : "רמי קלינשטיין - 279",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page279.jpg",
 				"imageVersion" : 1
@@ -2473,14 +2505,14 @@
 		}, {
 			"id" : 200178,
 			"name" : "נבראתי לך",
-			"singer" : " שלמה ארצי - 178",
+			"singer" : "שלמה ארצי - 178",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage178.jpg"
 			}
 		}, {
 			"id" : 200073,
 			"name" : "נגיעה אחת רכה",
-			"singer" : " גידי גוב - 73",
+			"singer" : "גידי גוב - 73",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage73.jpg"
 			}
@@ -2493,23 +2525,23 @@
 			}
 		}, {
 			"id" : 200074,
-			"name" : "נוסעת בעקבות האהבה (סולם Cm)",
-			"singer" : " ורדינה כהן  - 74",
+			"name" : "נוסעת בעקבות האהבה (Cm)",
+			"singer" : "ורדינה כהן  - 74",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage74.jpg"
 			}
 		}, {
 			"id" : 200158,
-			"name" : "נוסעת בעקבות האהבה (סולם Dm)",
-			"singer" : " ורדינה כהן  - 158",
+			"name" : "נוסעת בעקבות האהבה (Dm)",
+			"singer" : "ורדינה כהן  - 158",
 			"isPrivate" : true,
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage158.jpg"
 			}
 		}, {
 			"id" : 200075,
-			"name" : "נוסעת בעקבות האהבה (סולם Em)",
-			"singer" : " דני רובס  - 75",
+			"name" : "נוסעת בעקבות האהבה (Em)",
+			"singer" : "דני רובס  - 75",
 			"isPrivate" : true,
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage75.jpg"
@@ -2524,7 +2556,7 @@
 		}, {
 			"id" : 200076,
 			"name" : "נילס הולגרסון",
-			"singer" : " יגאל בשן - 76",
+			"singer" : "יגאל בשן - 76",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage76.jpg"
 			}
@@ -2544,7 +2576,7 @@
 			}
 		}, {
 			"id" : 1000291,
-			"name" : "נערת רוק (סולם G)",
+			"name" : "נערת רוק (G)",
 			"singer" : "ריקי גל - 291",
 			"isPrivate" : true,
 			"alternativePublicId" : 1000289,
@@ -2567,16 +2599,16 @@
 			}
 		}, {
 			"id" : 2000120,
-			"name" : "נר על החלון (סולם Am)",
-			"singer" : " סטלה מאריס - 120",
+			"name" : "נר על החלון (Am)",
+			"singer" : "סטלה מאריס - 120",
 			"isPrivate" : true,
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage120.jpg"
 			}
 		}, {
 			"id" : 2000119,
-			"name" : "נר על החלון (סולם Bm)",
-			"singer" : " סטלה מאריס - 119",
+			"name" : "נר על החלון (Bm)",
+			"singer" : "סטלה מאריס - 119",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage119.jpg"
 			}
@@ -2611,7 +2643,7 @@
 		}, {
 			"id" : 200077,
 			"name" : "סוף העולם",
-			"singer" : " אביב גפן - 77",
+			"singer" : "אביב גפן - 77",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage77.jpg"
 			}
@@ -2702,44 +2734,36 @@
 		}, {
 			"id" : 200078,
 			"name" : "עדיין מחכה לך",
-			"singer" : " גידי גוב - 78",
+			"singer" : "גידי גוב - 78",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage78.jpg"
 			}
 		}, {
 			"id" : 2000130,
 			"name" : "עדיין ריק",
-			"singer" : " לירן דנינו - 130",
+			"singer" : "לירן דנינו - 130",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage130.jpg"
 			}
 		}, {
 			"id" : 200079,
 			"name" : "עוד נפגש",
-			"singer" : " אריק איינשטיין - 79",
+			"singer" : "אריק איינשטיין - 79",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage79.jpg"
 			}
 		}, {
 			"id" : 2000121,
-			"name" : "עוד נפגש (סולם Em)",
-			"singer" : " אריק איינשטיין - 121",
+			"name" : "עוד נפגש (Em)",
+			"singer" : "אריק איינשטיין - 121",
 			"isPrivate" : true,
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage121.jpg"
 			}
 		}, {
-			"id" : 200168,
-			"name" : "עוד נפגש (סולם Em)",
-			"singer" : " אריק איינשטיין - 168",
-			"isPrivate" : true,
-			"lyrics" : {
-				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage168.jpg"
-			}
-		}, {
 			"id" : 200080,
-			"name" : "עוד סיפור אחד של אהבה (סולם D)",
-			"singer" : " שימי תבורי  - 80",
+			"name" : "עוד סיפור אחד של אהבה (D)",
+			"singer" : "שימי תבורי  - 80",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage80.jpg"
 			}
@@ -2753,14 +2777,14 @@
 		}, {
 			"id" : 200167,
 			"name" : "עוף גוזל",
-			"singer" : " אריק איינשטיין - 167",
+			"singer" : "אריק איינשטיין - 167",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage167.jpg"
 			}
 		}, {
 			"id" : 200081,
 			"name" : "עטור מצחך",
-			"singer" : " אריק איינשטיין - 81",
+			"singer" : "אריק איינשטיין - 81",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage81.jpg"
 			}
@@ -2774,7 +2798,7 @@
 		}, {
 			"id" : 200082,
 			"name" : "עכשיו אתה חוזר בחזרה",
-			"singer" : " מירי מסיקה - 82",
+			"singer" : "מירי מסיקה - 82",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage82.jpg"
 			}
@@ -2787,7 +2811,7 @@
 			}
 		}, {
 			"id" : 1000106,
-			"name" : " עכשיו טוב",
+			"name" : "עכשיו טוב",
 			"singer" : "גלעד שגב - 106",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page106.jpg"
@@ -2795,14 +2819,14 @@
 		}, {
 			"id" : 200083,
 			"name" : "על קו הזינוק",
-			"singer" : " החברים של נטאשה - 83",
+			"singer" : "החברים של נטאשה - 83",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage83.jpg"
 			}
 		}, {
 			"id" : 200084,
 			"name" : "ענוג",
-			"singer" : " נוער שוליים - 84",
+			"singer" : "נוער שוליים - 84",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage84.jpg"
 			}
@@ -2823,21 +2847,21 @@
 		}, {
 			"id" : 200184,
 			"name" : "ערב בלי טלפון",
-			"singer" : " יזהר אשדות - 184",
+			"singer" : "יזהר אשדות - 184",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage184.jpg"
 			}
 		}, {
 			"id" : 1000186,
-			"name" : "ערב מול הגלע",
-			"singer" : "ריק סיני - 186",
+			"name" : "ערב מול הגלעד",
+			"singer" : "אריק סיני - 186",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page186.jpg"
 			}
 		}, {
 			"id" : 200085,
 			"name" : "ערב עירוני",
-			"singer" : " יוסי בנאי - 85",
+			"singer" : "יוסי בנאי - 85",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage85.jpg"
 			}
@@ -2865,21 +2889,21 @@
 		}, {
 			"id" : 200086,
 			"name" : "פחות אבל כואב",
-			"singer" : " יהודה פוליקר - 86",
+			"singer" : "יהודה פוליקר - 86",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage86.jpg"
 			}
 		}, {
 			"id" : 100026,
-			"name" : "פנים אל מול פנים",
+			"name" : "פנים אל מול פנים (G)",
 			"singer" : "יהודה פוליקר - 26",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page26.jpg"
 			}
 		}, {
 			"id" : 2000131,
-			"name" : "פנים אל מול פנים (סולם C)",
-			"singer" : " יהודה פוליקר - 131",
+			"name" : "פנים אל מול פנים (C)",
+			"singer" : "יהודה פוליקר - 131",
 			"isPrivate" : true,
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage131.jpg"
@@ -2929,14 +2953,14 @@
 		}, {
 			"id" : 2000145,
 			"name" : "פרצופה של המדינה",
-			"singer" : " תיסלם - 145",
+			"singer" : "תיסלם - 145",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage145.jpg"
 			}
 		}, {
 			"id" : 200087,
 			"name" : "פתאום כשלא באת",
-			"singer" : " שלמה ארצי - 87",
+			"singer" : "שלמה ארצי - 87",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage87.jpg"
 			}
@@ -2949,15 +2973,15 @@
 			}
 		}, {
 			"id" : 200088,
-			"name" : "צוותא (סולם Em)",
-			"singer" : " שלמה ארצי  - 88",
+			"name" : "צוותא (Em)",
+			"singer" : "שלמה ארצי  - 88",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage88.jpg"
 			}
 		}, {
 			"id" : 200089,
 			"name" : "צילו של יום קיץ",
-			"singer" : " יזהר אשדות - 89",
+			"singer" : "יזהר אשדות - 89",
 			"playback": {
 				"youTubeVideoId" : "QwTjAfmhmo4"
 			},
@@ -2973,15 +2997,15 @@
 			}
 		}, {
 			"id" : 200090,
-			"name" : "ציפור מדבר (סולם Dm)",
-			"singer" : " אתניקס  - 90",
+			"name" : "ציפור מדבר (Dm)",
+			"singer" : "אתניקס  - 90",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage90.jpg"
 			}
 		}, {
 			"id" : 200091,
 			"name" : "צליל מיתר",
-			"singer" : " אייל גולן - 91",
+			"singer" : "אייל גולן - 91",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage91.jpg"
 			}
@@ -2995,7 +3019,7 @@
 		}, {
 			"id" : 200092,
 			"name" : "צרות טובות",
-			"singer" : " השלושרים - 92",
+			"singer" : "השלושרים - 92",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage92.jpg"
 			}
@@ -3016,7 +3040,7 @@
 		}, {
 			"id" : 2000122,
 			"name" : "קילפתי תפוז",
-			"singer" : " אריק איינשטיין - 122",
+			"singer" : "אריק איינשטיין - 122",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage122.jpg"
 			}
@@ -3030,7 +3054,7 @@
 		}, {
 			"id" : 2000123,
 			"name" : "קרוב אל ליבך",
-			"singer" : " רמי קליינשטיין - 123",
+			"singer" : "רמי קליינשטיין - 123",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage123.jpg"
 			}
@@ -3073,21 +3097,21 @@
 		}, {
 			"id" : 1000162,
 			"name" : "רוח סתיו",
-			"singer" : "גרי אקשטיי - 162",
+			"singer" : "גרי אקשטיין - 162",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page162.jpg"
 			}
 		}, {
 			"id" : 200093,
-			"name" : "רומיאו (סולם Am)",
-			"singer" : " יהודית תמיר  - 93",
+			"name" : "רומיאו (Am)",
+			"singer" : "יהודית תמיר  - 93",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage93.jpg"
 			}
 		}, {
 			"id" : 200094,
-			"name" : "רומיאו (סולם Dm)",
-			"singer" : " יהודית תמיר  - 94",
+			"name" : "רומיאו (Dm)",
+			"singer" : "יהודית תמיר  - 94",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage94.jpg"
 			}
@@ -3115,15 +3139,15 @@
 		}, {
 			"id" : 2000148,
 			"name" : "רכב חברה",
-			"singer" : " אפליקציה - 148",
+			"singer" : "אפליקציה - 148",
 			"isPrivate" : true,
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage148.jpg"
 			}
 		}, {
 			"id" : 2000124,
-			"name" : "רכבות 68 80 88 (סולם G)",
-			"singer" : " דני רובס - 124",
+			"name" : "רכבות 68 80 88 (G)",
+			"singer" : "דני רובס - 124",
 			"isPrivate" : true,
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage124.jpg"
@@ -3161,7 +3185,7 @@
 		}, {
 			"id" : 1000188,
 			"name" : "רק אתמול",
-			"singer" : " גלי עטרי - 188",
+			"singer" : "גלי עטרי - 188",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page188.jpg"
 			}
@@ -3189,7 +3213,7 @@
 		}, {
 			"id" : 200095,
 			"name" : "שוב",
-			"singer" : " חוה אלברשטיין ואריק סיני - 95",
+			"singer" : "חוה אלברשטיין ואריק סיני - 95",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage95.jpg"
 			}
@@ -3216,8 +3240,8 @@
 			}
 		}, {
 			"id" : 2000125,
-			"name" : "שובי לביתך (סולם Dm)",
-			"singer" : " שם טוב לוי - 125",
+			"name" : "שובי לביתך (Dm)",
+			"singer" : "שם טוב לוי - 125",
 			"isPrivate" : true,
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage125.jpg"
@@ -3232,13 +3256,13 @@
 		}, {
 			"id" : 200096,
 			"name" : "שי",
-			"singer" : " הדודאים והפרברים - 96",
+			"singer" : "הדודאים והפרברים - 96",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage96.jpg"
 			}
 		}, {
 			"id" : 1000183,
-			"name" : "שיעור מולד",
+			"name" : "שיעור מולדת",
 			"singer" : "כוורת - 183",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page183.jpg"
@@ -3274,7 +3298,7 @@
 		}, {
 			"id" : 200097,
 			"name" : "שיר הלהקה",
-			"singer" : " להקת הנחל - 97",
+			"singer" : "להקת הנחל - 97",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage97.jpg"
 			}
@@ -3287,15 +3311,15 @@
 			}
 		}, {
 			"id" : 200098,
-			"name" : "שיר ישן (סולם Am)",
-			"singer" : " אתניקס  - 98",
+			"name" : "שיר ישן (Am)",
+			"singer" : "אתניקס  - 98",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage98.jpg"
 			}
 		}, {
 			"id" : 200099,
-			"name" : "שיר ישן (סולם Em)",
-			"singer" : " אתניקס  - 99",
+			"name" : "שיר ישן (Em)",
+			"singer" : "אתניקס  - 99",
 			"isPrivate" : true,
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage99.jpg"
@@ -3303,14 +3327,14 @@
 		}, {
 			"id" : 2000100,
 			"name" : "שיר נבואי קוסמי עליז",
-			"singer" : " יוני רכטר - 100",
+			"singer" : "יוני רכטר - 100",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage100.jpg"
 			}
 		}, {
 			"id" : 2000101,
 			"name" : "שיר סתיו",
-			"singer" : " אריק לביא - 101",
+			"singer" : "אריק לביא - 101",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage101.jpg"
 			}
@@ -3324,14 +3348,14 @@
 		}, {
 			"id" : 2000103,
 			"name" : "שיר של יום חולין",
-			"singer" : " מאור כהן - 103",
+			"singer" : "מאור כהן - 103",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage103.jpg"
 			}
 		}, {
 			"id" : 2000102,
-			"name" : "שיר של יום חולין (סולם Am)",
-			"singer" : " מאור כהן  - 102",
+			"name" : "שיר של יום חולין (Am)",
+			"singer" : "מאור כהן - 102",
 			"isPrivate" : true,
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage102.jpg"
@@ -3339,7 +3363,7 @@
 		}, {
 			"id" : 100021,
 			"name" : "שיר תשרי",
-			"singer" : "חווה אלברשטיין - 21",
+			"singer" : "חווה אלברשטיין - 1",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page21.jpg"
 			}
@@ -3353,29 +3377,29 @@
 		}, {
 			"id" : 2000104,
 			"name" : "שירות עצמי",
-			"singer" : " כוורת - 104",
+			"singer" : "כוורת - 104",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage104.jpg"
 			}
 		}, {
 			"id" : 2000106,
 			"name" : "שירים פשוטים",
-			"singer" : " שלמה גרוניך - 106",
+			"singer" : "שלמה גרוניך - 106",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage106.jpg"
 			}
 		}, {
 			"id" : 2000105,
-			"name" : "שירים פשוטים (סולם A)",
-			"singer" : " שלמה גרוניך  - 105",
+			"name" : "שירים פשוטים (A)",
+			"singer" : "שלמה גרוניך - 105",
 			"isPrivate" : true,
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage105.jpg"
 			}
 		}, {
 			"id" : 2000126,
-			"name" : "שירים פשוטים (סולם C)",
-			"singer" : " שלמה גרוניך - 126",
+			"name" : "שירים פשוטים (C)",
+			"singer" : "שלמה גרוניך - 126",
 			"isPrivate" : true,
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage126.jpg"
@@ -3389,24 +3413,24 @@
 			}
 		}, {
 			"id" : 2000107,
-			"name" : "שלל שרב",
-			"singer" : " גידי גוב - 107",
+			"name" : "שלל שרב (Bm)",
+			"singer" : "גידי גוב - 107",
+			"isPrivate" : true,
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage107.jpg"
 			}
 		}, {
 			"id" : 2000135,
-			"name" : "שלל שרב (סולם Am)",
-			"singer" : " גידי גוב - 135",
+			"name" : "שלל שרב (Am)",
+			"singer" : "גידי גוב - 135",
 			"isPrivate" : true,
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage135.jpg"
 			}
 		}, {
 			"id" : 2000134,
-			"name" : "שלל שרב (סולם Em)",
-			"singer" : " גידי גוב - 134",
-			"isPrivate" : true,
+			"name" : "שלל שרב (Em)",
+			"singer" : "גידי גוב - 134",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage134.jpg"
 			}
@@ -3426,15 +3450,15 @@
 			}
 		}, {
 			"id" : 2000132,
-			"name" : "שש עשרה מלאו לנער (סולם Am)",
-			"singer" : " גבי שושן - 132",
+			"name" : "שש עשרה מלאו לנער (Am)",
+			"singer" : "גבי שושן - 132",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage132.jpg"
 			}
 		}, {
 			"id" : 2000133,
-			"name" : "שש עשרה מלאו לנער (סולם Em)",
-			"singer" : " גבי שושן - 133",
+			"name" : "שש עשרה מלאו לנער (Em)",
+			"singer" : "גבי שושן - 133",
 			"isPrivate" : true,
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage133.jpg"
@@ -3449,7 +3473,7 @@
 		}, {
 			"id" : 2000108,
 			"name" : "תגידי שטוב",
-			"singer" : " כנסיית השכל - 108",
+			"singer" : "כנסיית השכל - 108",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage108.jpg"
 			}
@@ -3473,7 +3497,7 @@
 		}, {
 			"id" : 2000127,
 			"name" : "תחת שמי ים התיכון",
-			"singer" : " שלמה ארצי - 127",
+			"singer" : "שלמה ארצי - 127",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage127.jpg"
 			}
@@ -3493,7 +3517,7 @@
 			}
 		}, {
 			"id" : 1000287,
-			"name" : "תמיד יחכו לך (סולם A)",
+			"name" : "תמיד יחכו לך (A)",
 			"singer" : "לאה שבת - 287",
 			"isPrivate" : true,
 			"lyrics" : {
@@ -3509,7 +3533,7 @@
 		}, {
 			"id" : 1000161,
 			"name" : "תנו לגדול בשקט",
-			"singer" : " גידי גוב - 161",
+			"singer" : "גידי גוב - 161",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page161.jpg"
 			}
@@ -3539,8 +3563,8 @@
 			}
 		}, {
 			"id" : 200161,
-			"name" : "תשע בכיכר (סולם C)",
-			"singer" : " גזוז - 161",
+			"name" : "תשע בכיכר (C)",
+			"singer" : "גזוז - 161",
 			"isPrivate" : true,
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage161.jpg"
@@ -3548,14 +3572,14 @@
 		}, {
 			"id" : 200187,
 			"name" : "בוא",
-			"singer" : " ריטה - 187",
+			"singer" : "ריטה - 187",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage187.jpg"
 			}
 		}, {
 			"id" : 200188,
-			"name" : "בוא (סולם E)",
-			"singer" : " ריטה - 188",
+			"name" : "בוא (E)",
+			"singer" : "ריטה - 188",
 			"isPrivate" : true,
 			"alternativePublicId" : 200187,
 			"lyrics" : {
@@ -3564,21 +3588,21 @@
 		}, {
 			"id" : 200189,
 			"name" : "זכיתי לאהוב",
-			"singer" : " עברי לידר - 189",
+			"singer" : "עברי לידר - 189",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage189.jpg"
 			}
 		}, {
 			"id" : 200190,
 			"name" : "נואבה",
-			"singer" : " שלמה גרוניך - 190",
+			"singer" : "שלמה גרוניך - 190",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage190.jpg"
 			}
 		}, {
 			"id" : 200191,
 			"name" : "מבול",
-			"singer" : " קרן פלס - 191",
+			"singer" : "קרן פלס - 191",
 			"isPrivate" : true,
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage191.jpg"
@@ -3586,14 +3610,14 @@
 		}, {
 			"id" : 200192,
 			"name" : "אור גדול",
-			"singer" : " אמיר דדון - 192",
+			"singer" : "אמיר דדון - 192",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage192.jpg"
 			}
 		}, {
 			"id" : 200193,
-			"name" : "אור גדול (סולם D)",
-			"singer" : " אמיר דדון - 193",
+			"name" : "אור גדול (D)",
+			"singer" : "אמיר דדון - 193",
 			"isPrivate" : true,
 			"alternativePublicId" : 200192,
 			"lyrics" : {
@@ -3602,21 +3626,21 @@
 		}, {
 			"id" : 200194,
 			"name" : "איך אפשר שלא",
-			"singer" : " ג'יין בורדו - 194",
+			"singer" : "ג'יין בורדו - 194",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage194.jpg"
 			}
 		}, {
 			"id" : 200195,
 			"name" : "בדידות",
-			"singer" : " הראל סקעת - 195",
+			"singer" : "הראל סקעת - 195",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage195.jpg"
 			}
 		}, {
 			"id" : 200196,
-			"name" : "בדידות (סולם Am)",
-			"singer" : " הראל סקעת - 196",
+			"name" : "בדידות (Am)",
+			"singer" : "הראל סקעת - 196",
 			"isPrivate" : true,
 			"alternativePublicId" : 200195,
 			"lyrics" : {
@@ -3625,20 +3649,20 @@
 		}, {
 			"id" : 200197,
 			"name" : "דואט פרידה",
-			"singer" : " מני בגר וגלי עטרי - 197",
+			"singer" : "מני בגר וגלי עטרי - 197",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage197.jpg"
 			}
 		}, {
 			"id" : 200198,
 			"name" : "גשם",
-			"singer" : " מאיר בנאי - 198",
+			"singer" : "מאיר בנאי - 198",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage198.jpg"
 			}
 		}, {
 			"id" : 300023,
-			"name" : "Across the Universe -",
+			"name" : "Across the Universe",
 			"singer" : "The Beatles - 23",
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
@@ -3647,7 +3671,7 @@
 			}
 		}, {
 			"id" : 300042,
-			"name" : "And I Love Her -",
+			"name" : "And I Love Her",
 			"singer" : "The Beatles - 42",
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
@@ -3656,7 +3680,7 @@
 			}
 		}, {
 			"id" : 30009,
-			"name" : "Angie -",
+			"name" : "Angie",
 			"singer" : "Rolling Stones - 9",
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
@@ -3665,7 +3689,7 @@
 			}
 		}, {
 			"id" : 300054,
-			"name" : "Bird of Paradise -",
+			"name" : "Bird of Paradise",
 			"singer" : "Snowy White - 54",
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
@@ -3674,7 +3698,7 @@
 			}
 		}, {
 			"id" : 300048,
-			"name" : " Born To Be Wild -",
+			"name" : "Born To Be Wild",
 			"singer" : "Steppenwolf - 48",
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
@@ -3683,7 +3707,7 @@
 			}
 		}, {
 			"id" : 300056,
-			"name" : "Bridge Over Troubled Water -",
+			"name" : "Bridge Over Troubled Water",
 			"singer" : "Simon & Garfunkel",
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
@@ -3692,7 +3716,7 @@
 			}
 		}, {
 			"id" : 300071,
-			"name" : "Can't help falling in love -",
+			"name" : "Can't Help Falling in Love",
 			"singer" : "Elvis Presley",
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
@@ -3701,7 +3725,7 @@
 			}
 		}, {
 			"id" : 300044,
-			"name" : "Come Together -",
+			"name" : "Come Together",
 			"singer" : "The Beatles - 44",
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
@@ -3710,7 +3734,7 @@
 			}
 		}, {
 			"id" : 300021,
-			"name" : "Comfortably Numb -",
+			"name" : "Comfortably Numb",
 			"singer" : "Pink Floyd - 21",
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
@@ -3719,7 +3743,7 @@
 			}
 		}, {
 			"id" : 300067,
-			"name" : "Creep -",
+			"name" : "Creep",
 			"singer" : "Radiohead",
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
@@ -3728,7 +3752,7 @@
 			}
 		}, {
 			"id" : 300029,
-			"name" : "Daniel -",
+			"name" : "Daniel",
 			"singer" : "Elton John - 29",
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
@@ -3738,7 +3762,7 @@
 			}
 		}, {
 			"id" : 300047,
-			"name" : "Day Tripper -",
+			"name" : "Day Tripper",
 			"singer" : "The Beatles - 47",
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
@@ -3747,7 +3771,7 @@
 			}
 		}, {
 			"id" : 300072,
-			"name" : "Drops of Jupiter -",
+			"name" : "Drops of Jupiter",
 			"singer" : "Train",
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
@@ -3756,7 +3780,7 @@
 			}
 		}, {
 			"id" : 300073,
-			"name" : "Drops of Jupiter (A) -",
+			"name" : "Drops of Jupiter (A)",
 			"singer" : "Train",
 			"isPrivate" : true,
 			"alternativePublicId" : 300072,
@@ -3766,7 +3790,7 @@
 			}
 		}, {
 			"id" : 300017,
-			"name" : "Dust in the wind -",
+			"name" : "Dust in The Wind",
 			"singer" : "Kansas - 17",
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
@@ -3775,8 +3799,8 @@
 			}
 		}, {
 			"id" : 300050,
-			"name" : "Easy Like Sunday Morning -",
-			"singer" : "Faith No More (+1)  - 50",
+			"name" : "Easy Like Sunday Morning",
+			"singer" : "Faith No More (+1) - 50",
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
@@ -3784,7 +3808,7 @@
 			}
 		}, {
 			"id" : 300024,
-			"name" : "Eternal Flame -",
+			"name" : "Eternal Flame",
 			"singer" : "Bangles - 24",
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
@@ -3793,7 +3817,7 @@
 			}
 		}, {
 			"id" : 300010,
-			"name" : "Everything for free -",
+			"name" : "Everything For Free",
 			"singer" : "K’s Choise - 10",
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
@@ -3802,7 +3826,7 @@
 			}
 		}, {
 			"id" : 300069,
-			"name" : "Eye in the sky -",
+			"name" : "Eye in The Sky",
 			"singer" : "The Alan Parsons Project",
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
@@ -3811,7 +3835,7 @@
 			}
 		}, {
 			"id" : 300030,
-			"name" : "Goodbye Yellow Brick Road -",
+			"name" : "Goodbye Yellow Brick Road",
 			"singer" : "Elton john - 30",
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
@@ -3820,7 +3844,7 @@
 			}
 		}, {
 			"id" : 300066,
-			"name" : "Hallelujah -",
+			"name" : "Hallelujah",
 			"singer" : "Leonard Cohen",
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
@@ -3829,8 +3853,8 @@
 			}
 		}, {
 			"id" : 300011,
-			"name" : "Happy Together -",
-			"singer" : "Turtles (F#m) - 11",
+			"name" : "Happy Together (F#m)",
+			"singer" : "Turtles - 11",
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
@@ -3838,7 +3862,7 @@
 			}
 		}, {
 			"id" : 300019,
-			"name" : "He ain't Heavy, He's my Brother -",
+			"name" : "He ain't Heavy, He's my Brother",
 			"singer" : "The Hollies - 19",
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
@@ -3847,7 +3871,7 @@
 			}
 		}, {
 			"id" : 300016,
-			"name" : "Heaven -",
+			"name" : "Heaven",
 			"singer" : "Bryan Adams - 16",
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
@@ -3856,8 +3880,8 @@
 			}
 		}, {
 			"id" : 30002,
-			"name" : "Help -",
-			"singer" : "Beatles - 2",
+			"name" : "Help",
+			"singer" : "The Beatles - 2",
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
@@ -3865,7 +3889,7 @@
 			}
 		}, {
 			"id" : 300015,
-			"name" : "House Of The Rising Sun  -",
+			"name" : "House Of The Rising Sun",
 			"singer" : "The Animals - 15",
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
@@ -3874,7 +3898,7 @@
 			}
 		}, {
 			"id" : 300043,
-			"name" : "I Saw Her Standing There -",
+			"name" : "I Saw Her Standing There",
 			"singer" : "The Beatles - 43",
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
@@ -3883,7 +3907,7 @@
 			}
 		}, {
 			"id" : 300040,
-			"name" : "I Want to Hold Your Hand -",
+			"name" : "I Want to Hold Your Hand",
 			"singer" : "The Beatles - 40",
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
@@ -3892,7 +3916,7 @@
 			}
 		}, {
 			"id" : 300013,
-			"name" : "In The Ghetto -",
+			"name" : "In The Ghetto",
 			"singer" : "Elvis Presley / Scott Davis - 13",
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
@@ -3901,7 +3925,7 @@
 			}
 		}, {
 			"id" : 300028,
-			"name" : "Ironic -",
+			"name" : "Ironic",
 			"singer" : "Alanis Morissette - 28",
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
@@ -3910,16 +3934,16 @@
 			}
 		}, {
 			"id" : 300057,
-			"name" : "Ironic (G) -",
+			"name" : "Ironic (G)",
 			"singer" : "Alanis Morissette",
-			"isPrivate" : false,
+			"isPrivate" : true,
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/english/page57.jpg"
 			}
 		}, {
 			"id" : 30004,
-			"name" : "Jealous Guy -",
+			"name" : "Jealous Guy",
 			"singer" : "John Lennon - 4",
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
@@ -3928,7 +3952,7 @@
 			}
 		}, {
 			"id" : 300070,
-			"name" : "Karma Police -",
+			"name" : "Karma Police",
 			"singer" : "Radiohead",
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
@@ -3937,7 +3961,7 @@
 			}
 		}, {
 			"id" : 300012,
-			"name" : "Let it Be -",
+			"name" : "Let it Be",
 			"singer" : "The Beatles - 12",
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
@@ -3946,7 +3970,7 @@
 			}
 		}, {
 			"id" : 300065,
-			"name" : "Life on Mars? -",
+			"name" : "Life on Mars",
 			"singer" : "David Bowie",
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
@@ -3955,7 +3979,7 @@
 			}
 		}, {
 			"id" : 300060,
-			"name" : "Lorelei (Am) -",
+			"name" : "Lorelei (Am)",
 			"singer" : "The Scorpions",
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
@@ -3964,25 +3988,25 @@
 			}
 		}, {
 			"id" : 300058,
-			"name" : "Lorelei (Cm) -",
+			"name" : "Lorelei (Cm)",
 			"singer" : "The Scorpions",
-			"isPrivate" : false,
+			"isPrivate" : true,
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/english/page58.jpg"
 			}
 		}, {
 			"id" : 300059,
-			"name" : "Lorelei (Em) -",
+			"name" : "Lorelei (Em)",
 			"singer" : "The Scorpions",
-			"isPrivate" : false,
+			"isPrivate" : true,
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/english/page59.jpg"
 			}
 		}, {
 			"id" : 300034,
-			"name" : "Moonlight Shadow -",
+			"name" : "Moonlight Shadow",
 			"singer" : "Mike oldfield - 34",
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
@@ -3991,7 +4015,7 @@
 			}
 		}, {
 			"id" : 300055,
-			"name" : "More than words -",
+			"name" : "More Than Words",
 			"singer" : "Exterme (1-) - 55",
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
@@ -4000,7 +4024,7 @@
 			}
 		}, {
 			"id" : 30007,
-			"name" : "Nights in White Satin -",
+			"name" : "Nights in White Satin",
 			"singer" : "Moody Blues - 7",
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
@@ -4009,8 +4033,8 @@
 			}
 		}, {
 			"id" : 30008,
-			"name" : "One -",
-			"singer" : "U2   - 8",
+			"name" : "One",
+			"singer" : "U2 - 8",
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
@@ -4018,7 +4042,7 @@
 			}
 		}, {
 			"id" : 300074,
-			"name" : "Patience -",
+			"name" : "Patience",
 			"singer" : "Take That",
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
@@ -4027,7 +4051,7 @@
 			}
 		}, {
 			"id" : 300061,
-			"name" : "Piano Man -",
+			"name" : "Piano Man",
 			"singer" : "Billy Joel",
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
@@ -4036,7 +4060,7 @@
 			}
 		}, {
 			"id" : 300046,
-			"name" : "Proud Mary -",
+			"name" : "Proud Mary",
 			"singer" : "Creedence Clearwater Revival - 46",
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
@@ -4045,7 +4069,7 @@
 			}
 		}, {
 			"id" : 300051,
-			"name" : "Sad Lisa -",
+			"name" : "Sad Lisa",
 			"singer" : "Cat Stevens - 51",
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
@@ -4054,7 +4078,7 @@
 			}
 		}, {
 			"id" : 300062,
-			"name" : "She's Like The Wind -",
+			"name" : "She's Like The Wind",
 			"singer" : "Patrick Swayze",
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
@@ -4063,7 +4087,7 @@
 			}
 		}, {
 			"id" : 300020,
-			"name" : "Sister Golden Hair -",
+			"name" : "Sister Golden Hair",
 			"singer" : "America - 20",
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
@@ -4072,7 +4096,7 @@
 			}
 		}, {
 			"id" : 300039,
-			"name" : "Something -",
+			"name" : "Something",
 			"singer" : "The Beatles - 39",
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
@@ -4081,7 +4105,7 @@
 			}
 		}, {
 			"id" : 30006,
-			"name" : "Space Oddity -",
+			"name" : "Space Oddity",
 			"singer" : "David Bowie - 6",
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
@@ -4090,7 +4114,7 @@
 			}
 		}, {
 			"id" : 300041,
-			"name" : "The Night Before -",
+			"name" : "The Night Before",
 			"singer" : "The Beatles - 41",
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
@@ -4099,7 +4123,7 @@
 			}
 		}, {
 			"id" : 30003,
-			"name" : "Time Of Your Life -",
+			"name" : "Time Of Your Life",
 			"singer" : "Green Day - 3",
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
@@ -4108,8 +4132,8 @@
 			}
 		}, {
 			"id" : 300049,
-			"name" : "Under the Bridge -",
-			"singer" : "Red Hot Chilli Peppers (+2)  - 49",
+			"name" : "Under The Bridge",
+			"singer" : "Red Hot Chilli Peppers (+2) - 49",
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
@@ -4117,7 +4141,7 @@
 			}
 		}, {
 			"id" : 300026,
-			"name" : "What's Up -",
+			"name" : "What's Up",
 			"singer" : "4 Non Blondes - 26",
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
@@ -4126,7 +4150,7 @@
 			}
 		}, {
 			"id" : 300063,
-			"name" : "When I Was Your Man -",
+			"name" : "When I Was Your Man",
 			"singer" : "Bruno Mars",
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
@@ -4135,7 +4159,7 @@
 			}
 		}, {
 			"id" : 300022,
-			"name" : "Wish You Were Here -",
+			"name" : "Wish You Were Here",
 			"singer" : "Pink Floyd - 22",
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
@@ -4144,7 +4168,7 @@
 			}
 		}, {
 			"id" : 300025,
-			"name" : "Wuthering Heights -",
+			"name" : "Wuthering Heights",
 			"singer" : "Kate Bush - 25",
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
@@ -4153,7 +4177,7 @@
 			}
 		}, {
 			"id" : 30001,
-			"name" : "You’ve Got to Hide Your Love Away -",
+			"name" : "You’ve Got to Hide Your Love Away",
 			"singer" : "Beatles - 1",
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
@@ -4162,7 +4186,7 @@
 			}
 		}, {
 			"id" : 300064,
-			"name" : "Your Song -",
+			"name" : "Your Song",
 			"singer" : "Elton John",
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
@@ -4171,7 +4195,7 @@
 			}
 		}, {
 			"id" : 300045,
-			"name" : "Ziggy Stardust -",
+			"name" : "Ziggy Stardust",
 			"singer" : "David Bowie - 45",
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
@@ -4180,7 +4204,7 @@
 			}
 		}, {
 			"id" : 300031,
-			"name" : "Zombie -",
+			"name" : "Zombie",
 			"singer" : "Cranberries - 31",
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
@@ -4189,7 +4213,7 @@
 			}
 		}, {
 			"id" : 300075,
-			"name" : "Sweet child of mine -",
+			"name" : "Sweet Child of Mine",
 			"singer" : "Guns N Roses",
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
@@ -4198,7 +4222,7 @@
 			}
 		}, {
 			"id" : 300076,
-			"name" : "Knocking on heavens door -",
+			"name" : "Knocking on Heaven's Door",
 			"singer" : "Guns N Roses",
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
@@ -4207,8 +4231,8 @@
 			}
 		}, {
 			"id" : 300077,
-			"name" : "Crazy -",
-			"singer" : "Ninet & Red band",
+			"name" : "Crazy",
+			"singer" : "Ninet & Red Band",
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
@@ -4217,8 +4241,8 @@
 			}
 		}, {
 			"id" : 300078,
-			"name" : "Crazy (Em) -",
-			"singer" : "Ninet & Red band",
+			"name" : "Crazy (Em)",
+			"singer" : "Ninet & Red Band",
 			"isPrivate" : false,
 			"playback": {
 				"youTubeVideoId" : "HLeXPmxUffE"
@@ -4230,7 +4254,7 @@
 			}
 		}, {
 			"id" : 300079,
-			"name" : "Secret smile -",
+			"name" : "Secret Smile",
 			"singer" : "Semisonic",
 			"isPrivate" : false,
 			"playback": {
@@ -4243,8 +4267,8 @@
 			}
 		}, {
 			"id" : 300080,
-			"name" : "Against all odds -",
-			"singer" : "Phil collins",
+			"name" : "Against All Odds",
+			"singer" : "Phil Collins",
 			"isPrivate" : false,
 			"playback": {
 				"youTubeVideoId" : "uVjEcIANv1o"
@@ -4257,7 +4281,7 @@
 			}
 		}, {
 			"id" : 300081,
-			"name" : "Will you? -",
+			"name" : "Will You?",
 			"singer" : "Oconnor Hazel",
 			"isPrivate" : false,
 			"playback": {
