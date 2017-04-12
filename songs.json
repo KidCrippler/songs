@@ -2372,7 +2372,8 @@
 			"name" : "מכתב לאחי",
 			"singer" : "קובי אפללו - 70",
 			"lyrics" : {
-				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage70.jpg"
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage70.jpg",
+				"imageVersion" : 1
 			}
 		}, {
 			"id" : 2000209,
