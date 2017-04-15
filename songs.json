@@ -1345,18 +1345,10 @@
 		}, {
 			"id" : 200043,
 			"name" : "התחלה חדשה (G)",
-			"singer" : "בנזין  - 43",
+			"singer" : "בנזין - 43",
 			"isPrivate" : true,
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage43.jpg"
-			}
-		}, {
-			"id" : 2000116,
-			"name" : "התחלה חדשה (G)",
-			"singer" : "בנזין - 116",
-			"isPrivate" : true,
-			"lyrics" : {
-				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage116.jpg"
 			}
 		}, {
 			"id" : 1000278,
@@ -1694,7 +1686,7 @@
 			}
 		}, {
 			"id" : 200055,
-			"name" : "ילד של אבא (Em)",
+			"name" : "ילד של אבא",
 			"singer" : "מוקי  - 55",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage55.jpg"
@@ -2630,7 +2622,7 @@
 			}
 		}, {
 			"id" : 1000146,
-			"name" : "נרדם על החולו",
+			"name" : "נרדם על החולות",
 			"singer" : "ג'קו אייזנברג - 146",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page146.jpg"
@@ -3162,7 +3154,7 @@
 			}
 		}, {
 			"id" : 2000124,
-			"name" : "רכבות 68 80 88 (G)",
+			"name" : "רכבות 68-80-88 (G)",
 			"singer" : "דני רובס - 124",
 			"isPrivate" : true,
 			"lyrics" : {
@@ -3192,8 +3184,8 @@
 			}
 		}, {
 			"id" : 1000294,
-			"name" : "רק בשביל לקסל חיבוק",
-			"singer" : "חמי רודנק ואיגי וקסמן - 294",
+			"name" : "רק בשביל לקבל חיבוק",
+			"singer" : "חמי רודנר ואיגי וקסמן - 294",
 			"isPrivate" : true,
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page294.jpg"
@@ -3648,7 +3640,7 @@
 			}
 		}, {
 			"id" : 200195,
-			"name" : "בדידות",
+			"name" : "בדידות (Bm)",
 			"singer" : "הראל סקעת - 195",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage195.jpg"
