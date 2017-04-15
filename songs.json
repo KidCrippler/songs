@@ -1013,6 +1013,13 @@
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage214.jpg"
 			}
 		}, {
+			"id" : 2000215,
+			"name" : "זהב",
+			"singer" : "סטטיק ובן אל תבורי - 215",
+			"lyrics" : {
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage215.jpg"
+			}
+		}, {
 			"id" : 1000255,
 			"name" : "הולך בטל",
 			"singer" : "תמוז - 255",
