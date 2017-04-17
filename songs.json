@@ -258,7 +258,7 @@
 		}, {
 			"id" : 100065,
 			"name" : "אל תשאלי אם אני אוהב",
-			"singer" : "דוויד ברוזה ונימרוד לב - 65",
+			"singer" : "דיוויד ברוזה ונימרוד לב - 65",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page65.jpg"
 			}
@@ -1020,6 +1020,28 @@
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage215.jpg"
 			}
 		}, {
+			"id" : 2000216,
+			"name" : "הבלדה למחלקה להלבשה תחתונה",
+			"singer" : "מרסדס בנד - 216",
+			"lyrics" : {
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage216.jpg"
+			}
+		}, {
+			"id" : 2000217,
+			"name" : "פרידה קשה (Am)",
+			"singer" : "חוה אלברשטיין - 217",
+			"lyrics" : {
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage217.jpg"
+			}
+		}, {
+			"id" : 2000218,
+			"name" : "פרידה קשה (Em)",
+			"singer" : "חוה אלברשטיין - 218",
+			"isPrivate" : true,
+			"lyrics" : {
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage218.jpg"
+			}
+		}, {
 			"id" : 1000255,
 			"name" : "הולך בטל",
 			"singer" : "תמוז - 255",
@@ -1050,7 +1072,7 @@
 		}, {
 			"id" : 1000194,
 			"name" : "החיטה צומחת שוב",
-			"singer" : "חווה אלברשטיין - 194",
+			"singer" : "חוה אלברשטיין - 194",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page194.jpg"
 			}
@@ -3292,7 +3314,7 @@
 		}, {
 			"id" : 100038,
 			"name" : "שיר אהבה ישן",
-			"singer" : "חווה אלברשטיין - 38",
+			"singer" : "חוה אלברשטיין - 38",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page38.jpg"
 			}
@@ -3378,7 +3400,7 @@
 		}, {
 			"id" : 100021,
 			"name" : "שיר תשרי",
-			"singer" : "חווה אלברשטיין - 1",
+			"singer" : "חוה אלברשטיין - 1",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page21.jpg"
 			}
