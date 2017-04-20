@@ -2547,6 +2547,14 @@
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage178.jpg"
 			}
 		}, {
+			"id" : 1000296,
+			"name" : "נגד הרוח",
+			"singer" : "שלום חנוך - 296",
+			"lyrics" : {
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page296.jpg",
+				"imageVersion" : 1
+			}
+		}, {	
 			"id" : 200073,
 			"name" : "נגיעה אחת רכה",
 			"singer" : "גידי גוב - 73",
@@ -4340,6 +4348,32 @@
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/english/page82.jpg",
+				"imageVersion" : 1
+			}
+		}, {
+			"id" : 300083,
+			"name" : "Totel California",
+			"singer" : "Eagles",
+			"isPrivate" : false,
+			"playback": {
+				"youTubeVideoId" : "lrfhf1Gv4Tw"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/english/page83.jpg",
+				"imageVersion" : 1
+			}			
+		}, {
+			"id" : 300084,
+			"name" : "Totel California (Am)",
+			"singer" : "Eagles",
+			"isPrivate" : true,
+			"playback": {
+				"youTubeVideoId" : "lrfhf1Gv4Tw"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/english/page84.jpg",
 				"imageVersion" : 1
 			}
 		}		
