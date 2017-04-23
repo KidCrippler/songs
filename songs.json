@@ -983,6 +983,22 @@
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page283.jpg"
 			}
 		}, {
+			"id" : 1000297,
+			"name" : "הדרכים הידועות (Gm)",
+			"singer" : "שלום חנוך",
+			"isPrivate" : false,
+			"lyrics" : {
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page297.jpg"
+			}
+		}, {
+			"id" : 1000298,
+			"name" : "הדרכים הידועות (Em)",
+			"singer" : "שלום חנוך",
+			"isPrivate" : true,
+			"lyrics" : {
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page298.jpg"
+			}
+		}, {
 			"id" : 2000166,
 			"name" : "הוא חייב לבוא (Bb)",
 			"singer" : "חני נחמיאס - 166",
@@ -4376,6 +4392,32 @@
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/english/page84.jpg",
 				"imageVersion" : 1
 			}
-		}		
+		}, {
+			"id" : 300085,
+			"name" : "Vincent",
+			"singer" : "Don McLean",
+			"isPrivate" : false,
+			"playback": {
+				"youTubeVideoId" : "oxHnRfhDmrk"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/english/page85.jpg",
+				"imageVersion" : 1
+			}
+		}, {
+			"id" : 300086,
+			"name" : "Speed of sound",
+			"singer" : "Coldplay",
+			"isPrivate" : false,
+			"playback": {
+				"youTubeVideoId" : "0k_1kvDh2UA"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/english/page86.jpg",
+				"imageVersion" : 1
+			}
+		}				
 	]
 }
