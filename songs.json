@@ -4418,6 +4418,18 @@
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/english/page86.jpg",
 				"imageVersion" : 1
 			}
-		}				
+		}, {
+			"id" : 300087,
+			"name" : "Hero",
+			"singer" : "Mariah Carey",
+			"playback": {
+				"youTubeVideoId" : "0IA3ZvCkRkQ"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/english/page87.jpg",
+				"imageVersion" : 1
+			}
+		}
 	]
 }
