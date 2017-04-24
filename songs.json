@@ -4368,7 +4368,7 @@
 			}
 		}, {
 			"id" : 300083,
-			"name" : "Totel California",
+			"name" : "Hotel California",
 			"singer" : "Eagles",
 			"isPrivate" : false,
 			"playback": {
@@ -4381,7 +4381,7 @@
 			}			
 		}, {
 			"id" : 300084,
-			"name" : "Totel California (Am)",
+			"name" : "Hotel California (Am)",
 			"singer" : "Eagles",
 			"isPrivate" : true,
 			"playback": {
