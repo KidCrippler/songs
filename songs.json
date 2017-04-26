@@ -1033,7 +1033,8 @@
 			"name" : "זהב",
 			"singer" : "סטטיק ובן אל תבורי - 215",
 			"lyrics" : {
-				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage215.jpg"
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage215.jpg",
+				"imageVersion" : 1
 			}
 		}, {
 			"id" : 2000216,
