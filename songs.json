@@ -1078,7 +1078,8 @@
 			"name" : "אם את עדיין אוהבת אותי",
 			"singer" : "בועז שרעבי - 221",
 			"lyrics" : {
-				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage221.jpg"
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage221.jpg",
+				"imageVersion" : 1
 			}
 		}, {
 			"id" : 1000255,
