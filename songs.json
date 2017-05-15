@@ -2005,6 +2005,13 @@
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page144.jpg"
 			}
 		}, {
+			"id" : 1000299,
+			"name" : "כולם אומרים (A)",
+			"singer" : "שלומי שבן",
+			"lyrics" : {
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page299.jpg"
+			}			
+		}, {
 			"id" : 1000276,
 			"name" : "כולם יודעים",
 			"singer" : "אהוד בנאי - 276",
@@ -2167,6 +2174,13 @@
 			"singer" : "שירי מימון - 177",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage177.jpg"
+			}
+		}, {
+			"id" : 1000300,
+			"name" : "לב חופשי",
+			"singer" : "מוקי",
+			"lyrics" : {
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page300.jpg"
 			}
 		}, {
 			"id" : 100043,
