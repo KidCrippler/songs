@@ -1143,8 +1143,9 @@
 			}
 		}, {
 			"id" : 2000230,
-			"name" : "עוד יהיה לי",
+			"name" : "עוד יהיה לי (C)",
 			"singer" : "מרגלית צנעני - 230",
+			"isPrivate" : true,
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage230.jpg"
 			}
@@ -1191,6 +1192,27 @@
 			"singer" : "משינה - 236",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage236.jpg"
+			}
+		}, {
+			"id" : 2000237,
+			"name" : "הריקוד המוזר של הלב",
+			"singer" : "רונה קינן וגידי גוב - 237",
+			"lyrics" : {
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage237.jpg"
+			}
+		}, {
+			"id" : 2000238,
+			"name" : "עוד יהיה לי",
+			"singer" : "מרגלית צנעני - 238",
+			"lyrics" : {
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage238.jpg"
+			}
+		}, {
+			"id" : 2000239,
+			"name" : "מבול",
+			"singer" : "קרן פלס - 239",
+			"lyrics" : {
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage239.jpg"
 			}
 		}, {
 			"id" : 1000255,
@@ -3847,7 +3869,7 @@
 			}
 		}, {
 			"id" : 200191,
-			"name" : "מבול",
+			"name" : "מבול (Am)",
 			"singer" : "קרן פלס - 191",
 			"isPrivate" : true,
 			"lyrics" : {
