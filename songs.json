@@ -1245,7 +1245,22 @@
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage243.jpg"
 			}
-		},{
+		}, {
+			"id" : 2000244,
+			"name" : "ילד של אבא (Dm)",
+			"singer" : "מוקי - 244",
+			"isPrivate" : true,
+			"lyrics" : {
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage244.jpg"
+			}
+		}, {
+			"id" : 2000245,
+			"name" : "תלבשי לבן",
+			"singer" : "הדודאים והפרברים - 245",
+			"lyrics" : {
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage245.jpg"
+			}
+		}, {
 			"id" : 1000255,
 			"name" : "הולך בטל",
 			"singer" : "תמוז - 255",
