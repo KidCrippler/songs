@@ -1220,7 +1220,8 @@
 			"name" : "אל תשטה באהבה",
 			"singer" : "יהורם גאון - 240",
 			"lyrics" : {
-				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage240.jpg"
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage240.jpg",
+				"imageVersion" : 1
 			}
 		}, {
 			"id" : 2000241,
@@ -1228,14 +1229,16 @@
 			"singer" : "יהורם גאון - 241",
 			"isPrivate" : true,
 			"lyrics" : {
-				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage241.jpg"
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage241.jpg",
+				"imageVersion" : 1
 			}
 		}, {
 			"id" : 2000242,
 			"name" : "שאריות של החיים",
 			"singer" : "הפרוייקט של עידן רייכל - 242",
 			"lyrics" : {
-				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage242.jpg"
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage242.jpg",
+				"imageVersion" : 1
 			}
 		}, {
 			"id" : 2000243,
@@ -1243,7 +1246,8 @@
 			"singer" : "הפרוייקט של עידן רייכל - 243",
 			"isPrivate" : true,
 			"lyrics" : {
-				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage243.jpg"
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage243.jpg",
+				"imageVersion" : 1
 			}
 		}, {
 			"id" : 2000244,
@@ -2292,6 +2296,7 @@
 			"id" : 1000300,
 			"name" : "לב חופשי",
 			"singer" : "מוקי",
+			"isPrivate" : false,
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page300.jpg"
 			}
@@ -2329,7 +2334,28 @@
             "singer" : "בנזין",
             "lyrics" : {
                 "imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page305.jpg"
-            }            
+            }
+        }, {
+            "id" : 1000306,
+            "name" : "לב חופשי (Am)",
+            "singer" : "מוקי",
+            "lyrics" : {
+                "imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page306.jpg"
+            }
+        }, {
+            "id" : 1000307,
+            "name" : "צל כבד",
+            "singer" : "כשניקו תתחיל לדבר",
+            "lyrics" : {
+                "imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page307.jpg"
+            }
+        }, {
+            "id" : 1000308,
+            "name" : "תם ולא נשלם",
+            "singer" : "עילי בוטנר וילדי החוץ",
+            "lyrics" : {
+                "imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page308.jpg"
+            }
         }, {
 			"id" : 100043,
 			"name" : "לבן על לבן",
@@ -4681,6 +4707,19 @@
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/english/page87.jpg",
+				"imageVersion" : 1
+			}
+		}, {
+			"id" : 300088,
+			"name" : "Speed of Sound (E)",
+			"singer" : "Coldplay",
+			"isPrivate" : false,
+			"playback": {
+				"youTubeVideoId" : "0k_1kvDh2UA"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/english/page88.jpg",
 				"imageVersion" : 1
 			}
 		}
