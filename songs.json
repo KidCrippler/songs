@@ -1267,6 +1267,20 @@
 				"imageVersion" : 1
 			}
 		}, {
+			"id" : 2000246,
+			"name" : "עומד בשער",
+			"singer" : "עמיר בניון - 246",
+			"lyrics" : {
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage246.jpg"
+			}
+		}, {
+			"id" : 2000247,
+			"name" : "נסיך החלומות (ולנטינו)",
+			"singer" : "גלי עטרי - 247",
+			"lyrics" : {
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage247.jpg"
+			}
+		}, {
 			"id" : 1000255,
 			"name" : "הולך בטל",
 			"singer" : "תמוז - 255",
@@ -4723,6 +4737,28 @@
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/english/page88.jpg",
 				"imageVersion" : 1
+			}
+		}, {
+			"id" : 300089,
+			"name" : "Jailhouse Rock",
+			"singer" : "Elvis Presley",
+			"playback": {
+				"youTubeVideoId" : "gj0Rz-uP4Mk"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/english/page89.jpg"
+			}
+		}, {
+			"id" : 300090,
+			"name" : "Mustang Sally",
+			"singer" : "Wilson Pickett",
+			"playback": {
+				"youTubeVideoId" : "h1FRrZD2y9Y"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/english/page90.jpg"
 			}
 		}
 	]
