@@ -1281,6 +1281,13 @@
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage247.jpg"
 			}
 		}, {
+			"id" : 2000248,
+			"name" : "מתוק מתוק",
+			"singer" : "יגאל בשן - 248",
+			"lyrics" : {
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage248.jpg"
+			}
+		}, {
 			"id" : 1000255,
 			"name" : "הולך בטל",
 			"singer" : "תמוז - 255",
