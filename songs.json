@@ -399,11 +399,11 @@
 			}
 		}, {
 			"id" : 2000199,
-			"name" : "אני רואה לך בעיניים",
+			"name" : "רואה לך בעיניים",
 			"singer" : "אתי אנקרי - 199",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage199.jpg",
-				"imageVersion" : 1
+				"imageVersion" : 2
 			}
 		}, {
 			"id" : 2000200,
@@ -2720,7 +2720,8 @@
 			"singer" : "קובי אפללו - 209",
 			"isPrivate" : true,
 			"lyrics" : {
-				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage209.jpg"
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage209.jpg",
+				"imageVersion" : 1
 			}
 		}, {
 			"id" : 1000284,
