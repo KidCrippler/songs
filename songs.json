@@ -2380,6 +2380,13 @@
                 "imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page308.jpg"
             }
         }, {
+            "id" : 1000309,
+            "name" : "תן לי",
+            "singer" : "יגאל בשן",
+            "lyrics" : {
+                "imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page309.jpg"
+            }
+        }, {
 			"id" : 100043,
 			"name" : "לבן על לבן",
 			"singer" : "דן תורן - 43",
@@ -4767,6 +4774,17 @@
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/english/page90.jpg"
+			}
+		}, {
+			"id" : 300091,
+			"name" : "A Whole New World",
+			"singer" : "Aladdin",
+			"playback": {
+				"youTubeVideoId" : "hZ1Rb9hC4JY"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/english/page91.jpg"
 			}
 		}
 	]
