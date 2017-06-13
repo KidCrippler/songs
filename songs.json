@@ -51,15 +51,17 @@
 			"name" : "אהבה",
 			"singer" : "דניאל סלומון - 4",
 			"lyrics" : {
-				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage4.jpg"
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage4.jpg",
+				"imageVersion" : 1
 			}
 		}, {
 			"id" : 20002,
 			"name" : "אהבה (D)",
-			"singer" : "דניאל סלומון  - 2",
+			"singer" : "דניאל סלומון - 2",
 			"isPrivate" : true,
 			"lyrics" : {
-				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage2.jpg"
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage2.jpg",
+				"imageVersion" : 1
 			}
 		}, {
 			"id" : 100045,
