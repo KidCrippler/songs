@@ -1290,6 +1290,43 @@
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage248.jpg"
 			}
 		}, {
+			"id" : 2000249,
+			"name" : "אני רוצה גם",
+			"singer" : "יהודה פוליקר",
+			"lyrics" : {
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage249.jpg"
+			}
+		}, {
+			"id" : 2000250,
+			"name" : "האיש ההוא",
+			"singer" : "שלמה ארצי",
+			"lyrics" : {
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage250.jpg"
+			}
+		}, {
+			"id" : 2000251,
+			"name" : "האיש ההוא (G)",
+			"singer" : "שלמה ארצי",
+			"isPrivate" : true,
+			"lyrics" : {
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage251.jpg"
+			}
+		}, {
+			"id" : 2000252,
+			"name" : "השיר על תוכי יוסי",
+			"singer" : "אריק איינשטיין",
+			"lyrics" : {
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage252.jpg"
+			}
+		}, {
+			"id" : 2000253,
+			"name" : "השיר על תוכי יוסי (D)",
+			"singer" : "אריק איינשטיין",
+			"isPrivate" : true,
+			"lyrics" : {
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage253.jpg"
+			}
+		}, {
 			"id" : 1000255,
 			"name" : "הולך בטל",
 			"singer" : "תמוז - 255",
@@ -4787,6 +4824,28 @@
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/english/page91.jpg"
+			}
+		}, {
+			"id" : 300092,
+			"name" : "Can You Feel The Love Tonight",
+			"singer" : "Elton John",
+			"playback": {
+				"youTubeVideoId" : "Y1hcc1QvM2Q"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/english/page92.jpg"
+			}
+		}, {
+			"id" : 300093,
+			"name" : "Can You Feel The Love Tonight (D)",
+			"singer" : "Elton John",
+			"playback": {
+				"youTubeVideoId" : "Y1hcc1QvM2Q"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/english/page93.jpg"
 			}
 		}
 	]
