@@ -1280,7 +1280,8 @@
 			"name" : "נסיך החלומות (ולנטינו)",
 			"singer" : "גלי עטרי - 247",
 			"lyrics" : {
-				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage247.jpg"
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage247.jpg",
+				"imageVersion" : 1
 			}
 		}, {
 			"id" : 2000248,
