@@ -2427,6 +2427,13 @@
                 "imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page309.jpg"
             }
         }, {
+            "id" : 1000310,
+            "name" : "עוד לילה",
+            "singer" : "הדורבנים",
+            "lyrics" : {
+                "imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page310.jpg"
+            }
+        }, {
 			"id" : 100043,
 			"name" : "לבן על לבן",
 			"singer" : "דן תורן - 43",
@@ -4847,6 +4854,17 @@
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/english/page93.jpg"
+			}
+		}, {
+			"id" : 300094,
+			"name" : "Blue Suede Shoes",
+			"singer" : "Elvis Presley",
+			"playback": {
+				"youTubeVideoId" : "T1Ond-OwgU8"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/english/page94.jpg"
 			}
 		}
 	]
