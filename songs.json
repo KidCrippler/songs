@@ -4866,6 +4866,17 @@
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/english/page94.jpg"
 			}
+		}, {
+			"id" : 300095,
+			"name" : "My Way",
+			"singer" : "Frank Sinatra",
+			"playback": {
+				"youTubeVideoId" : "egY8rUpxqcE"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/english/page95.jpg"
+			}
 		}
 	]
 }
