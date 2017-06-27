@@ -1328,6 +1328,13 @@
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage253.jpg"
 			}
 		}, {
+			"id" : 2000254,
+			"name" : "או שאתה שר או שלוקחים אותך מפה",
+			"singer" : "אלון אולארצ'יק",
+			"lyrics" : {
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage254.jpg"
+			}
+		},{
 			"id" : 1000255,
 			"name" : "הולך בטל",
 			"singer" : "תמוז - 255",
@@ -4876,6 +4883,17 @@
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/english/page95.jpg"
+			}
+		}, {
+			"id" : 300096,
+			"name" : "All of Me",
+			"singer" : "John Legend",
+			"playback": {
+				"youTubeVideoId" : "450p7goxZqg"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/english/page96.jpg"
 			}
 		}
 	]
