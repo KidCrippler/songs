@@ -1334,7 +1334,21 @@
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage254.jpg"
 			}
-		},{
+		}, {
+			"id" : 2000255,
+			"name" : "שער הרחמים",
+			"singer" : "מאיר בנאי",
+			"lyrics" : {
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage255.jpg"
+			}
+		}, {
+			"id" : 2000256,
+			"name" : "מחר אני בבית",
+			"singer" : "אתניקס",
+			"lyrics" : {
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage256.jpg"
+			}
+		}, {
 			"id" : 1000255,
 			"name" : "הולך בטל",
 			"singer" : "תמוז - 255",
@@ -2439,6 +2453,27 @@
             "singer" : "הדורבנים",
             "lyrics" : {
                 "imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page310.jpg"
+            }
+        }, {
+            "id" : 1000311,
+            "name" : "סיגפו",
+            "singer" : "בית הבובות",
+            "lyrics" : {
+                "imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page311.jpg"
+            }
+        }, {
+            "id" : 1000312,
+            "name" : "בגלל הרוח",
+            "singer" : "שלומי שבת",
+            "lyrics" : {
+                "imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page312.jpg"
+            }
+        }, {
+            "id" : 1000313,
+            "name" : "גאון",
+            "singer" : "נורית גלרון",
+            "lyrics" : {
+                "imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page313.jpg"
             }
         }, {
 			"id" : 100043,
