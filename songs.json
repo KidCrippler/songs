@@ -1356,6 +1356,13 @@
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage257.jpg"
 			}
 		}, {
+			"id" : 2000258,
+			"name" : "אמא שלי",
+			"singer" : "אריק איינשטיין",
+			"lyrics" : {
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage258.jpg"
+			}
+		}, {
 			"id" : 1000255,
 			"name" : "הולך בטל",
 			"singer" : "תמוז - 255",
