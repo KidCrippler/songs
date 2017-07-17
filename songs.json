@@ -1363,6 +1363,13 @@
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage258.jpg"
 			}
 		}, {
+			"id" : 2000259,
+			"name" : "שוב הדיסקו כאן",
+			"singer" : "הדורבנים",
+			"lyrics" : {
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage259.jpg"
+			}
+		}, {
 			"id" : 1000255,
 			"name" : "הולך בטל",
 			"singer" : "תמוז - 255",
