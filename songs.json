@@ -3659,7 +3659,6 @@
 			"id" : 1000294,
 			"name" : "רק בשביל לקבל חיבוק",
 			"singer" : "חמי רודנר ואיגי וקסמן - 294",
-			"isPrivate" : true,
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page294.jpg"
 			}
@@ -4189,7 +4188,7 @@
 		}, {
 			"id" : 300056,
 			"name" : "Bridge Over Troubled Water",
-			"singer" : "Simon & Garfunkel",
+			"singer" : "Simon and Garfunkel",
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
@@ -4951,6 +4950,50 @@
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/english/page96.jpg"
+			}
+		}, {
+			"id" : 300097,
+			"name" : "Make You Feel My Love",
+			"singer" : "Adele",
+			"playback": {
+				"youTubeVideoId" : "450p7goxZqg"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/english/page97.txt"
+			}
+		}, {
+			"id" : 300098,
+			"name" : "Every Breath You Take",
+			"singer" : "The Police",
+			"playback": {
+				"youTubeVideoId" : "450p7goxZqg"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/english/page98.txt"
+			}
+		}, {
+			"id" : 300099,
+			"name" : "California Dreamin'",
+			"singer" : "The Mamas & The Papas",
+			"playback": {
+				"youTubeVideoId" : "450p7goxZqg"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/english/page99.txt"
+			}
+		}, {
+			"id" : 300100,
+			"name" : "The Sound of Silence",
+			"singer" : "Simon and Garfunkel",
+			"playback": {
+				"youTubeVideoId" : "450p7goxZqg"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/english/page100.txt"
 			}
 		}
 	]
