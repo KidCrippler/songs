@@ -1370,6 +1370,13 @@
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage259.jpg"
 			}
 		}, {
+			"id" : 2000260,
+			"name" : "שיר לשירה",
+			"singer" : "מירי מסיקה",
+			"lyrics" : {
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage260.jpg"
+			}
+		}, {
 			"id" : 1000255,
 			"name" : "הולך בטל",
 			"singer" : "תמוז - 255",
