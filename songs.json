@@ -2504,6 +2504,35 @@
                 "imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page313.jpg"
             }
         }, {
+            "id" : 1000314,
+            "name" : "כל מה שיש לי",
+            "singer" : "נתן גושן",
+            "lyrics" : {
+                "imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page314.txt"
+            }
+        }, {
+            "id" : 1000315,
+            "name" : "מחר הוא יחזור",
+            "singer" : "דני רובס",
+            "lyrics" : {
+                "imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page315.txt"
+            }
+        }, {
+            "id" : 4000315,
+            "name" : "מחר הוא יחזור גרפי",
+            "singer" : "דני רובס",
+			"isPrivate" : true,			
+            "lyrics" : {
+                "imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page315.jpg"
+            }
+        }, {
+            "id" : 1000316,
+            "name" : "גג",
+            "singer" : "ג'ירפות",
+            "lyrics" : {
+                "imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page316.txt"
+            }
+        }, {
 			"id" : 100043,
 			"name" : "לבן על לבן",
 			"singer" : "דן תורן - 43",
@@ -4971,7 +5000,7 @@
 			}
 		}, {
 			"id" : 300098,
-			"name" : "Every Breath You Take",
+			"name" : "Every Breath You Take (+1)",
 			"singer" : "The Police",
 			"playback": {
 				"youTubeVideoId" : "450p7goxZqg"
@@ -4993,8 +5022,20 @@
 			}
 		}, {
 			"id" : 300100,
-			"name" : "The Sound of Silence",
+			"name" : "The Sound of Silence (+1)",
 			"singer" : "Simon and Garfunkel",
+			"playback": {
+				"youTubeVideoId" : "450p7goxZqg"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/english/page100.txt"
+			}
+		}
+		, {
+			"id" : 300101,
+			"name" : "Nobody's Wife (-1)",
+			"singer" : "Anouk",
 			"playback": {
 				"youTubeVideoId" : "450p7goxZqg"
 			},
