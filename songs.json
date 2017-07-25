@@ -2508,14 +2508,14 @@
             "name" : "כל מה שיש לי",
             "singer" : "נתן גושן",
             "lyrics" : {
-                "imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page314.txt"
+                "markupUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page314.txt"
             }
         }, {
             "id" : 1000315,
             "name" : "מחר הוא יחזור",
             "singer" : "דני רובס",
             "lyrics" : {
-                "imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page315.txt"
+                "markupUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page315.txt"
             }
         }, {
             "id" : 4000315,
@@ -2530,14 +2530,14 @@
             "name" : "גג",
             "singer" : "ג'ירפות",
             "lyrics" : {
-                "imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page316.txt"
+                "markupUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page316.txt"
             }
         }, {
             "id" : 1000317,
             "name" : "עומד על צוק",
             "singer" : "היי פייב",
             "lyrics" : {
-                "imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page317.txt"
+                "markupUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page317.txt"
             }
         }, {
             "id" : 1000318,
@@ -2545,7 +2545,7 @@
             "singer" : "היי פייב",
 			"isPrivate" : true,			
             "lyrics" : {
-                "imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page318.txt"
+                "markupUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page318.txt"
             }
         }, {
 			"id" : 100043,
@@ -5011,7 +5011,7 @@
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/english/page97.txt"
+				"markupUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/english/page97.txt"
 			}
 		}, {
 			"id" : 300098,
@@ -5022,7 +5022,7 @@
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/english/page98.txt"
+				"markupUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/english/page98.txt"
 			}
 		}, {
 			"id" : 300099,
@@ -5033,7 +5033,7 @@
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/english/page99.txt"
+				"markupUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/english/page99.txt"
 			}
 		}, {
 			"id" : 300100,
@@ -5044,7 +5044,7 @@
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/english/page100.txt"
+				"markupUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/english/page100.txt"
 			}
 		}
 		, {
@@ -5056,7 +5056,7 @@
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/english/page100.txt"
+				"markupUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/english/page100.txt"
 			}
 		}
 	]
