@@ -2533,6 +2533,21 @@
                 "imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page316.txt"
             }
         }, {
+            "id" : 1000317,
+            "name" : "עומד על צוק",
+            "singer" : "היי פייב",
+            "lyrics" : {
+                "imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page317.txt"
+            }
+        }, {
+            "id" : 1000318,
+            "name" : "סולם אחר - עומד על צוק",
+            "singer" : "היי פייב",
+			"isPrivate" : true,			
+            "lyrics" : {
+                "imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page318.txt"
+            }
+        }, {
 			"id" : 100043,
 			"name" : "לבן על לבן",
 			"singer" : "דן תורן - 43",
