@@ -9,15 +9,15 @@
 			"name" : "English"
 		}
 	], 
+	"newSongIds" : [
+	],	
 	"songs" :
 	[{
 			"id" : 100035,
 			"name" : "אגדת דשא",
 			"singer" : "אושיק לוי",
 			"playback": {
-				"youTubeVideoId" : "N6GQi2mdnz8",
-				"mp3Url1": "file:///c:/ss.mp3",
-				"mp3Url2": "http://www.stephaniequinn.com/Music/Allegro%20from%20Duet%20in%20C%20Major.mp3"
+				"youTubeVideoId" : "N6GQi2mdnz8"
 			},
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page35.jpg"	
