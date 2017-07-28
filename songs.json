@@ -1,5 +1,5 @@
 ﻿{
-	"version" : "2017_01_30",
+	"version" : "2017_07_29",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -7,6 +7,9 @@
 		}, {
 			"id" : "2",
 			"name" : "English"
+		}, {
+			"id" : "4",
+			"name" : "ילדים"
 		}
 	],
 	"newSongIds" : [
@@ -33,6 +36,7 @@
 			"id" : 20001,
 			"name" : "אדון שוקו",
 			"singer" : "אריק איינשטיין - 1",
+			"categoryIds" : ["4"],
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage1.jpg"
 			}
@@ -112,6 +116,7 @@
 			"id" : 1000238,
 			"name" : "אוהב להיות בבית",
 			"singer" : "אריק איינשטיין - 238",
+			"categoryIds" : ["4"],
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page238.jpg"
 			}
@@ -176,6 +181,7 @@
 			"id" : 1000123,
 			"name" : "איך שיר נולד",
 			"singer" : "הכבש השישה עשר - 123",
+			"categoryIds" : ["4"],
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page123.jpg"
 			}
@@ -302,6 +308,7 @@
 			"id" : 1000158,
 			"name" : "אמא ודני",
 			"singer" : "גזוז - 158",
+			"categoryIds" : ["4"],
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page158.jpg"
 			}
@@ -330,6 +337,7 @@
 			"id" : 100064,
 			"name" : "אני אוהב",
 			"singer" : "הכבש השישה עשר - 64",
+			"categoryIds" : ["4"],
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page64.jpg"
 			}
@@ -358,6 +366,7 @@
 			"id" : 100066,
 			"name" : "אני ואתה",
 			"singer" : "אריק איינשטיין - 66",
+			"categoryIds" : ["4"],
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page66.jpg"
 			}
@@ -728,6 +737,7 @@
 			"id" : 200160,
 			"name" : "גולית (D)",
 			"singer" : "כוורת - 160",
+			"categoryIds" : ["4"],
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage160.jpg"
 			}
@@ -749,6 +759,7 @@
 			"id" : 200028,
 			"name" : "גלי",
 			"singer" : "ירמי קפלן - 28",
+			"categoryIds" : ["4"],
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage28.jpg"
 			}
@@ -763,6 +774,7 @@
 			"id" : 100079,
 			"name" : "גן סגור",
 			"singer" : "הכבש השישה עשר - 79",
+			"categoryIds" : ["4"],
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page79.jpg"
 			}
@@ -938,6 +950,7 @@
 			"playback": {
 				"youTubeVideoId" : "COrqhqIcEuI"
 			},
+			"categoryIds" : ["4"],
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page47.jpg"
 			}
@@ -1013,6 +1026,7 @@
 			"id" : 2000215,
 			"name" : "זהב",
 			"singer" : "סטטיק ובן אל תבורי - 215",
+			"categoryIds" : ["4"],
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage215.jpg"
 			}
@@ -1524,6 +1538,7 @@
 			"id" : 1000125,
 			"name" : "הילדה הכי יפה בגן",
 			"singer" : "הכבש השישה עשר - 125",
+			"categoryIds" : ["4"],
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page125.jpg"
 			}
@@ -1566,6 +1581,7 @@
 			"id" : 100094,
 			"name" : "המגפיים של ברוך",
 			"singer" : "כוורת - 94",
+			"categoryIds" : ["4"],
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page94.jpg"
 			}
@@ -2020,6 +2036,7 @@
 			"id" : 200054,
 			"name" : "ילד רע",
 			"singer" : " ריקי גל - 54",
+			"categoryIds" : ["4"],
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage54.jpg"
 			}
@@ -2027,6 +2044,7 @@
 			"id" : 200055,
 			"name" : "ילד של אבא",
 			"singer" : "מוקי  - 55",
+			"categoryIds" : ["4"],
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage55.jpg"
 			}
@@ -2850,6 +2868,7 @@
 			"id" : 200070,
 			"name" : "מכתב לאחי",
 			"singer" : "קובי אפללו - 70",
+			"categoryIds" : ["4"],
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage70.jpg"
 			}
@@ -2879,6 +2898,7 @@
 			"id" : 2000152,
 			"name" : "מלך העולם",
 			"singer" : "שלמה ארצי - 152",
+			"categoryIds" : ["4"],
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage152.jpg"
 			}
@@ -2992,6 +3012,7 @@
 			"id" : 1000279,
 			"name" : "מתנות קטנות",
 			"singer" : "רמי קלינשטיין - 279",
+			"categoryIds" : ["4"],
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page279.jpg"
 			}
@@ -3057,6 +3078,7 @@
 			"id" : 200076,
 			"name" : "נילס הולגרסון",
 			"singer" : "יגאל בשן - 76",
+			"categoryIds" : ["4"],
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage76.jpg"
 			}
@@ -3171,6 +3193,7 @@
 			"id" : 1000149,
 			"name" : "סיון",
 			"singer" : "יגאל בשן - 149",
+			"categoryIds" : ["4"],
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page149.jpg"
 			}
@@ -3277,6 +3300,7 @@
 			"id" : 200167,
 			"name" : "עוף גוזל",
 			"singer" : "אריק איינשטיין - 167",
+			"categoryIds" : ["4"],
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage167.jpg"
 			}
@@ -3540,6 +3564,7 @@
 			"id" : 2000122,
 			"name" : "קילפתי תפוז",
 			"singer" : "אריק איינשטיין - 122",
+			"categoryIds" : ["4"],
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage122.jpg"
 			}
@@ -3662,6 +3687,7 @@
 			"id" : 1000126,
 			"name" : "רציתי שתדע",
 			"singer" : "עוזי חיטמן - 126",
+			"categoryIds" : ["4"],
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page126.jpg"
 			}
@@ -4032,6 +4058,7 @@
 			"id" : 1000161,
 			"name" : "תנו לגדול בשקט",
 			"singer" : "גידי גוב - 161",
+			"categoryIds" : ["4"],
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page161.jpg"
 			}
