@@ -77,7 +77,6 @@
 			"name" : "אהבה קצרה (Am)",
 			"singer" : "מאיר בנאי - 181",
 			"isPrivate" : true,
-			"alternativePublicId" : 200182,
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage181.jpg"
 			}
@@ -374,7 +373,6 @@
 			"name" : "אני חיה לי מיום ליום (E)",
 			"singer" : "ריטה - 180",
 			"isPrivate" : true,
-			"alternativePublicId" : 200179,
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage180.jpg"
 			}
@@ -831,7 +829,6 @@
 			"name" : "דם חם (Am)",
 			"singer" : "שרי - 290",
 			"isPrivate" : true,
-			"alternativePublicId" : 1000267,
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page290.jpg"
 			}
@@ -1432,7 +1429,6 @@
 			"name" : "היא יודעת (Cm)",
 			"singer" : "נינט טייב - 176",
 			"isPrivate" : true,
-			"alternativePublicId" : 200165,
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage176.jpg"
 			}
@@ -2785,7 +2781,6 @@
 			"name" : "מחכה (Gm)",
 			"singer" : "ריטה - 175",
 			"isPrivate" : true,
-			"alternativePublicId" : 200069,
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage175.jpg"
 			}
@@ -3084,7 +3079,6 @@
 			"name" : "נערת רוק (G)",
 			"singer" : "ריקי גל - 291",
 			"isPrivate" : true,
-			"alternativePublicId" : 1000289,
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page291.jpg"
 			}
@@ -4085,7 +4079,6 @@
 			"name" : "בוא (E)",
 			"singer" : "ריטה - 188",
 			"isPrivate" : true,
-			"alternativePublicId" : 200187,
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage188.jpg"
 			}
@@ -4123,7 +4116,6 @@
 			"name" : "אור גדול (D)",
 			"singer" : "אמיר דדון - 193",
 			"isPrivate" : true,
-			"alternativePublicId" : 200192,
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage193.jpg"
 			}
@@ -4146,7 +4138,6 @@
 			"name" : "בדידות (Am)",
 			"singer" : "הראל סקעת - 196",
 			"isPrivate" : true,
-			"alternativePublicId" : 200195,
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage196.jpg"
 			}
@@ -4286,7 +4277,6 @@
 			"name" : "Drops of Jupiter (A)",
 			"singer" : "Train",
 			"isPrivate" : true,
-			"alternativePublicId" : 300072,
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/english/page73.jpg"
