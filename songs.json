@@ -48,8 +48,7 @@
 			"name" : "אהבה",
 			"singer" : "דניאל סלומון - 4",
 			"lyrics" : {
-				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage4.jpg",
-				"imageVersion" : 1
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage4.jpg"
 			}
 		}, {
 			"id" : 20002,
@@ -57,8 +56,7 @@
 			"singer" : "דניאל סלומון - 2",
 			"isPrivate" : true,
 			"lyrics" : {
-				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage2.jpg",
-				"imageVersion" : 1
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage2.jpg"
 			}
 		}, {
 			"id" : 100045,
@@ -201,8 +199,7 @@
 			"name" : "אין מקום אחר",
 			"singer" : "משינה - 251",
 			"lyrics" : {
-				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page251.jpg",
-				"imageVersion" : 1
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page251.jpg"
 			}
 		}, {
 			"id" : 1000230,
@@ -237,8 +234,7 @@
 			"name" : "איתו לנצח",
 			"singer" : "קרח 9 - 11",
 			"lyrics" : {
-				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage11.jpg",
-				"imageVersion" : 1
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage11.jpg"
 			}
 		}, {
 			"id" : 2000143,
@@ -401,8 +397,7 @@
 			"name" : "רואה לך בעיניים",
 			"singer" : "אתי אנקרי - 199",
 			"lyrics" : {
-				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage199.jpg",
-				"imageVersion" : 2
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage199.jpg"
 			}
 		}, {
 			"id" : 2000200,
@@ -410,32 +405,28 @@
 			"singer" : "ריטה - 200",
 			"isPrivate" : true,
 			"lyrics" : {
-				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage200.jpg",
-				"imageVersion" : 1
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage200.jpg"
 			}
 		}, {
 			"id" : 2000201,
 			"name" : "עטוף ברחמים",
 			"singer" : "ריטה - 201",
 			"lyrics" : {
-				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage201.jpg",
-				"imageVersion" : 1
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage201.jpg"
 			}
 		}, {
 			"id" : 2000202,
 			"name" : "על הגשר הישן",
 			"singer" : "רמי קלינשטיין - 202",
 			"lyrics" : {
-				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage202.jpg",
-				"imageVersion" : 1
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage202.jpg"
 			}
 		}, {
 			"id" : 2000203,
 			"name" : "ימות משיח",
 			"singer" : "דני ליטני - 203",
 			"lyrics" : {
-				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage203.jpg",
-				"imageVersion" : 2
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage203.jpg"
 			}
 		}, {
 			"id" : 2000204,
@@ -443,32 +434,28 @@
 			"singer" : "דני ליטני - 204",
 			"isPrivate" : true,
 			"lyrics" : {
-				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage204.jpg",
-				"imageVersion" : 2
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage204.jpg"
 			}
 		}, {
 			"id" : 2000205,
 			"name" : "לא יפריד דבר",
 			"singer" : "דני סנדרסון - 205",
 			"lyrics" : {
-				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage205.jpg",
-				"imageVersion" : 1
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage205.jpg"
 			}
 		}, {
 			"id" : 2000206,
 			"name" : "בואי נגיד שאני שלך",
 			"singer" : "אלון אולארצ'יק - 206",
 			"lyrics" : {
-				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage206.jpg",
-				"imageVersion" : 1
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage206.jpg"
 			}
 		}, {
 			"id" : 2000207,
 			"name" : "בואי נשאר",
 			"singer" : "גידי גוב - 207",
 			"lyrics" : {
-				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage207.jpg",
-				"imageVersion" : 1
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage207.jpg"
 			}
 		}, {
 			"id" : 2000208,
@@ -476,8 +463,7 @@
 			"singer" : "אריק איינשטיין - 208",
 			"isPrivate" : true,
 			"lyrics" : {
-				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage208.jpg",
-				"imageVersion" : 1
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage208.jpg"
 			}
 		}, {
 			"id" : 2000155,
@@ -715,8 +701,7 @@
 			"singer" : "טיפקס - 281",
 			"isPrivate" : true,
 			"lyrics" : {
-				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page281.jpg",
-				"imageVersion" : 1
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page281.jpg"
 			}
 		}, {
 			"id" : 200026,
@@ -1032,8 +1017,7 @@
 			"name" : "זהב",
 			"singer" : "סטטיק ובן אל תבורי - 215",
 			"lyrics" : {
-				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage215.jpg",
-				"imageVersion" : 1
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage215.jpg"
 			}
 		}, {
 			"id" : 2000216,
@@ -1077,8 +1061,7 @@
 			"name" : "אם את עדיין אוהבת אותי",
 			"singer" : "בועז שרעבי - 221",
 			"lyrics" : {
-				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage221.jpg",
-				"imageVersion" : 1
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage221.jpg"
 			}
 		}, {
 			"id" : 2000222,
@@ -1190,8 +1173,7 @@
 			"name" : "רכבת לילה",
 			"singer" : "משינה - 236",
 			"lyrics" : {
-				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage236.jpg",
-				"imageVersion" : 1
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage236.jpg"
 			}
 		}, {
 			"id" : 2000237,
@@ -1219,8 +1201,7 @@
 			"name" : "אל תשטה באהבה",
 			"singer" : "יהורם גאון - 240",
 			"lyrics" : {
-				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage240.jpg",
-				"imageVersion" : 1
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage240.jpg"
 			}
 		}, {
 			"id" : 2000241,
@@ -1228,16 +1209,14 @@
 			"singer" : "יהורם גאון - 241",
 			"isPrivate" : true,
 			"lyrics" : {
-				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage241.jpg",
-				"imageVersion" : 1
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage241.jpg"
 			}
 		}, {
 			"id" : 2000242,
 			"name" : "שאריות של החיים",
 			"singer" : "הפרוייקט של עידן רייכל - 242",
 			"lyrics" : {
-				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage242.jpg",
-				"imageVersion" : 1
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage242.jpg"
 			}
 		}, {
 			"id" : 2000243,
@@ -1245,16 +1224,14 @@
 			"singer" : "הפרוייקט של עידן רייכל - 243",
 			"isPrivate" : true,
 			"lyrics" : {
-				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage243.jpg",
-				"imageVersion" : 1
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage243.jpg"
 			}
 		}, {
 			"id" : 2000244,
 			"name" : "תלבשי לבן",
 			"singer" : "הדודאים והפרברים - 244",
 			"lyrics" : {
-				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage244.jpg",
-				"imageVersion" : 1
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage244.jpg"
 			}
 		}, {
 			"id" : 2000245,
@@ -1262,8 +1239,7 @@
 			"singer" : "מוקי - 245",
 			"isPrivate" : true,
 			"lyrics" : {
-				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage245.jpg",
-				"imageVersion" : 1
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage245.jpg"
 			}
 		}, {
 			"id" : 2000246,
@@ -1277,8 +1253,7 @@
 			"name" : "נסיך החלומות (ולנטינו)",
 			"singer" : "גלי עטרי - 247",
 			"lyrics" : {
-				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage247.jpg",
-				"imageVersion" : 1
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage247.jpg"
 			}
 		}, {
 			"id" : 2000248,
@@ -1980,8 +1955,7 @@
 			"name" : "יומן מסע",
 			"singer" : "אביב גפן ואריק איינשטיין - 52",
 			"lyrics" : {
-				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage52.jpg",
-				"imageVersion" : 1
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage52.jpg"
 			}
 		}, {
 			"id" : 100024,
@@ -2292,8 +2266,7 @@
 			"name" : "כמה אהבה",
 			"singer" : "מאיר בנאי - 183",
 			"lyrics" : {
-				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage183.jpg",
-				"imageVersion" : 1
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage183.jpg"
 			}
 		}, {
 			"id" : 100069,
@@ -2742,8 +2715,7 @@
 				"youTubeVideoId" : "NQhLUX2Grk8"
 			},
 			"lyrics" : {
-				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page295.jpg",
-				"imageVersion" : 1
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page295.jpg"
 			}
 		}, {
 			"id" : 100025,
@@ -2884,8 +2856,7 @@
 			"name" : "מכתב לאחי",
 			"singer" : "קובי אפללו - 70",
 			"lyrics" : {
-				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage70.jpg",
-				"imageVersion" : 1
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage70.jpg"
 			}
 		}, {
 			"id" : 2000209,
@@ -2893,8 +2864,7 @@
 			"singer" : "קובי אפללו - 209",
 			"isPrivate" : true,
 			"lyrics" : {
-				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage209.jpg",
-				"imageVersion" : 1
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage209.jpg"
 			}
 		}, {
 			"id" : 1000284,
@@ -3028,8 +2998,7 @@
 			"name" : "מתנות קטנות",
 			"singer" : "רמי קלינשטיין - 279",
 			"lyrics" : {
-				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page279.jpg",
-				"imageVersion" : 1
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page279.jpg"
 			}
 		}, {
 			"id" : 200178,
@@ -3043,8 +3012,7 @@
 			"name" : "נגד הרוח",
 			"singer" : "שלום חנוך - 296",
 			"lyrics" : {
-				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page296.jpg",
-				"imageVersion" : 1
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page296.jpg"
 			}
 		}, {	
 			"id" : 200073,
@@ -4293,8 +4261,7 @@
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/english/page29.jpg",
-				"imageVersion" : 1
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/english/page29.jpg"
 			}
 		}, {
 			"id" : 300047,
@@ -4772,8 +4739,7 @@
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/english/page77.jpg",
-				"imageVersion" : 1
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/english/page77.jpg"
 			}
 		}, {
 			"id" : 300078,
@@ -4785,8 +4751,7 @@
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/english/page78.jpg",
-				"imageVersion" : 1
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/english/page78.jpg"
 			}
 		}, {
 			"id" : 300079,
@@ -4798,8 +4763,7 @@
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/english/page79.jpg",
-				"imageVersion" : 1
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/english/page79.jpg"
 			}
 		}, {
 			"id" : 300080,
@@ -4811,8 +4775,7 @@
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/english/page80.jpg",
-				"imageVersion" : 1
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/english/page80.jpg"
 				
 			}
 		}, {
@@ -4825,8 +4788,7 @@
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/english/page81.jpg",
-				"imageVersion" : 1
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/english/page81.jpg"
 			}
 		}, {
 			"id" : 300082,
@@ -4838,8 +4800,7 @@
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/english/page82.jpg",
-				"imageVersion" : 1
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/english/page82.jpg"
 			}
 		}, {
 			"id" : 300083,
@@ -4851,8 +4812,7 @@
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/english/page83.jpg",
-				"imageVersion" : 1
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/english/page83.jpg"
 			}			
 		}, {
 			"id" : 300084,
@@ -4864,8 +4824,7 @@
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/english/page84.jpg",
-				"imageVersion" : 1
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/english/page84.jpg"
 			}
 		}, {
 			"id" : 300085,
@@ -4877,8 +4836,7 @@
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/english/page85.jpg",
-				"imageVersion" : 1
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/english/page85.jpg"
 			}
 		}, {
 			"id" : 300086,
@@ -4890,8 +4848,7 @@
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/english/page86.jpg",
-				"imageVersion" : 1
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/english/page86.jpg"
 			}
 		}, {
 			"id" : 300087,
@@ -4902,8 +4859,7 @@
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/english/page87.jpg",
-				"imageVersion" : 1
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/english/page87.jpg"
 			}
 		}, {
 			"id" : 300088,
@@ -4915,8 +4871,7 @@
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/english/page88.jpg",
-				"imageVersion" : 1
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/english/page88.jpg"
 			}
 		}, {
 			"id" : 300089,
