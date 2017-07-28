@@ -9,7 +9,7 @@
 			"name" : "English"
 		}, {
 			"id" : "4",
-			"name" : "ילדים"
+			"name" : "ילדים"
 		}
 	],
 	"newSongIds" : [
@@ -273,6 +273,7 @@
 			"id" : 1000163,
 			"name" : "אלף כבאים",
 			"singer" : "דודה - 163",
+			"categoryIds" : ["4"],
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page163.jpg"
 			}
@@ -1369,9 +1370,8 @@
 			}
 		}, {
 			"id" : 2000262,
-			"name" : "אני תמיד נשאר אני (G)",
+			"name" : "אני תמיד נשאר אני",
 			"singer" : "עוזי חיטמן",
-			"isPrivate" : true,
 			"categoryIds" : ["4"],
 			"lyrics" : {
 				"markupUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage262.txt"
@@ -1391,6 +1391,55 @@
 			"categoryIds" : ["4"],
 			"lyrics" : {
 				"markupUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage264.txt"
+			}
+		}, {
+			"id" : 1000319,
+			"name" : "אורחים לקיץ (אצלינו בחצר)",
+			"singer" : "נעמי שמר",
+			"categoryIds" : ["4"],
+			"lyrics" : {
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page319.jpg"
+			}
+		}, {
+			"id" : 1000320,
+			"name" : "המשפחה שלי",
+			"singer" : "שלמה ניצן",
+			"categoryIds" : ["4"],
+			"lyrics" : {
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page320.jpg"
+			}
+		}, {
+			"id" : 1000321,
+			"name" : "עוד לא אהבתי די",
+			"singer" : "יהורם גאון",
+			"categoryIds" : ["4"],
+			"lyrics" : {
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page321.jpg"
+			}
+		}, {
+			"id" : 1000322,
+			"name" : "כאן",
+			"singer" : "אורנה ומשה דץ",
+			"categoryIds" : ["4"],
+			"lyrics" : {
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page322.jpg"
+			}
+		}, {
+			"id" : 1000323,
+			"name" : "הכל פתוח",
+			"singer" : "עופר לוי ולאה לופטין",
+			"categoryIds" : ["4"],
+			"lyrics" : {
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page323.jpg"
+			}
+		}, {
+			"id" : 1000324,
+			"name" : "אני תמיד נשאר אני (F)",
+			"singer" : "עוזי חיטמן",
+			"isPrivate" : true,
+			"categoryIds" : ["4"],
+			"lyrics" : {
+				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page324.jpg"
 			}
 		}, {
 			"id" : 1000255,
@@ -2219,6 +2268,7 @@
 			"id" : 100076,
 			"name" : "יש לי ציפור קטנה בלב",
 			"singer" : "יגאל בשן - 76",
+			"categoryIds" : ["4"],
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page76.jpg"
 			}
@@ -2489,6 +2539,7 @@
 			"id" : 1000309,
 			"name" : "תן לי",
 			"singer" : "יגאל בשן",
+			"categoryIds" : ["4"],
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page309.jpg"
 			}
@@ -3920,6 +3971,7 @@
 			"id" : 100090,
 			"name" : "שירו של שפשף",
 			"singer" : "מאיר בנאי - 90",
+			"categoryIds" : ["4"],
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page90.jpg"
 			}
