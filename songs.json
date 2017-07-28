@@ -1368,6 +1368,31 @@
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage261.jpg"
 			}
 		}, {
+			"id" : 2000262,
+			"name" : "אני תמיד נשאר אני (G)",
+			"singer" : "עוזי חיטמן",
+			"isPrivate" : true,
+			"categoryIds" : ["4"],
+			"lyrics" : {
+				"markupUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage262.txt"
+			}
+		}, {
+			"id" : 2000263,
+			"name" : "שירי ילדות",
+			"singer" : "עוזי חיטמן",
+			"categoryIds" : ["4"],
+			"lyrics" : {
+				"markupUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage263.txt"
+			}
+		}, {
+			"id" : 2000264,
+			"name" : "נולדתי לשלום",
+			"singer" : "עוזי חיטמן",
+			"categoryIds" : ["4"],
+			"lyrics" : {
+				"markupUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage264.txt"
+			}
+		}, {
 			"id" : 1000255,
 			"name" : "הולך בטל",
 			"singer" : "תמוז - 255",
