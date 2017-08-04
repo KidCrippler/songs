@@ -1,5 +1,5 @@
 {
-	"version" : "2017_08_04",
+	"version" : "2017_08_05",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -2007,7 +2007,6 @@
 			"id" : 1000280,
 			"name" : "רק אל תלכי",
 			"singer" : "זקני צפת",
-			"isPrivate" : true,
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page280.jpg"
 			}
@@ -2015,7 +2014,6 @@
 			"id" : 1000281,
 			"name" : "בתוך נייר עיתון",
 			"singer" : "טיפקס",
-			"isPrivate" : true,
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page281.jpg"
 			}
@@ -2023,7 +2021,6 @@
 			"id" : 1000282,
 			"name" : "רבות הדרכים",
 			"singer" : "דניאל סלומון ודנה עדיני",
-			"isPrivate" : true,
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_ophir/page282.jpg"
 			}
@@ -3009,7 +3006,7 @@
 			}
 		}, {
 			"id" : 2000093,
-			"name" : "רומיאו (Am)",
+			"name" : "רומיאו",
 			"singer" : "יהודית תמיר",
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage93.jpg"
@@ -3018,6 +3015,7 @@
 			"id" : 2000094,
 			"name" : "רומיאו (Dm)",
 			"singer" : "יהודית תמיר",
+			"isPrivate" : true,
 			"lyrics" : {
 				"imageUrl" : "https://dl.dropboxusercontent.com/u/26544964/music_system/hebrew_alon/apage94.jpg"
 			}
@@ -4342,7 +4340,7 @@
 			}
 		}, {
 			"id" : 3000011,
-			"name" : "Happy Together (F#m)",
+			"name" : "Happy Together",
 			"singer" : "Turtles",
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
@@ -4361,7 +4359,7 @@
 		}, {
 			"id" : 3000013,
 			"name" : "In The Ghetto",
-			"singer" : "Elvis Presley / Scott Davis",
+			"singer" : "Elvis Presley",
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
@@ -4839,7 +4837,7 @@
 			"id" : 3000078,
 			"name" : "Crazy (Em)",
 			"singer" : "Ninet & Red Band",
-			"isPrivate" : false,
+			"isPrivate" : true,
 			"playback": {
 				"youTubeVideoId" : "HLeXPmxUffE"
 			},
@@ -4958,7 +4956,7 @@
 			"id" : 3000088,
 			"name" : "Speed of Sound (E)",
 			"singer" : "Coldplay",
-			"isPrivate" : false,
+			"isPrivate" : true,
 			"playback": {
 				"youTubeVideoId" : "0k_1kvDh2UA"
 			},
@@ -5014,6 +5012,7 @@
 			"id" : 3000093,
 			"name" : "Can You Feel The Love Tonight (D)",
 			"singer" : "Elton John",
+			"isPrivate" : true,
 			"playback": {
 				"youTubeVideoId" : "Y1hcc1QvM2Q"
 			},
