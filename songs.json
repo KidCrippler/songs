@@ -4940,7 +4940,7 @@
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page101.txt"
 			}
-		}
+		}, {
 			"id" : 3000060,
 			"name" : "Lorelei (Am)",
 			"singer" : "The Scorpions",
@@ -5109,6 +5109,6 @@
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page96.jpg"
 			}
-		}, {
+		}
 	]
 }
