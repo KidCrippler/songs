@@ -1,5 +1,5 @@
 {
-	"version" : "2017_08_06",
+	"version" : "2017_08_07",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -4264,7 +4264,7 @@
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english/page1.jpg"
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page1.jpg"
 			}
 		}, {
 			"id" : 3000002,
@@ -4273,7 +4273,7 @@
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english/page2.jpg"
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page2.jpg"
 			}
 		}, {
 			"id" : 3000003,
@@ -4282,7 +4282,7 @@
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english/page3.jpg"
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page3.jpg"
 			}
 		}, {
 			"id" : 3000004,
@@ -4291,7 +4291,7 @@
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english/page4.jpg"
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page4.jpg"
 			}
 		}, {
 			"id" : 3000006,
@@ -4300,7 +4300,7 @@
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english/page6.jpg"
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page6.jpg"
 			}
 		}, {
 			"id" : 3000007,
@@ -4309,7 +4309,7 @@
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english/page7.jpg"
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page7.jpg"
 			}
 		}, {
 			"id" : 3000008,
@@ -4318,7 +4318,7 @@
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english/page8.jpg"
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page8.jpg"
 			}
 		}, {
 			"id" : 3000009,
@@ -4327,7 +4327,7 @@
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english/page9.jpg"
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page9.jpg"
 			}
 		}, {
 			"id" : 3000010,
@@ -4336,7 +4336,7 @@
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english/page10.jpg"
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page10.jpg"
 			}
 		}, {
 			"id" : 3000011,
@@ -4345,7 +4345,7 @@
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english/page11.jpg"
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page11.jpg"
 			}
 		}, {
 			"id" : 3000012,
@@ -4354,7 +4354,7 @@
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english/page12.jpg"
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page12.jpg"
 			}
 		}, {
 			"id" : 3000013,
@@ -4363,7 +4363,7 @@
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english/page13.jpg"
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page13.jpg"
 			}
 		}, {
 			"id" : 3000015,
@@ -4372,7 +4372,7 @@
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english/page15.jpg"
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page15.jpg"
 			}
 		}, {
 			"id" : 3000016,
@@ -4381,7 +4381,7 @@
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english/page16.jpg"
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page16.jpg"
 			}
 		}, {
 			"id" : 3000017,
@@ -4390,7 +4390,7 @@
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english/page17.jpg"
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page17.jpg"
 			}
 		}, {
 			"id" : 3000019,
@@ -4399,7 +4399,7 @@
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english/page19.jpg"
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page19.jpg"
 			}
 		}, {
 			"id" : 3000020,
@@ -4408,7 +4408,7 @@
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english/page20.jpg"
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page20.jpg"
 			}
 		}, {
 			"id" : 3000021,
@@ -4417,7 +4417,7 @@
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english/page21.jpg"
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page21.jpg"
 			}
 		}, {
 			"id" : 3000022,
@@ -4426,7 +4426,7 @@
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english/page22.jpg"
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page22.jpg"
 			}
 		}, {
 			"id" : 3000023,
@@ -4435,7 +4435,7 @@
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english/page23.jpg"
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page23.jpg"
 			}
 		}, {
 			"id" : 3000024,
@@ -4444,7 +4444,7 @@
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english/page24.jpg"
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page24.jpg"
 			}
 		}, {
 			"id" : 3000025,
@@ -4453,7 +4453,7 @@
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english/page25.jpg"
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page25.jpg"
 			}
 		}, {
 			"id" : 3000026,
@@ -4462,7 +4462,7 @@
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english/page26.jpg"
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page26.jpg"
 			}
 		}, {
 			"id" : 3000028,
@@ -4471,7 +4471,7 @@
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english/page28.jpg"
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page28.jpg"
 			}
 		}, {
 			"id" : 3010028,
@@ -4480,7 +4480,7 @@
 			"isPrivate" : true,
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english/page28_g.jpg"
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page28_g.jpg"
 			}
 		}, {
 			"id" : 3000029,
@@ -4489,7 +4489,7 @@
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english/page29.jpg"
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page29.jpg"
 			}
 		}, {
 			"id" : 3000030,
@@ -4498,7 +4498,7 @@
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english/page30.jpg"
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page30.jpg"
 			}
 		}, {
 			"id" : 3010030,
@@ -4510,7 +4510,7 @@
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english/page30_a.jpg"
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page30_a.jpg"
 			}
 		}, {
 			"id" : 3000031,
@@ -4519,7 +4519,7 @@
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english/page31.jpg"
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page31.jpg"
 			}
 		}, {
 			"id" : 3000034,
@@ -4528,7 +4528,7 @@
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english/page34.jpg"
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page34.jpg"
 			}
 		}, {
 			"id" : 3000039,
@@ -4537,7 +4537,7 @@
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english/page39.jpg"
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page39.jpg"
 			}
 		}, {
 			"id" : 3000040,
@@ -4546,7 +4546,7 @@
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english/page40.jpg"
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page40.jpg"
 			}
 		}, {
 			"id" : 3000041,
@@ -4555,7 +4555,7 @@
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english/page41.jpg"
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page41.jpg"
 			}
 		}, {
 			"id" : 3000042,
@@ -4564,7 +4564,7 @@
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english/page42.jpg"
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page42.jpg"
 			}
 		}, {
 			"id" : 3000043,
@@ -4573,7 +4573,7 @@
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english/page43.jpg"
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page43.jpg"
 			}
 		}, {
 			"id" : 3000044,
@@ -4582,7 +4582,7 @@
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english/page44.jpg"
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page44.jpg"
 			}
 		}, {
 			"id" : 3000045,
@@ -4591,7 +4591,7 @@
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english/page45.jpg"
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page45.jpg"
 			}
 		}, {
 			"id" : 3000046,
@@ -4600,7 +4600,7 @@
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english/page46.jpg"
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page46.jpg"
 			}
 		}, {
 			"id" : 3000047,
@@ -4609,7 +4609,7 @@
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english/page47.jpg"
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page47.jpg"
 			}
 		}, {
 			"id" : 3000048,
@@ -4618,7 +4618,7 @@
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english/page48.jpg"
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page48.jpg"
 			}
 		}, {
 			"id" : 3000049,
@@ -4627,7 +4627,7 @@
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english/page49.jpg"
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page49.jpg"
 			}
 		}, {
 			"id" : 3000050,
@@ -4636,7 +4636,7 @@
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english/page50.jpg"
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page50.jpg"
 			}
 		}, {
 			"id" : 3000051,
@@ -4645,7 +4645,7 @@
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english/page51.jpg"
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page51.jpg"
 			}
 		}, {
 			"id" : 3000054,
@@ -4654,7 +4654,7 @@
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english/page54.jpg"
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page54.jpg"
 			}
 		}, {
 			"id" : 3000055,
@@ -4663,7 +4663,7 @@
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english/page55.jpg"
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page55.jpg"
 			}
 		}, {
 			"id" : 3000056,
@@ -4672,70 +4672,7 @@
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english/page56.jpg"
-			}
-		}, {
-			"id" : 3000060,
-			"name" : "Lorelei (Am)",
-			"singer" : "The Scorpions",
-			"isPrivate" : false,
-			"categoryIds" : ["2"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english/page60.jpg"
-			}
-		}, {
-			"id" : 3010060,
-			"name" : "Lorelei (Cm)",
-			"singer" : "The Scorpions",
-			"isPrivate" : true,
-			"categoryIds" : ["2"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english/page60_cm.jpg"
-			}
-		}, {
-			"id" : 3020060,
-			"name" : "Lorelei (Em)",
-			"singer" : "The Scorpions",
-			"isPrivate" : true,
-			"categoryIds" : ["2"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english/page60_em.jpg"
-			}
-		}, {
-			"id" : 3000061,
-			"name" : "Piano Man",
-			"singer" : "Billy Joel",
-			"isPrivate" : false,
-			"categoryIds" : ["2"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english/page61.jpg"
-			}
-		}, {
-			"id" : 3000062,
-			"name" : "She's Like The Wind",
-			"singer" : "Patrick Swayze",
-			"isPrivate" : false,
-			"categoryIds" : ["2"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english/page62.jpg"
-			}
-		}, {
-			"id" : 3000063,
-			"name" : "When I Was Your Man",
-			"singer" : "Bruno Mars",
-			"isPrivate" : false,
-			"categoryIds" : ["2"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english/page63.jpg"
-			}
-		}, {
-			"id" : 3000064,
-			"name" : "Your Song",
-			"singer" : "Elton John",
-			"isPrivate" : false,
-			"categoryIds" : ["2"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english/page64.jpg"
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page56.jpg"
 			}
 		}, {
 			"id" : 3000065,
@@ -4744,7 +4681,7 @@
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english/page65.jpg"
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page65.jpg"
 			}
 		}, {
 			"id" : 3000066,
@@ -4753,7 +4690,7 @@
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english/page66.jpg"
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page66.jpg"
 			}
 		}, {
 			"id" : 3000067,
@@ -4762,7 +4699,7 @@
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english/page67.jpg"
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page67.jpg"
 			}
 		}, {
 			"id" : 3000069,
@@ -4771,7 +4708,7 @@
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english/page69.jpg"
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page69.jpg"
 			}
 		}, {
 			"id" : 3000070,
@@ -4780,7 +4717,7 @@
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english/page70.jpg"
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page70.jpg"
 			}
 		}, {
 			"id" : 3000071,
@@ -4789,34 +4726,7 @@
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english/page71.jpg"
-			}
-		}, {
-			"id" : 3000072,
-			"name" : "Drops of Jupiter",
-			"singer" : "Train",
-			"isPrivate" : false,
-			"categoryIds" : ["2"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english/page72.jpg"
-			}
-		}, {
-			"id" : 3010072,
-			"name" : "Drops of Jupiter (A)",
-			"singer" : "Train",
-			"isPrivate" : true,
-			"categoryIds" : ["2"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english/page72_a.jpg"
-			}
-		}, {
-			"id" : 3000074,
-			"name" : "Patience",
-			"singer" : "Take That",
-			"isPrivate" : false,
-			"categoryIds" : ["2"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english/page74.jpg"
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page71.jpg"
 			}
 		}, {
 			"id" : 3000075,
@@ -4825,7 +4735,7 @@
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english/page75.jpg"
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page75.jpg"
 			}
 		}, {
 			"id" : 3000076,
@@ -4834,7 +4744,7 @@
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english/page76.jpg"
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page76.jpg"
 			}
 		}, {
 			"id" : 3000077,
@@ -4843,7 +4753,7 @@
 			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english/page77.jpg"
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page77.jpg"
 			}
 		}, {
 			"id" : 3010077,
@@ -4855,7 +4765,7 @@
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english/page77_em.jpg"
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page77_em.jpg"
 			}
 		}, {
 			"id" : 3000079,
@@ -4867,7 +4777,7 @@
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english/page79.jpg"
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page79.jpg"
 			}
 		}, {
 			"id" : 3000080,
@@ -4879,7 +4789,7 @@
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english/page80.jpg"
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page80.jpg"
 			}
 		}, {
 			"id" : 3000081,
@@ -4891,7 +4801,7 @@
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english/page81.jpg"
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page81.jpg"
 			}
 		}, {
 			"id" : 3000083,
@@ -4903,7 +4813,7 @@
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english/page83.jpg"
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page83.jpg"
 			}
 		}, {
 			"id" : 3010083,
@@ -4915,7 +4825,7 @@
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english/page83_am.jpg"
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page83_am.jpg"
 			}
 		}, {
 			"id" : 3000085,
@@ -4927,7 +4837,7 @@
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english/page85.jpg"
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page85.jpg"
 			}
 		}, {
 			"id" : 3000086,
@@ -4939,7 +4849,7 @@
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english/page86.jpg"
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page86.jpg"
 			}
 		}, {
 			"id" : 3010086,
@@ -4951,40 +4861,7 @@
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english/page86_e.jpg"
-			}
-		}, {
-			"id" : 3000087,
-			"name" : "Hero",
-			"singer" : "Mariah Carey",
-			"playback": {
-				"youTubeVideoId" : "0IA3ZvCkRkQ"
-			},
-			"categoryIds" : ["2"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english/page87.jpg"
-			}
-		}, {
-			"id" : 3000089,
-			"name" : "Jailhouse Rock",
-			"singer" : "Elvis Presley",
-			"playback": {
-				"youTubeVideoId" : "gj0Rz-uP4Mk"
-			},
-			"categoryIds" : ["2"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english/page89.jpg"
-			}
-		}, {
-			"id" : 3000090,
-			"name" : "Mustang Sally",
-			"singer" : "Wilson Pickett",
-			"playback": {
-				"youTubeVideoId" : "h1FRrZD2y9Y"
-			},
-			"categoryIds" : ["2"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english/page90.jpg"
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page86_e.jpg"
 			}
 		}, {
 			"id" : 3000091,
@@ -4995,7 +4872,196 @@
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english/page91.jpg"
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page91.jpg"
+			}
+		}, {
+			"id" : 3000094,
+			"name" : "Blue Suede Shoes",
+			"singer" : "Elvis Presley",
+			"playback": {
+				"youTubeVideoId" : "T1Ond-OwgU8"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page94.jpg"
+			}
+		}, {
+			"id" : 3000097,
+			"name" : "Make You Feel My Love",
+			"singer" : "Adele",
+			"playback": {
+				"youTubeVideoId" : "450p7goxZqg"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page97.txt"
+			}
+		}, {
+			"id" : 3000098,
+			"name" : "Every Breath You Take",
+			"singer" : "The Police",
+			"playback": {
+				"youTubeVideoId" : "450p7goxZqg"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page98.txt"
+			}
+		}, {
+			"id" : 3000099,
+			"name" : "California Dreamin'",
+			"singer" : "The Mamas & The Papas",
+			"playback": {
+				"youTubeVideoId" : "450p7goxZqg"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page99.txt"
+			}
+		}, {
+			"id" : 3000100,
+			"name" : "The Sound of Silence",
+			"singer" : "Simon and Garfunkel",
+			"playback": {
+				"youTubeVideoId" : "450p7goxZqg"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page100.txt"
+			}
+		}, {
+			"id" : 3000101,
+			"name" : "Nobody's Wife",
+			"singer" : "Anouk",
+			"playback": {
+				"youTubeVideoId" : "450p7goxZqg"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page101.txt"
+			}
+		}
+			"id" : 3000060,
+			"name" : "Lorelei (Am)",
+			"singer" : "The Scorpions",
+			"isPrivate" : false,
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page60.jpg"
+			}
+		}, {
+			"id" : 3010060,
+			"name" : "Lorelei (Cm)",
+			"singer" : "The Scorpions",
+			"isPrivate" : true,
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page60_cm.jpg"
+			}
+		}, {
+			"id" : 3020060,
+			"name" : "Lorelei (Em)",
+			"singer" : "The Scorpions",
+			"isPrivate" : true,
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page60_em.jpg"
+			}
+		}, {
+			"id" : 3000061,
+			"name" : "Piano Man",
+			"singer" : "Billy Joel",
+			"isPrivate" : false,
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page61.jpg"
+			}
+		}, {
+			"id" : 3000062,
+			"name" : "She's Like The Wind",
+			"singer" : "Patrick Swayze",
+			"isPrivate" : false,
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page62.jpg"
+			}
+		}, {
+			"id" : 3000063,
+			"name" : "When I Was Your Man",
+			"singer" : "Bruno Mars",
+			"isPrivate" : false,
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page63.jpg"
+			}
+		}, {
+			"id" : 3000064,
+			"name" : "Your Song",
+			"singer" : "Elton John",
+			"isPrivate" : false,
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page64.jpg"
+			}
+		}, {
+			"id" : 3000072,
+			"name" : "Drops of Jupiter",
+			"singer" : "Train",
+			"isPrivate" : false,
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page72.jpg"
+			}
+		}, {
+			"id" : 3010072,
+			"name" : "Drops of Jupiter (A)",
+			"singer" : "Train",
+			"isPrivate" : true,
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page72_a.jpg"
+			}
+		}, {
+			"id" : 3000074,
+			"name" : "Patience",
+			"singer" : "Take That",
+			"isPrivate" : false,
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page74.jpg"
+			}
+		}, {
+			"id" : 3000087,
+			"name" : "Hero",
+			"singer" : "Mariah Carey",
+			"playback": {
+				"youTubeVideoId" : "0IA3ZvCkRkQ"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page87.jpg"
+			}
+		}, {
+			"id" : 3000089,
+			"name" : "Jailhouse Rock",
+			"singer" : "Elvis Presley",
+			"playback": {
+				"youTubeVideoId" : "gj0Rz-uP4Mk"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page89.jpg"
+			}
+		}, {
+			"id" : 3000090,
+			"name" : "Mustang Sally",
+			"singer" : "Wilson Pickett",
+			"playback": {
+				"youTubeVideoId" : "h1FRrZD2y9Y"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page90.jpg"
 			}
 		}, {
 			"id" : 3000092,
@@ -5006,7 +5072,7 @@
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english/page92.jpg"
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page92.jpg"
 			}
 		}, {
 			"id" : 3010092,
@@ -5018,18 +5084,7 @@
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english/page92_d.jpg"
-			}
-		}, {
-			"id" : 3000094,
-			"name" : "Blue Suede Shoes",
-			"singer" : "Elvis Presley",
-			"playback": {
-				"youTubeVideoId" : "T1Ond-OwgU8"
-			},
-			"categoryIds" : ["2"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english/page94.jpg"
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page92_d.jpg"
 			}
 		}, {
 			"id" : 3000095,
@@ -5040,8 +5095,8 @@
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english/page95.jpg",
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english/page95.txt"
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page95.jpg",
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page95.txt"
 			}
 		}, {
 			"id" : 3000096,
@@ -5052,63 +5107,8 @@
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english/page96.jpg"
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page96.jpg"
 			}
 		}, {
-			"id" : 3000097,
-			"name" : "Make You Feel My Love",
-			"singer" : "Adele",
-			"playback": {
-				"youTubeVideoId" : "450p7goxZqg"
-			},
-			"categoryIds" : ["2"],
-			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english/page97.txt"
-			}
-		}, {
-			"id" : 3000098,
-			"name" : "Every Breath You Take",
-			"singer" : "The Police",
-			"playback": {
-				"youTubeVideoId" : "450p7goxZqg"
-			},
-			"categoryIds" : ["2"],
-			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english/page98.txt"
-			}
-		}, {
-			"id" : 3000099,
-			"name" : "California Dreamin'",
-			"singer" : "The Mamas & The Papas",
-			"playback": {
-				"youTubeVideoId" : "450p7goxZqg"
-			},
-			"categoryIds" : ["2"],
-			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english/page99.txt"
-			}
-		}, {
-			"id" : 3000100,
-			"name" : "The Sound of Silence",
-			"singer" : "Simon and Garfunkel",
-			"playback": {
-				"youTubeVideoId" : "450p7goxZqg"
-			},
-			"categoryIds" : ["2"],
-			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english/page100.txt"
-			}
-		}, {
-			"id" : 3000101,
-			"name" : "Nobody's Wife",
-			"singer" : "Anouk",
-			"playback": {
-				"youTubeVideoId" : "450p7goxZqg"
-			},
-			"categoryIds" : ["2"],
-			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english/page101.txt"
-			}
-		}
 	]
 }
