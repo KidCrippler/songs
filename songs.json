@@ -4272,6 +4272,21 @@
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage266.jpg"
 			}
 		}, {
+			"id" : 2000267,
+			"name" : "בלדה לשוטר",
+			"singer" : "אושיק לוי",
+			"lyrics" : {
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage267.jpg"
+			}
+		}, {
+			"id" : 2000268,
+			"name" : "בלדה לשוטר (Em)",
+			"singer" : "אושיק לוי",
+			"isPrivate" : true,
+			"lyrics" : {
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage268.jpg"
+			}
+		}, {
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
 			"singer" : "Beatles",
