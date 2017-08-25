@@ -1,5 +1,5 @@
 {
-	"version" : "2017_08_07",
+	"version" : "2017_08_25",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -2230,7 +2230,6 @@
 			"id" : 1000297,
 			"name" : "הדרכים הידועות (Gm)",
 			"singer" : "שלום חנוך",
-			"isPrivate" : false,
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page297.jpg"
 			}
@@ -2253,7 +2252,6 @@
 			"id" : 1000300,
 			"name" : "לב חופשי",
 			"singer" : "מוקי",
-			"isPrivate" : false,
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page300.jpg"
 			}
@@ -4290,7 +4288,6 @@
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
 			"singer" : "Beatles",
-			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page1.jpg"
@@ -4299,7 +4296,6 @@
 			"id" : 3000002,
 			"name" : "Help",
 			"singer" : "The Beatles",
-			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page2.jpg"
@@ -4308,7 +4304,6 @@
 			"id" : 3000003,
 			"name" : "Time Of Your Life",
 			"singer" : "Green Day",
-			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page3.jpg"
@@ -4317,7 +4312,6 @@
 			"id" : 3000004,
 			"name" : "Jealous Guy",
 			"singer" : "John Lennon",
-			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page4.jpg"
@@ -4326,7 +4320,6 @@
 			"id" : 3000006,
 			"name" : "Space Oddity",
 			"singer" : "David Bowie",
-			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page6.jpg"
@@ -4335,7 +4328,6 @@
 			"id" : 3000007,
 			"name" : "Nights in White Satin",
 			"singer" : "Moody Blues",
-			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page7.jpg"
@@ -4344,7 +4336,6 @@
 			"id" : 3000008,
 			"name" : "One",
 			"singer" : "U2",
-			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page8.jpg"
@@ -4353,7 +4344,6 @@
 			"id" : 3000009,
 			"name" : "Angie",
 			"singer" : "Rolling Stones",
-			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page9.jpg"
@@ -4362,7 +4352,6 @@
 			"id" : 3000010,
 			"name" : "Everything For Free",
 			"singer" : "K's Choise",
-			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page10.jpg"
@@ -4371,7 +4360,6 @@
 			"id" : 3000011,
 			"name" : "Happy Together",
 			"singer" : "Turtles",
-			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page11.jpg"
@@ -4380,7 +4368,6 @@
 			"id" : 3000012,
 			"name" : "Let it Be",
 			"singer" : "The Beatles",
-			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page12.jpg"
@@ -4389,7 +4376,6 @@
 			"id" : 3000013,
 			"name" : "In The Ghetto",
 			"singer" : "Elvis Presley",
-			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page13.jpg"
@@ -4398,7 +4384,6 @@
 			"id" : 3000015,
 			"name" : "House Of The Rising Sun",
 			"singer" : "The Animals",
-			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page15.jpg"
@@ -4407,7 +4392,6 @@
 			"id" : 3000016,
 			"name" : "Heaven",
 			"singer" : "Bryan Adams",
-			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page16.jpg"
@@ -4416,7 +4400,6 @@
 			"id" : 3000017,
 			"name" : "Dust in The Wind",
 			"singer" : "Kansas",
-			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page17.jpg"
@@ -4425,7 +4408,6 @@
 			"id" : 3000019,
 			"name" : "He ain't Heavy, He's my Brother",
 			"singer" : "The Hollies",
-			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page19.jpg"
@@ -4434,7 +4416,6 @@
 			"id" : 3000020,
 			"name" : "Sister Golden Hair",
 			"singer" : "America",
-			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page20.jpg"
@@ -4443,7 +4424,6 @@
 			"id" : 3000021,
 			"name" : "Comfortably Numb",
 			"singer" : "Pink Floyd",
-			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page21.jpg"
@@ -4452,7 +4432,6 @@
 			"id" : 3000022,
 			"name" : "Wish You Were Here",
 			"singer" : "Pink Floyd",
-			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page22.jpg"
@@ -4461,7 +4440,6 @@
 			"id" : 3000023,
 			"name" : "Across the Universe",
 			"singer" : "The Beatles",
-			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page23.jpg"
@@ -4470,7 +4448,6 @@
 			"id" : 3000024,
 			"name" : "Eternal Flame",
 			"singer" : "Bangles",
-			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page24.jpg"
@@ -4479,7 +4456,6 @@
 			"id" : 3000025,
 			"name" : "Wuthering Heights",
 			"singer" : "Kate Bush",
-			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page25.jpg"
@@ -4488,7 +4464,6 @@
 			"id" : 3000026,
 			"name" : "What's Up",
 			"singer" : "4 Non Blondes",
-			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page26.jpg"
@@ -4497,7 +4472,6 @@
 			"id" : 3000028,
 			"name" : "Ironic",
 			"singer" : "Alanis Morissette",
-			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page28.jpg"
@@ -4515,7 +4489,6 @@
 			"id" : 3000029,
 			"name" : "Daniel",
 			"singer" : "Elton John",
-			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page29.jpg"
@@ -4524,7 +4497,6 @@
 			"id" : 3000030,
 			"name" : "Goodbye Yellow Brick Road",
 			"singer" : "Elton john",
-			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page30.jpg"
@@ -4545,7 +4517,6 @@
 			"id" : 3000031,
 			"name" : "Zombie",
 			"singer" : "Cranberries",
-			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page31.jpg"
@@ -4554,7 +4525,6 @@
 			"id" : 3000034,
 			"name" : "Moonlight Shadow",
 			"singer" : "Mike oldfield",
-			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page34.jpg"
@@ -4563,7 +4533,6 @@
 			"id" : 3000039,
 			"name" : "Something",
 			"singer" : "The Beatles",
-			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page39.jpg"
@@ -4572,7 +4541,6 @@
 			"id" : 3000040,
 			"name" : "I Want to Hold Your Hand",
 			"singer" : "The Beatles",
-			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page40.jpg"
@@ -4581,7 +4549,6 @@
 			"id" : 3000041,
 			"name" : "The Night Before",
 			"singer" : "The Beatles",
-			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page41.jpg"
@@ -4590,7 +4557,6 @@
 			"id" : 3000042,
 			"name" : "And I Love Her",
 			"singer" : "The Beatles",
-			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page42.jpg"
@@ -4599,7 +4565,6 @@
 			"id" : 3000043,
 			"name" : "I Saw Her Standing There",
 			"singer" : "The Beatles",
-			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page43.jpg"
@@ -4608,7 +4573,6 @@
 			"id" : 3000044,
 			"name" : "Come Together",
 			"singer" : "The Beatles",
-			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page44.jpg"
@@ -4617,7 +4581,6 @@
 			"id" : 3000045,
 			"name" : "Ziggy Stardust",
 			"singer" : "David Bowie",
-			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page45.jpg"
@@ -4626,7 +4589,6 @@
 			"id" : 3000046,
 			"name" : "Proud Mary",
 			"singer" : "Creedence Clearwater Revival",
-			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page46.jpg"
@@ -4635,7 +4597,6 @@
 			"id" : 3000047,
 			"name" : "Day Tripper",
 			"singer" : "The Beatles",
-			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page47.jpg"
@@ -4644,7 +4605,6 @@
 			"id" : 3000048,
 			"name" : "Born To Be Wild",
 			"singer" : "Steppenwolf",
-			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page48.jpg"
@@ -4653,7 +4613,6 @@
 			"id" : 3000049,
 			"name" : "Under The Bridge",
 			"singer" : "Red Hot Chilli Peppers",
-			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page49.jpg"
@@ -4662,7 +4621,6 @@
 			"id" : 3000050,
 			"name" : "Easy Like Sunday Morning",
 			"singer" : "Faith No More",
-			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page50.jpg"
@@ -4671,7 +4629,6 @@
 			"id" : 3000051,
 			"name" : "Sad Lisa",
 			"singer" : "Cat Stevens",
-			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page51.jpg"
@@ -4680,7 +4637,6 @@
 			"id" : 3000054,
 			"name" : "Bird of Paradise",
 			"singer" : "Snowy White",
-			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page54.jpg"
@@ -4689,7 +4645,6 @@
 			"id" : 3000055,
 			"name" : "More Than Words",
 			"singer" : "Exterme",
-			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page55.jpg"
@@ -4698,7 +4653,6 @@
 			"id" : 3000056,
 			"name" : "Bridge Over Troubled Water",
 			"singer" : "Simon and Garfunkel",
-			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page56.jpg"
@@ -4707,7 +4661,6 @@
 			"id" : 3000065,
 			"name" : "Life on Mars",
 			"singer" : "David Bowie",
-			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page65.jpg"
@@ -4716,7 +4669,6 @@
 			"id" : 3000066,
 			"name" : "Hallelujah",
 			"singer" : "Leonard Cohen",
-			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page66.jpg"
@@ -4725,7 +4677,6 @@
 			"id" : 3000067,
 			"name" : "Creep",
 			"singer" : "Radiohead",
-			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page67.jpg"
@@ -4734,7 +4685,6 @@
 			"id" : 3000069,
 			"name" : "Eye in The Sky",
 			"singer" : "The Alan Parsons Project",
-			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page69.jpg"
@@ -4743,7 +4693,6 @@
 			"id" : 3000070,
 			"name" : "Karma Police",
 			"singer" : "Radiohead",
-			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page70.jpg"
@@ -4752,7 +4701,6 @@
 			"id" : 3000071,
 			"name" : "Can't Help Falling in Love",
 			"singer" : "Elvis Presley",
-			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page71.jpg"
@@ -4761,7 +4709,6 @@
 			"id" : 3000075,
 			"name" : "Sweet Child of Mine",
 			"singer" : "Guns N Roses",
-			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page75.jpg"
@@ -4770,7 +4717,6 @@
 			"id" : 3000076,
 			"name" : "Knocking on Heaven's Door",
 			"singer" : "Guns N Roses",
-			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page76.jpg"
@@ -4779,7 +4725,6 @@
 			"id" : 3000077,
 			"name" : "Crazy",
 			"singer" : "Ninet & Red Band",
-			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page77.jpg"
@@ -4800,7 +4745,6 @@
 			"id" : 3000079,
 			"name" : "Secret Smile",
 			"singer" : "Semisonic",
-			"isPrivate" : false,
 			"playback": {
 				"youTubeVideoId" : "kryV3E4QKGk"
 			},
@@ -4812,7 +4756,6 @@
 			"id" : 3000080,
 			"name" : "Against All Odds",
 			"singer" : "Phil Collins",
-			"isPrivate" : false,
 			"playback": {
 				"youTubeVideoId" : "uVjEcIANv1o"
 			},
@@ -4824,7 +4767,6 @@
 			"id" : 3000081,
 			"name" : "Will You?",
 			"singer" : "Oconnor Hazel",
-			"isPrivate" : false,
 			"playback": {
 				"youTubeVideoId" : "Ou96vLl--e4"
 			},
@@ -4836,7 +4778,6 @@
 			"id" : 3000083,
 			"name" : "Hotel California",
 			"singer" : "Eagles",
-			"isPrivate" : false,
 			"playback": {
 				"youTubeVideoId" : "lrfhf1Gv4Tw"
 			},
@@ -4860,7 +4801,6 @@
 			"id" : 3000085,
 			"name" : "Vincent",
 			"singer" : "Don McLean",
-			"isPrivate" : false,
 			"playback": {
 				"youTubeVideoId" : "oxHnRfhDmrk"
 			},
@@ -4872,7 +4812,6 @@
 			"id" : 3000086,
 			"name" : "Speed of sound",
 			"singer" : "Coldplay",
-			"isPrivate" : false,
 			"playback": {
 				"youTubeVideoId" : "0k_1kvDh2UA"
 			},
@@ -4973,7 +4912,6 @@
 			"id" : 4000060,
 			"name" : "Lorelei (Am)",
 			"singer" : "The Scorpions",
-			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page60.jpg"
@@ -5000,7 +4938,6 @@
 			"id" : 4000061,
 			"name" : "Piano Man",
 			"singer" : "Billy Joel",
-			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page61.jpg"
@@ -5009,7 +4946,6 @@
 			"id" : 4000062,
 			"name" : "She's Like The Wind",
 			"singer" : "Patrick Swayze",
-			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page62.jpg"
@@ -5018,7 +4954,6 @@
 			"id" : 4000063,
 			"name" : "When I Was Your Man",
 			"singer" : "Bruno Mars",
-			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page63.jpg"
@@ -5027,7 +4962,6 @@
 			"id" : 4000064,
 			"name" : "Your Song",
 			"singer" : "Elton John",
-			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page64.jpg"
@@ -5036,7 +4970,6 @@
 			"id" : 4000072,
 			"name" : "Drops of Jupiter",
 			"singer" : "Train",
-			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page72.jpg"
@@ -5054,7 +4987,6 @@
 			"id" : 4000074,
 			"name" : "Patience",
 			"singer" : "Take That",
-			"isPrivate" : false,
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page74.jpg"
