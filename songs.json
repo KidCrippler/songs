@@ -1,5 +1,5 @@
 {
-	"version" : "2017_08_25",
+	"version" : "2017_08_26",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -2432,6 +2432,46 @@
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page323.jpg"
 			}
 		}, {
+			"id" : 1000324,
+			"name" : "מדוע לא באת",
+			"singer" : "ירמי קפלן",
+			"playback": {
+				"youTubeVideoId" : "ib9OeNCBq18"
+			},
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page324.txt"
+			}
+		}, {
+			"id" : 1000325,
+			"name" : "נחמד",
+			"singer" : "כוורת",
+			"playback": {
+				"youTubeVideoId" : "uDcsnHh2T_g"
+			},
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page325.txt"
+			}
+		}, {
+			"id" : 1000326,
+			"name" : "גורל נדוש",
+			"singer" : "יובל בנאי",
+			"playback": {
+				"youTubeVideoId" : "b_MMYGHX064"
+			},
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page326.txt"
+			}
+		}, {
+			"id" : 1000327,
+			"name" : "חוזה לך ברח",
+			"singer" : "אושיק לוי",
+			"playback": {
+				"youTubeVideoId" : "0G-QmnueywQ"
+			},
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page327.txt"
+			}
+		}, {
 			"id" : 2000001,
 			"name" : "אדון שוקו",
 			"singer" : "אריק איינשטיין",
@@ -4381,6 +4421,14 @@
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page13.jpg"
 			}
 		}, {
+			"id" : 3000014,
+			"name" : "Romeo and Juliet",
+			"singer" : "Dire Straits",
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page14.jpg"
+			}
+		}, {
 			"id" : 3000015,
 			"name" : "House Of The Rising Sun",
 			"singer" : "The Animals",
@@ -4869,7 +4917,7 @@
 			"name" : "Every Breath You Take",
 			"singer" : "The Police",
 			"playback": {
-				"youTubeVideoId" : "450p7goxZqg"
+				"youTubeVideoId" : "OMOGaugKpzs"
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
@@ -4880,7 +4928,7 @@
 			"name" : "California Dreamin'",
 			"singer" : "The Mamas & The Papas",
 			"playback": {
-				"youTubeVideoId" : "450p7goxZqg"
+				"youTubeVideoId" : "N-aK6JnyFmk"
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
@@ -4891,7 +4939,7 @@
 			"name" : "The Sound of Silence",
 			"singer" : "Simon and Garfunkel",
 			"playback": {
-				"youTubeVideoId" : "450p7goxZqg"
+				"youTubeVideoId" : "RZYpzXjdtwg"
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
@@ -4902,11 +4950,56 @@
 			"name" : "Nobody's Wife",
 			"singer" : "Anouk",
 			"playback": {
-				"youTubeVideoId" : "450p7goxZqg"
+				"youTubeVideoId" : "3RaHTDNude4"
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page101.txt"
+			}
+		}, {
+			"id" : 3000102,
+			"name" : "Sultan of Swing",
+			"singer" : "Dire Straits",
+			"isPrivate" : true,
+			"playback": {
+				"youTubeVideoId" : "l5Zpmaz2OKE"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page102.txt"
+			}
+		}, {
+			"id" : 3000103,
+			"name" : "Californication ",
+			"singer" : "Red Hot Chili Peppers",
+			"playback": {
+				"youTubeVideoId" : "YlUKcNNmywk"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page103.txt"
+			}
+		}, {
+			"id" : 3000104,
+			"name" : "Psycho killer",
+			"singer" : "Talking Heads",
+			"playback": {
+				"youTubeVideoId" : "O52jAYa4Pm8"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page104.txt"
+			}
+		}, {
+			"id" : 3000105,
+			"name" : "Waterfalls",
+			"singer" : "TLC",
+			"playback": {
+				"youTubeVideoId" : "8WEtxJ4-sh4"
+			},
+			"categoryIds" : ["3"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page105.txt"
 			}
 		}, {
 			"id" : 4000060,
