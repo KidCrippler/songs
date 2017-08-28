@@ -1,5 +1,5 @@
 {
-	"version" : "2017_08_26",
+	"version" : "2017_08_27",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -4317,12 +4317,26 @@
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage267.jpg"
 			}
 		}, {
-			"id" : 2000268,
+			"id" : 2010267,
 			"name" : "בלדה לשוטר (Em)",
 			"singer" : "אושיק לוי",
 			"isPrivate" : true,
 			"lyrics" : {
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage267_em.jpg"
+			}
+		}, {
+			"id" : 2000268,
+			"name" : "תביא קצת דינרוס",
+			"singer" : "אתניקס",
+			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage268.jpg"
+			}
+		}, {
+			"id" : 2000269,
+			"name" : "אני שוב מתאהב",
+			"singer" : "גידי גוב",
+			"lyrics" : {
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage269.jpg"
 			}
 		}, {
 			"id" : 3000001,
@@ -5173,6 +5187,28 @@
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page97.jpg"
+			}
+		}, {
+			"id" : 4000098,
+			"name" : "Stand By Me",
+			"singer" : "Ben E. King",
+			"playback": {
+				"youTubeVideoId" : "hwZNL7QVJjE"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page98.jpg"
+			}
+		}, {
+			"id" : 4000099,
+			"name" : "Angels",
+			"singer" : "Robbie Williams",
+			"playback": {
+				"youTubeVideoId" : "luwAMFcc2f8"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page99.jpg"
 			}
 		}
 	]
