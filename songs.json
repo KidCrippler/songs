@@ -1,5 +1,5 @@
 {
-	"version" : "2017_08_28",
+	"version" : "2017_08_29",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -3830,6 +3830,14 @@
 			"singer" : "מני בגר וגלי עטרי",
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage197.jpg"
+			}
+		}, {
+			"id" : 2010197,
+			"name" : "דואט פרידה (G)",
+			"singer" : "מני בגר וגלי עטרי",
+			"isPrivate" : true,
+			"lyrics" : {
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage197_g.jpg"
 			}
 		}, {
 			"id" : 2000198,
