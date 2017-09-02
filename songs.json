@@ -4466,6 +4466,9 @@
 			"id" : 3000014,
 			"name" : "Romeo and Juliet",
 			"singer" : "Dire Straits",
+			"playback": {
+				"youTubeVideoId" : "rC95MEenIxA"
+			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page14.txt"
@@ -5003,7 +5006,7 @@
 			"name" : "Sultan of Swing",
 			"singer" : "Dire Straits",
 			"playback": {
-				"youTubeVideoId" : "l5Zpmaz2OKE"
+				"youTubeVideoId" : "0fAQhSRLQnM"
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
