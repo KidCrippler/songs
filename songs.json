@@ -1,5 +1,5 @@
 {
-	"version" : "2017_09_02",
+	"version" : "2017_09_03",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -2490,6 +2490,26 @@
 			},
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page329.txt"
+			}
+		}, {
+			"id" : 1000330,
+			"name" : "היא יושבה לחלון",
+			"singer" : "אריק איינשטיין",
+			"playback": {
+				"youTubeVideoId" : "mQDAtnMcwdQ"
+			},
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page330.txt"
+			}
+		}, {
+			"id" : 1000331,
+			"name" : "חמימות חולפת",
+			"singer" : "דנה ברגר",
+			"playback": {
+				"youTubeVideoId" : "_n8lP7vgZS8"
+			},
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page331.txt"
 			}
 		}, {
 			"id" : 2000001,
@@ -5072,6 +5092,17 @@
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page107.txt"
+			}
+		}, {
+			"id" : 3000108,
+			"name" : "Road Trippin",
+			"singer" : "Red Hot Chili Peppers",
+			"playback": {
+				"youTubeVideoId" : "11GYvfYjyV0"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page108.txt"
 			}
 		}, {
 			"id" : 4000060,
