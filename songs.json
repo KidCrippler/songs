@@ -1,5 +1,5 @@
 {
-	"version" : "2017_08_27",
+	"version" : "2017_09_04",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -4329,7 +4329,8 @@
 			"name" : "תביא קצת דינרוס",
 			"singer" : "אתניקס",
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage268.jpg"
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage268.jpg",
+				"imageVersion" : 1
 			}
 		}, {
 			"id" : 2000269,
@@ -5079,7 +5080,8 @@
 			"singer" : "Train",
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page72.jpg"
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page72.jpg",
+				"imageVersion" : 1
 			}
 		}, {
 			"id" : 4010072,
@@ -5088,7 +5090,8 @@
 			"isPrivate" : true,
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page72_a.jpg"
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page72_a.jpg",
+				"imageVersion" : 1
 			}
 		}, {
 			"id" : 4000074,
@@ -5209,6 +5212,17 @@
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page99.jpg"
+			}
+		}, {
+			"id" : 4000100,
+			"name" : "Show me The Meaning of Being Lonely",
+			"singer" : "Backstreet Boys",
+			"playback": {
+				"youTubeVideoId" : "aBt8fN7mJNg"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page100.txt"
 			}
 		}
 	]
