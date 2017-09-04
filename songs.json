@@ -2023,7 +2023,7 @@
 			"name" : "מה שאת אוהבת",
 			"singer" : "גלי עטרי",
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page266.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page266.txt"
 			}
 		}, {
 			"id" : 1000267,
@@ -2470,6 +2470,46 @@
 			},
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page327.txt"
+			}
+		}, {
+			"id" : 1000328,
+			"name" : "הכי יפה בעולם",
+			"singer" : "מאור כהן",
+			"playback": {
+				"youTubeVideoId" : "PAHHFO3hB2o"
+			},
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page328.txt"
+			}
+		}, {
+			"id" : 1000329,
+			"name" : "הולכת ממך",
+			"singer" : "שרון חזיז",
+			"playback": {
+				"youTubeVideoId" : "kRK9tvCAU6E"
+			},
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page329.txt"
+			}
+		}, {
+			"id" : 1000330,
+			"name" : "היא יושבה לחלון",
+			"singer" : "אריק איינשטיין",
+			"playback": {
+				"youTubeVideoId" : "mQDAtnMcwdQ"
+			},
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page330.txt"
+			}
+		}, {
+			"id" : 1000331,
+			"name" : "חמימות חולפת",
+			"singer" : "דנה ברגר",
+			"playback": {
+				"youTubeVideoId" : "_n8lP7vgZS8"
+			},
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page331.txt"
 			}
 		}, {
 			"id" : 2000001,
@@ -3832,6 +3872,14 @@
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage197.jpg"
 			}
 		}, {
+			"id" : 2010197,
+			"name" : "דואט פרידה (G)",
+			"singer" : "מני בגר וגלי עטרי",
+			"isPrivate" : true,
+			"lyrics" : {
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage197_g.jpg"
+			}
+		}, {
 			"id" : 2000198,
 			"name" : "גשם",
 			"singer" : "מאיר בנאי",
@@ -4202,6 +4250,9 @@
 			"id" : 2000252,
 			"name" : "השיר על תוכי יוסי",
 			"singer" : "אריק איינשטיין",
+			"playback": {
+				"youTubeVideoId" : "Vb-Lo8FvHtQ"
+			},
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage252.jpg"
 			}
@@ -4210,6 +4261,9 @@
 			"name" : "השיר על תוכי יוסי (D)",
 			"singer" : "אריק איינשטיין",
 			"isPrivate" : true,
+			"playback": {
+				"youTubeVideoId" : "Vb-Lo8FvHtQ"
+			},
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage252_d.jpg"
 			}
@@ -4439,9 +4493,12 @@
 			"id" : 3000014,
 			"name" : "Romeo and Juliet",
 			"singer" : "Dire Straits",
+			"playback": {
+				"youTubeVideoId" : "rC95MEenIxA"
+			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page14.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page14.txt"
 			}
 		}, {
 			"id" : 3000015,
@@ -4975,9 +5032,8 @@
 			"id" : 3000102,
 			"name" : "Sultan of Swing",
 			"singer" : "Dire Straits",
-			"isPrivate" : true,
 			"playback": {
-				"youTubeVideoId" : "l5Zpmaz2OKE"
+				"youTubeVideoId" : "0fAQhSRLQnM"
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
@@ -5012,9 +5068,42 @@
 			"playback": {
 				"youTubeVideoId" : "8WEtxJ4-sh4"
 			},
-			"categoryIds" : ["3"],
+			"categoryIds" : ["2"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page105.txt"
+			}
+		}, {
+			"id" : 3000106,
+			"name" : "Summer of 69",
+			"singer" : "Bryan Adams",
+			"playback": {
+				"youTubeVideoId" : "9f06QZCVUHg"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page106.txt"
+			}
+		}, {
+			"id" : 3000107,
+			"name" : "Wonderwall",
+			"singer" : "Oasis",
+			"playback": {
+				"youTubeVideoId" : "bx1Bh8ZvH84"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page107.txt"
+			}
+		}, {
+			"id" : 3000108,
+			"name" : "Road Trippin",
+			"singer" : "Red Hot Chili Peppers",
+			"playback": {
+				"youTubeVideoId" : "11GYvfYjyV0"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page108.txt"
 			}
 		}, {
 			"id" : 4000060,

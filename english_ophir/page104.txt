@@ -1,9 +1,9 @@
 Psycho killer - Talking Heads
 
-{[Bass]}   
-/A   /A   /A   /A   /A   /A   /A   /E /G   X4
+{Bass}   
+/A   /A   /A   /A   /A   /A   /A   /E /G   {X4}
 
-Am        Am        Am        Am   G  X2
+Am        Am        Am        Am   G  {X2}
 
 
 A                                        G
@@ -30,7 +30,7 @@ F              G                C
          F      G
 Oh oh oh ohhhh  ayayayayau
 
-Am        Am        Am        Am   G  X2
+Am        Am        Am        Am   G  {X2}
 
 A                                                     G
    You start a conversation you can't even finish it
