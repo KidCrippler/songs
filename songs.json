@@ -1,5 +1,5 @@
 {
-	"version" : "2017_09_04",
+	"version" : "2017_09_09",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -3189,10 +3189,18 @@
 			}
 		}, {
 			"id" : 2000088,
-			"name" : "צוותא (Em)",
+			"name" : "צוותא",
 			"singer" : "שלמה ארצי",
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage88.jpg"
+			}
+		}, {
+			"id" : 2010088,
+			"name" : "צוותא (Em)",
+			"singer" : "שלמה ארצי",
+			"isPrivate" : true,
+			"lyrics" : {
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage88_em.jpg"
 			}
 		}, {
 			"id" : 2000089,
