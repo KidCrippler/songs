@@ -1,5 +1,5 @@
 {
-	"version" : "2017_09_09",
+	"version" : "2017_09_11",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -2510,6 +2510,16 @@
 			},
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page331.txt"
+			}
+		}, {
+			"id" : 1000332,
+			"name" : "שועל במנוסה",
+			"singer" : "פורטיסחרוב",
+			"playback": {
+				"youTubeVideoId" : "v=s7bRxBhbPxM"
+			},
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page332.txt"
 			}
 		}, {
 			"id" : 2000001,
@@ -5112,6 +5122,17 @@
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page108.txt"
+			}
+		}, {
+			"id" : 3000109,
+			"name" : "Losing My Religion",
+			"singer" : "REM",
+			"playback": {
+				"youTubeVideoId" : "xwtdhWltSIg"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page109.txt"
 			}
 		}, {
 			"id" : 4000060,
