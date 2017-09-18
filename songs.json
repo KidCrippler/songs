@@ -1,5 +1,5 @@
 {
-	"version" : "2017_09_12",
+	"version" : "2017_09_19",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -2520,6 +2520,16 @@
 			},
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page332.txt"
+			}
+		}, {
+			"id" : 1000333,
+			"name" : "באתי אלייך",
+			"singer" : "אייל גולן",
+			"playback": {
+				"youTubeVideoId" : "joStlhuYjfk"
+			},
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page333.txt"
 			}
 		}, {
 			"id" : 2000001,
@@ -5140,6 +5150,17 @@
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page109.txt"
+			}
+		}, {
+			"id" : 3000110,
+			"name" : "Nothing Else Matters",
+			"singer" : "Metallica",
+			"playback": {
+				"youTubeVideoId" : "tAGnKpE4NCI"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page110.txt"
 			}
 		}, {
 			"id" : 4000060,
