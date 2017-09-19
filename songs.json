@@ -4345,6 +4345,14 @@
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage260.jpg"
 			}
 		}, {
+			"id" : 2010260,
+			"name" : "שיר לשירה (C)",
+			"singer" : "מירי מסיקה",
+			"isPrivate" : true,
+			"lyrics" : {
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage260_c.jpg"
+			}
+		}, {
 			"id" : 2000262,
 			"name" : "אני תמיד נשאר אני",
 			"singer" : "עוזי חיטמן",
@@ -4427,6 +4435,43 @@
 			"singer" : "דני רובס",
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage270.jpg"
+			}
+		}, {
+			"id" : 2000271,
+			"name" : "ברית עולם",
+			"singer" : "מתי כספי",
+			"lyrics" : {
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage271.jpg"
+			}
+		}, {
+			"id" : 2000272,
+			"name" : "מה שהלב בחר",
+			"singer" : "קובי אפללו",
+			"lyrics" : {
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage272.jpg"
+			}
+		}, {
+			"id" : 2010272,
+			"name" : "מה שהלב בחר (C)",
+			"singer" : "קובי אפללו",
+			"isPrivate" : true,
+			"lyrics" : {
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage272_c.jpg"
+			}
+		}, {
+			"id" : 2000273,
+			"name" : "בא מן השתיקה",
+			"singer" : "קובי אפללו",
+			"lyrics" : {
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage273.jpg"
+			}
+		}, {
+			"id" : 2010273,
+			"name" : "בא מן השתיקה (G)",
+			"singer" : "קובי אפללו",
+			"isPrivate" : true,
+			"lyrics" : {
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage273_g.jpg"
 			}
 		}, {
 			"id" : 3000001,
