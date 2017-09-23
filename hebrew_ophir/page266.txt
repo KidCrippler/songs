@@ -6,8 +6,8 @@ Cmaj7        Gm
 
 {קצבי + סולו חשמלית}
 
-G     A     Fm     Bm
-G     A     Fm     Bm
+G     A     F#m     Bm
+G     A     F#m     Bm
 Cmaj7           Gm  F#
 
  B        Ebm      Abm
@@ -23,10 +23,10 @@ Em            A
 Em             A     A
 אל תלכי עם מי שלא
 
-  G    A Fm      Bm
-תעשי    רק מה שאת 
-G   A    Fm     Bm
-אוהבת    רק מה שאת 
+  G     A F#m     Bm
+תעשי     רק מה שאת
+  G A    F#m     Bm
+אוהבת    רק מה שאת
 Cmaj7        Gm         Gm F#
 חושבת    שיהיה לך טוב
 
@@ -43,11 +43,11 @@ Em             A
 Em             A    A
 כל מה שתרצי לזכור
 
-  G    A Fm      Bm
-תעשי    רק מה שאת 
-G   A    Fm     Bm
-אוהבת    רק מה שאת 
-Cmaj7        Gm         Gm F#
+  G     A F#m     Bm
+תעשי     רק מה שאת
+  G A    F#m     Bm
+אוהבת    רק מה שאת
+Cmaj7        Gm         Gm   F#
 חושבת    שיהיה לך טוב
 
 B        Ebm       Abm
@@ -65,16 +65,16 @@ Em               A    A
 
 {קצבי{
 
-G    A Fm      Bm
-תעשי    רק מה שאת 
-G   A    Fm     Bm
-אוהבת    רק מה שאת 
-Cmaj7        Gm         Gm F#
+  G     A F#m     Bm
+תעשי     רק מה שאת
+  G A    F#m     Bm
+אוהבת    רק מה שאת
+Cmaj7        Gm         Gm   F#
 חושבת    שיהיה לך טוב
-G    A Fm      Bm
-תעשי    רק מה שאת 
-G   A    Fm     Bm
-אוהבת    רק מה שאת 
+  G     A F#m     Bm
+תעשי     רק מה שאת
+  G A    F#m     Bm
+אוהבת    רק מה שאת
 Cmaj7        Gm
 חושבת    שיהיה לך טוב
 Cmaj7        Gm
