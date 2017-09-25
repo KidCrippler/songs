@@ -1,5 +1,5 @@
 {
-	"version" : "2017_09_25",
+	"version" : "2017_09_26",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -2024,7 +2024,7 @@
 			"singer" : "גלי עטרי",
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page266.txt",
-				"markupVersion" : 1
+				"markupVersion" : 2
 			}
 		}, {
 			"id" : 1000267,
@@ -2531,6 +2531,26 @@
 			},
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page333.txt"
+			}
+		}, {
+			"id" : 1000334,
+			"name" : "לבן בחלום שחור",
+			"singer" : "איפה הילד",
+			"playback": {
+				"youTubeVideoId" : "lupkDR8fC2A"
+			},
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page334.txt"
+			}
+		}, {
+			"id" : 1000335,
+			"name" : "שקיעתה של הזריחה",
+			"singer" : "פורטיסחרוב",
+			"playback": {
+				"youTubeVideoId" : "F1IundkSmAg"
+			},
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page335.txt"
 			}
 		}, {
 			"id" : 2000001,
@@ -5223,6 +5243,28 @@
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page110.txt"
+			}
+		}, {
+			"id" : 3000111,
+			"name" : "Fly away",
+			"singer" : "Lenny Kraviz",
+			"playback": {
+				"youTubeVideoId" : "EvuL5jyCHOw"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page111.txt"
+			}
+		}, {
+			"id" : 3000112,
+			"name" : "The power of love",
+			"singer" : "Frankie goes to Hollywood",
+			"playback": {
+				"youTubeVideoId" : "NyoTvgPn0rU"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page112.txt"
 			}
 		}, {
 			"id" : 4000060,
