@@ -1,5 +1,5 @@
 {
-	"version" : "2017_09_26",
+	"version" : "2017_09_30",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -5495,6 +5495,29 @@
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page102.txt"
+			}
+		}, {
+			"id" : 4000103,
+			"name" : "Back For Good",
+			"singer" : "Take That",
+			"playback": {
+				"youTubeVideoId" : "4R8xTu68r54"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page103.txt"
+			}
+		}, {
+			"id" : 4010103,
+			"name" : "Back For Good (D)",
+			"singer" : "Take That",
+			"isPrivate" : true,
+			"playback": {
+				"youTubeVideoId" : "4R8xTu68r54"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page103_d.txt"
 			}
 		}
 	]
