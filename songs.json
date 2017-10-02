@@ -1,4 +1,4 @@
-{
+﻿{
 	"version" : "2017_09_30",
 	"title" : "Default Songs List new",
 	"categories" : [{
@@ -2024,7 +2024,7 @@
 			"singer" : "גלי עטרי",
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page266.txt",
-				"markupVersion" : 2
+				"markupVersion" : "2"
 			}
 		}, {
 			"id" : 1000267,
@@ -4441,7 +4441,7 @@
 			"singer" : "אתניקס",
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage268.jpg",
-				"imageVersion" : 1
+				"imageVersion" : "1"
 			}
 		}, {
 			"id" : 2000269,
@@ -4463,7 +4463,7 @@
 			"singer" : "מתי כספי",
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage271.jpg",
-				"imageVersion" : 1
+				"imageVersion" : "1"
 			}
 		}, {
 			"id" : 2000272,
@@ -5331,7 +5331,7 @@
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page72.jpg",
-				"imageVersion" : 1
+				"imageVersion" : "1"
 			}
 		}, {
 			"id" : 4010072,
@@ -5341,7 +5341,7 @@
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page72_a.jpg",
-				"imageVersion" : 1
+				"imageVersion" : "1"
 			}
 		}, {
 			"id" : 4000074,
