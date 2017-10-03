@@ -4511,6 +4511,21 @@
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage274_c.jpg"
 			}
 		}, {
+			"id" : 2000275,
+			"name" : "מעלה מעלה",
+			"singer" : "צביקה פיק",
+			"lyrics" : {
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage275.jpg"
+			}
+		}, {
+			"id" : 2010275,
+			"name" : "מעלה מעלה (C)",
+			"singer" : "צביקה פיק",
+			"isPrivate" : true,
+			"lyrics" : {
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage275_c.jpg"
+			}
+		}, {
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
 			"singer" : "Beatles",
