@@ -1,5 +1,5 @@
 {
-	"version" : "2017_10_04",
+	"version" : "2017_10_07",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -4526,6 +4526,36 @@
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage275_c.jpg"
 			}
 		}, {
+			"id" : 2000276,
+			"name" : "BMW שחורה",
+			"singer" : "אתניקס",
+			"lyrics" : {
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage276.jpg"
+			}
+		}, {
+			"id" : 2010276,
+			"name" : "BMW שחורה (Em)",
+			"singer" : "אתניקס",
+			"isPrivate" : true,
+			"lyrics" : {
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage276_em.jpg"
+			}
+		}, {
+			"id" : 2000277,
+			"name" : "אבניבי",
+			"singer" : "יזהר כהן",
+			"lyrics" : {
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage277.jpg"
+			}
+		}, {
+			"id" : 2010277,
+			"name" : "אבניבי (Am)",
+			"singer" : "יזהר כהן",
+			"isPrivate" : true,
+			"lyrics" : {
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage277_am.jpg"
+			}
+		}, {
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
 			"singer" : "Beatles",
@@ -5062,7 +5092,7 @@
 			}
 		}, {
 			"id" : 3000086,
-			"name" : "Speed of sound",
+			"name" : "Speed of Sound",
 			"singer" : "Coldplay",
 			"playback": {
 				"youTubeVideoId" : "0k_1kvDh2UA"
@@ -5162,7 +5192,7 @@
 			}
 		}, {
 			"id" : 3000102,
-			"name" : "Sultan of Swing",
+			"name" : "Sultans of Swing",
 			"singer" : "Dire Straits",
 			"playback": {
 				"youTubeVideoId" : "0fAQhSRLQnM"
@@ -5228,7 +5258,7 @@
 			}
 		}, {
 			"id" : 3000108,
-			"name" : "Road Trippin",
+			"name" : "Road Trippin'",
 			"singer" : "Red Hot Chili Peppers",
 			"playback": {
 				"youTubeVideoId" : "11GYvfYjyV0"
@@ -5261,7 +5291,7 @@
 			}
 		}, {
 			"id" : 3000111,
-			"name" : "Fly away",
+			"name" : "Fly Away",
 			"singer" : "Lenny Kraviz",
 			"playback": {
 				"youTubeVideoId" : "EvuL5jyCHOw"
@@ -5272,8 +5302,8 @@
 			}
 		}, {
 			"id" : 3000112,
-			"name" : "The power of love",
-			"singer" : "Frankie goes to Hollywood",
+			"name" : "The Power of Love",
+			"singer" : "Frankie Goes to Hollywood",
 			"playback": {
 				"youTubeVideoId" : "NyoTvgPn0rU"
 			},
