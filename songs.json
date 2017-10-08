@@ -1,5 +1,5 @@
 {
-	"version" : "2017_10_07",
+	"version" : "2017_10_09",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -2551,6 +2551,36 @@
 			},
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page335.txt"
+			}
+		}, {
+			"id" : 1000336,
+			"name" : "עכשיו אני",
+			"singer" : "החברים של נטשה",
+			"playback": {
+				"youTubeVideoId" : "2zfu7njbiM4"
+			},
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page336.txt"
+			}
+		}, {
+			"id" : 1000337,
+			"name" : "תותים",
+			"singer" : "אתניקס",
+			"playback": {
+				"youTubeVideoId" : "BXfbSYpGHi0"
+			},
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page337.txt"
+			}
+		}, {
+			"id" : 1000338,
+			"name" : "בלעדייך",
+			"singer" : "אייל גולן",
+			"playback": {
+				"youTubeVideoId" : "pJUOvbD9pus"
+			},
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page338.txt"
 			}
 		}, {
 			"id" : 2000001,
@@ -5311,6 +5341,47 @@
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page112.txt",
 				"markupVersion" : "1"
+			}
+		}, {
+			"id" : 3000113,
+			"name" : "Lithium",
+			"singer" : "Nirvana",
+			"playback": {
+				"youTubeVideoId" : "pkcJEvMcnEg"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page113.txt"
+			}
+		}, {
+			"id" : 3000114,
+			"name" : "Poison",
+			"singer" : "Alice Cooper",
+			"playback": {
+				"youTubeVideoId" : "Qq4j1LtCdww"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page114.txt"
+			}
+		}, {
+			"id" : 3000115,
+			"name" : "Purple Rain",
+			"singer" : "Prince",
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page115.txt"
+			}
+		}, {
+			"id" : 3000116,
+			"name" : "Back on the Chain Gang",
+			"singer" : "The Pretenders",
+			"playback": {
+				"youTubeVideoId" : "CK3uf5V0pDA"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page116.txt"
 			}
 		}, {
 			"id" : 4000060,
