@@ -445,7 +445,8 @@
 			"name" : "מעיין",
 			"singer" : "קורין אלאל",
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page56.jpg"
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page56.jpg",
+				"imageVersion" : "1"
 			}
 		}, {
 			"id" : 1000057,
@@ -2363,14 +2364,6 @@
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page315.txt"
 			}
 		}, {
-			"id" : 1100315,
-			"name" : "מחר הוא יחזור גרפי",
-			"singer" : "דני רובס",
-			"isPrivate" : true,
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page315.jpg"
-			}
-		}, {
 			"id" : 1000316,
 			"name" : "גג",
 			"singer" : "ג'ירפות",
@@ -2581,6 +2574,37 @@
 			},
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page338.txt"
+			}
+		}, {
+			"id" : 1010338,
+			"name" : "בלעדייך (Em)",
+			"singer" : "אייל גולן",
+			"isPrivate" : true,
+			"playback": {
+				"youTubeVideoId" : "pJUOvbD9pus"
+			},
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page338_em.txt"
+			}
+		}, {
+			"id" : 1000339,
+			"name" : "פצעים ונשיקות",
+			"singer" : "מוניקה סקס",
+			"playback": {
+				"youTubeVideoId" : "jLPwAQR87cE"
+			},
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page339.txt"
+			}
+		}, {
+			"id" : 1000340,
+			"name" : "זו ילדותי השניה",
+			"singer" : "מתי כספי",
+			"playback": {
+				"youTubeVideoId" : "rlNcPADjcmA"
+			},
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page340.txt"
 			}
 		}, {
 			"id" : 2000001,
@@ -4493,7 +4517,7 @@
 			"singer" : "מתי כספי",
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage271.jpg",
-				"imageVersion" : "1"
+				"imageVersion" : "2"
 			}
 		}, {
 			"id" : 2000272,
@@ -4778,7 +4802,7 @@
 			"singer" : "4 Non Blondes",
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page26.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page26.txt"
 			}
 		}, {
 			"id" : 3000028,
@@ -5382,6 +5406,17 @@
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page116.txt"
+			}
+		}, {
+			"id" : 3000117,
+			"name" : "Valerie",
+			"singer" : "Amy Winehouse",
+			"playback": {
+				"youTubeVideoId" : "d_EADBnXjXc"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page117.txt"
 			}
 		}, {
 			"id" : 4000060,
