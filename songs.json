@@ -1,5 +1,5 @@
 {
-	"version" : "2017_10_09",
+	"version" : "2017_10_13",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -69,7 +69,7 @@
 			"name" : "עד הקצה",
 			"singer" : "דנה ברגר",
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page8.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page8.txt"
 			}
 		}, {
 			"id" : 1000009,
@@ -241,7 +241,7 @@
 			"name" : "סוף העונה",
 			"singer" : "גלי עטרי",
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page29.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page29.txt"
 			}
 		}, {
 			"id" : 1000030,
@@ -822,16 +822,22 @@
 			"id" : 1000110,
 			"name" : "הדפוק הזה",
 			"singer" : "ירמי קפלן",
+			"playback": {
+				"youTubeVideoId" : "LGVVp1ikF-c"
+			},
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page110.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page110.txt"
 			}
 		}, {
 			"id" : 1010110,
 			"name" : "הדפוק הזה (F)",
 			"singer" : "ירמי קפלן",
 			"isPrivate" : true,
+			"playback": {
+				"youTubeVideoId" : "LGVVp1ikF-c"
+			},
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page110_f.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page110_f.txt"
 			}
 		}, {
 			"id" : 1000111,
@@ -2604,7 +2610,8 @@
 				"youTubeVideoId" : "rlNcPADjcmA"
 			},
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page340.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page340.txt",
+				"markupVersion" : "1"
 			}
 		}, {
 			"id" : 2000001,
@@ -4677,9 +4684,12 @@
 			"id" : 3000010,
 			"name" : "Everything For Free",
 			"singer" : "K's Choise",
+			"playback": {
+				"youTubeVideoId" : "lbaDfc2goXs"
+			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page10.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page10.txt"
 			}
 		}, {
 			"id" : 3000011,
@@ -4693,9 +4703,12 @@
 			"id" : 3000012,
 			"name" : "Let it Be",
 			"singer" : "The Beatles",
+			"playback": {
+				"youTubeVideoId" : "wGCMznqgqhE"
+			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page12.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page12.txt"
 			}
 		}, {
 			"id" : 3000013,
@@ -4808,15 +4821,21 @@
 			"id" : 3000028,
 			"name" : "Ironic",
 			"singer" : "Alanis Morissette",
+			"playback": {
+				"youTubeVideoId" : "Jne9t8sHpUc"
+			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page28.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page28.txt"
 			}
 		}, {
 			"id" : 3010028,
 			"name" : "Ironic (G)",
 			"singer" : "Alanis Morissette",
 			"isPrivate" : true,
+			"playback": {
+				"youTubeVideoId" : "Jne9t8sHpUc"
+			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page28_g.jpg"
@@ -4989,6 +5008,9 @@
 			"id" : 3000056,
 			"name" : "Bridge Over Troubled Water",
 			"singer" : "Simon and Garfunkel",
+			"playback": {
+				"youTubeVideoId" : "H_a46WJ1viA"
+			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page56.jpg"
@@ -5417,6 +5439,17 @@
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page117.txt"
+			}
+		}, {
+			"id" : 4000056,
+			"name" : "Bridge Over Troubled Water",
+			"singer" : "Josh Groban & Brian McKnight",
+			"playback": {
+				"youTubeVideoId" : "gxMHPszFnc0"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page56.jpg"
 			}
 		}, {
 			"id" : 4000060,
