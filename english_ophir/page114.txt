@@ -1,16 +1,16 @@
 ﻿Poison - Alice Cooper
 
-D      D
 {Guitar solo}
-Bb     D      Bb     D      Bb     D 
-Bb     Bb    
+D.......      DD!      DD!
+{Drums}
+Bb     D      Bb     D      Bb     D          Bb     Bb    
 {quiet}
 Dm      Dm
  
 Dm            Bb         F            C
    Your cruel    device    Your blood   like ice
-Gm          Eb            B          D             D
-   One look    could kill    My pain   your thrill
+Gm          Eb            Bb          D             D
+   One look    could kill    My pain    your thrill
  
 {Loud} 
 Gm           Eb             Bb         F            Cm
@@ -28,7 +28,7 @@ I don't want to break these chains
 
 Dm            Bb        F           C 
    Your mouth    so hot   Your web    I'm caught
-Gm           Eb         B              D           D
+Gm           Eb         Bb              D           D
    Your skin    so wet     Black lace     on sweat
 
 Gm             Eb               Bb          F         Cm
@@ -41,12 +41,11 @@ Dm           Bb                F        C        Dm     Bb  F   C
    I want to kiss you but your lips are venomous poison
        Dm     Bb      F          C            Dm     Bb   F   C
 You're poison running through my veins You're poison
-Dm      Bb      F           C        Bb   Bb
+Dm      Bb      F           C        Bb      Bb
 I don't want to break these chains   Poison...
 
 {Guitar solo}
-Bb     D      Bb     D      Bb     D 
-Bb     D
+Bb     D      Bb     D      Bb     D      Bb     D
 
 Gm                Eb                      Bb 
     One look (one look) could kill (could kill)
