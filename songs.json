@@ -5465,17 +5465,6 @@
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page117.txt"
 			}
 		}, {
-			"id" : 4000056,
-			"name" : "Bridge Over Troubled Water",
-			"singer" : "Josh Groban & Brian McKnight",
-			"playback": {
-				"youTubeVideoId" : "gxMHPszFnc0"
-			},
-			"categoryIds" : ["2"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page56.jpg"
-			}
-		}, {
 			"id" : 4000060,
 			"name" : "Lorelei (Am)",
 			"singer" : "The Scorpions",
