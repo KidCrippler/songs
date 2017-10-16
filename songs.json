@@ -1,5 +1,5 @@
 {
-	"version" : "2017_10_13",
+	"version" : "2017_10_17",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -4615,6 +4615,29 @@
 			"isPrivate" : true,
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage277_am.jpg"
+			}
+		}, {
+			"id" : 2000278,
+			"name" : "עולה עולה",
+			"singer" : "יזהר כהן",
+			"lyrics" : {
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage278.jpg"
+			}
+		}, {
+			"id" : 2010278,
+			"name" : "עולה עולה (C#m)",
+			"singer" : "יזהר כהן",
+			"isPrivate" : true,
+			"lyrics" : {
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage278_c#m.jpg"
+			}
+		}, {
+			"id" : 2020278,
+			"name" : "עולה עולה (F#m)",
+			"singer" : "יזהר כהן",
+			"isPrivate" : true,
+			"lyrics" : {
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage278_f#m.jpg"
 			}
 		}, {
 			"id" : 3000001,
