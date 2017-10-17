@@ -4629,7 +4629,7 @@
 			"singer" : "יזהר כהן",
 			"isPrivate" : true,
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage278_c#m.jpg"
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage278_c%23m.jpg"
 			}
 		}, {
 			"id" : 2020278,
@@ -4637,7 +4637,7 @@
 			"singer" : "יזהר כהן",
 			"isPrivate" : true,
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage278_f#m.jpg"
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage278_f%23m.jpg"
 			}
 		}, {
 			"id" : 3000001,
