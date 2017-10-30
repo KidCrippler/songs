@@ -1,5 +1,5 @@
 {
-	"version" : "2017_10_23",
+	"version" : "2017_10_31",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -5730,6 +5730,17 @@
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page103_d.txt"
+			}
+		}, {
+			"id" : 4000104,
+			"name" : "The Winner Takes it All",
+			"singer" : "ABBA",
+			"playback": {
+				"youTubeVideoId" : "iyIOl-s7JTU"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page104.txt"
 			}
 		}
 	]
