@@ -1,5 +1,5 @@
 {
-	"version" : "2017_11_22",
+	"version" : "2017_12_04",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -4677,6 +4677,20 @@
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage282.jpg"
 			}
 		}, {
+			"id" : 2000283,
+			"name" : "שיר בבוקר בבוקר (פתאום קם אדם)",
+			"singer" : "שלמה ארצי",
+			"lyrics" : {
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage283.jpg"
+			}
+		}, {
+			"id" : 2000284,
+			"name" : "עלש",
+			"singer" : "שלמה ארצי ושמעון בוסקילה",
+			"lyrics" : {
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage284.jpg"
+			}
+		}, {
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
 			"singer" : "Beatles",
@@ -5799,6 +5813,29 @@
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page105_g.txt"
+			}
+		}, {
+			"id" : 4000106,
+			"name" : "Hey Baby (I Wanna Know if You'll be my Girl)",
+			"singer" : "DJ Otzi",
+			"playback": {
+				"youTubeVideoId" : "Ff1EvBricL4"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page106.txt"
+			}
+		}, {
+			"id" : 4010106,
+			"name" : "Hey Baby (C)",
+			"singer" : "DJ Otzi",
+			"isPrivate" : true,
+			"playback": {
+				"youTubeVideoId" : "Ff1EvBricL4"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page106_c.txt"
 			}
 		}
 	]
