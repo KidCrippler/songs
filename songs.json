@@ -1,5 +1,5 @@
 {
-	"version" : "2017_12_31",
+	"version" : "2018_01_07",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -5364,6 +5364,14 @@
 			"categoryIds" : ["1","5"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage291.jpg"
+			}
+		}, {
+			"id" : 2000292,
+			"name" : "ג'סיקה",
+			"singer" : "אתניקס",
+			"categoryIds" : ["1","5"],
+			"lyrics" : {
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage292.jpg"
 			}
 		}, {
 			"id" : 3000001,
