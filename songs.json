@@ -1,5 +1,5 @@
 {
-	"version" : "2018_01_07",
+	"version" : "2018_01_09",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -5372,6 +5372,23 @@
 			"categoryIds" : ["1","5"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage292.jpg"
+			}
+		}, {
+			"id" : 2000293,
+			"name" : "זודיאק",
+			"singer" : "ירון חדד",
+			"categoryIds" : ["1","5"],
+			"lyrics" : {
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage293.jpg"
+			}
+		}, {
+			"id" : 2010293,
+			"name" : "זודיאק (Am)",
+			"singer" : "ירון חדד",
+			"isPrivate" : true,
+			"categoryIds" : ["1","5"],
+			"lyrics" : {
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage293_am.jpg"
 			}
 		}, {
 			"id" : 3000001,
