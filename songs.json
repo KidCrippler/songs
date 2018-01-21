@@ -6568,6 +6568,17 @@
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page107_em.txt"
 			}
+		}, {
+			"id" : 4000108,
+			"name" : "Don't Stop Me Now",
+			"singer" : "Queen",
+			"playback": {
+				"youTubeVideoId" : "HgzGwKwLmgM"
+			},
+			"categoryIds" : ["2","5"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page108.txt"
+			}
 		}
 	]
 }
