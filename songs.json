@@ -6587,6 +6587,17 @@
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page108.txt"
 			}
+		}, {
+			"id" : 4000109,
+			"name" : "Thinking Out Loud",
+			"singer" : "Ed Sheeran",
+			"playback": {
+				"youTubeVideoId" : "lp-EO5I60KA"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page109.txt"
+			}
 		}
 	]
 }
