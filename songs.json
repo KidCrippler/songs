@@ -1,5 +1,5 @@
 {
-	"version" : "2018_01_28",
+	"version" : "2018_02_04",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -5268,7 +5268,6 @@
 			"id" : 2000282,
 			"name" : "כבר עבר די זמן (מה רצינו להגיד)",
 			"singer" : "שלמה ארצי",
-			"isPrivate" : true,
 			"categoryIds" : ["1"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage282.jpg"
@@ -6304,17 +6303,8 @@
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page72.jpg",
-				"imageVersion" : "1"
-			}
-		}, {
-			"id" : 4010072,
-			"name" : "Drops of Jupiter (A)",
-			"singer" : "Train",
-			"isPrivate" : true,
-			"categoryIds" : ["2"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page72_a.jpg",
-				"imageVersion" : "1"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page72.txt",
+				"imageVersion" : "2"
 			}
 		}, {
 			"id" : 4000074,
@@ -6366,19 +6356,8 @@
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page92.jpg"
-			}
-		}, {
-			"id" : 4010092,
-			"name" : "Can You Feel The Love Tonight (D)",
-			"singer" : "Elton John",
-			"isPrivate" : true,
-			"playback": {
-				"youTubeVideoId" : "Y1hcc1QvM2Q"
-			},
-			"categoryIds" : ["2"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page92_d.jpg"
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page92.jpg",
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page92.txt"
 			}
 		}, {
 			"id" : 4000095,
