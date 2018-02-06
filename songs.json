@@ -1,5 +1,5 @@
 {
-	"version" : "2018_02_04",
+	"version" : "2018_02_06",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -6302,9 +6302,8 @@
 			"singer" : "Train",
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page72.jpg",
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page72.txt",
-				"imageVersion" : "2"
+				"markupVersion" : "2"
 			}
 		}, {
 			"id" : 4000074,
@@ -6356,7 +6355,6 @@
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page92.jpg",
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page92.txt"
 			}
 		}, {
@@ -6368,7 +6366,6 @@
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page95.jpg",
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page95.txt"
 			}
 		}, {
