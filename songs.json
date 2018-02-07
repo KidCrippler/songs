@@ -6302,8 +6302,8 @@
 			"singer" : "Train",
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page72.jpg",
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page72.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page72.txt",
+				"markupVersion" : "2"
 			}
 		}, {
 			"id" : 4000074,
@@ -6355,7 +6355,6 @@
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page92.jpg",
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page92.txt"
 			}
 		}, {
@@ -6367,7 +6366,6 @@
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page95.jpg",
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page95.txt"
 			}
 		}, {
