@@ -1,5 +1,5 @@
 {
-	"version" : "2018_02_07",
+	"version" : "2018_02_10",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -6470,18 +6470,6 @@
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page103.txt"
 			}
 		}, {
-			"id" : 4010103,
-			"name" : "Back For Good (D)",
-			"singer" : "Take That",
-			"isPrivate" : true,
-			"playback": {
-				"youTubeVideoId" : "4R8xTu68r54"
-			},
-			"categoryIds" : ["2"],
-			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page103_d.txt"
-			}
-		}, {
 			"id" : 4000104,
 			"name" : "The Winner Takes it All",
 			"singer" : "ABBA",
@@ -6504,18 +6492,6 @@
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page105.txt"
 			}
 		}, {
-			"id" : 4010105,
-			"name" : "Wake Me Up Before You Go-Go (G)",
-			"singer" : "Wham",
-			"isPrivate" : true,
-			"playback": {
-				"youTubeVideoId" : "pIgZ7gMze7A"
-			},
-			"categoryIds" : ["2","5"],
-			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page105_g.txt"
-			}
-		}, {
 			"id" : 4000106,
 			"name" : "Hey Baby (I Wanna Know if You'll be my Girl)",
 			"singer" : "DJ Otzi",
@@ -6527,18 +6503,6 @@
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page106.txt"
 			}
 		}, {
-			"id" : 4010106,
-			"name" : "Hey Baby (C)",
-			"singer" : "DJ Otzi",
-			"isPrivate" : true,
-			"playback": {
-				"youTubeVideoId" : "Ff1EvBricL4"
-			},
-			"categoryIds" : ["2","5"],
-			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page106_c.txt"
-			}
-		}, {
 			"id" : 4000107,
 			"name" : "Part Time Lover",
 			"singer" : "Stevie Wonder",
@@ -6548,18 +6512,6 @@
 			"categoryIds" : ["2","5"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page107.txt"
-			}
-		}, {
-			"id" : 4010107,
-			"name" : "Part Time Lover (Em)",
-			"singer" : "Stevie Wonder",
-			"isPrivate" : true,
-			"playback": {
-				"youTubeVideoId" : "jN2AdOjI4FI"
-			},
-			"categoryIds" : ["2","5"],
-			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page107_em.txt"
 			}
 		}, {
 			"id" : 4000108,
