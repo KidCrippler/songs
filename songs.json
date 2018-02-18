@@ -2947,6 +2947,39 @@
 				"markupVersion" : "1"
 			}
 		}, {
+			"id" : 1000341,
+			"name" : "מה תאמרי",
+			"singer" : "יזהר אשדות",
+			"playback": {
+				"youTubeVideoId" : "hzn-1O5NoUI"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page341.txt"
+			}
+		}, {
+			"id" : 1000342,
+			"name" : "היא רק רוצה לרקוד",
+			"singer" : "משה פרץ ועומר אדם",
+			"playback": {
+				"youTubeVideoId" : "h0SuqxOe1Bs"
+			},
+			"categoryIds" : ["1","5"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page342.txt"
+			}
+		}, {
+			"id" : 1000343,
+			"name" : "אל תפחד",
+			"singer" : "אהוד בנאי",
+			"playback": {
+				"youTubeVideoId" : "DifgJhL-fLU"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page343.txt"
+			}
+		}, {
 			"id" : 2000001,
 			"name" : "אדון שוקו",
 			"singer" : "אריק איינשטיין",
@@ -5695,7 +5728,7 @@
 			"singer" : "Cranberries",
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page31.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page31.txt"
 			}
 		}, {
 			"id" : 3000034,
@@ -6261,6 +6294,39 @@
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page117.txt"
+			}
+		}, {
+			"id" : 3000118,
+			"name" : "Heal the World",
+			"singer" : "Michael Jackson",
+			"playback": {
+				"youTubeVideoId" : "BWf-eARnf6U"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page118.txt"
+			}
+		}, {
+			"id" : 3000119,
+			"name" : "I'm Still Standing",
+			"singer" : "Elton John",
+			"playback": {
+				"youTubeVideoId" : "ZHwVBirqD2s"
+			},
+			"categoryIds" : ["2","5"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page119.txt"
+			}
+		}, {
+			"id" : 3000120,
+			"name" : "Out Here On My Own",
+			"singer" : "Nikka Costa",
+			"playback": {
+				"youTubeVideoId" : "Hu8hqWpuzNU"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page120.txt"
 			}
 		}, {
 			"id" : 4000060,
