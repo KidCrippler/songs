@@ -2980,6 +2980,28 @@
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page343.txt"
 			}
 		}, {
+			"id" : 1000344,
+			"name" : "אם תבוא",
+			"singer" : "נינט טייב",
+			"playback": {
+				"youTubeVideoId" : "hVNfz70aPrw"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page344.txt"
+			}
+		}, {
+			"id" : 1000345,
+			"name" : "הכוס הכחולה",
+			"singer" : "עברי לידר",
+			"playback": {
+				"youTubeVideoId" : "pAWlDWT3Jb0"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page345.txt"
+			}
+		}, {
 			"id" : 2000001,
 			"name" : "אדון שוקו",
 			"singer" : "אריק איינשטיין",
@@ -6335,6 +6357,17 @@
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page120.txt"
+			}
+		}, {
+			"id" : 3000121,
+			"name" : "The River",
+			"singer" : "Bruce Springsteen",
+			"playback": {
+				"youTubeVideoId" : "nAB4vOkL6cE"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page121.txt"
 			}
 		}, {
 			"id" : 4000060,
