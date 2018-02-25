@@ -1,5 +1,5 @@
 {
-	"version" : "2018_02_20",
+	"version" : "2018_02_25",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -3000,6 +3000,40 @@
 			"categoryIds" : ["1"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page345.txt"
+			}
+		}, {
+			"id" : 1000346,
+			"name" : "עוד שבת",
+			"singer" : "טיפקס",
+			"playback": {
+				"youTubeVideoId" : "VgzMH7ItZCM"
+			},
+			"categoryIds" : ["1","5"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page346.txt"
+			}
+		}, {
+			"id" : 1000347,
+			"name" : "הכל בגלל האהבה",
+			"singer" : "אהוד בנאי וגידי גוב",
+			"isPrivate" : true,
+			"playback": {
+				"youTubeVideoId" : "37i3_pbuCiM"
+			},
+			"categoryIds" : ["1","5"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page347.txt"
+			}
+		}, {
+			"id" : 1000348,
+			"name" : "שישי שבת",
+			"singer" : "זקני צפת",
+			"playback": {
+				"youTubeVideoId" : "OhQ4vufwY9k"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page348.txt"
 			}
 		}, {
 			"id" : 2000001,
@@ -6369,6 +6403,51 @@
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page121.txt"
+			}
+		}, {
+			"id" : 3000122,
+			"name" : "I Got My Mind Set On You",
+			"singer" : "George Harrison",
+			"playback": {
+				"youTubeVideoId" : "_71w4UA2Oxo"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page122.txt"
+			}
+		}, {
+			"id" : 3000123,
+			"name" : "Cats In The Cradle",
+			"singer" : "Ugly Kid Joe",
+			"playback": {
+				"youTubeVideoId" : "B32yjbCSVpU"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page123.txt"
+			}
+		}, {
+			"id" : 3000124,
+			"name" : "Beautiful",
+			"singer" : "Christina Aguilera",
+			"playback": {
+				"youTubeVideoId" : "eAfyFTzZDMM"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page124.txt"
+			}
+		}, {
+			"id" : 3000125,
+			"name" : "Africa",
+			"singer" : "Toto",
+			"isPrivate" : true,
+			"playback": {
+				"youTubeVideoId" : "FTQbiNvZqaY"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page125.txt"
 			}
 		}, {
 			"id" : 4000060,
