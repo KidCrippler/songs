@@ -1,5 +1,5 @@
 {
-	"version" : "2018_02_27",
+	"version" : "2018_03_02",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -548,7 +548,7 @@
 			"singer" : "הנשמות הטהורות",
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page61.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page61.txt"
 			}
 		}, {
 			"id" : 1000062,
@@ -804,7 +804,7 @@
 			"singer" : "כוורת",
 			"categoryIds" : ["1","4","5"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page94.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page94.txt"
 			}
 		}, {
 			"id" : 1000095,
@@ -980,16 +980,7 @@
 			"singer" : "אלי לוזון",
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page113.jpg"
-			}
-		}, {
-			"id" : 1010113,
-			"name" : "גשם (F)",
-			"singer" : "אלי לוזון",
-			"isPrivate" : true,
-			"categoryIds" : ["1"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page113_f.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page113.txt"
 			}
 		}, {
 			"id" : 1000114,
@@ -2442,7 +2433,7 @@
 			"singer" : "דניאל סלומון ודנה עדיני",
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page282.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page282.txt"
 			}
 		}, {
 			"id" : 1000284,
@@ -3034,6 +3025,18 @@
 			"categoryIds" : ["1"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page348.txt"
+			}
+		}, {
+			"id" : 1000349,
+			"name" : "שוב",
+			"singer" : "ג'וזי כץ ושמוליק קראוס",
+			"isPrivate" : true,
+			"playback": {
+				"youTubeVideoId" : "YBruUI3c9FM"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page349.txt"
 			}
 		}, {
 			"id" : 2000001,
