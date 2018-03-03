@@ -86,6 +86,9 @@ Am    Dm   Am     E
        Am         Dm    Am   F   E  Am
 נגני, נגני גיטרה...
 
+    Am
+אז ההוא       "סליחה"
+אז ההוא       "סליחה"
     Am                 Dm        G
 אז ההוא אמר "סליחה", קיפל את השמיכה
   F         G#         Am
@@ -106,7 +109,7 @@ Am    Dm   Am     E
        Am         Dm    Am   F   E  Am
 נגני, נגני גיטרה...
 
-        F                     E  Am
+        F                     E  Am -->
 ואם אתה לא מאמין      תשאל את ברוך
-
-C    F    C    E  Am
+ 
+(Am)  Am   C   C   F   C   E    Am D7

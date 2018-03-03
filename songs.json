@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
 	"version" : "2018_03_03",
-=======
-	"version" : "2018_03_02",
->>>>>>> 263648c1e2a3278cf9a0f0266b78e3b9b69abf16
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -3041,6 +3037,41 @@
 			"categoryIds" : ["1"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page349.txt"
+			}
+		}, {
+			"id" : 1000350,
+			"name" : "אצל הדודה והדוד",
+			"singer" : "דני סנדרסון",
+			"isPrivate" : true,
+			"playback": {
+				"youTubeVideoId" : "JZ9oiq3Gzfs"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page350.txt"
+			}
+		}, {
+			"id" : 1000351,
+			"name" : "דרך השלום",
+			"singer" : "פאר טסי",
+			"isPrivate" : true,
+			"playback": {
+				"youTubeVideoId" : "VD9F_7N_MbI"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page351.txt"
+			}
+		}, {
+			"id" : 1000352,
+			"name" : "אייל גולן",
+			"singer" : "כשאחר",
+			"playback": {
+				"youTubeVideoId" : "FbJAf-Ozd0s"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page352.txt"
 			}
 		}, {
 			"id" : 2000001,
@@ -6464,6 +6495,41 @@
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page125.txt"
+			}
+		}, {
+			"id" : 3000126,
+			"name" : "Come As You Are",
+			"singer" : "Nirvana unpluged",
+			"isPrivate" : true,
+			"playback": {
+				"youTubeVideoId" : "1G8V6ta9Auk"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page126.txt"
+			}
+		}, {
+			"id" : 3000127,
+			"name" : "The Man Who Sold The World",
+			"singer" : "Nirvana unpluged",
+			"isPrivate" : true,
+			"playback": {
+				"youTubeVideoId" : "fregObNcHC8"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page127.txt"
+			}
+		}, {
+			"id" : 3000128,
+			"name" : "All By Myself",
+			"singer" : "Air Suply",
+			"playback": {
+				"youTubeVideoId" : "-o9gf_soFBM"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page128.txt"
 			}
 		}, {
 			"id" : 4000060,
