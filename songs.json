@@ -5574,6 +5574,14 @@
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage302.txt"
 			}
 		}, {
+			"id" : 2000303,
+			"name" : "אני חולם על נעמי",
+			"singer" : "חדוה ודוד",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage303.txt"
+			}
+		}, {
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
 			"singer" : "Beatles",
