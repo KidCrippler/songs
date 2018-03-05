@@ -1,5 +1,5 @@
 {
-	"version" : "2018_03_03",
+	"version" : "2018_03_06",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -3969,16 +3969,7 @@
 			"singer" : "מאור כהן",
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage103.jpg"
-			}
-		}, {
-			"id" : 2010103,
-			"name" : "שיר של יום חולין (Am)",
-			"singer" : "מאור כהן",
-			"isPrivate" : true,
-			"categoryIds" : ["1"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage103_am.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage103.txt"
 			}
 		}, {
 			"id" : 2000104,
