@@ -1,5 +1,5 @@
 {
-	"version" : "2018_03_06",
+	"version" : "2018_03_11",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -3007,7 +3007,6 @@
 			"id" : 1000347,
 			"name" : "הכל בגלל האהבה",
 			"singer" : "אהוד בנאי וגידי גוב",
-			"isPrivate" : true,
 			"playback": {
 				"youTubeVideoId" : "37i3_pbuCiM"
 			},
@@ -3064,8 +3063,8 @@
 			}
 		}, {
 			"id" : 1000352,
-			"name" : "אייל גולן",
-			"singer" : "כשאחר",
+			"name" : "כשאחר",
+			"singer" : "אייל גולן",
 			"playback": {
 				"youTubeVideoId" : "FbJAf-Ozd0s"
 			},
@@ -6498,7 +6497,7 @@
 		}, {
 			"id" : 3000126,
 			"name" : "Come As You Are",
-			"singer" : "Nirvana unpluged",
+			"singer" : "Nirvana",
 			"isPrivate" : true,
 			"playback": {
 				"youTubeVideoId" : "1G8V6ta9Auk"
@@ -6510,7 +6509,7 @@
 		}, {
 			"id" : 3000127,
 			"name" : "The Man Who Sold The World",
-			"singer" : "Nirvana unpluged",
+			"singer" : "Nirvana",
 			"isPrivate" : true,
 			"playback": {
 				"youTubeVideoId" : "fregObNcHC8"
@@ -6522,7 +6521,7 @@
 		}, {
 			"id" : 3000128,
 			"name" : "All By Myself",
-			"singer" : "Air Suply",
+			"singer" : "Air Supply",
 			"playback": {
 				"youTubeVideoId" : "-o9gf_soFBM"
 			},
