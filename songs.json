@@ -1,5 +1,5 @@
 {
-	"version" : "2018_03_11",
+	"version" : "2018_03_12",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -3433,7 +3433,8 @@
 			"singer" : "טיפקס",
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage44.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage44.txt",
+				"markupVersion" : "2"
 			}
 		}, {
 			"id" : 2000045,
@@ -5579,6 +5580,30 @@
 			"categoryIds" : ["1"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage303.txt"
+			}
+		}, {
+			"id" : 2000304,
+			"name" : "הרבי ג'ו כפרה",
+			"singer" : "טיפקס",
+			"categoryIds" : ["1","5"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage304.txt"
+			}
+		}, {
+			"id" : 2000305,
+			"name" : "יושבים בבית קפה",
+			"singer" : "טיפקס",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage305.txt"
+			}
+		}, {
+			"id" : 2000306,
+			"name" : "שלוש בלילה",
+			"singer" : "טיפקס",
+			"categoryIds" : ["1","5"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage306.txt"
 			}
 		}, {
 			"id" : 3000001,
