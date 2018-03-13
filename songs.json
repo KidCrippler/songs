@@ -4774,7 +4774,7 @@
 			}
 		}, {
 			"id" : 2000217,
-			"name" : "פרידה קשה (Am)",
+			"name" : "פרידה קשה (אני אשתגע)",
 			"singer" : "חוה אלברשטיין",
 			"categoryIds" : ["1"],
 			"lyrics" : {
@@ -6590,7 +6590,7 @@
 		}, {
 			"id" : 3000130,
 			"name" : "Summer Nights",
-			"singer" : "Greese",
+			"singer" : "Grease",
 			"playback": {
 				"youTubeVideoId" : "ZW0DfsCzfq4"
 			},
