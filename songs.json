@@ -6596,7 +6596,8 @@
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page130.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page130.txt",
+				"markupVersion" : "1"
 			}
 		}, {
 			"id" : 4000060,
