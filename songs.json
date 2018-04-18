@@ -3095,6 +3095,18 @@
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page354.txt"
 			}
 		}, {
+			"id" : 1000355,
+			"name" : "שני משוגעים",
+			"singer" : "עומר אדם",
+			"isPrivate" : true,
+			"playback": {
+				"youTubeVideoId" : "WLMmX17D2uw"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page355.txt"
+			}
+		}, {
 			"id" : 2000001,
 			"name" : "אדון שוקו",
 			"singer" : "אריק איינשטיין",
@@ -6751,6 +6763,28 @@
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page134.txt"
+			}
+		}, {
+			"id" : 3000135,
+			"name" : "Fade Into You",
+			"singer" : "Mazzy Star",
+			"playback": {
+				"youTubeVideoId" : "IWvEXChflEE"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page135.txt"
+			}
+		}, {
+			"id" : 3000136,
+			"name" : "Border Song",
+			"singer" : "Elton John",
+			"playback": {
+				"youTubeVideoId" : "Lm7b-32Mpbs"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page136.txt"
 			}
 		}, {
 			"id" : 4000060,
