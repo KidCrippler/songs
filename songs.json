@@ -1,5 +1,5 @@
 {
-	"version" : "2018_03_20",
+	"version" : "2018_04_18",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -5626,6 +5626,114 @@
 			"categoryIds" : ["1","5"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage306.txt"
+			}
+		}, {
+			"id" : 2000307,
+			"name" : "בת שישים",
+			"singer" : "הגבעטרון",
+			"isPrivate" : x,
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage307.txt"
+			}
+		}, {
+			"id" : 2000308,
+			"name" : "תמיד עולה המנגינה",
+			"singer" : "להקת חיל האוויר",
+			"isPrivate" : x,
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage308.txt"
+			}
+		}, {
+			"id" : 2000309,
+			"name" : "שיר לשלום",
+			"singer" : "להקת הנחל",
+			"isPrivate" : x,
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage309.txt"
+			}
+		}, {
+			"id" : 2003010,
+			"name" : "אין כבר דרך חזרה",
+			"singer" : "להקת חיל הים",
+			"isPrivate" : x,
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage3010.txt"
+			}
+		}, {
+			"id" : 2003011,
+			"name" : "כאן",
+			"singer" : "אורנה ומשה דץ",
+			"isPrivate" : x,
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage3011.txt"
+			}
+		}, {
+			"id" : 2003012,
+			"name" : "בוא איתי אל הגליל",
+			"singer" : "להקת פיקוד דרום",
+			"isPrivate" : x,
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage3012.txt"
+			}
+		}, {
+			"id" : 2003013,
+			"name" : "מחרוזת גשר הירקון",
+			"singer" : "החברים של בני",
+			"isPrivate" : x,
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage3013.txt"
+			}
+		}, {
+			"id" : 2003014,
+			"name" : "שלום לך ארץ נהדרת",
+			"singer" : "יהורם גאון",
+			"isPrivate" : x,
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage3014.txt"
+			}
+		}, {
+			"id" : 2003015,
+			"name" : "יש לי אהבה פשוטה",
+			"singer" : "הפרברים",
+			"isPrivate" : x,
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage3015.txt"
+			}
+		}, {
+			"id" : 2003016,
+			"name" : "תפילה",
+			"singer" : "עפרה חזה",
+			"isPrivate" : x,
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage3016.txt"
+			}
+		}, {
+			"id" : 2003017,
+			"name" : "חי",
+			"singer" : "עפרה חזה",
+			"isPrivate" : x,
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage3017.txt"
+			}
+		}, {
+			"id" : 2003018,
+			"name" : "שכשנבוא",
+			"singer" : "אריק איינשטיין",
+			"isPrivate" : x,
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage3018.txt"
 			}
 		}, {
 			"id" : 3000001,
