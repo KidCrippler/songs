@@ -1,5 +1,5 @@
 {
-	"version" : "2018_04_18",
+	"version" : "2018_04_22",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -5715,16 +5715,14 @@
 			"id" : 2000315,
 			"name" : "יש לי אהבה פשוטה",
 			"singer" : "הפרברים",
-			"isPrivate" : true,
 			"categoryIds" : ["1"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage315.txt"
 			}
 		}, {
 			"id" : 2000316,
-			"name" : "תפילה",
+			"name" : "תפילה (שמור נא עלינו כמו ילדים)",
 			"singer" : "עפרה חזה",
-			"isPrivate" : true,
 			"categoryIds" : ["1"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage316.txt"
@@ -5733,7 +5731,6 @@
 			"id" : 2000317,
 			"name" : "חי",
 			"singer" : "עפרה חזה",
-			"isPrivate" : true,
 			"categoryIds" : ["1"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage317.txt"
@@ -5742,7 +5739,6 @@
 			"id" : 2000318,
 			"name" : "שכשנבוא",
 			"singer" : "אריק איינשטיין",
-			"isPrivate" : true,
 			"categoryIds" : ["1"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage318.txt"
