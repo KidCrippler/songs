@@ -1,5 +1,5 @@
 {
-	"version" : "2018_04_22",
+	"version" : "2018_05_02",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -6784,29 +6784,11 @@
 			}
 		}, {
 			"id" : 4000060,
-			"name" : "Lorelei (Am)",
+			"name" : "Lorelei",
 			"singer" : "The Scorpions",
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page60.jpg"
-			}
-		}, {
-			"id" : 4010060,
-			"name" : "Lorelei (Cm)",
-			"singer" : "The Scorpions",
-			"isPrivate" : true,
-			"categoryIds" : ["2"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page60_cm.jpg"
-			}
-		}, {
-			"id" : 4020060,
-			"name" : "Lorelei (Em)",
-			"singer" : "The Scorpions",
-			"isPrivate" : true,
-			"categoryIds" : ["2"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page60_em.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page60.txt"
 			}
 		}, {
 			"id" : 4000061,
@@ -6839,7 +6821,7 @@
 			"singer" : "Elton John",
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page64.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page64.txt"
 			}
 		}, {
 			"id" : 4000072,
@@ -6922,7 +6904,7 @@
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page96.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page96.txt"
 			}
 		}, {
 			"id" : 4000097,
@@ -6955,7 +6937,7 @@
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page99.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page99.txt"
 			}
 		}, {
 			"id" : 4000100,
