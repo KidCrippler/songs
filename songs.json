@@ -3107,6 +3107,66 @@
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page355.txt"
 			}
 		}, {
+			"id" : 1000356,
+			"name" : "לבחור נכון",
+			"singer" : "אמיר דדון",
+			"isPrivate" : true,
+			"playback": {
+				"youTubeVideoId" : "yjJcnqZqciU"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page356.txt"
+			}
+		}, {
+			"id" : 1000357,
+			"name" : "רוחות הצפון",
+			"singer" : "אהוד בנאי",
+			"isPrivate" : true,
+			"playback": {
+				"youTubeVideoId" : "-3CyIVLb2Ac"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page357.txt"
+			}
+		}, {
+			"id" : 1000358,
+			"name" : "זמנך עבר",
+			"singer" : "אהוד בנאי",
+			"isPrivate" : true,
+			"playback": {
+				"youTubeVideoId" : "8nA8sB1YMho"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page358.txt"
+			}
+		}, {
+			"id" : 1000359,
+			"name" : "הבוקר שאחרי",
+			"singer" : "יונתן רוזן",
+			"isPrivate" : true,
+			"playback": {
+				"youTubeVideoId" : "unN3zvOt4QA"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page359.txt"
+			}
+		}, {
+			"id" : 1000360,
+			"name" : "אולי נדבר",
+			"singer" : "נדב גדג'",
+			"isPrivate" : true,
+			"playback": {
+				"youTubeVideoId" : "BbHcS69tCV0"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page360.txt"
+			}
+		}, {
 			"id" : 2000001,
 			"name" : "אדון שוקו",
 			"singer" : "אריק איינשטיין",
@@ -6781,6 +6841,26 @@
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page136.txt"
+			}
+		}, {
+			"id" : 3000137,
+			"name" : "Imagine",
+			"singer" : "John Lennon",
+			"playback": {
+				"youTubeVideoId" : "VOgFZfRVaww"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page137.txt"
+			}
+		}, {
+			"id" : 3000138,
+			"name" : "Let It Go",
+			"singer" : "Frozen",
+			"isPrivate" : true,
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page138.txt"
 			}
 		}, {
 			"id" : 4000060,
