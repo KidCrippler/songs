@@ -1,5 +1,5 @@
 {
-	"version" : "2018_05_03",
+	"version" : "2018_05_05",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -5424,25 +5424,7 @@
 			"singer" : "יזהר כהן",
 			"categoryIds" : ["1","5"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage278.jpg"
-			}
-		}, {
-			"id" : 2010278,
-			"name" : "עולה עולה (C#m)",
-			"singer" : "יזהר כהן",
-			"isPrivate" : true,
-			"categoryIds" : ["1","5"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage278_c%23m.jpg"
-			}
-		}, {
-			"id" : 2020278,
-			"name" : "עולה עולה (F#m)",
-			"singer" : "יזהר כהן",
-			"isPrivate" : true,
-			"categoryIds" : ["1","5"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage278_f%23m.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage278.txt"
 			}
 		}, {
 			"id" : 2000279,
@@ -5806,6 +5788,14 @@
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage318.txt",
 				"markupVersion" : "2"
+			}
+		}, {
+			"id" : 2000319,
+			"name" : "השקט שנשאר",
+			"singer" : "שירי מימון",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage319.txt"
 			}
 		}, {
 			"id" : 3000001,
@@ -7021,7 +7011,8 @@
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page99.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page99.txt",
+				"markupVersion" : "2"
 			}
 		}, {
 			"id" : 4000100,
@@ -7188,6 +7179,17 @@
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page113.txt"
+			}
+		}, {
+			"id" : 4000114,
+			"name" : "Halo",
+			"singer" : "Beyonce",
+			"playback": {
+				"youTubeVideoId" : "bnVUHWCynig"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page114.txt"
 			}
 		}
 	]
