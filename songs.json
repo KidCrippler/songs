@@ -1,5 +1,5 @@
 {
-	"version" : "2018_05_08",
+	"version" : "2018_05_14",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -3295,34 +3295,7 @@
 			"singer" : "אלון אולארצ'יק",
 			"categoryIds" : ["1","5"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage17.jpg"
-			}
-		}, {
-			"id" : 2010017,
-			"name" : "בא לשכונה בחור חדש (Dm)",
-			"singer" : "אלון אולארצ'יק",
-			"isPrivate" : true,
-			"categoryIds" : ["1","5"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage17_dm.jpg"
-			}
-		}, {
-			"id" : 2020017,
-			"name" : "בא לשכונה בחור חדש (G#m)",
-			"singer" : "אלון אולארצ'יק",
-			"isPrivate" : true,
-			"categoryIds" : ["1","5"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage17_g%23m.jpg"
-			}
-		}, {
-			"id" : 2030017,
-			"name" : "בא לשכונה בחור חדש (Cm)",
-			"singer" : "אלון אולארצ'יק",
-			"isPrivate" : true,
-			"categoryIds" : ["1","5"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage17_cm.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage17.txt"
 			}
 		}, {
 			"id" : 2000018,
@@ -5796,6 +5769,14 @@
 			"categoryIds" : ["1"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage319.txt"
+			}
+		}, {
+			"id" : 2000320,
+			"name" : "עונות",
+			"singer" : "אביב גפן",
+			"categoryIds" : ["1","5"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage320.txt"
 			}
 		}, {
 			"id" : 3000001,
