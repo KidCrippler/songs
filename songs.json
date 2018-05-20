@@ -1,5 +1,5 @@
 {
-	"version" : "2018_05_14",
+	"version" : "2018_05_20",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -2056,32 +2056,6 @@
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page240_a.jpg"
 			}
 		}, {
-			"id" : 1000241,
-			"name" : "להשתטות לפעמים",
-			"singer" : "גבי שושן",
-			"categoryIds" : ["1","5"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page241.jpg"
-			}
-		}, {
-			"id" : 1010241,
-			"name" : "להשתטות לפעמים (Em)",
-			"singer" : "גבי שושן",
-			"isPrivate" : true,
-			"categoryIds" : ["1","5"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page241_em.jpg"
-			}
-		}, {
-			"id" : 1020241,
-			"name" : "להשתטות לפעמים (Dm)",
-			"singer" : "גבי שושן",
-			"isPrivate" : true,
-			"categoryIds" : ["1","5"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page241_dm.jpg"
-			}
-		}, {
 			"id" : 1000242,
 			"name" : "ירח כחול",
 			"singer" : "גן חיות",
@@ -2128,23 +2102,6 @@
 			"categoryIds" : ["1"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page248.jpg"
-			}
-		}, {
-			"id" : 1000249,
-			"name" : "טלפני טלפני",
-			"singer" : "שלמה ארצי",
-			"categoryIds" : ["1"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page249.jpg"
-			}
-		}, {
-			"id" : 1010249,
-			"name" : "טלפני טלפני (D)",
-			"singer" : "שלמה ארצי",
-			"isPrivate" : true,
-			"categoryIds" : ["1"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page249_d.jpg"
 			}
 		}, {
 			"id" : 1000250,
@@ -4197,29 +4154,11 @@
 			}
 		}, {
 			"id" : 2000134,
-			"name" : "שלל שרב (Em)",
+			"name" : "שלל שרב",
 			"singer" : "גידי גוב",
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage134.jpg"
-			}
-		}, {
-			"id" : 2010134,
-			"name" : "שלל שרב (Am)",
-			"singer" : "גידי גוב",
-			"isPrivate" : true,
-			"categoryIds" : ["1"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage134_am.jpg"
-			}
-		}, {
-			"id" : 2020134,
-			"name" : "שלל שרב (Bm)",
-			"singer" : "גידי גוב",
-			"isPrivate" : true,
-			"categoryIds" : ["1"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage134_bm.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage134.txt"
 			}
 		}, {
 			"id" : 2000137,
@@ -4632,16 +4571,7 @@
 			"singer" : "אמיר דדון",
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage192.jpg"
-			}
-		}, {
-			"id" : 2010192,
-			"name" : "אור גדול (D)",
-			"singer" : "אמיר דדון",
-			"isPrivate" : true,
-			"categoryIds" : ["1"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage192_d.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage192.txt"
 			}
 		}, {
 			"id" : 2000194,
@@ -4982,16 +4912,7 @@
 			"singer" : "מרגלית צנעני",
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage238.jpg"
-			}
-		}, {
-			"id" : 2010238,
-			"name" : "עוד יהיה לי (C)",
-			"singer" : "מרגלית צנעני",
-			"isPrivate" : true,
-			"categoryIds" : ["1"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage238_c.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage238.txt"
 			}
 		}, {
 			"id" : 2000239,
@@ -5777,6 +5698,22 @@
 			"categoryIds" : ["1","5"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage320.txt"
+			}
+		}, {
+			"id" : 2000321,
+			"name" : "להשתטות לפעמים",
+			"singer" : "גבי שושן",
+			"categoryIds" : ["1","5"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage321.txt"
+			}
+		}, {
+			"id" : 2000322,
+			"name" : "טלפני טלפני",
+			"singer" : "שלמה ארצי",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage322.txt"
 			}
 		}, {
 			"id" : 3000001,
