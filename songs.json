@@ -238,23 +238,6 @@
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page25.jpg"
 			}
 		}, {
-			"id" : 1000026,
-			"name" : "פנים אל מול פנים (G)",
-			"singer" : "יהודה פוליקר",
-			"categoryIds" : ["1"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page26.jpg"
-			}
-		}, {
-			"id" : 1010026,
-			"name" : "פנים אל מול פנים (C)",
-			"singer" : "יהודה פוליקר",
-			"isPrivate" : true,
-			"categoryIds" : ["1"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page26_c.jpg"
-			}
-		}, {
 			"id" : 1000027,
 			"name" : "חור בלבנה",
 			"singer" : "רוקפור",
@@ -5688,6 +5671,14 @@
 			"categoryIds" : ["1"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage322.txt"
+			}
+		}, {
+			"id" : 2000323,
+			"name" : "פנים אל מול פנים",
+			"singer" : "יהודה פוליקר",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage323.txt"
 			}
 		}, {
 			"id" : 3000001,
