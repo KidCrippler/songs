@@ -1,5 +1,5 @@
 {
-	"version" : "2018_05_20",
+	"version" : "2018_05_26",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -3445,7 +3445,7 @@
 			}
 		}, {
 			"id" : 2000042,
-			"name" : "הצל ואני (Em)",
+			"name" : "הצל ואני",
 			"singer" : "יהודה פוליקר",
 			"categoryIds" : ["1"],
 			"lyrics" : {
@@ -3547,16 +3547,7 @@
 			"singer" : "מוקי",
 			"categoryIds" : ["1","4"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage55.jpg"
-			}
-		}, {
-			"id" : 2010055,
-			"name" : "ילד של אבא (Dm)",
-			"singer" : "מוקי",
-			"isPrivate" : true,
-			"categoryIds" : ["1"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage55_dm.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage55.txt"
 			}
 		}, {
 			"id" : 2000056,
@@ -3723,29 +3714,11 @@
 			}
 		}, {
 			"id" : 2000074,
-			"name" : "נוסעת בעקבות האהבה (Cm)",
+			"name" : "נוסעת בעקבות האהבה",
 			"singer" : "ורדינה כהן",
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage74.jpg"
-			}
-		}, {
-			"id" : 2010074,
-			"name" : "נוסעת בעקבות האהבה (Em)",
-			"singer" : "דני רובס",
-			"isPrivate" : true,
-			"categoryIds" : ["1"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage74_em.jpg"
-			}
-		}, {
-			"id" : 2020074,
-			"name" : "נוסעת בעקבות האהבה (Dm)",
-			"singer" : "ורדינה כהן",
-			"isPrivate" : true,
-			"categoryIds" : ["1"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage74_dm.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage74.txt"
 			}
 		}, {
 			"id" : 2000076,
