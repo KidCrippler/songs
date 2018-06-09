@@ -1,5 +1,5 @@
 {
-	"version" : "2018_05_29",
+	"version" : "2018_06_10",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -5670,6 +5670,15 @@
 			"categoryIds" : ["1"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage323.txt"
+			}
+		}, {
+			"id" : 2000324,
+			"name" : "כוחו של משורר",
+			"singer" : "דני רובס",
+			"isPrivate" : true,
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage324.txt"
 			}
 		}, {
 			"id" : 3000001,
