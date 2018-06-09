@@ -2022,23 +2022,6 @@
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page239.jpg"
 			}
 		}, {
-			"id" : 1000240,
-			"name" : "היא לא תשוב (G)",
-			"singer" : "אתניקס",
-			"categoryIds" : ["1"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page240.jpg"
-			}
-		}, {
-			"id" : 1010240,
-			"name" : "היא לא תשוב (A)",
-			"singer" : "אתניקס",
-			"isPrivate" : true,
-			"categoryIds" : ["1"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page240_a.jpg"
-			}
-		}, {
 			"id" : 1000242,
 			"name" : "ירח כחול",
 			"singer" : "גן חיות",
@@ -5679,6 +5662,14 @@
 			"categoryIds" : ["1"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage324.txt"
+			}
+		}, {
+			"id" : 2000325,
+			"name" : "היא לא תשוב",
+			"singer" : "אתניקס",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage325.txt"
 			}
 		}, {
 			"id" : 3000001,
