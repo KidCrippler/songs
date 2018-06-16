@@ -5679,6 +5679,14 @@
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage328.txt"
 			}
 		}, {
+			"id" : 2000329,
+			"name" : "בכל פעם שאני מתאהב (בך מחדש)",
+			"singer" : "יזהר אשדות",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage329.txt"
+			}
+		}, {
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
 			"singer" : "Beatles",
