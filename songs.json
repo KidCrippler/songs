@@ -1,5 +1,5 @@
 {
-	"version" : "2018_06_10",
+	"version" : "2018_06_17",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -3112,16 +3112,7 @@
 			"singer" : "דניאל סלומון",
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage4.jpg"
-			}
-		}, {
-			"id" : 2010004,
-			"name" : "אהבה (D)",
-			"singer" : "דניאל סלומון",
-			"isPrivate" : true,
-			"categoryIds" : ["1"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage4_d.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage4.txt"
 			}
 		}, {
 			"id" : 2000005,
@@ -3203,7 +3194,7 @@
 			"singer" : "רן דנקר ועילי בוטנר",
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage13.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage13.txt"
 			}
 		}, {
 			"id" : 2000014,
@@ -3506,7 +3497,7 @@
 			"singer" : "ריקי גל",
 			"categoryIds" : ["1","4","5"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage54.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage54.txt"
 			}
 		}, {
 			"id" : 2000055,
@@ -4020,20 +4011,11 @@
 			}
 		}, {
 			"id" : 2000119,
-			"name" : "נר על החלון (Bm)",
+			"name" : "נר על החלון",
 			"singer" : "סטלה מאריס",
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage119.jpg"
-			}
-		}, {
-			"id" : 2010119,
-			"name" : "נר על החלון (Am)",
-			"singer" : "סטלה מאריס",
-			"isPrivate" : true,
-			"categoryIds" : ["1"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage119_am.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage119.txt"
 			}
 		}, {
 			"id" : 2000122,
@@ -5670,6 +5652,31 @@
 			"categoryIds" : ["1"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage325.txt"
+			}
+		}, {
+			"id" : 2000326,
+			"name" : "רק הד קולך",
+			"singer" : "הפרברים",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage326.txt"
+			}
+		}, {
+			"id" : 2000327,
+			"name" : "ניגונה של השכונה",
+			"singer" : "יזהר כהן",
+			"isPrivate" : true,
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage327.txt"
+			}
+		}, {
+			"id" : 2000328,
+			"name" : "קפטן ג'ק",
+			"singer" : "גרי אקשטיין",
+			"categoryIds" : ["1","5"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage328.txt"
 			}
 		}, {
 			"id" : 3000001,
