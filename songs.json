@@ -1,5 +1,5 @@
 {
-	"version" : "2018_06_18",
+	"version" : "2018_06_28",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -3151,9 +3151,9 @@
 			"id" : 2000009,
 			"name" : "אין לך מה לדאוג (תחתונים וגופיות)",
 			"singer" : "עוזי פוקס",
-			"categoryIds" : ["1"],
+			"categoryIds" : ["1","5"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage9.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage9.txt"
 			}
 		}, {
 			"id" : 2000010,
