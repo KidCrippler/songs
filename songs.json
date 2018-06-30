@@ -1,5 +1,5 @@
 {
-	"version" : "2018_06_29",
+	"version" : "2018_06_30",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -5687,6 +5687,48 @@
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage329.txt"
 			}
 		}, {
+			"id" : 2000330,
+			"name" : "מלדיטה לונה",
+			"singer" : "שלומי שבת ופבלו רוזנברג",
+			"isPrivate" : true,
+			"categoryIds" : ["1","5"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage330.txt"
+			}
+		}, {
+			"id" : 2000331,
+			"name" : "אבא",
+			"singer" : "שלומי שבת",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage331.txt"
+			}
+		}, {
+			"id" : 2000332,
+			"name" : "לעולם בעקבות השמש",
+			"singer" : "שרי",
+			"categoryIds" : ["1","5"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage332.txt"
+			}
+		}, {
+			"id" : 2000333,
+			"name" : "ירח",
+			"singer" : "שלמה ארצי",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage333.txt"
+			}
+		}, {
+			"id" : 2000334,
+			"name" : "שיר השיירה",
+			"singer" : "אריק איינשטיין",
+			"isPrivate" : true,
+			"categoryIds" : ["1","5"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage334.txt"
+			}
+		}, {
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
 			"singer" : "Beatles",
@@ -7079,6 +7121,28 @@
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page114.txt"
+			}
+		}, {
+			"id" : 4000115,
+			"name" : "Hit The Road Jack",
+			"singer" : "Ray Charles",
+			"playback": {
+				"youTubeVideoId" : "Q8Tiz6INF7I"
+			},
+			"categoryIds" : ["2","5"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page115.txt"
+			}
+		}, {
+			"id" : 4000116,
+			"name" : "The Way",
+			"singer" : "Fastball",
+			"playback": {
+				"youTubeVideoId" : "b0wfu3tOrtQ"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page116.txt"
 			}
 		}
 	]
