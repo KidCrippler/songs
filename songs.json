@@ -1,5 +1,5 @@
 {
-	"version" : "2018_06_30",
+	"version" : "2018_07_02",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -7143,6 +7143,18 @@
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page116.txt"
+			}
+		}, {
+			"id" : 4000117,
+			"name" : "Father and Son",
+			"singer" : "Cat Stevens",
+			"isPrivate" : true,
+			"playback": {
+				"youTubeVideoId" : "b-7c4VNGOgU"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page117.txt"
 			}
 		}
 	]
