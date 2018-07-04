@@ -1,5 +1,5 @@
 {
-	"version" : "2018_07_02",
+	"version" : "2018_07_04",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -5690,7 +5690,6 @@
 			"id" : 2000330,
 			"name" : "מלדיטה לונה",
 			"singer" : "שלומי שבת ופבלו רוזנברג",
-			"isPrivate" : true,
 			"categoryIds" : ["1","5"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage330.txt"
@@ -5723,7 +5722,6 @@
 			"id" : 2000334,
 			"name" : "שיר השיירה",
 			"singer" : "אריק איינשטיין",
-			"isPrivate" : true,
 			"categoryIds" : ["1","5"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage334.txt"
