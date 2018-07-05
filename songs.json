@@ -1,5 +1,5 @@
 {
-	"version" : "2018_07_04",
+	"version" : "2018_07_06",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -3251,7 +3251,7 @@
 			"singer" : "משינה",
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage21.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage21.txt"
 			}
 		}, {
 			"id" : 2000022,
@@ -5555,7 +5555,6 @@
 			"id" : 2000314,
 			"name" : "שלום לך ארץ נהדרת",
 			"singer" : "יהורם גאון",
-			"isPrivate" : true,
 			"categoryIds" : ["1"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage314.txt"
@@ -5640,7 +5639,6 @@
 			"id" : 2000324,
 			"name" : "כוחו של משורר",
 			"singer" : "דני רובס",
-			"isPrivate" : true,
 			"categoryIds" : ["1"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage324.txt"
@@ -5725,6 +5723,15 @@
 			"categoryIds" : ["1","5"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage334.txt"
+			}
+		}, {
+			"id" : 2000335,
+			"name" : "מחרוזת שבת",
+			"singer" : "עממי",
+			"isPrivate" : true,
+			"categoryIds" : ["1","5"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage335.txt"
 			}
 		}, {
 			"id" : 3000001,
@@ -7146,7 +7153,6 @@
 			"id" : 4000117,
 			"name" : "Father and Son",
 			"singer" : "Cat Stevens",
-			"isPrivate" : true,
 			"playback": {
 				"youTubeVideoId" : "b-7c4VNGOgU"
 			},
