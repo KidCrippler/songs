@@ -1,5 +1,5 @@
 {
-	"version" : "2018_07_16",
+	"version" : "2018_07_21",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -1518,7 +1518,7 @@
 			"id" : 1000177,
 			"name" : "מילים יפות",
 			"singer" : "גזוז",
-			"categoryIds" : ["1"],
+			"categoryIds" : ["1","5"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page177.jpg"
 			}
@@ -2263,7 +2263,7 @@
 			"id" : 1000271,
 			"name" : "עניין של זמן",
 			"singer" : "גידי גוב",
-			"categoryIds" : ["1"],
+			"categoryIds" : ["1","5"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page271.jpg"
 			}
@@ -2812,7 +2812,7 @@
 			"playback": {
 				"youTubeVideoId" : "BXfbSYpGHi0"
 			},
-			"categoryIds" : ["1"],
+			"categoryIds" : ["1","5"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page337.txt"
 			}
@@ -2913,7 +2913,7 @@
 			"playback": {
 				"youTubeVideoId" : "pAWlDWT3Jb0"
 			},
-			"categoryIds" : ["1"],
+			"categoryIds" : ["1","5"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page345.txt"
 			}
@@ -3154,7 +3154,8 @@
 			"singer" : "עוזי פוקס",
 			"categoryIds" : ["1","5"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage9.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage9.txt",
+				"markupVersion" : "2"
 			}
 		}, {
 			"id" : 2000010,
@@ -3447,7 +3448,7 @@
 			"id" : 2000048,
 			"name" : "חסקה",
 			"singer" : "להקת חיל הים",
-			"categoryIds" : ["1"],
+			"categoryIds" : ["1","5"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage48.jpg"
 			}
@@ -3915,7 +3916,7 @@
 			"id" : 2000101,
 			"name" : "שיר סתיו (כל הנחלים הולכים לים)",
 			"singer" : "אריק לביא",
-			"categoryIds" : ["1"],
+			"categoryIds" : ["1","5"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage101.jpg"
 			}
@@ -5061,7 +5062,7 @@
 			"id" : 2000265,
 			"name" : "זה מה שנשאר",
 			"singer" : "שלמה ארצי",
-			"categoryIds" : ["1"],
+			"categoryIds" : ["1","5"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage265.jpg"
 			}
@@ -5574,7 +5575,7 @@
 			"id" : 2000316,
 			"name" : "תפילה (שמור נא עלינו כמו ילדים)",
 			"singer" : "עפרה חזה",
-			"categoryIds" : ["1"],
+			"categoryIds" : ["1","5"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage316.txt",
 				"markupVersion" : "2"
@@ -5752,6 +5753,14 @@
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage337.txt",
 				"markupVersion" : "2"
+			}
+		}, {
+			"id" : 2000338,
+			"name" : "אישה נאמנה",
+			"singer" : "ישי לוי",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage338.txt"
 			}
 		}, {
 			"id" : 3000001,
@@ -6979,7 +6988,8 @@
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page100.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page100.txt",
+				"markupVersion" : "2"
 			}
 		}, {
 			"id" : 4000101,
@@ -6990,7 +7000,8 @@
 			},
 			"categoryIds" : ["2","5"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page101.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page101.txt",
+				"markupVersion" : "2"
 			}
 		}, {
 			"id" : 4010101,
@@ -7002,7 +7013,8 @@
 			},
 			"categoryIds" : ["2","5"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page101_f%23m.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page101_f%23m.txt",
+				"markupVersion" : "2"
 			}
 		}, {
 			"id" : 4000102,
@@ -7057,7 +7069,8 @@
 			},
 			"categoryIds" : ["2","5"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page106.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page106.txt",
+				"markupVersion" : "2"
 			}
 		}, {
 			"id" : 4000107,
@@ -7101,7 +7114,8 @@
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page110.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page110.txt",
+				"markupVersion" : "2"
 			}
 		}, {
 			"id" : 4000111,
@@ -7112,7 +7126,8 @@
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page111.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page111.txt",
+				"markupVersion" : "2"
 			}
 		}, {
 			"id" : 4000112,
@@ -7134,7 +7149,8 @@
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page113.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page113.txt",
+				"markupVersion" : "2"
 			}
 		}, {
 			"id" : 4000114,

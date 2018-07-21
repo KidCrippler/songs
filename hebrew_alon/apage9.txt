@@ -31,7 +31,7 @@ C      G      B7         Em
  C        Bm       Em   []
 מותק לא לשלוח לי עוגה
 
-Fm  Gm7  Bbm  Fm  C#  Cm7  Fm  C - Fm -
+Em  F#m7  Am  Em  C  Bm7  Em   B
 
 Em                 F#m7      Am        Em
    אין לך מה לדאוג, אני נמצא    במקום בטוח
@@ -75,5 +75,3 @@ C#        Cm       Fm   Fm
 C#  G#  C7  Fm
 C#        Cm       Fm   Gm   Bbm   Fm
 מותק לא לשלוח לי עוגה
-
-
