@@ -4061,20 +4061,11 @@
 			}
 		}, {
 			"id" : 2000132,
-			"name" : "שש עשרה מלאו לנער (Am)",
+			"name" : "שש עשרה מלאו לנער",
 			"singer" : "גבי שושן",
 			"categoryIds" : ["1","5"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage132.jpg"
-			}
-		}, {
-			"id" : 2010132,
-			"name" : "שש עשרה מלאו לנער (Em)",
-			"singer" : "גבי שושן",
-			"isPrivate" : true,
-			"categoryIds" : ["1","5"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage132_em.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage132.txt"
 			}
 		}, {
 			"id" : 2000134,
