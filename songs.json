@@ -6822,6 +6822,17 @@
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page138.txt"
 			}
 		}, {
+			"id" : 3000139,
+			"name" : "Lovely Day",
+			"singer" : "Bill Withers",
+			"playback": {
+				"youTubeVideoId" : "sYi7uEvEEmk"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page139.txt"
+			}
+		}, {
 			"id" : 4000060,
 			"name" : "Lorelei",
 			"singer" : "The Scorpions",
