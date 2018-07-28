@@ -1,7 +1,8 @@
 ﻿Let It Go - Frozen (+1)
 
 Em    C    D     Am
-
+Em    C    D     A
+ 
     Em                      C
 The snow glows white on the mountain tonight
       D               Asus4   Am
@@ -10,10 +11,10 @@ Not a footprint to be seen
 A kingdom of isolation
        D                  Asus4    A
 And it looks like I'm the queen
-Em            C                 D                 Asus4  Am
-  The wind is howling like this swirling storm inside
-Em                 D                    A
-  Couldn't keep it in, heaven knows I've tried
+Em              C                 D                 Asus4  Am
+    The wind is howling like this swirling storm inside
+Em                   D                    A
+    Couldn't keep it in, heaven knows I've tried
 
 D                                 C
 Don't let them in, don't let them see
