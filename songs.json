@@ -2113,9 +2113,12 @@
 			"id" : 1000255,
 			"name" : "הולך בטל",
 			"singer" : "תמוז",
+			"playback": {
+				"youTubeVideoId" : "jbeOs4eo8EQ"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page255.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page255.txt"
 			}
 		}, {
 			"id" : 1000256,
