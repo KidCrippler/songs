@@ -1,5 +1,5 @@
 {
-	"version" : "2018_07_28",
+	"version" : "2018_07_30",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -3486,7 +3486,7 @@
 			"singer" : "אביב גפן ואריק איינשטיין",
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage52.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage52.txt"
 			}
 		}, {
 			"id" : 2000053,
@@ -3713,25 +3713,7 @@
 			"singer" : "אריק איינשטיין",
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage79.jpg"
-			}
-		}, {
-			"id" : 2010079,
-			"name" : "עוד נפגש (Em)",
-			"singer" : "אריק איינשטיין",
-			"isPrivate" : true,
-			"categoryIds" : ["1"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage79_em.jpg"
-			}
-		}, {
-			"id" : 2020079,
-			"name" : "עוד נפגש (Bm)",
-			"singer" : "אריק איינשטיין",
-			"isPrivate" : true,
-			"categoryIds" : ["1"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage79_bm.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage79.txt"
 			}
 		}, {
 			"id" : 2000080,
@@ -3827,7 +3809,7 @@
 			}
 		}, {
 			"id" : 2000090,
-			"name" : "ציפור מדבר (Dm)",
+			"name" : "ציפור מדבר",
 			"singer" : "אתניקס",
 			"categoryIds" : ["1"],
 			"lyrics" : {
@@ -3892,20 +3874,11 @@
 			}
 		}, {
 			"id" : 2000098,
-			"name" : "שיר ישן (Am)",
+			"name" : "שיר ישן",
 			"singer" : "אתניקס",
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage98.jpg"
-			}
-		}, {
-			"id" : 2010098,
-			"name" : "שיר ישן (Em)",
-			"singer" : "אתניקס",
-			"isPrivate" : true,
-			"categoryIds" : ["1"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage98_em.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage98.txt"
 			}
 		}, {
 			"id" : 2000100,
@@ -4080,7 +4053,7 @@
 			}
 		}, {
 			"id" : 2000137,
-			"name" : "יש אי שם (A)",
+			"name" : "יש אי שם",
 			"singer" : "גידי גוב",
 			"categoryIds" : ["1"],
 			"lyrics" : {
@@ -4227,20 +4200,11 @@
 			}
 		}, {
 			"id" : 2000155,
-			"name" : "אנשי הגשם (Am)",
+			"name" : "אנשי הגשם",
 			"singer" : "צוות חופים",
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage155.jpg"
-			}
-		}, {
-			"id" : 2010155,
-			"name" : "אנשי הגשם (Em)",
-			"singer" : "צוות חופים",
-			"isPrivate" : true,
-			"categoryIds" : ["1"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage155_em.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage155.txt"
 			}
 		}, {
 			"id" : 2000157,
@@ -4608,7 +4572,7 @@
 			}
 		}, {
 			"id" : 2000212,
-			"name" : "הוא חייב לבוא (C)",
+			"name" : "הוא חייב לבוא",
 			"singer" : "חני נחמיאס",
 			"categoryIds" : ["1"],
 			"lyrics" : {
@@ -4625,7 +4589,7 @@
 			}
 		}, {
 			"id" : 2000214,
-			"name" : "מכל האהבות (Dm)",
+			"name" : "מכל האהבות",
 			"singer" : "הפרוייקט של עידן רייכל",
 			"categoryIds" : ["1"],
 			"lyrics" : {
@@ -5026,15 +4990,6 @@
 			"categoryIds" : ["1","4"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage262.txt"
-			}
-		}, {
-			"id" : 2010262,
-			"name" : "אני תמיד נשאר אני (F)",
-			"singer" : "עוזי חיטמן",
-			"isPrivate" : true,
-			"categoryIds" : ["1","4"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage262_f.jpg"
 			}
 		}, {
 			"id" : 2000263,
