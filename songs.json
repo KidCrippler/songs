@@ -3717,11 +3717,11 @@
 			}
 		}, {
 			"id" : 2000080,
-			"name" : "עוד סיפור אחד של אהבה (D)",
+			"name" : "עוד סיפור אחד של אהבה",
 			"singer" : "שימי תבורי",
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage80.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage80.txt"
 			}
 		}, {
 			"id" : 2000081,
@@ -6124,7 +6124,7 @@
 			"singer" : "Leonard Cohen",
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page66.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page66.txt"
 			}
 		}, {
 			"id" : 3000067,
