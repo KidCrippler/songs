@@ -7186,6 +7186,17 @@
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page119.txt"
 			}
+		}, {
+			"id" : 4000120,
+			"name" : "I Want it That Way",
+			"singer" : "Backstreet Boys",
+			"playback": {
+				"youTubeVideoId" : "4fndeDfaWCg"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page120.txt"
+			}
 		}
 	]
 }
