@@ -7205,6 +7205,17 @@
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page120.txt"
 			}
+		}, {
+			"id" : 4000121,
+			"name" : "Think",
+			"singer" : "Aretha Franklin",
+			"playback": {
+				"youTubeVideoId" : "HqYnevHibaI"
+			},
+			"categoryIds" : ["2","5"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page121.txt"
+			}
 		}
 	]
 }
