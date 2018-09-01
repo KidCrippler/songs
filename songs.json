@@ -1,5 +1,5 @@
 {
-	"version" : "2018_09_01",
+	"version" : "2018_09_02",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -1199,7 +1199,7 @@
 			}
 		}, {
 			"id" : 1000140,
-			"name" : "למה לי פוליטיקה עכשיו (Gm)",
+			"name" : "למה לי פוליטיקה עכשיו",
 			"singer" : "משינה",
 			"categoryIds" : ["1"],
 			"lyrics" : {
@@ -1300,7 +1300,7 @@
 			}
 		}, {
 			"id" : 1000150,
-			"name" : "אם אתה בסביבה",
+			"name" : "אם אתה בסביבה (העיירה שלי)",
 			"singer" : "אריק סיני",
 			"categoryIds" : ["1"],
 			"lyrics" : {
@@ -1709,7 +1709,7 @@
 			}
 		}, {
 			"id" : 1000201,
-			"name" : "היה לי חבר, היה לי אח (E)",
+			"name" : "היה לי חבר, היה לי אח",
 			"singer" : "נתנאלה",
 			"categoryIds" : ["1"],
 			"lyrics" : {
@@ -2220,26 +2220,17 @@
 			}
 		}, {
 			"id" : 1000267,
-			"name" : "דם חם (Bbm)",
+			"name" : "דם חם",
 			"singer" : "שרי",
-			"categoryIds" : ["1"],
+			"categoryIds" : ["1","5"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page267.jpg"
-			}
-		}, {
-			"id" : 1010267,
-			"name" : "דם חם (Am)",
-			"singer" : "שרי",
-			"isPrivate" : true,
-			"categoryIds" : ["1"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page267_am.jpg"
 			}
 		}, {
 			"id" : 1000268,
 			"name" : "אחכה לך בשדות",
 			"singer" : "משינה",
-			"categoryIds" : ["1"],
+			"categoryIds" : ["1","5"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page268.jpg"
 			}
@@ -2448,7 +2439,7 @@
 			}
 		}, {
 			"id" : 1000297,
-			"name" : "הדרכים הידועות (Gm)",
+			"name" : "הדרכים הידועות",
 			"singer" : "שלום חנוך",
 			"categoryIds" : ["1"],
 			"lyrics" : {
@@ -2467,14 +2458,16 @@
 			"id" : 1000299,
 			"name" : "כולם אומרים (A)",
 			"singer" : "שלומי שבן",
+			"isPrivate" : true,
 			"categoryIds" : ["1"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page299.jpg"
 			}
 		}, {
 			"id" : 1000300,
-			"name" : "לב חופשי",
+			"name" : "לב חופשי (Bbm)",
 			"singer" : "מוקי",
+			"isPrivate" : true,
 			"categoryIds" : ["1"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page300.jpg"
@@ -2521,7 +2514,7 @@
 			}
 		}, {
 			"id" : 1000306,
-			"name" : "לב חופשי (Am)",
+			"name" : "לב חופשי",
 			"singer" : "מוקי",
 			"categoryIds" : ["1"],
 			"lyrics" : {
@@ -4216,7 +4209,7 @@
 			}
 		}, {
 			"id" : 2000160,
-			"name" : "גולית (D)",
+			"name" : "גולית",
 			"singer" : "כוורת",
 			"categoryIds" : ["1","4"],
 			"lyrics" : {
@@ -4291,7 +4284,7 @@
 			}
 		}, {
 			"id" : 2000172,
-			"name" : "לא נרדמת תל-אביב (Bm)",
+			"name" : "לא נרדמת תל-אביב",
 			"singer" : "דני רובס",
 			"categoryIds" : ["1"],
 			"lyrics" : {
@@ -4866,7 +4859,7 @@
 			"id" : 2000248,
 			"name" : "מתוק מתוק",
 			"singer" : "יגאל בשן",
-			"categoryIds" : ["1"],
+			"categoryIds" : ["1","5"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage248.jpg"
 			}
@@ -5731,36 +5724,9 @@
 			"id" : 2000342,
 			"name" : "לעוף",
 			"singer" : "הראל סקעת",
-			"categoryIds" : ["1"],
+			"categoryIds" : ["1","4"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage342.txt"
-			}
-		}, {
-			"id" : 2000400,
-			"name" : "פיאנו מן",
-			"singer" : "רועי גירון",
-			"isPrivate" : true,
-			"categoryIds" : ["1"],
-			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage400.txt"
-			}
-		}, {
-			"id" : 2000401,
-			"name" : "מחרוזת",
-			"singer" : "רועי גירון",
-			"isPrivate" : true,
-			"categoryIds" : ["1"],
-			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage401.txt"
-			}
-		}, {
-			"id" : 2000402,
-			"name" : "סבתא ברכה",
-			"singer" : "רועי גירון",
-			"isPrivate" : true,
-			"categoryIds" : ["1"],
-			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage402.txt"
 			}
 		}, {
 			"id" : 3000001,
@@ -6561,6 +6527,9 @@
 			"id" : 3000115,
 			"name" : "Purple Rain",
 			"singer" : "Prince",
+			"playback": {
+				"youTubeVideoId" : "TvnYmWpD_T8"
+			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page115.txt"
@@ -6817,6 +6786,9 @@
 			"name" : "Let It Go",
 			"singer" : "Frozen",
 			"isPrivate" : true,
+			"playback": {
+				"youTubeVideoId" : "moSFlvxnbgk"
+			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page138.txt"
@@ -6836,6 +6808,9 @@
 			"id" : 4000060,
 			"name" : "Lorelei",
 			"singer" : "Scorpions",
+			"playback": {
+				"youTubeVideoId" : "DkLMgfbMIX8"
+			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page60.txt"
@@ -6844,6 +6819,9 @@
 			"id" : 4000061,
 			"name" : "Piano Man",
 			"singer" : "Billy Joel",
+			"playback": {
+				"youTubeVideoId" : "gxEPV4kolz0"
+			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page61.jpg"
@@ -6852,6 +6830,9 @@
 			"id" : 4000062,
 			"name" : "She's Like The Wind",
 			"singer" : "Patrick Swayze",
+			"playback": {
+				"youTubeVideoId" : "lU9p1WRfA9w"
+			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page62.jpg"
@@ -6860,6 +6841,9 @@
 			"id" : 4000063,
 			"name" : "When I Was Your Man",
 			"singer" : "Bruno Mars",
+			"playback": {
+				"youTubeVideoId" : "ekzHIouo8Q4"
+			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page63.txt",
@@ -6869,6 +6853,9 @@
 			"id" : 4000064,
 			"name" : "Your Song",
 			"singer" : "Elton John",
+			"playback": {
+				"youTubeVideoId" : "mTa8U0Wa0q8"
+			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page64.txt"
@@ -6877,6 +6864,9 @@
 			"id" : 4000072,
 			"name" : "Drops of Jupiter",
 			"singer" : "Train",
+			"playback": {
+				"youTubeVideoId" : "7Xf-Lesrkuc"
+			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page72.txt",
@@ -6886,6 +6876,9 @@
 			"id" : 4000074,
 			"name" : "Patience",
 			"singer" : "Take That",
+			"playback": {
+				"youTubeVideoId" : "273eSvOwpKk"
+			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page74.jpg"
@@ -7272,6 +7265,17 @@
 			"categoryIds" : ["2","5"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page123.txt"
+			}
+		}, {
+			"id" : 4000124,
+			"name" : "What You're Made Of",
+			"singer" : "Lucie Silvas",
+			"playback": {
+				"youTubeVideoId" : "rnuInke7TZA"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page124.txt"
 			}
 		}
 	]
