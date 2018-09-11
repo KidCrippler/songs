@@ -28,7 +28,7 @@ C  G     C  G    A7        Dm
 Dm Am    E        Am
 לה לה לה לה לה לה לה
 
-(Am  E  Am  Dm)x3
+(Am  E  Am  Dm) x 3
 
 Am    Dm   Am  Dm   F   Em   Am   Em
 אני זוכר ארגז בחול, ארמונות בני - נו 
@@ -58,7 +58,7 @@ Dm  Am  E  Am
 Em Bm    F#       Bm
 לה לה לה לה לה לה לה
 
-(Bm  F#  Bm  Em)x3
+(Bm  F#  Bm  Em) x 3
 
 Bm    Em   Bm  Em   G   F#m   Bm   F#m
 אני זוכר אותם ימים, הכל ברור כשמש
@@ -81,7 +81,7 @@ D  A     D  A    B7        Em
 אולי לפני אולי בצדדי, אולי מאחורי הגב
 Em  Bm  F#  Em
           אולי מאחורי הגב
-Em  Bm  F#  Em            [F#]-[Bm]
+Em  Bm  F#  Em            [F#] - [Bm]
           אולי מאחורי הגב
 
 

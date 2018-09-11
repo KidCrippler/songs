@@ -1,5 +1,5 @@
 {
-	"version" : "2018_09_02",
+	"version" : "2018_09_11",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -3600,7 +3600,7 @@
 			"singer" : "גידי גוב",
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage67.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage67.txt"
 			}
 		}, {
 			"id" : 2000068,
@@ -4990,7 +4990,8 @@
 			"singer" : "עוזי חיטמן",
 			"categoryIds" : ["1","4"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage263.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage263.txt",
+				"markupVersion" : "2"
 			}
 		}, {
 			"id" : 2000264,
@@ -5727,6 +5728,14 @@
 			"categoryIds" : ["1","4"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage342.txt"
+			}
+		}, {
+			"id" : 2000343,
+			"name" : "יש לך אותי",
+			"singer" : "תיסלם",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage343.txt"
 			}
 		}, {
 			"id" : 3000001,
@@ -7276,6 +7285,17 @@
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page124.txt"
+			}
+		}, {
+			"id" : 4000125,
+			"name" : "Les Champs Élysées",
+			"singer" : "Joe Dassin",
+			"playback": {
+				"youTubeVideoId" : "d9V-zUlrhEE"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page125.txt"
 			}
 		}
 	]
