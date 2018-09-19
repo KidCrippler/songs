@@ -7,9 +7,9 @@ Em    D     Bm       C     Am
 לכי ילדה אהובה אל חופים רחוקים
 D      G    B7
 אל חלומות אחרים
-Em    D     Bm       C     Am
+Em        D     Bm       C    Am
 יש עוד דרכים שאותן לא עברו מעולם
-D    Em
+D    Em   Em   C   D7/C   Em   Em   C   D7/C
 לכי לשם
 
  Em      D     Bm       C     Am
@@ -102,4 +102,3 @@ Cm  G#  Bb    Cm
 
 --> (Gm  Gm  Eb  F7/Eb) x 4
     [Gm]
-
