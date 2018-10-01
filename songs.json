@@ -2259,7 +2259,7 @@
 			"singer" : "גידי גוב",
 			"categoryIds" : ["1","5"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page271.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page271.txt"
 			}
 		}, {
 			"id" : 1000272,
@@ -5742,9 +5742,10 @@
 			"id" : 2000344,
 			"name" : "אמרו לו",
 			"singer" : "אריק איינשטיין",
-			"categoryIds" : ["1","5"],
+			"categoryIds" : ["1","4","5"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage344.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage344.txt",
+				"markupVersion" : "2"
 			}
 		}, {
 			"id" : 2000345,
@@ -7347,7 +7348,7 @@
 			"categoryIds" : ["2","5"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page128.txt",
-				"markupVersion" : "2"
+				"markupVersion" : "3"
 			}
 		}, {
 			"id" : 4000129,
@@ -7358,7 +7359,8 @@
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page129.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page129.txt",
+				"markupVersion" : "2"
 			}
 		}
 	]
