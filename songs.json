@@ -3165,7 +3165,7 @@
 			"id" : 2000011,
 			"name" : "איתו לנצח",
 			"singer" : "קרח 9",
-			"categoryIds" : ["1"],
+			"categoryIds" : ["1","5"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage11.jpg"
 			}
@@ -3403,7 +3403,7 @@
 			"id" : 2000042,
 			"name" : "הצל ואני",
 			"singer" : "יהודה פוליקר",
-			"categoryIds" : ["1"],
+			"categoryIds" : ["1","5"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage42.jpg"
 			}
@@ -3967,7 +3967,7 @@
 			"id" : 2000113,
 			"name" : "היא הולכת בדרכים",
 			"singer" : "אלון אולארצ'יק",
-			"categoryIds" : ["1"],
+			"categoryIds" : ["1","5"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage113.jpg"
 			}
@@ -3976,7 +3976,7 @@
 			"name" : "היא הולכת בדרכים (Em)",
 			"singer" : "אלון אולארצ'יק",
 			"isPrivate" : true,
-			"categoryIds" : ["1"],
+			"categoryIds" : ["1","5"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage113_em.jpg"
 			}
@@ -4329,7 +4329,7 @@
 			"id" : 2000177,
 			"name" : "לאן שלא תלכי",
 			"singer" : "שירי מימון",
-			"categoryIds" : ["1"],
+			"categoryIds" : ["1","5"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage177.jpg"
 			}
@@ -4634,7 +4634,7 @@
 			"id" : 2000219,
 			"name" : "אהובתי",
 			"singer" : "משינה",
-			"categoryIds" : ["1"],
+			"categoryIds" : ["1","5"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage219.jpg"
 			}
@@ -4643,7 +4643,7 @@
 			"name" : "אהובתי (Am)",
 			"singer" : "משינה",
 			"isPrivate" : true,
-			"categoryIds" : ["1"],
+			"categoryIds" : ["1","5"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage219_am.jpg"
 			}
@@ -4867,7 +4867,7 @@
 			"id" : 2000249,
 			"name" : "אני רוצה גם",
 			"singer" : "יהודה פוליקר",
-			"categoryIds" : ["1"],
+			"categoryIds" : ["1","5"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage249.jpg"
 			}
@@ -5239,7 +5239,7 @@
 			"id" : 2000285,
 			"name" : "סיגל",
 			"singer" : "אריס סאן",
-			"categoryIds" : ["1"],
+			"categoryIds" : ["1","5"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage285.jpg",
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage285.txt"
@@ -5291,7 +5291,7 @@
 			"id" : 2000290,
 			"name" : "חתונה",
 			"singer" : "דני סנדרסון",
-			"categoryIds" : ["1"],
+			"categoryIds" : ["1","5"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage290.jpg"
 			}
@@ -5397,7 +5397,7 @@
 			"id" : 2000302,
 			"name" : "רוב השעות",
 			"singer" : "הפרוייקט של עידן רייכל",
-			"categoryIds" : ["1"],
+			"categoryIds" : ["1","5"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage302.txt"
 			}
@@ -5405,7 +5405,7 @@
 			"id" : 2000303,
 			"name" : "אני חולם על נעמי",
 			"singer" : "חדוה ודוד",
-			"categoryIds" : ["1"],
+			"categoryIds" : ["1","5"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage303.txt"
 			}
@@ -5593,7 +5593,7 @@
 			"id" : 2000325,
 			"name" : "היא לא תשוב",
 			"singer" : "אתניקס",
-			"categoryIds" : ["1"],
+			"categoryIds" : ["1","5"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage325.txt"
 			}
@@ -6994,7 +6994,7 @@
 			"playback": {
 				"youTubeVideoId" : "hwZNL7QVJjE"
 			},
-			"categoryIds" : ["2"],
+			"categoryIds" : ["2","5"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page98.txt"
 			}
