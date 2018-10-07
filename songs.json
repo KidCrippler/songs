@@ -1,5 +1,5 @@
 {
-	"version" : "2018_10_02",
+	"version" : "2018_10_08",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -5745,6 +5745,15 @@
 			"categoryIds" : ["1"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage345.txt"
+			}
+		}, {
+			"id" : 2000346,
+			"name" : "עד סוף הקיץ",
+			"singer" : "דני ליטני",
+			"isPrivate" : true,
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage346.txt"
 			}
 		}, {
 			"id" : 3000001,
