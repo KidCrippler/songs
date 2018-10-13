@@ -985,9 +985,12 @@
 			"id" : 1000116,
 			"name" : "שיר אהבה בדואי",
 			"singer" : "דיויד ברוזה",
+			"playback": {
+				"youTubeVideoId" : "0TFos2UX_Qo"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page116.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page116.txt"
 			}
 		}, {
 			"id" : 1000117,
@@ -3058,7 +3061,6 @@
 			"id" : 1000358,
 			"name" : "זמנך עבר",
 			"singer" : "אהוד בנאי",
-			"isPrivate" : true,
 			"playback": {
 				"youTubeVideoId" : "8nA8sB1YMho"
 			},
