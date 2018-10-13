@@ -1,5 +1,5 @@
 {
-	"version" : "2018_10_08",
+	"version" : "2018_10_13",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -2284,9 +2284,12 @@
 			"id" : 1000274,
 			"name" : "ימים טובים",
 			"singer" : "נמרוד לב",
+			"playback": {
+				"youTubeVideoId" : "jMU9Dn_V-EI"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page274.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page274.txt"
 			}
 		}, {
 			"id" : 1000275,
@@ -6206,17 +6209,23 @@
 			"id" : 3000075,
 			"name" : "Sweet Child of Mine",
 			"singer" : "Guns N Roses",
+			"playback": {
+				"youTubeVideoId" : "1w7OgIMMRc4"
+			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page75.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page75.txt"
 			}
 		}, {
 			"id" : 3000076,
 			"name" : "Knocking on Heaven's Door",
 			"singer" : "Guns N Roses",
+			"playback": {
+				"youTubeVideoId" : "9B1pdJP6VSU"
+			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page76.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page76.txt"
 			}
 		}, {
 			"id" : 3000077,
@@ -6231,9 +6240,6 @@
 			"name" : "Crazy (Em)",
 			"singer" : "Ninet & Red Band",
 			"isPrivate" : true,
-			"playback": {
-				"youTubeVideoId" : "HLeXPmxUffE"
-			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page77_em.jpg"
@@ -6337,7 +6343,7 @@
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page91.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page91.txt"
 			}
 		}, {
 			"id" : 3000094,
