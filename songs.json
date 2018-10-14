@@ -1,5 +1,5 @@
 {
-	"version" : "2018_10_13",
+	"version" : "2018_10_14",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -3049,7 +3049,6 @@
 			"id" : 1000357,
 			"name" : "רוחות הצפון",
 			"singer" : "אהוד בנאי",
-			"isPrivate" : true,
 			"playback": {
 				"youTubeVideoId" : "-3CyIVLb2Ac"
 			},
@@ -6820,7 +6819,6 @@
 			"id" : 3000138,
 			"name" : "Let It Go",
 			"singer" : "Frozen",
-			"isPrivate" : true,
 			"playback": {
 				"youTubeVideoId" : "moSFlvxnbgk"
 			},
