@@ -6838,6 +6838,17 @@
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page139.txt"
 			}
 		}, {
+			"id" : 3000140,
+			"name" : "Stairway to heaven",
+			"singer" : "Led Zepelin",
+			"playback": {
+				"youTubeVideoId" : "D9ioyEvdggk"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page140.txt"
+			}
+		}, {
 			"id" : 4000060,
 			"name" : "Lorelei",
 			"singer" : "Scorpions",
