@@ -1,5 +1,5 @@
 {
-	"version" : "2018_10_22",
+	"version" : "2018_10_23",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -3100,6 +3100,17 @@
 			"categoryIds" : ["1"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page361.txt"
+			}
+		}, {
+			"id" : 1000362,
+			"name" : "לו לו",
+			"singer" : "כוורת",
+			"playback": {
+				"youTubeVideoId" : "pl2akUT9Dck"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page362.txt"
 			}
 		}, {
 			"id" : 2000001,
