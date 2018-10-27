@@ -7413,6 +7413,17 @@
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page130.txt"
 			}
+		}, {
+			"id" : 4000131,
+			"name" : "Karma Chameleon",
+			"singer" : "Culture Club",
+			"playback": {
+				"youTubeVideoId" : "JmcA9LIIXWw"
+			},
+			"categoryIds" : ["2","5"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page131.txt"
+			}
 		}
 	]
 }
