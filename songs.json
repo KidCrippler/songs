@@ -1,5 +1,5 @@
 {
-	"version" : "2018_10_29",
+	"version" : "2018_10_30",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -3104,6 +3104,17 @@
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page362.txt"
 			}
 		}, {
+			"id" : 1000363,
+			"name" : "נוף אחר",
+			"singer" : "יוני בלוך",
+			"playback": {
+				"youTubeVideoId" : "pjXstyIkCOw"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page363.txt"
+			}
+		}, {
 			"id" : 2000001,
 			"name" : "אדון שוקו",
 			"singer" : "אריק איינשטיין",
@@ -5896,9 +5907,12 @@
 			"id" : 3000016,
 			"name" : "Heaven",
 			"singer" : "Bryan Adams",
+			"playback": {
+				"youTubeVideoId" : "90uzNdQ55q4"
+			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page16.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page16.txt"
 			}
 		}, {
 			"id" : 3000017,
@@ -6683,7 +6697,6 @@
 			"id" : 3000125,
 			"name" : "Africa",
 			"singer" : "Toto",
-			"isPrivate" : true,
 			"playback": {
 				"youTubeVideoId" : "FTQbiNvZqaY"
 			},
@@ -6696,7 +6709,6 @@
 			"id" : 3000126,
 			"name" : "Come As You Are",
 			"singer" : "Nirvana",
-			"isPrivate" : true,
 			"playback": {
 				"youTubeVideoId" : "1G8V6ta9Auk"
 			},
@@ -6708,7 +6720,6 @@
 			"id" : 3000127,
 			"name" : "The Man Who Sold The World",
 			"singer" : "Nirvana",
-			"isPrivate" : true,
 			"playback": {
 				"youTubeVideoId" : "fregObNcHC8"
 			},
@@ -6869,7 +6880,19 @@
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page141.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page141.txt",
+				"markupVersion" : "1"
+			}
+		}, {
+			"id" : 3000142,
+			"name" : "Weather with you",
+			"singer" : "Crowded House",
+			"playback": {
+				"youTubeVideoId" : "ag8XcMG1EX4"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page142.txt"
 			}
 		}, {
 			"id" : 4000060,
