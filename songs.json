@@ -7435,6 +7435,18 @@
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page132.txt"
 			}
+		}, {
+			"id" : 4000133,
+			"name" : "Somewhere Only We Know",
+			"singer" : "Keane",
+			"isPrivate" : true,
+			"playback": {
+				"youTubeVideoId" : "Oextk-If8HQ"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page133.txt"
+			}
 		}
 	]
 }
