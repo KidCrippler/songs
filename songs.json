@@ -1,5 +1,5 @@
 {
-	"version" : "2018_11_08",
+	"version" : "2018_11_11",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -5912,7 +5912,8 @@
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page16.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page16.txt",
+				"markupVersion" : "1"
 			}
 		}, {
 			"id" : 3000017,
@@ -5996,18 +5997,6 @@
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page28.txt"
-			}
-		}, {
-			"id" : 3010028,
-			"name" : "Ironic (G)",
-			"singer" : "Alanis Morissette",
-			"isPrivate" : true,
-			"playback": {
-				"youTubeVideoId" : "Jne9t8sHpUc"
-			},
-			"categoryIds" : ["2"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page28_g.jpg"
 			}
 		}, {
 			"id" : 3000029,
@@ -6313,19 +6302,7 @@
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page83.jpg"
-			}
-		}, {
-			"id" : 3010083,
-			"name" : "Hotel California (Am)",
-			"singer" : "Eagles",
-			"isPrivate" : true,
-			"playback": {
-				"youTubeVideoId" : "lrfhf1Gv4Tw"
-			},
-			"categoryIds" : ["2"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page83_am.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page83.txt"
 			}
 		}, {
 			"id" : 3000085,
@@ -6862,7 +6839,7 @@
 			}
 		}, {
 			"id" : 3000140,
-			"name" : "Stairway to heaven",
+			"name" : "Stairway to Heaven",
 			"singer" : "Led Zepelin",
 			"playback": {
 				"youTubeVideoId" : "D9ioyEvdggk"
@@ -6873,8 +6850,8 @@
 			}
 		}, {
 			"id" : 3000141,
-			"name" : "Don't speak",
-			"singer" : "No doubt",
+			"name" : "Don't Speak",
+			"singer" : "No Doubt",
 			"playback": {
 				"youTubeVideoId" : "TR3Vdo5etCQ"
 			},
@@ -6885,7 +6862,7 @@
 			}
 		}, {
 			"id" : 3000142,
-			"name" : "Weather with you",
+			"name" : "Weather With You",
 			"singer" : "Crowded House",
 			"playback": {
 				"youTubeVideoId" : "ag8XcMG1EX4"
@@ -6893,6 +6870,28 @@
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page142.txt"
+			}
+		}, {
+			"id" : 3000143,
+			"name" : "Tears in Heaven",
+			"singer" : "Eric Clapton",
+			"playback": {
+				"youTubeVideoId" : "JxPj3GAYYZ0"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page143.txt"
+			}
+		}, {
+			"id" : 3000144,
+			"name" : "Tiny Dancer",
+			"singer" : "Elton John",
+			"playback": {
+				"youTubeVideoId" : "KBWfUc5jKiM"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page144.txt"
 			}
 		}, {
 			"id" : 4000060,
