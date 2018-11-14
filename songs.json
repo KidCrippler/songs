@@ -1,5 +1,5 @@
 {
-	"version" : "2018_11_11",
+	"version" : "2018_11_14",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -4943,7 +4943,7 @@
 			"singer" : "מאיר בנאי",
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage255.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage255.txt"
 			}
 		}, {
 			"id" : 2000256,
@@ -5777,10 +5777,17 @@
 			"id" : 2000346,
 			"name" : "עד סוף הקיץ",
 			"singer" : "דני ליטני",
-			"isPrivate" : true,
 			"categoryIds" : ["1"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage346.txt"
+			}
+		}, {
+			"id" : 2000347,
+			"name" : "עוד לא תמו כל פלאייך (ארצנו הקטנטונת)",
+			"singer" : "רמי קלינשטיין",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage347.txt"
 			}
 		}, {
 			"id" : 3000001,
@@ -7484,7 +7491,6 @@
 			"id" : 4000135,
 			"name" : "Shallow",
 			"singer" : "Lady Gaga and Bradley Cooper",
-			"isPrivate" : true,
 			"playback": {
 				"youTubeVideoId" : "bo_efYhYU2A"
 			},
