@@ -7554,6 +7554,18 @@
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page137.txt"
 			}
+		}, {
+			"id" : 4000138,
+			"name" : "Let it Be (EC)",
+			"singer" : "EverCompliant",
+			"isPrivate" : true,
+			"playback": {
+				"youTubeVideoId" : "0Gl2QnHNpkA"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page138.txt"
+			}
 		}
 	]
 }
