@@ -1,5 +1,5 @@
 {
-	"version" : "2018_12_11",
+	"version" : "2018_12_13",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -528,7 +528,7 @@
 		}, {
 			"id" : 1000061,
 			"name" : "קפה אצל ברטה",
-			"singer" : "הנשמות הטהורות",
+			"singer" : "יגאל בשן",
 			"categoryIds" : ["1"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page61.txt"
@@ -2538,7 +2538,7 @@
 			}
 		}, {
 			"id" : 1000309,
-			"name" : "תן לי",
+			"name" : "תן לי (מה שהיה תשכח מזה)",
 			"singer" : "יגאל בשן",
 			"categoryIds" : ["1","4"],
 			"lyrics" : {
@@ -3703,7 +3703,7 @@
 			"singer" : "יגאל בשן",
 			"categoryIds" : ["1","4"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage76.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage76.txt"
 			}
 		}, {
 			"id" : 2000077,
@@ -5823,6 +5823,38 @@
 			"categoryIds" : ["1","4","5"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage352.txt"
+			}
+		}, {
+			"id" : 2000353,
+			"name" : "בואי נעשה לנו חג",
+			"singer" : "יגאל בשן",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage353.txt"
+			}
+		}, {
+			"id" : 2000354,
+			"name" : "אם הייתי שר לך",
+			"singer" : "יגאל בשן",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage354.txt"
+			}
+		}, {
+			"id" : 2000355,
+			"name" : "אנחנו נשארים בארץ",
+			"singer" : "יגאל בשן",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage355.txt"
+			}
+		}, {
+			"id" : 2000356,
+			"name" : "ציגלה ביגלה בום",
+			"singer" : "יגאל בשן",
+			"categoryIds" : ["1","4"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage356.txt"
 			}
 		}, {
 			"id" : 3000001,
