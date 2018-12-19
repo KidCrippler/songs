@@ -1,5 +1,5 @@
 {
-	"version" : "2018_12_13",
+	"version" : "2018_12_19",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -528,7 +528,7 @@
 		}, {
 			"id" : 1000061,
 			"name" : "קפה אצל ברטה",
-			"singer" : "יגאל בשן",
+			"singer" : "הנשמות הטהורות",
 			"categoryIds" : ["1"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page61.txt"
@@ -5786,7 +5786,7 @@
 		}, {
 			"id" : 2000348,
 			"name" : "הופה היי",
-			"singer" : "יגאל בשן",
+			"singer" : "הופה היי",
 			"categoryIds" : ["1","4","5"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage348.txt"
@@ -5819,7 +5819,7 @@
 		}, {
 			"id" : 2000352,
 			"name" : "כמו צועני",
-			"singer" : "יגאל בשן",
+			"singer" : "כמו צועני",
 			"categoryIds" : ["1","4","5"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage352.txt"
@@ -5843,10 +5843,11 @@
 		}, {
 			"id" : 2000355,
 			"name" : "אנחנו נשארים בארץ",
-			"singer" : "יגאל בשן",
+			"singer" : "כמו צועני",
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage355.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage355.txt",
+				"markupVersion" : "2"
 			}
 		}, {
 			"id" : 2000356,
