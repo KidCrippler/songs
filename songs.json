@@ -1,5 +1,5 @@
 {
-	"version" : "2018_12_19",
+	"version" : "2018_12_25",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -5856,6 +5856,22 @@
 			"categoryIds" : ["1","4"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage356.txt"
+			}
+		}, {
+			"id" : 2000357,
+			"name" : "שיר הפרחה",
+			"singer" : "עפרה חזה",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage357.txt"
+			}
+		}, {
+			"id" : 2000358,
+			"name" : "הראל סקעת \ הכל עובר חביבי",
+			"singer" : "עודני ילד",
+			"categoryIds" : ["1","4","5"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage358.txt"
 			}
 		}, {
 			"id" : 3000001,
