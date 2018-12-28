@@ -1,5 +1,5 @@
 {
-	"version" : "2018_12_25",
+	"version" : "2018_12_28",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -5853,7 +5853,7 @@
 			"id" : 2000356,
 			"name" : "ציגלה ביגלה בום",
 			"singer" : "יגאל בשן",
-			"categoryIds" : ["1","4"],
+			"categoryIds" : ["1","4","5"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage356.txt"
 			}
@@ -5867,8 +5867,8 @@
 			}
 		}, {
 			"id" : 2000358,
-			"name" : "הראל סקעת / הכל עובר חביבי",
-			"singer" : "עודני ילד",
+			"name" : "עודני ילד",
+			"singer" : "הראל סקעת / הכל עובר חביבי",
 			"categoryIds" : ["1","4","5"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage358.txt"
