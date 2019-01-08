@@ -1,5 +1,5 @@
 {
-	"version" : "2018_12_28",
+	"version" : "2019_01_09",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -2500,9 +2500,12 @@
 			"id" : 1000304,
 			"name" : "אם כבר",
 			"singer" : "היהודים",
+			"playback": {
+				"youTubeVideoId" : "pY8V1cHiPvQ"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page304.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page304.txt"
 			}
 		}, {
 			"id" : 1000305,
@@ -3028,7 +3031,8 @@
 			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page356.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page356.txt",
+				"markupVersion" : "1"
 			}
 		}, {
 			"id" : 1000357,
@@ -3106,7 +3110,19 @@
 			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page363.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page363.txt",
+				"markupVersion" : "1"
+			}
+		}, {
+			"id" : 1000364,
+			"name" : "שיר לשלום",
+			"singer" : "להקת הנחל",
+			"playback": {
+				"youTubeVideoId" : "d4JyiXsta10"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page364.txt"
 			}
 		}, {
 			"id" : 2000001,
@@ -7022,6 +7038,51 @@
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page147.txt"
+			}
+		}, {
+			"id" : 3000148,
+			"name" : "Let it grow",
+			"singer" : "Eric Clapton",
+			"playback": {
+				"youTubeVideoId" : "KXDf9UwHGF4"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page148.txt"
+			}
+		}, {
+			"id" : 3000149,
+			"name" : "Ticket to ride",
+			"singer" : "The Beatles",
+			"playback": {
+				"youTubeVideoId" : "SyNt5zm3U_M"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page149.txt"
+			}
+		}, {
+			"id" : 3000150,
+			"name" : "Layla (Acoustic)",
+			"singer" : "Eric Clapton",
+			"playback": {
+				"youTubeVideoId" : "Q_L-0Ryhmic"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page150.txt"
+			}
+		}, {
+			"id" : 3000151,
+			"name" : "Patience",
+			"singer" : "Guns N Roses",
+			"isPrivate" : true,
+			"playback": {
+				"youTubeVideoId" : "ErvgV4P6Fzc"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page151.txt"
 			}
 		}, {
 			"id" : 4000060,
