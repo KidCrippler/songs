@@ -1,5 +1,5 @@
 {
-	"version" : "2019_01_09",
+	"version" : "2019_01_11",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -1165,18 +1165,12 @@
 			"id" : 1000137,
 			"name" : "רכבות 68-80-88",
 			"singer" : "דני רובס",
+			"playback": {
+				"youTubeVideoId" : "WZKEYg7_AEI"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page137.jpg"
-			}
-		}, {
-			"id" : 1010137,
-			"name" : "רכבות 68-80-88 (G)",
-			"singer" : "דני רובס",
-			"isPrivate" : true,
-			"categoryIds" : ["1"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page137_g.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page137.txt"
 			}
 		}, {
 			"id" : 1000138,
