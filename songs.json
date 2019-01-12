@@ -233,9 +233,12 @@
 			"id" : 1000025,
 			"name" : "מדברים על שלום",
 			"singer" : "מוקי",
+			"playback": {
+				"youTubeVideoId" : "BCNctor2Dek"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page25.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page25.txt"
 			}
 		}, {
 			"id" : 1000027,
@@ -1894,9 +1897,12 @@
 			"id" : 1000223,
 			"name" : "לראות את האור",
 			"singer" : "אפרת גוש",
+			"playback": {
+				"youTubeVideoId" : "7UAnc7lqJjM"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page223.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page223.txt"
 			}
 		}, {
 			"id" : 1000224,
@@ -3284,9 +3290,13 @@
 			"id" : 2000021,
 			"name" : "בלדה לסוכן כפול",
 			"singer" : "משינה",
+			"playback": {
+				"youTubeVideoId" : "RbF1hwyIFYA"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage21.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage21.txt",
+				"markupVersion" : "1"
 			}
 		}, {
 			"id" : 2000022,
