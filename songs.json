@@ -1,5 +1,5 @@
 {
-	"version" : "2019_01_11",
+	"version" : "2019_01_12",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -1285,9 +1285,12 @@
 			"id" : 1000149,
 			"name" : "סיון",
 			"singer" : "יגאל בשן",
+			"playback": {
+				"youTubeVideoId" : "zSm9pSOkQgE"
+			},
 			"categoryIds" : ["1","4"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page149.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page149.txt"
 			}
 		}, {
 			"id" : 1000150,
@@ -1317,9 +1320,12 @@
 			"id" : 1000153,
 			"name" : "צליל מכוון",
 			"singer" : "יצחק קלפטר",
+			"playback": {
+				"youTubeVideoId" : "ECvkjjVqEJs"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page153.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page153.txt"
 			}
 		}, {
 			"id" : 1000154,
@@ -7279,19 +7285,6 @@
 			"categoryIds" : ["2","5"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page101.txt",
-				"markupVersion" : "2"
-			}
-		}, {
-			"id" : 4010101,
-			"name" : "I Will Survive (F#m)",
-			"singer" : "Gloria Gaynor",
-			"isPrivate" : true,
-			"playback": {
-				"youTubeVideoId" : "gmwwQBWRIAs"
-			},
-			"categoryIds" : ["2","5"],
-			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page101_f%23m.txt",
 				"markupVersion" : "2"
 			}
 		}, {
