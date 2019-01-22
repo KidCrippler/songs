@@ -7721,6 +7721,18 @@
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page138.txt"
 			}
+		}, {
+			"id" : 4000139,
+			"name" : "Could I Have This Kiss Forever",
+			"singer" : "Enrique Iglesias and Whitney Houston",
+			"isPrivate" : true,
+			"playback": {
+				"youTubeVideoId" : "zsfj9j0kjoU"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page139.txt"
+			}
 		}
 	]
 }
