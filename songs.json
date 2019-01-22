@@ -1,5 +1,5 @@
 {
-	"version" : "2019_01_12",
+	"version" : "2019_01_23",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -5900,6 +5900,14 @@
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage358.txt"
 			}
 		}, {
+			"id" : 2000359,
+			"name" : "הלוואי",
+			"singer" : "בועז שרעבי",
+			"categoryIds" : ["1","5"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage359.txt"
+			}
+		}, {
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
 			"singer" : "Beatles",
@@ -7701,6 +7709,17 @@
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page137.txt"
+			}
+		}, {
+			"id" : 4000138,
+			"name" : "Careless Whisper",
+			"singer" : "George Michael",
+			"playback": {
+				"youTubeVideoId" : "izGwDsrQ1eQ"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page138.txt"
 			}
 		}
 	]
