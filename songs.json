@@ -7089,6 +7089,17 @@
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page151.txt"
 			}
 		}, {
+			"id" : 3000152,
+			"name" : "I'm a Believer",
+			"singer" : "The Monkees",
+			"playback": {
+				"youTubeVideoId" : "wB9YIsKIEbA"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page152.txt"
+			}
+		}, {
 			"id" : 4000060,
 			"name" : "Lorelei",
 			"singer" : "Scorpions",
