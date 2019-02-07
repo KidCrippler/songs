@@ -1,5 +1,5 @@
 {
-	"version" : "2019_01_31",
+	"version" : "2019_02_07",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -184,9 +184,12 @@
 			"id" : 1000020,
 			"name" : "תמיד יחכו לך",
 			"singer" : "לאה שבת",
+			"playback": {
+				"youTubeVideoId" : "U9T27hGPVZM"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page20.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page20.txt"
 			}
 		}, {
 			"id" : 1010020,
@@ -924,18 +927,6 @@
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page110.txt"
 			}
 		}, {
-			"id" : 1010110,
-			"name" : "הדפוק הזה (F)",
-			"singer" : "ירמי קפלן",
-			"isPrivate" : true,
-			"playback": {
-				"youTubeVideoId" : "LGVVp1ikF-c"
-			},
-			"categoryIds" : ["1","5"],
-			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page110_f.txt"
-			}
-		}, {
 			"id" : 1000111,
 			"name" : "יומולדת",
 			"singer" : "ברי סחרוף",
@@ -947,18 +938,12 @@
 			"id" : 1000112,
 			"name" : "זה הכל בשבילך",
 			"singer" : "דני סנדרסון ומזי כהן",
+			"playback": {
+				"youTubeVideoId" : "6WqvYZiEDrM"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page112.jpg"
-			}
-		}, {
-			"id" : 1010112,
-			"name" : "זה הכל בשבילך (A)",
-			"singer" : "דני סנדרסון",
-			"isPrivate" : true,
-			"categoryIds" : ["1"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page112_a.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page112.txt"
 			}
 		}, {
 			"id" : 1000113,
@@ -3025,7 +3010,8 @@
 			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page355.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page355.txt",
+				"markupVersion" : "1"
 			}
 		}, {
 			"id" : 1000356,
