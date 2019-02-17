@@ -2212,7 +2212,7 @@
 			"singer" : "שרי",
 			"categoryIds" : ["1","5"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page267.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page267.txt"
 			}
 		}, {
 			"id" : 1000268,
@@ -3479,7 +3479,8 @@
 			"singer" : "להקת חיל הים",
 			"categoryIds" : ["1","5"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage48.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage48.txt",
+				"markupVersion" : "2"
 			}
 		}, {
 			"id" : 2000049,
@@ -3631,7 +3632,7 @@
 			"id" : 2000067,
 			"name" : "למה ליבך כמו קרח",
 			"singer" : "גידי גוב",
-			"categoryIds" : ["1"],
+			"categoryIds" : ["1","5"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage67.txt"
 			}
@@ -3976,7 +3977,7 @@
 			"id" : 2000109,
 			"name" : "אגדת השמש והירח",
 			"singer" : "אתניקס",
-			"categoryIds" : ["1"],
+			"categoryIds" : ["1","5"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage109.jpg"
 			}
@@ -4573,7 +4574,7 @@
 			"singer" : "דני סנדרסון",
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage205.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage205.txt"
 			}
 		}, {
 			"id" : 2000206,
@@ -4715,16 +4716,7 @@
 			"singer" : "צביקה פיק",
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage226.jpg"
-			}
-		}, {
-			"id" : 2010226,
-			"name" : "אין מדינה לאהבה (Em)",
-			"singer" : "צביקה פיק",
-			"isPrivate" : true,
-			"categoryIds" : ["1"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage226_em.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage226.txt"
 			}
 		}, {
 			"id" : 2000228,
@@ -4897,7 +4889,7 @@
 			"singer" : "יהודה פוליקר",
 			"categoryIds" : ["1","5"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage249.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage249.txt"
 			}
 		}, {
 			"id" : 2000250,
@@ -4975,7 +4967,7 @@
 			"id" : 2000258,
 			"name" : "אמא שלי",
 			"singer" : "אריק איינשטיין",
-			"categoryIds" : ["1"],
+			"categoryIds" : ["1","4","5"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage258.jpg"
 			}
@@ -5066,7 +5058,7 @@
 			"id" : 2000268,
 			"name" : "תביא קצת דינרוס",
 			"singer" : "אתניקס",
-			"categoryIds" : ["1"],
+			"categoryIds" : ["1","5"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage268.jpg",
 				"imageVersion" : "1"
@@ -5139,30 +5131,12 @@
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage274.txt"
 			}
 		}, {
-			"id" : 2010274,
-			"name" : "כל מה שנשאר (C)",
-			"singer" : "בוטן מתוק בקרקס",
-			"isPrivate" : true,
-			"categoryIds" : ["1"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage274_c.jpg"
-			}
-		}, {
 			"id" : 2000275,
 			"name" : "מעלה מעלה",
 			"singer" : "צביקה פיק",
 			"categoryIds" : ["1","5"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage275.jpg"
-			}
-		}, {
-			"id" : 2010275,
-			"name" : "מעלה מעלה (C)",
-			"singer" : "צביקה פיק",
-			"isPrivate" : true,
-			"categoryIds" : ["1","5"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage275_c.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage275.txt"
 			}
 		}, {
 			"id" : 2000276,
@@ -5269,7 +5243,6 @@
 			"singer" : "אריס סאן",
 			"categoryIds" : ["1","5"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage285.jpg",
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage285.txt"
 			}
 		}, {
@@ -5896,6 +5869,23 @@
 			"categoryIds" : ["1","5"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage359.txt"
+			}
+		}, {
+			"id" : 2000360,
+			"name" : "סימנים",
+			"singer" : "הראל מויאל",
+			"categoryIds" : ["1","5"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage360.txt"
+			}
+		}, {
+			"id" : 2000361,
+			"name" : "כל כך יפה לך",
+			"singer" : "רותם כהן",
+			"isPrivate" : true,
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage361.txt"
 			}
 		}, {
 			"id" : 3000001,
