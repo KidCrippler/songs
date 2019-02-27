@@ -1,5 +1,5 @@
 {
-	"version" : "2019_02_19",
+	"version" : "2019_02_27",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -1506,23 +1506,6 @@
 			"categoryIds" : ["1","5"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page177.jpg"
-			}
-		}, {
-			"id" : 1000178,
-			"name" : "ליל חניה",
-			"singer" : "חנן יובל, ירדנה ארזי, אפרים שמיר",
-			"categoryIds" : ["1"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page178.jpg"
-			}
-		}, {
-			"id" : 1010178,
-			"name" : "ליל חניה (F)",
-			"singer" : "חנן יובל, ירדנה ארזי, אפרים שמיר",
-			"isPrivate" : true,
-			"categoryIds" : ["1"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page178_f.jpg"
 			}
 		}, {
 			"id" : 1000180,
@@ -5895,6 +5878,14 @@
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage362.txt"
 			}
 		}, {
+			"id" : 2000363,
+			"name" : "ליל חניה",
+			"singer" : "חנן יובל, ירדנה ארזי, אפרים שמיר",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage363.txt"
+			}
+		}, {
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
 			"singer" : "Beatles",
@@ -7255,7 +7246,7 @@
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page97.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page97.txt"
 			}
 		}, {
 			"id" : 4000098,
