@@ -1,5 +1,5 @@
 {
-	"version" : "2019_02_27",
+	"version" : "2019_03_02",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -3127,7 +3127,7 @@
 			"id" : 2000005,
 			"name" : "אהבת פועלי בניין",
 			"singer" : "שלישיית גשר הירקון",
-			"categoryIds" : ["1"],
+			"categoryIds" : ["1","5"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage5.jpg"
 			}
@@ -3169,7 +3169,7 @@
 			"id" : 2000010,
 			"name" : "אינך יכולה",
 			"singer" : "החלונות הגבוהים",
-			"categoryIds" : ["1"],
+			"categoryIds" : ["1","5"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage10.jpg"
 			}
@@ -3262,7 +3262,7 @@
 			"playback": {
 				"youTubeVideoId" : "RbF1hwyIFYA"
 			},
-			"categoryIds" : ["1"],
+			"categoryIds" : ["1","5"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage21.txt",
 				"markupVersion" : "1"
@@ -3330,7 +3330,7 @@
 			"id" : 2000029,
 			"name" : "גשם חזק",
 			"singer" : "מוניקה סקס",
-			"categoryIds" : ["1"],
+			"categoryIds" : ["1","5"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage29.jpg"
 			}
@@ -3793,7 +3793,7 @@
 			"id" : 2000088,
 			"name" : "צוותא",
 			"singer" : "שלמה ארצי",
-			"categoryIds" : ["1"],
+			"categoryIds" : ["1","5"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage88.jpg"
 			}
@@ -3802,7 +3802,7 @@
 			"name" : "צוותא (Em)",
 			"singer" : "שלמה ארצי",
 			"isPrivate" : true,
-			"categoryIds" : ["1"],
+			"categoryIds" : ["1","5"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage88_em.jpg"
 			}
@@ -3821,7 +3821,7 @@
 			"id" : 2000090,
 			"name" : "ציפור מדבר",
 			"singer" : "אתניקס",
-			"categoryIds" : ["1"],
+			"categoryIds" : ["1","5"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage90.jpg"
 			}
@@ -4298,27 +4298,9 @@
 			"id" : 2000172,
 			"name" : "לא נרדמת תל-אביב",
 			"singer" : "דני רובס",
-			"categoryIds" : ["1"],
+			"categoryIds" : ["1","5"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage172.jpg"
-			}
-		}, {
-			"id" : 2010172,
-			"name" : "לא נרדמת תל-אביב (Dm)",
-			"singer" : "דני רובס",
-			"isPrivate" : true,
-			"categoryIds" : ["1"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage172_dm.jpg"
-			}
-		}, {
-			"id" : 2020172,
-			"name" : "לא נרדמת תל-אביב (Gm)",
-			"singer" : "דני רובס",
-			"isPrivate" : true,
-			"categoryIds" : ["1"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage172_gm.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage172.txt"
 			}
 		}, {
 			"id" : 2000173,
@@ -4513,7 +4495,7 @@
 			"id" : 2000201,
 			"name" : "עטוף ברחמים",
 			"singer" : "ריטה",
-			"categoryIds" : ["1"],
+			"categoryIds" : ["1","5"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage201.jpg"
 			}
@@ -4522,7 +4504,7 @@
 			"name" : "עטוף ברחמים (Bm)",
 			"singer" : "ריטה",
 			"isPrivate" : true,
-			"categoryIds" : ["1"],
+			"categoryIds" : ["1","5"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage201_bm.jpg"
 			}
@@ -4779,7 +4761,7 @@
 			"id" : 2000238,
 			"name" : "עוד יהיה לי",
 			"singer" : "מרגלית צנעני",
-			"categoryIds" : ["1"],
+			"categoryIds" : ["1","5"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage238.txt"
 			}
@@ -4854,7 +4836,7 @@
 			"id" : 2000247,
 			"name" : "נסיך החלומות (ולנטינו)",
 			"singer" : "גלי עטרי",
-			"categoryIds" : ["1"],
+			"categoryIds" : ["1","5"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage247.jpg"
 			}
@@ -5000,7 +4982,7 @@
 			"id" : 2000264,
 			"name" : "נולדתי לשלום",
 			"singer" : "עוזי חיטמן",
-			"categoryIds" : ["1","4"],
+			"categoryIds" : ["1","4","5"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage264.txt"
 			}
@@ -5016,7 +4998,7 @@
 			"id" : 2000266,
 			"name" : "לא עוזב את העיר",
 			"singer" : "שלמה ארצי",
-			"categoryIds" : ["1"],
+			"categoryIds" : ["1","5"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage266.jpg"
 			}
@@ -5436,15 +5418,6 @@
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage308.txt"
 			}
 		}, {
-			"id" : 2000309,
-			"name" : "שיר לשלום",
-			"singer" : "להקת הנחל",
-			"isPrivate" : true,
-			"categoryIds" : ["1"],
-			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage309.txt"
-			}
-		}, {
 			"id" : 2000310,
 			"name" : "אין כבר דרך חזרה",
 			"singer" : "להקת חיל הים",
@@ -5511,7 +5484,7 @@
 			"id" : 2000317,
 			"name" : "חי",
 			"singer" : "עפרה חזה",
-			"categoryIds" : ["1"],
+			"categoryIds" : ["1","5"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage317.txt",
 				"markupVersion" : "2"
@@ -5884,6 +5857,14 @@
 			"categoryIds" : ["1"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage363.txt"
+			}
+		}, {
+			"id" : 2000364,
+			"name" : "ארבע לפנות בוקר",
+			"singer" : "יהודית רביץ",
+			"categoryIds" : ["1","5"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage364.txt"
 			}
 		}, {
 			"id" : 3000001,
