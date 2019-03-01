@@ -1043,9 +1043,9 @@
 			"id" : 1000124,
 			"name" : "פרחים בקנה",
 			"singer" : "להקת חיל התותחנים",
-			"categoryIds" : ["1"],
+			"categoryIds" : ["1","5"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page124.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page124.txt"
 			}
 		}, {
 			"id" : 1000125,
