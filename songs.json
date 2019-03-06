@@ -22,9 +22,12 @@
 			"id" : 1000001,
 			"name" : "בך לא נוגע",
 			"singer" : "יהודית רביץ",
+			"playback": {
+				"youTubeVideoId" : "LUpJ7L6xCoE"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page1.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page1.txt"
 			}
 		}, {
 			"id" : 1000002,
@@ -102,27 +105,12 @@
 			"id" : 1000011,
 			"name" : "היא כל כך יפה",
 			"singer" : "כוורת",
+			"playback": {
+				"youTubeVideoId" : "zAaHhoNMXS0"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page11.jpg"
-			}
-		}, {
-			"id" : 1010011,
-			"name" : "היא כל כך יפה (D)",
-			"singer" : "כוורת",
-			"isPrivate" : true,
-			"categoryIds" : ["1"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page11_d.jpg"
-			}
-		}, {
-			"id" : 1020011,
-			"name" : "היא כל כך יפה (A)",
-			"singer" : "כוורת",
-			"isPrivate" : true,
-			"categoryIds" : ["1"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page11_a.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page11.txt"
 			}
 		}, {
 			"id" : 1000013,
@@ -1180,21 +1168,12 @@
 			"id" : 1000140,
 			"name" : "למה לי פוליטיקה עכשיו",
 			"singer" : "משינה",
-			"categoryIds" : ["1"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page140.jpg"
-			}
-		}, {
-			"id" : 1010140,
-			"name" : "למה לי פוליטיקה עכשיו (Am)",
-			"singer" : "משינה",
-			"isPrivate" : true,
 			"playback": {
-				"youTubeVideoId" : "LnHYjsVVNYs"
+				"youTubeVideoId" : "TqPeaJ9knLw"
 			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page140_am.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page140.txt"
 			}
 		}, {
 			"id" : 1000141,
@@ -1768,9 +1747,12 @@
 			"id" : 1000212,
 			"name" : "רחבת הריקודים",
 			"singer" : "יהודית רביץ",
+			"playback": {
+				"youTubeVideoId" : "f6dS3TO9diQ"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page212.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page212.txt"
 			}
 		}, {
 			"id" : 1000213,
