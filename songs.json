@@ -1,5 +1,5 @@
 {
-	"version" : "2019_03_05",
+	"version" : "2019_03_06",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -7102,10 +7102,10 @@
 			}
 		}, {
 			"id" : 3000153,
-			"name" : "Livin' La Vida Loca",
-			"singer" : "Ricky Martin",
+			"name" : "Strong",
+			"singer" : "Robbie Williams",
 			"playback": {
-				"youTubeVideoId" : "p47fEXGabaY"
+				"youTubeVideoId" : "5-X91IstwqA"
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
