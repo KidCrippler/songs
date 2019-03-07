@@ -1,5 +1,5 @@
 {
-	"version" : "2019_03_06",
+	"version" : "2019_03_07",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -3028,13 +3028,13 @@
 			"id" : 1000360,
 			"name" : "אולי נדבר",
 			"singer" : "נדב גדג'",
-			"isPrivate" : true,
 			"playback": {
 				"youTubeVideoId" : "BbHcS69tCV0"
 			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page360.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page360.txt",
+				"markupVersion" : "1"
 			}
 		}, {
 			"id" : 1000361,
@@ -3090,7 +3090,8 @@
 			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page365.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page365.txt",
+				"markupVersion" : "1"
 			}
 		}, {
 			"id" : 2000001,
