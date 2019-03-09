@@ -1,5 +1,5 @@
 {
-	"version" : "2019_03_07",
+	"version" : "2019_03_09",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -7104,6 +7104,28 @@
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page154.txt"
+			}
+		}, {
+			"id" : 3000155,
+			"name" : "Take On Me",
+			"singer" : "A-ha",
+			"playback": {
+				"youTubeVideoId" : "djV11Xbc914"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page155.txt"
+			}
+		}, {
+			"id" : 3000156,
+			"name" : "Shiny Happy People",
+			"singer" : "REM",
+			"playback": {
+				"youTubeVideoId" : "YYOKMUTTDdA"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page156.txt"
 			}
 		}, {
 			"id" : 4000060,
