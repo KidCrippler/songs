@@ -1,5 +1,5 @@
 {
-	"version" : "2019_03_11",
+	"version" : "2019_03_14",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -7150,6 +7150,40 @@
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page156.txt"
+			}
+		}, {
+			"id" : 3000157,
+			"name" : "You Give Love A Bad Name",
+			"singer" : "Bon Jovi",
+			"playback": {
+				"youTubeVideoId" : "KrZHPOeOxQQ"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page157.txt"
+			}
+		}, {
+			"id" : 3000158,
+			"name" : "Another Brick In The Wall",
+			"singer" : "Pink Floyd",
+			"playback": {
+				"youTubeVideoId" : "5IpYOF4Hi6Q"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page158.txt"
+			}
+		}, {
+			"id" : 3000159,
+			"name" : "Beat It",
+			"singer" : "Michael Jackson",
+			"isPrivate" : true,
+			"playback": {
+				"youTubeVideoId" : "oRdxUFDoQe0"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page159.txt"
 			}
 		}, {
 			"id" : 4000060,
