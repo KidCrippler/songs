@@ -1,5 +1,5 @@
 {
-	"version" : "2019_03_14",
+	"version" : "2019_03_20",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -3092,6 +3092,17 @@
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page365.txt",
 				"markupVersion" : "1"
+			}
+		}, {
+			"id" : 1000366,
+			"name" : "אהבה קטנה",
+			"singer" : "שירי מימון",
+			"playback": {
+				"youTubeVideoId" : "v6p061_mOQM"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page366.txt"
 			}
 		}, {
 			"id" : 2000001,
@@ -7184,6 +7195,17 @@
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page159.txt"
+			}
+		}, {
+			"id" : 3000160,
+			"name" : "Mr. Jones",
+			"singer" : "Counting Crows",
+			"playback": {
+				"youTubeVideoId" : "-oqAU5VxFWs"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page160.txt"
 			}
 		}, {
 			"id" : 4000060,
