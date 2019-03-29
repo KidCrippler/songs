@@ -1,5 +1,5 @@
 {
-	"version" : "2019_03_20",
+	"version" : "2019_03_30",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -7870,6 +7870,17 @@
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page142.txt"
+			}
+		}, {
+			"id" : 4000143,
+			"name" : "Breakfast at Tiffany's",
+			"singer" : "Deep Blue Something",
+			"playback": {
+				"youTubeVideoId" : "1ClCpfeIELw"
+			},
+			"categoryIds" : ["2","5"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page143.txt"
 			}
 		}
 	]
