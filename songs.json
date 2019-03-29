@@ -7882,6 +7882,17 @@
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page143.txt"
 			}
+		}, {
+			"id" : 4000144,
+			"name" : "This is The Life",
+			"singer" : "Amy McDonald",
+			"playback": {
+				"youTubeVideoId" : "iRYvuS9OxdA"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page144.txt"
+			}
 		}
 	]
 }
