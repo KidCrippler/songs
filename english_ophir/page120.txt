@@ -1,8 +1,8 @@
 ﻿Out Here On My Own - Nikka Costa
 
-G     C/G    D/G     C/G
+G     C    D    C
 
-C/E                    Bm/F#
+C/E                    Bm
     Sometimes I wonder       where I've been
 C               G/B
     Who I am          Do I fit in
@@ -11,7 +11,7 @@ Am                  G/B
 C              D     /E /F#
 Out here on my own 
 
-C/E                       Bm/F#
+C/E                       Bm
      We're always provin'        who we are
 C                     G/B
      Always reachin'        for that  risin' star
@@ -31,7 +31,7 @@ Baby, belong to me
 Cmaj7                     F#                  
     Help me through  Help me need you
 
-C/E                   Bm/F#
+C/E                   Bm
     Until the morning       sun appears 
 C                G/B
     Making light      of all my fears 
@@ -51,7 +51,7 @@ Baby, belong to me
 Cmaj7                     F#                  
     Help me through  Help me need you
 
-C/E                     Bm/F#
+C/E                     Bm
      Sometimes I wonder       where I've been 
 C              G/B
     Who I am         Do I fit in 
@@ -61,5 +61,5 @@ C        D        G   D
 Out here   on my own 
 C               
 Out here 
-      G     C/G    D/G    C/G   G
-On my own                 On my own 
+      G     C    D    C     G
+On my own             On my own 
