@@ -3828,6 +3828,32 @@
 			"dateCreated" : 1556668800000,
 			"dateModified" : 1556668800000
 		}, {
+			"id" : 1000368,
+			"name" : "אחת כמו כולם",
+			"singer" : "גלי עטרי",
+			"playback": {
+				"youTubeVideoId" : "qxP6rSmplBw"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page368.txt"
+			},
+			"dateCreated" : 1558569600000,
+			"dateModified" : 1558569600000
+		}, {
+			"id" : 1000369,
+			"name" : "זה לא אני",
+			"singer" : "דני רובס",
+			"playback": {
+				"youTubeVideoId" : "TAKwraSZt7M"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page369.txt"
+			},
+			"dateCreated" : 1558569600000,
+			"dateModified" : 1558569600000
+		}, {
 			"id" : 2000001,
 			"name" : "אדון שוקו",
 			"singer" : "אריק איינשטיין",
