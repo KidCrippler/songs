@@ -3425,20 +3425,6 @@
 			"dateCreated" : 1519516800000,
 			"dateModified" : 1519516800000
 		}, {
-			"id" : 1010338,
-			"name" : "בלעדייך (Em)",
-			"singer" : "אייל גולן",
-			"isPrivate" : true,
-			"playback": {
-				"youTubeVideoId" : "pJUOvbD9pus"
-			},
-			"categoryIds" : ["1"],
-			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page338_em.txt"
-			},
-			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
-		}, {
 			"id" : 1000339,
 			"name" : "פצעים ונשיקות",
 			"singer" : "מוניקה סקס",
@@ -3450,7 +3436,7 @@
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page339.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1558569600000
 		}, {
 			"id" : 1000340,
 			"name" : "זו ילדותי השניה",
@@ -3573,7 +3559,6 @@
 			"id" : 1000349,
 			"name" : "שוב",
 			"singer" : "ג'וזי כץ ושמוליק קראוס",
-			"isPrivate" : true,
 			"playback": {
 				"youTubeVideoId" : "YBruUI3c9FM"
 			},
@@ -3582,7 +3567,7 @@
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page349.txt"
 			},
 			"dateCreated" : 1519948800000,
-			"dateModified" : 1519948800000
+			"dateModified" : 1558569600000
 		}, {
 			"id" : 1000350,
 			"name" : "אצל הדודה והדוד",
@@ -3655,7 +3640,6 @@
 			"id" : 1000355,
 			"name" : "שני משוגעים",
 			"singer" : "עומר אדם",
-			"isPrivate" : true,
 			"playback": {
 				"youTubeVideoId" : "WLMmX17D2uw"
 			},
@@ -3665,12 +3649,11 @@
 				"markupVersion" : "1"
 			},
 			"dateCreated" : 1522108800000,
-			"dateModified" : 1549411200000
+			"dateModified" : 1558569600000
 		}, {
 			"id" : 1000356,
 			"name" : "לבחור נכון",
 			"singer" : "אמיר דדון",
-			"isPrivate" : true,
 			"playback": {
 				"youTubeVideoId" : "yjJcnqZqciU"
 			},
@@ -3680,7 +3663,7 @@
 				"markupVersion" : "1"
 			},
 			"dateCreated" : 1532390400000,
-			"dateModified" : 1546992000000
+			"dateModified" : 1558569600000
 		}, {
 			"id" : 1000357,
 			"name" : "רוחות הצפון",
