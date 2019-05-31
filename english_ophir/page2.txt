@@ -1,6 +1,6 @@
 ﻿Help - The Beatles
 
-Bm               Bm/A      G              G/F#
+Bm               Bm/A      G                 G/F#
 Help! I need somebody      Help! Not just anybody
 E                                   A
 Help! You know I need someone,      Help!
@@ -20,15 +20,15 @@ Bm/A  G                               G - G/F#
 and I do appreciate you being 'round
 E
 Help me get my feet back on the ground
-           A                 A
+           A                 A     A
 won't you please please help me
 
 A                                 C#m
    And now my life has changed in oh so many ways         (now, my life hsa changed)
 F#m                          D      G      A
-   My independence seemed to vanish in the haze            (my independ, vanihs in the haze)
+   My independence seemed to vanish in the haze            (my independ, vanish in the haze)
 A                           C#m
-   But every now and then I feel so insecure                       (but, now adf then)
+   But every now and then I feel so insecure                       (but, now and then)
 F#m                                      D     G      A
    I know that I just need you like I've never done before   (I know that I)
 
@@ -38,13 +38,16 @@ Bm/A  G                               G - G/F#
 and I do appreciate you being 'round
 E
 Help me get my feet back on the ground
-           A                 A
+           A                 A     A
 won't you please please help me
+
+[just guitar]
 
 A                              C#m
    When I was younger, so much younger than today
 F#m                         D       G   A
    I never needed anybody's help in any way
+[Everyone else join]
 A                                  C#m
    But now those days are gone I'm not so self-assured            (now, these days are gone)
 F#m                                      D      G      A
@@ -56,7 +59,7 @@ Bm/A  G                               G - G/F#
 and I do appreciate you being 'round
 E
 Help me get my feet back on the ground
-           A                 A
+           A                 F#m
 won't you please please help me
               A   A6
 Help me, help me, ooo
