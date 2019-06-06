@@ -1,5 +1,5 @@
 {
-	"version" : "2019_05_31",
+	"version" : "2019_06_06",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -7404,6 +7404,26 @@
 			},
 			"dateCreated" : 1557705600000,
 			"dateModified" : 1557705600000
+		}, {
+			"id" : 2000379,
+			"name" : "מועקה",
+			"singer" : "אבטיפוס",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage379.txt"
+			},
+			"dateCreated" : 1559779200000,
+			"dateModified" : 1559779200000
+		}, {
+			"id" : 2000380,
+			"name" : "צל ומי באר",
+			"singer" : "הדודאים והפרברים",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage380.txt"
+			},
+			"dateCreated" : 1559779200000,
+			"dateModified" : 1559779200000
 		}, {
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
