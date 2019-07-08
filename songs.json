@@ -1,5 +1,5 @@
 {
-	"version" : "2019_07_07",
+	"version" : "2019_07_08",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -7435,6 +7435,26 @@
 			},
 			"dateCreated" : 1562457600000,
 			"dateModified" : 1562457600000
+		}, {
+			"id" : 2000383,
+			"name" : "חתיכת שמיים",
+			"singer" : "שלומי שבת ושלומי שבן",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage383.txt"
+			},
+			"dateCreated" : 1562544000000,
+			"dateModified" : 1562544000000
+		}, {
+			"id" : 2000384,
+			"name" : "הבלדה על השיער הארוך והשיער הקצר",
+			"singer" : "הדודאים",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage384.txt"
+			},
+			"dateCreated" : 1562544000000,
+			"dateModified" : 1562544000000
 		}, {
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
