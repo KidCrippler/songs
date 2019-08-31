@@ -1,62 +1,61 @@
-﻿Africa - Totoout
+﻿Africa - Toto
+Lyrics and Music: David Paich and Jeff Porcaro
 
 {Drums}
 
-G       Bm   x4
+(G   G  -  F#m  -  Bm   Bm) x4
 
-A                   C#m       F#m
+A                    E/C#      A/F#
     I hear the drums echoing tonight
-A              G                Bm
+A/E            G/D               D/E
 She hears only whispers of some quiet 
-      F#m  G     Bm
+      A/F#  G  G - F#m -  Bm
 conversa - tion
-A               C#m               F#m     
+A               E/C#               A/F#
     She's coming in twelve thirty flight  
-    A                G        
+    A/E              G/D        
 the moonlit wings reflect the stars 
-     Bm7               F#m  G    Bm
+     D/E               A/F#  G  G - F#m -  Bm
 that guide me toward salva-tion
-A              C#m               F#m
+A               E/C#              A/F#
    I stopped an old man along the way
-A                   G              Bm
+A/E                 G/D            D/E
 Hoping to find some long forgotten words 
-           F#m  G     Bm
+           A/F#  G  G - F#m -  Bm
 or ancient melo-dies
-A              C#m         F#m 
+A              E/C#         A/F# 
    He turned to me as if to say
-                G                     Bm
-hurry boy, it's waiting there for you
+                 G                   G - F#m -  Bm    Bm
+Hurry boy, it's waiting there for you
 
 Em              C               G        D
    Gonna take a lot to drag me away from you
-Em                        C              G
+Em                         C              G
    There's nothing that a hundred men or more 
            D
 could ever do       
 Em             C              G   D
    I bless the rains down in  Africa
-Em                 C              G
+Em                  C               G
    Gonna take some time to do the things 
-         Bm  D  Em  F#m  G   Bm
-we never ha------d  oohooh
+         Bm   D    Em     D/F#  (G   G  -  F#m  -   Bm    Bm) x2
+we never ha--------d       oohooh
 
-G       Bm
-
-A                C#m            F#m
+A                 E/C#           A/F#
     The wild dogs cry out in the night
-   A                  G                Bm       
+   A/E                G/D              D/E       
 As they grow restless longing for some solitary 
-F#m   G    Bm
+A/F#   G  G - F#m -  Bm
 compa-ny
-A              C#m               F#m
+A              E/C#              A/F#
     I know that I must do what's right
-           A           G          Bm
-As sure as Kilimanjaro rises like Olympus 
-          F#m    G     Bm
+           A/E         G/D         D/E
+As sure as Kilimanjaro rises like Olympus
+          A/F#    G   G -  F#m  -  Bm
 above the Serengeti
-A            C#m                F#m
+A             E/C#               A/F#
     I seek to cure what's deep inside
-F#m                G                       Bm
+                     G                 G  -  F#m  -  Bm    Bm
 Frightened of this thing that I've become
 
 Em              C               G        D
@@ -69,14 +68,13 @@ Em             C              G   D
    I bless the rains down in  Africa
 Em                 C              G
    Gonna take some time to do the things 
-         Bm  D  Em  F#m  G   Bm
-we never ha------d  oohooh
-G       Bm
+         Bm   D    Em     D/F#  (G   G  -  F#m  -   Bm    Bm) x2
+we never ha--------d       oohooh
 
-A   C#m   F#m   A   G   Bm    F#m    G   Bm
+A   C#m   F#m   A   G   Bm    F#m    G   G - F#m -  Bm
 A   C#m   F#m
-               hurry boy, 
-      G                     Bm
+               Hurry boy, 
+       G                   G  -  F#m  -  Bm    Bm
 she's waiting there for you
 
 Em              C               G        D
@@ -97,9 +95,5 @@ Em             C              G   D
    I bless the rains down in  Africa
 Em                 C              G
    Gonna take some time to do the things 
-         Bm  D  Em  F#m  G   Bm
-we never ha------d  oohooh
-
-G       Bm
-G       Bm
-G       Bm
+         Bm   D    Em     D/F#  (G   G  -  F#m  -   Bm    Bm) x6
+we never ha--------d       oohooh
