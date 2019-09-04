@@ -1,9 +1,9 @@
 שמור על העולם - דוד ד'אור
 מילים ולחן: דוד ד'אור
 
-           Gm   Cm7   Eb   E
-           Gm   Cm7   Eb   E
-{כולם נכנסים}  Gm   Cm7   Eb   E
+           Gm   Cm7   Eb   D
+           Gm   Cm7   Eb   D
+{כולם נכנסים}  Gm   Cm7   Eb   D
 
   Gm           F
 תשמור על העולם ילד
@@ -39,7 +39,7 @@
     Dm         Eb    Eb
 רק אתה ממשיך לתהות
 
-Gm   Cm7   Eb   E
+Gm   Cm7   Eb   D
 
   Gm           F
 תשמור על העולם ילד
@@ -67,7 +67,7 @@ Gm   Cm7   Eb   E
     Dm              Eb    Eb
 כי אנחנו כבר לא מצליחים
 
-         Gm   Cm7   Eb   E
-         Gm   Cm7   Eb   E
-         Gm   Cm7   Eb   E
-{רק פסנתר}   Gm   Cm7   Eb   E
+         Gm   Cm7   Eb   D
+         Gm   Cm7   Eb   D
+         Gm   Cm7   Eb   D
+{רק פסנתר}   Gm   Cm7   Eb   D

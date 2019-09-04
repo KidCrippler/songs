@@ -1,5 +1,5 @@
 {
-	"version" : "2019_09_02",
+	"version" : "2019_09_05",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -7461,10 +7461,11 @@
 			"singer" : "דוד ד'אור",
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage385.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage385.txt",
+				"markupVersion" : "2"
 			},
 			"dateCreated" : 1566604800000,
-			"dateModified" : 1566604800000
+			"dateModified" : 1567641600000
 		}, {
 			"id" : 2000386,
 			"name" : "את ואני",
