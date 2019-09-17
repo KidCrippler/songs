@@ -4554,10 +4554,11 @@
 			"singer" : "חמי רודנר",
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage72.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage72.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1568764800000
 		}, {
 			"id" : 2000073,
 			"name" : "נגיעה אחת רכה",
@@ -7507,6 +7508,16 @@
 			},
 			"dateCreated" : 1568678400000,
 			"dateModified" : 1568678400000
+		}, {
+			"id" : 2000390,
+			"name" : "גאולה",
+			"singer" : "חמי רודנר",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage390.txt"
+			},
+			"dateCreated" : 1568764800000,
+			"dateModified" : 1568764800000
 		}, {
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
