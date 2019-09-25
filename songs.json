@@ -3648,10 +3648,10 @@
 			"categoryIds" : ["1"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page355.txt",
-				"markupVersion" : "1"
+				"markupVersion" : "2"
 			},
 			"dateCreated" : 1522108800000,
-			"dateModified" : 1558569600000
+			"dateModified" : 1569024000000
 		}, {
 			"id" : 1000356,
 			"name" : "לבחור נכון",
@@ -4351,10 +4351,10 @@
 			"categoryIds" : ["1","4","5"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage54.txt",
-				"markupVersion" : "1"
+				"markupVersion" : "2"
 			},
 			"dateCreated" : 1532390400000,
-			"dateModified" : 1556668800000
+			"dateModified" : 1569024000000
 		}, {
 			"id" : 2000055,
 			"name" : "ילד של אבא",
@@ -9635,10 +9635,11 @@
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page118.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page118.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1532736000000,
-			"dateModified" : 1532736000000
+			"dateModified" : 1569024000000
 		}, {
 			"id" : 4000119,
 			"name" : "When You Say Nothing At All",
