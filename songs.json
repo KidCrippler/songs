@@ -1,5 +1,5 @@
 {
-	"version" : "2019_09_26",
+	"version" : "2019_09_30",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -5512,24 +5512,13 @@
 		}, {
 			"id" : 2000195,
 			"name" : "בדידות",
-			"singer" : "הראל סקעת",
+			"singer" : "יזהר כהן",
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage195.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage195.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
-		}, {
-			"id" : 2010195,
-			"name" : "בדידות (Am)",
-			"singer" : "הראל סקעת",
-			"isPrivate" : true,
-			"categoryIds" : ["1"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage195_am.jpg"
-			},
-			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1569801600000
 		}, {
 			"id" : 2000197,
 			"name" : "דואט פרידה",
@@ -5539,7 +5528,7 @@
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage197.jpg"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1569801600000
 		}, {
 			"id" : 2010197,
 			"name" : "דואט פרידה (G)",
@@ -6067,10 +6056,10 @@
 			"singer" : "אלון אולארצ'יק",
 			"categoryIds" : ["1","5"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage254.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage254.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1569801600000
 		}, {
 			"id" : 2000255,
 			"name" : "שער הרחמים",
@@ -6324,21 +6313,10 @@
 			"singer" : "אתניקס",
 			"categoryIds" : ["1","5"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage276.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage276.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
-		}, {
-			"id" : 2010276,
-			"name" : "BMW שחורה (Em)",
-			"singer" : "אתניקס",
-			"isPrivate" : true,
-			"categoryIds" : ["1","5"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage276_em.jpg"
-			},
-			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1569801600000
 		}, {
 			"id" : 2000277,
 			"name" : "אבניבי",
@@ -6348,7 +6326,7 @@
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage277.jpg"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1557187200000
+			"dateModified" : 1569801600000
 		}, {
 			"id" : 2010277,
 			"name" : "אבניבי (Am)",
@@ -6631,10 +6609,11 @@
 			"singer" : "הפרוייקט של עידן רייכל",
 			"categoryIds" : ["1","5"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage302.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage302.txt",
+				"markupVersion" : "2"
 			},
 			"dateCreated" : 1519948800000,
-			"dateModified" : 1551744000000
+			"dateModified" : 1569801600000
 		}, {
 			"id" : 2000303,
 			"name" : "אני חולם על נעמי",
@@ -7552,16 +7531,26 @@
 			"dateCreated" : 1569456000000,
 			"dateModified" : 1569456000000
 		}, {
-			"id" : 2000700,
+			"id" : 2000394,
+			"name" : "רוצי שמוליק",
+			"singer" : "אריאל זילבר",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage394.txt"
+			},
+			"dateCreated" : 1569801600000,
+			"dateModified" : 1569801600000
+		}, {
+			"id" : 2000395,
 			"name" : "מחרוזת ראש השנה",
 			"singer" : "עממי",
 			"isPrivate" : true,
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage700.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage395.txt"
 			},
 			"dateCreated" : 1569456000000,
-			"dateModified" : 1569456000000
+			"dateModified" : 1569801600000
 		}, {
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
