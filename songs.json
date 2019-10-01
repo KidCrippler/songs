@@ -1,5 +1,5 @@
 {
-	"version" : "2019_09_30",
+	"version" : "2019_10_01",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -10062,6 +10062,19 @@
 			},
 			"dateCreated" : 1566518400000,
 			"dateModified" : 1566518400000
+		}, {
+			"id" : 4000151,
+			"name" : "Gangsta's Paradise",
+			"singer" : "Coolio",
+			"playback": {
+				"youTubeVideoId" : "fPO76Jlnz6c"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page151.txt"
+			},
+			"dateCreated" : 1569888000000,
+			"dateModified" : 1569888000000
 		}
 	]
 }
