@@ -1,5 +1,5 @@
 {
-	"version" : "2019_10_05",
+	"version" : "2019_10_06",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -5093,10 +5093,10 @@
 			"singer" : "רותם כהן",
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage143.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage143.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1570320000000
 		}, {
 			"id" : 2000144,
 			"name" : "הכל מבינה",
