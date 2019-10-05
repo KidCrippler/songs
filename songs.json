@@ -1,5 +1,5 @@
 {
-	"version" : "2019_10_01",
+	"version" : "2019_10_05",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -7551,6 +7551,16 @@
 			},
 			"dateCreated" : 1569456000000,
 			"dateModified" : 1569801600000
+		}, {
+			"id" : 2000396,
+			"name" : "דיווה",
+			"singer" : "דנה אינטרנשיונל",
+			"categoryIds" : ["1","5"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage396.txt"
+			},
+			"dateCreated" : 1570233600000,
+			"dateModified" : 1570233600000
 		}, {
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
