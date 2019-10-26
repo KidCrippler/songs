@@ -1,5 +1,5 @@
 {
-	"version" : "2019_10_24",
+	"version" : "2019_10_27",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -7572,6 +7572,16 @@
 			},
 			"dateCreated" : 1571270400000,
 			"dateModified" : 1571270400000
+		}, {
+			"id" : 2000398,
+			"name" : "מה שיכולנו להיות",
+			"singer" : "רן דנקר ועילי בוטנר",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage398.txt"
+			},
+			"dateCreated" : 1572134400000,
+			"dateModified" : 1572134400000
 		}, {
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
