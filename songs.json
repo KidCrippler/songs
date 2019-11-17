@@ -1,5 +1,5 @@
 {
-	"version" : "2019_11_13",
+	"version" : "2019_11_17",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -7634,6 +7634,17 @@
 			"dateCreated" : 1573603200000,
 			"dateModified" : 1573603200000
 		}, {
+			"id" : 2000404,
+			"name" : "אל תוותרי",
+			"singer" : "הפרברים והדודאים",
+			"isPrivate" : true,
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage404.txt"
+			},
+			"dateCreated" : 1573948800000,
+			"dateModified" : 1573948800000
+		}, {
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
 			"singer" : "Beatles",
@@ -10198,6 +10209,20 @@
 			},
 			"dateCreated" : 1573603200000,
 			"dateModified" : 1573603200000
+		}, {
+			"id" : 4000154,
+			"name" : "Mambo No. 5",
+			"singer" : "Lou Bega",
+			"isPrivate" : true,
+			"playback": {
+				"youTubeVideoId" : "EK_LN3XEcnw"
+			},
+			"categoryIds" : ["2","5"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page154.txt"
+			},
+			"dateCreated" : 1573948800000,
+			"dateModified" : 1573948800000
 		}
 	]
 }
