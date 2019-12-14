@@ -7812,12 +7812,15 @@
 			"id" : 3000017,
 			"name" : "Dust in The Wind",
 			"singer" : "Kansas",
+			"playback": {
+				"youTubeVideoId" : "tH2w6Oxx0kQ"
+			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page17.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page17.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1576281600000
 		}, {
 			"id" : 3000019,
 			"name" : "He ain't Heavy, He's my Brother",
@@ -10240,7 +10243,7 @@
 		}, {
 			"id" : 4000156,
 			"name" : "Can't Take My Eyes Off You",
-			"singer" : "Frankie Valli",			
+			"singer" : "Frankie Valli",
 			"playback": {
 				"youTubeVideoId" : "LcJm1pOswfM"
 			},
