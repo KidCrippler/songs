@@ -1,5 +1,5 @@
 {
-	"version" : "2019_12_17",
+	"version" : "2019_12_21",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -6355,31 +6355,20 @@
 			"singer" : "זוהר ארגוב",
 			"categoryIds" : ["1","5","6"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage280.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage280.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1557187200000
+			"dateModified" : 1576886400000
 		}, {
 			"id" : 2000281,
 			"name" : "אבסורד",
 			"singer" : "שלמה ארצי",
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage281.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage281.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
-		}, {
-			"id" : 2010281,
-			"name" : "אבסורד (D)",
-			"singer" : "שלמה ארצי",
-			"isPrivate" : true,
-			"categoryIds" : ["1"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage281_d.jpg"
-			},
-			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1576886400000
 		}, {
 			"id" : 2000282,
 			"name" : "כבר עבר די זמן (מה רצינו להגיד)",
@@ -6389,7 +6378,7 @@
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage282.txt"
 			},
 			"dateCreated" : 1532390400000,
-			"dateModified" : 1532390400000
+			"dateModified" : 1576886400000
 		}, {
 			"id" : 2000283,
 			"name" : "שיר בבוקר בבוקר (פתאום קם אדם)",
