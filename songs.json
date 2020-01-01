@@ -1,5 +1,5 @@
 {
-	"version" : "2019_12_21",
+	"version" : "2020_01_02",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -5094,7 +5094,8 @@
 			"singer" : "רותם כהן",
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage143.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage143.txt",
+				"markupVersion" : "2"
 			},
 			"dateCreated" : 1519516800000,
 			"dateModified" : 1570320000000
