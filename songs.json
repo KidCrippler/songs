@@ -1,5 +1,5 @@
 {
-	"version" : "2020_01_18",
+	"version" : "2020_01_25",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -7684,6 +7684,37 @@
 			},
 			"dateCreated" : 1579305600000,
 			"dateModified" : 1579305600000
+		}, {
+			"id" : 2000411,
+			"name" : "תני לי",
+			"singer" : "שמוליק קראוס ומזי כהן",			
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage411.txt"
+			},
+			"dateCreated" : 1579910400000,
+			"dateModified" : 1579910400000
+		}, {
+			"id" : 2000412,
+			"name" : "הכי קרוב אלייך",
+			"singer" : "עילי בוטנר וילדי החוץ",
+			"categoryIds" : ["1,5"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage412.txt"
+			},
+			"dateCreated" : 1579910400000,
+			"dateModified" : 1579910400000
+		}, {
+			"id" : 2000413,
+			"name" : "חבק אותי",
+			"singer" : "עילי בוטנר וילדי החוץ",
+			"isPrivate" : true,
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage413.txt"
+			},
+			"dateCreated" : 1579910400000,
+			"dateModified" : 1579910400000
 		}, {
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
