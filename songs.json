@@ -1,5 +1,5 @@
 {
-	"version" : "2020_01_25",
+	"version" : "2020_02_02",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -7697,7 +7697,7 @@
 		}, {
 			"id" : 2000412,
 			"name" : "הכי קרוב אלייך",
-			"singer" : "עילי בוטנר וילדי החוץ",
+			"singer" : "עילי בוטנר ואביב אלוש",
 			"categoryIds" : ["1,5"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage412.txt"
@@ -7715,6 +7715,17 @@
 			},
 			"dateCreated" : 1579910400000,
 			"dateModified" : 1579910400000
+		}, {
+			"id" : 2000414,
+			"name" : "מביט מהצד",
+			"singer" : "אבי דור",
+			"isPrivate" : true,
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage414.txt"
+			},
+			"dateCreated" : 1580601600000,
+			"dateModified" : 1580601600000
 		}, {
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
@@ -10338,6 +10349,19 @@
 			},
 			"dateCreated" : 1577664000000,
 			"dateModified" : 1577664000000
+		}, {
+			"id" : 4000158,
+			"name" : "Just Can't Get Enough",
+			"singer" : "Depeche Mode",
+			"playback": {
+				"youTubeVideoId" : "_6FBfAQ-NDE"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page158.txt"
+			},
+			"dateCreated" : 1580601600000,
+			"dateModified" : 1580601600000
 		}
 	]
 }
