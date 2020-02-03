@@ -1,7 +1,8 @@
 Just Can't Get Enough - Depeche Mode
 Lyrics and Music: Vince Clark
 
-(G   G   C   C  -  D/C  -) x 3
+   {Synth}  G   G   C   C  -  D/C  -
+{Rest Join} (G   G   C   C  -  D/C  -) x 2
 
   G
 When I'm with you baby, I go out of my head
