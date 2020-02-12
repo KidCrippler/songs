@@ -1670,12 +1670,12 @@
 			"id" : 1000160,
 			"name" : "הנה פתחתי חלון",
 			"singer" : "ריקי גל",
-			"categoryIds" : ["1"],
+			"categoryIds" : ["1","5"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page160.jpg"
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page160.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1581292800000
 		}, {
 			"id" : 1000161,
 			"name" : "תנו לגדול בשקט",
