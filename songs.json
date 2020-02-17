@@ -1,5 +1,5 @@
 {
-	"version" : "2020_02_10",
+	"version" : "2020_02_18",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -3839,6 +3839,45 @@
 			"dateCreated" : 1558569600000,
 			"dateModified" : 1558569600000
 		}, {
+			"id" : 1000370,
+			"name" : "שיר ללא שם",
+			"singer" : "יהודית רביץ",
+			"playback": {
+				"youTubeVideoId" : "doh10LVsJYA"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page370.txt"
+			},
+			"dateCreated" : 1581984000000,
+			"dateModified" : 1581984000000
+		}, {
+			"id" : 1000371,
+			"name" : "את לי לילה",
+			"singer" : "בועז שרעבי",
+			"playback": {
+				"youTubeVideoId" : "u5zB28vV9bA"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page371.txt"
+			},
+			"dateCreated" : 1581984000000,
+			"dateModified" : 1581984000000
+		}, {
+			"id" : 1000372,
+			"name" : "אם השיר הזה נשמע לכם מוכר",
+			"singer" : "חנן יובל",
+			"playback": {
+				"youTubeVideoId" : "j_B8f1V915Y"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page372.txt"
+			},
+			"dateCreated" : 1581984000000,
+			"dateModified" : 1581984000000
+		}, {
 			"id" : 2000001,
 			"name" : "אדון שוקו",
 			"singer" : "אריק איינשטיין",
@@ -7565,7 +7604,7 @@
 		}, {
 			"id" : 2000399,
 			"name" : "יום הולדת",
-			"singer" : "עדן",			
+			"singer" : "עדן",
 			"categoryIds" : ["1","5"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage399.txt"
@@ -7687,7 +7726,7 @@
 		}, {
 			"id" : 2000411,
 			"name" : "תני לי",
-			"singer" : "שמוליק קראוס ומזי כהן",			
+			"singer" : "שמוליק קראוס ומזי כהן",
 			"categoryIds" : ["1"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage411.txt"
@@ -7698,7 +7737,7 @@
 			"id" : 2000412,
 			"name" : "הכי קרוב אלייך",
 			"singer" : "עילי בוטנר ואביב אלוש",
-			"categoryIds" : ["1,5"],
+			"categoryIds" : ["1","5"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage412.txt"
 			},
@@ -7739,7 +7778,7 @@
 			"id" : 2000416,
 			"name" : "למה לא אמרת לי",
 			"singer" : "אריק לביא",
-			"categoryIds" : ["1,5"],
+			"categoryIds" : ["1","5"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage416.txt"
 			},
@@ -9386,6 +9425,45 @@
 			},
 			"dateCreated" : 1572307200000,
 			"dateModified" : 1572307200000
+		}, {
+			"id" : 3000167,
+			"name" : "Blackbird",
+			"singer" : "The Beatles",
+			"playback": {
+				"youTubeVideoId" : "Man4Xw8Xypo"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page167.txt"
+			},
+			"dateCreated" : 1581984000000,
+			"dateModified" : 1581984000000
+		}, {
+			"id" : 3000168,
+			"name" : "She Loves You",
+			"singer" : "The Beatles",
+			"playback": {
+				"youTubeVideoId" : "nGbWU8S3vzs"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page168.txt"
+			},
+			"dateCreated" : 1581984000000,
+			"dateModified" : 1581984000000
+		}, {
+			"id" : 3000169,
+			"name" : "Can't hurry love",
+			"singer" : "Phill Collins",
+			"playback": {
+				"youTubeVideoId" : "C9IwBJYTwQ0"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page169.txt"
+			},
+			"dateCreated" : 1581984000000,
+			"dateModified" : 1581984000000
 		}, {
 			"id" : 4000060,
 			"name" : "Lorelei",
