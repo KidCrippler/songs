@@ -616,12 +616,15 @@
 			"id" : 1000058,
 			"name" : "אור הירח",
 			"singer" : "אביב גפן",
+			"playback": {
+				"youTubeVideoId" : "TeJQz1Bco84"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page58.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page58.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1583193600000
 		}, {
 			"id" : 1000059,
 			"name" : "הכעס",
@@ -646,12 +649,16 @@
 			"id" : 1000061,
 			"name" : "קפה אצל ברטה",
 			"singer" : "הנשמות הטהורות",
+			"playback": {
+				"youTubeVideoId" : "Swk4HTb7LGI"
+			},
 			"categoryIds" : ["1","6"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page61.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page61.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1519862400000,
-			"dateModified" : 1557187200000
+			"dateModified" : 1583193600000
 		}, {
 			"id" : 1000062,
 			"name" : "ציף ציף מעל הרציף",
@@ -3801,7 +3808,7 @@
 			"dateModified" : 1553040000000
 		}, {
 			"id" : 1000367,
-			"name" : "המקום הכי נמוך בתל אביב",
+			"name" : "במקום הכי נמוך בתל אביב",
 			"singer" : "אסתר שמיר",
 			"playback": {
 				"youTubeVideoId" : "HPy12ljcIXw"
@@ -3811,7 +3818,7 @@
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page367.txt"
 			},
 			"dateCreated" : 1556668800000,
-			"dateModified" : 1556668800000
+			"dateModified" : 1583193600000
 		}, {
 			"id" : 1000368,
 			"name" : "אחת כמו כולם",
@@ -3866,7 +3873,7 @@
 			"dateModified" : 1581984000000
 		}, {
 			"id" : 1000372,
-			"name" : "אם השיר הזה נשמע לכם מוכר",
+			"name" : "ואם השיר הזה נשמע לכם מוכר",
 			"singer" : "חנן יובל",
 			"playback": {
 				"youTubeVideoId" : "j_B8f1V915Y"
@@ -3876,7 +3883,7 @@
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page372.txt"
 			},
 			"dateCreated" : 1581984000000,
-			"dateModified" : 1581984000000
+			"dateModified" : 1583193600000
 		}, {
 			"id" : 1000373,
 			"name" : "אתה פה חסר לי",
@@ -8035,12 +8042,15 @@
 			"id" : 3000021,
 			"name" : "Comfortably Numb",
 			"singer" : "Pink Floyd",
+			"playback": {
+				"youTubeVideoId" : "_FrOQC-zEog"
+			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page21.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page21.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1583193600000
 		}, {
 			"id" : 3000022,
 			"name" : "Wish You Were Here",
@@ -8193,12 +8203,15 @@
 			"id" : 3000042,
 			"name" : "And I Love Her",
 			"singer" : "The Beatles",
+			"playback": {
+				"youTubeVideoId" : "5tc0gLSSU1M"
+			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page42.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page42.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1583193600000
 		}, {
 			"id" : 3000043,
 			"name" : "I Saw Her Standing There",
