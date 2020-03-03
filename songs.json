@@ -1,5 +1,5 @@
 {
-	"version" : "2020_02_21",
+	"version" : "2020_03_03",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -3877,6 +3877,45 @@
 			},
 			"dateCreated" : 1581984000000,
 			"dateModified" : 1581984000000
+		}, {
+			"id" : 1000373,
+			"name" : "אתה פה חסר לי",
+			"singer" : "נורית גלרון",
+			"playback": {
+				"youTubeVideoId" : "UIVNwqTXwT0"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page373.txt"
+			},
+			"dateCreated" : 1583193600000,
+			"dateModified" : 1583193600000
+		}, {
+			"id" : 1000374,
+			"name" : "שיר בכיף",
+			"singer" : "קורין אלאל",
+			"playback": {
+				"youTubeVideoId" : "oIASE4N8HtA"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page374.txt"
+			},
+			"dateCreated" : 1583193600000,
+			"dateModified" : 1583193600000
+		}, {
+			"id" : 1000375,
+			"name" : "לא ידעתי שתלכי ממני",
+			"singer" : "מתי כספי",
+			"playback": {
+				"youTubeVideoId" : "gXTHdj3Vw3s"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page375.txt"
+			},
+			"dateCreated" : 1583193600000,
+			"dateModified" : 1583193600000
 		}, {
 			"id" : 2000001,
 			"name" : "אדון שוקו",
@@ -9475,6 +9514,58 @@
 			},
 			"dateCreated" : 1581984000000,
 			"dateModified" : 1581984000000
+		}, {
+			"id" : 3000170,
+			"name" : "Reality",
+			"singer" : "Richard Sanderson",
+			"playback": {
+				"youTubeVideoId" : "OL2FazadHoQ"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page170.txt"
+			},
+			"dateCreated" : 1583193600000,
+			"dateModified" : 1583193600000
+		}, {
+			"id" : 3000171,
+			"name" : "Light My Fire",
+			"singer" : "The Doors",
+			"playback": {
+				"youTubeVideoId" : "cq8k-ZbsXDI"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page171.txt"
+			},
+			"dateCreated" : 1583193600000,
+			"dateModified" : 1583193600000
+		}, {
+			"id" : 3000172,
+			"name" : "Kayleigh",
+			"singer" : "Marillion",
+			"playback": {
+				"youTubeVideoId" : "NumChJYENJk"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page172.txt"
+			},
+			"dateCreated" : 1583193600000,
+			"dateModified" : 1583193600000
+		}, {
+			"id" : 3000173,
+			"name" : "Yesterday",
+			"singer" : "The Beatles",
+			"playback": {
+				"youTubeVideoId" : "NrgmdOz227I"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page173.txt"
+			},
+			"dateCreated" : 1583193600000,
+			"dateModified" : 1583193600000
 		}, {
 			"id" : 4000060,
 			"name" : "Lorelei",
