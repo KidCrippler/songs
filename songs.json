@@ -1,5 +1,5 @@
 {
-	"version" : "2020_03_05",
+	"version" : "2020_03_07",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -7847,6 +7847,16 @@
 			"categoryIds" : ["1"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage418.txt"
+			},
+			"dateCreated" : 1583366400000,
+			"dateModified" : 1583366400000
+		}, {
+			"id" : 2000419,
+			"name" : "פגישה לאין קץ",
+			"singer" : "אריק איינשטיין",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage419.txt"
 			},
 			"dateCreated" : 1583366400000,
 			"dateModified" : 1583366400000
