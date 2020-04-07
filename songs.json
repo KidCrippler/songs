@@ -1,5 +1,5 @@
 {
-	"version" : "2020_04_02",
+	"version" : "2020_04_07",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -10644,6 +10644,19 @@
 			},
 			"dateCreated" : 1583366400000,
 			"dateModified" : 1583366400000
+		}, {
+			"id" : 4000162,
+			"name" : "Alone",
+			"singer" : "Heart",
+			"playback": {
+				"youTubeVideoId" : "RD1Cw1ng75KP0"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page162.txt"
+			},
+			"dateCreated" : 1586217600000,
+			"dateModified" : 1586217600000
 		}
 	]
 }
