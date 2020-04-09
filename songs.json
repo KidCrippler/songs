@@ -1,5 +1,5 @@
 {
-	"version" : "2020_04_07",
+	"version" : "2020_04_10",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -7867,6 +7867,27 @@
 			"categoryIds" : ["1"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage420.txt"
+			},
+			"dateCreated" : 1585785600000,
+			"dateModified" : 1585785600000
+		}, {
+			"id" : 2000421,
+			"name" : "הבחורה שלי",
+			"singer" : "שלמה ארצי",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage421.txt"
+			},
+			"dateCreated" : 1585785600000,
+			"dateModified" : 1585785600000
+		}, {
+			"id" : 2000422,
+			"name" : "ילדה מרגרינה",
+			"singer" : "נילי בוברובסקי",
+			"isPrivate" : true,
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage422.txt"
 			},
 			"dateCreated" : 1585785600000,
 			"dateModified" : 1585785600000
