@@ -3924,6 +3924,45 @@
 			"dateCreated" : 1583193600000,
 			"dateModified" : 1583193600000
 		}, {
+			"id" : 1000376,
+			"name" : "רישומים",
+			"singer" : "השייקס",
+			"playback": {
+				"youTubeVideoId" : "r6nUdAGXpWE"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page376.txt"
+			},
+			"dateCreated" : 1586563200000,
+			"dateModified" : 1586563200000
+		}, {
+			"id" : 1000377,
+			"name" : "בית ספר למשחק",
+			"singer" : "מרינה מקסימיליאן בלומין",
+			"playback": {
+				"youTubeVideoId" : "RCQ3SgkMvdE"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page377.txt"
+			},
+			"dateCreated" : 1586563200000,
+			"dateModified" : 1586563200000
+		}, {
+			"id" : 1000378,
+			"name" : "אני הולך לבית שאן",
+			"singer" : "גרי אקשטיין",
+			"playback": {
+				"youTubeVideoId" : "Y0ugeCP4TD8"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page378.txt"
+			},
+			"dateCreated" : 1586563200000,
+			"dateModified" : 1586563200000
+		}, {
 			"id" : 2000001,
 			"name" : "אדון שוקו",
 			"singer" : "אריק איינשטיין",
@@ -9660,6 +9699,45 @@
 			},
 			"dateCreated" : 1583193600000,
 			"dateModified" : 1583193600000
+		}, {
+			"id" : 3000174,
+			"name" : "Hero",
+			"singer" : "Family of the Year ",
+			"playback": {
+				"youTubeVideoId" : "mYFaghHyMKc"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page174.txt"
+			},
+			"dateCreated" : 1586563200000,
+			"dateModified" : 1586563200000
+		}, {
+			"id" : 3000175,
+			"name" : "Turn Of A Friendly Card",
+			"singer" : "Alan Parsons Project ",
+			"playback": {
+				"youTubeVideoId" : "pgY7qYaoMWQ"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page175.txt"
+			},
+			"dateCreated" : 1586563200000,
+			"dateModified" : 1586563200000
+		}, {
+			"id" : 3000176,
+			"name" : "Youve Got A Friend",
+			"singer" : "James Taylor",
+			"playback": {
+				"youTubeVideoId" : "xEkIou3WFnM"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page176.txt"
+			},
+			"dateCreated" : 1586563200000,
+			"dateModified" : 1586563200000
 		}, {
 			"id" : 4000060,
 			"name" : "Lorelei",
