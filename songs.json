@@ -1,5 +1,5 @@
 {
-	"version" : "2020_04_21",
+	"version" : "2020_04_23",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -8032,6 +8032,16 @@
 			},
 			"dateCreated" : 1586822400000,
 			"dateModified" : 1586822400000
+		}, {
+			"id" : 2000434,
+			"name" : "שירים עד כאן",
+			"singer" : "צוות חופים",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage434.txt"
+			},
+			"dateCreated" : 1587600000000,
+			"dateModified" : 1587600000000
 		}, {
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
