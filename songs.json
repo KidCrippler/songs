@@ -3765,7 +3765,8 @@
 			},
 			"categoryIds" : ["1","6"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page364.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page364.txt",
+				"markupVersion" : "2"
 			},
 			"dateCreated" : 1546992000000,
 			"dateModified" : 1557187200000
