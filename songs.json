@@ -1,5 +1,5 @@
 {
-	"version" : "2020_04_24",
+	"version" : "2020_05_02",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -924,10 +924,10 @@
 			"singer" : "מאיר בנאי",
 			"categoryIds" : ["1","4","6"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page90.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page90.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1557187200000
+			"dateModified" : 1587772800000
 		}, {
 			"id" : 1000091,
 			"name" : "מרוב אהבתי ",
@@ -8101,6 +8101,16 @@
 			"categoryIds" : ["1"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage441.txt"
+			},
+			"dateCreated" : 1587772800000,
+			"dateModified" : 1587772800000
+		}, {
+			"id" : 2000442,
+			"name" : "ארץ הצבר",
+			"singer" : "כמו צועני",
+			"categoryIds" : ["1","6"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage442.txt"
 			},
 			"dateCreated" : 1587772800000,
 			"dateModified" : 1587772800000
