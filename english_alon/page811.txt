@@ -1,107 +1,105 @@
 Deep Purple - Smoke on the water
 
-{Intro} | D4 F4 G4 - | D4 F4 G#4 G4 | D4 F4 G4 - | F4 D4 - - |x6
-
+{Intro x 6}
+D4 F4 G4 -
+D4 F4 G#4 G4
+D4 F4 G4 -
+F4 D4 - -
  
-{Verse 1}
-
-   G5 ///          G5 ///
+   G5              G5 
 We all came out to Montreux
-       G5 /   F5 / G5 ///
+       G5     F5   G5 
 On the Lake Geneva shoreline
-G5 ///                 G5 ///
+G5                     G5
 To make records with a mobile
-G5 /      F5 /      G5 ///
+G5        F5        G5    
 We didn't have much time
-G5 ///              G5 ///
+G5                  G5    
 Frank Zappa and the Mothers
-     G5 /        F5 /  G5 ///
+     G5          F5    G5    
 Were at the best place around
-G5 ///                 G5 ///
+G5                     G5    
 But some stupid with a flare gun
-G /              F /    G ///
+G                F      G    
 Burned the place to the ground
 
-{Chorus}
-
-C5 ///       G#5 /// G5 ///             G5 ///
+C5           G#5     G5                 G5    
 Smoke on the water,     fire in the sky
-C5 ///       G#5 ///
+C5           G#5    
 Smoke on the water...
 
-{Intro} | D4 F4 G4 - | D4 F4 G#4 G4 | D4 F4 G4 - | F4 D4 - - |x6
+{Intro x 6}
+D4 F4 G4 -
+D4 F4 G#4 G4
+D4 F4 G4 -
+F4 D4 - -
 
-{Verse 2}
-
-     G5 ///          G5 ///
+     G5              G5    
 They burned down the gambling house
-   G5 /         F5 /  G5 ///
+   G5           F5    G5    
 It died with an awful sound
-G5 ///           G5 ///
+G5               G5    
 Funky Claude was running in and out
-G5 /         F5 /
+G5           F5  
 Pulling kids out the ground
-G5 ///          G5 ///
+G5              G5    
 When it all was over
-   G5 /        F5 /    G5 ///
+   G5          F5      G5    
 We had to find another place
-G5 ///             G5 ///
+G5                 G5    
 But Swiss time was running out
-   G5 /                 F5 /     G5 ///
+   G5                   F5       G5    
 It seemed that we would lose the race
 
-{Chorus}
-
-C5 ///       G#5 /// G5 ///             G5 ///
+C5           G#5     G5                 G5    
 Smoke on the water,     fire in the sky
-C5 ///       G#5 ///
+C5           G#5    
 Smoke on the water...
 
-{Intro} | D4 F4 G4 - | D4 F4 G#4 G4 | D4 F4 G4 - | F4 D4 - - |x6
+{Intro x 6}
+D4 F4 G4 -
+D4 F4 G#4 G4
+D4 F4 G4 -
+F4 D4 - -
 
-{Solo}  |G5 ///|G5 ///|C5 ///|G5 ///|
-        |G5 ///|G5 ///|C5 ///|G5 ///|
-        |G5 ///|G5 ///|C5 ///|G5 ///|
-        |G5 ///|G5 ///|C5 ///|G5 ///|
-        |C5 ///|C5 ///|F5 ///|F5 ///|
+G5    G5    C5    G5
+G5    G5    C5    G5
+G5    G5    C5    G5
+G5    G5    C5    G5
+C5    C5    F5    F5
 
-{Intro} | D4 F4 G4 - | D4 F4 G#4 G4 | D4 F4 G4 - | F4 D4 - - |x6
+{Intro x 6}
+D4 F4 G4 -
+D4 F4 G#4 G4
+D4 F4 G4 -
+F4 D4 - -
 
-{Verse 3}
-
-G5 ///             G ///
+G5                 G    
 We ended up at the Grand Hotel
-G5 /   F5 /  G5 ///
+G5     F5    G5    
 It was empty cold and bare
-G5 ///                     G5 ///
+G5                         G5    
 But with the Rolling truck Stones thing just outside
-G5 /       F5 /  G5 ///
+G5         F5    G5    
 Making our music there
-       G5 ///               G5 ///
+       G5                   G5    
 With a few red lights and a few old beds
-G5 /      F5 /     G5 ///
+G5        F5       G5    
 We make a place to sweat
-G5 ///            G5 ///
+G5                G5    
 No matter what we get out of this
-G5 /    F5 /         G5 ///
+G5      F5           G5    
 I know, I know we'll never forget
 
-{Chorus}
-
-C5 ///       G#5 /// G5 ///             G5 ///
+C5           G#5     G5                 G5    
 Smoke on the water,     fire in the sky
-C5 ///       G#5 ///
+C5           G#5    
 Smoke on the water...
  
-{Intro}
-| D4 F4 G4 - | D4 F4 G#4 G4 | D4 F4 G4 - | F4 D4 - - |x6
+{Intro x 6}
+D4 F4 G4 -
+D4 F4 G#4 G4
+D4 F4 G4 -
+F4 D4 - -
  
 {Instrumental Verse fade out}
-
-{in the Intro, I mean a two-note chord played}
-
-D4 is x55xxx
-F4 is xx33xx
-G4 is xx55xx
-G#4 is xx66xx.
-
