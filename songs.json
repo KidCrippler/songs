@@ -16631,7 +16631,7 @@
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page22.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page22.txt"
 			},
 			"dateCreated" : 1519516800000,
 			"dateModified" : 1599091200000
@@ -22493,7 +22493,7 @@
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/oren/english_alon/page801.txt"
+			"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/oren/english_alon/page801.txt"
 			},
 			"dateCreated" : 1590192000000,
 			"dateModified" : 1590192000000
