@@ -22485,8 +22485,8 @@
 			"dateModified" : 1768262400000
 		}, {
 			"id" : 4000800,
-			"name" : "Adele",
-			"singer" : "Rolling in the Deep",
+			"name" : "Rolling in the Deep",
+			"singer" : "Adele",
 			"playback": {
 				"youTubeVideoId" : "WQnAxOQxQIU"
 			},
@@ -22628,8 +22628,8 @@
 			"dateModified" : 1590192000000
 		}, {
 			"id" : 4000811,
-			"name" : "Deep Purple",
-			"singer" : "Smoke on The Water",
+			"name" : "Smoke on The Water",
+			"singer" : "Deep Purple",
 			"playback": {
 				"youTubeVideoId" : "WQnAxOQxQIU"
 			},
