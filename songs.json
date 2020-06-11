@@ -1,4 +1,4 @@
-﻿{
+{
 	"version" : "2020_06_10",
 	"title" : "Default Songs List new",
 	"categories" : [{
@@ -8583,7 +8583,7 @@
 			"singer" : "The Beatles",
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page43.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page43.txt"
 			},
 			"dateCreated" : 1519516800000,
 			"dateModified" : 1519516800000
