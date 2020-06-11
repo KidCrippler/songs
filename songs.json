@@ -16862,7 +16862,7 @@
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page43.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page43.txt"
 			},
 			"dateCreated" : 1519516800000,
 			"dateModified" : 1602115200000
@@ -22484,19 +22484,6 @@
 			"dateCreated" : 1768262400000,
 			"dateModified" : 1768262400000
 		}, {
-			"id" : 4000800,
-			"name" : "Rolling in the Deep",
-			"singer" : "Adele",
-			"playback": {
-				"youTubeVideoId" : "WQnAxOQxQIU"
-			},
-			"categoryIds" : ["2"],
-			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/oren/english_alon/page800.txt"
-			},
-			"dateCreated" : 1590192000000,
-			"dateModified" : 1590192000000
-		}, {
 			"id" : 4000801,
 			"name" : "Back to Black",
 			"singer" : "Amy Winehouse",
@@ -22536,19 +22523,6 @@
 			"dateCreated" : 1590192000000,
 			"dateModified" : 1590192000000
 		}, {
-			"id" : 4000804,
-			"name" : "It's My Life",
-			"singer" : "Bon Jovi",
-			"playback": {
-				"youTubeVideoId" : "WQnAxOQxQIU"
-			},
-			"categoryIds" : ["2"],
-			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/oren/english_alon/page804.txt"
-			},
-			"dateCreated" : 1590192000000,
-			"dateModified" : 1590192000000
-		}, {
 			"id" : 4000805,
 			"name" : "Locked Out of Heaven",
 			"singer" : "Bruno Mars",
@@ -22558,19 +22532,6 @@
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/oren/english_alon/page805.txt"
-			},
-			"dateCreated" : 1590192000000,
-			"dateModified" : 1590192000000
-		}, {
-			"id" : 4000806,
-			"name" : "Uptown Funk",
-			"singer" : "Bruno Mars",
-			"playback": {
-				"youTubeVideoId" : "WQnAxOQxQIU"
-			},
-			"categoryIds" : ["2"],
-			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/oren/english_alon/page806.txt"
 			},
 			"dateCreated" : 1590192000000,
 			"dateModified" : 1590192000000
@@ -22627,19 +22588,6 @@
 			"dateCreated" : 1590192000000,
 			"dateModified" : 1590192000000
 		}, {
-			"id" : 4000811,
-			"name" : "Smoke on The Water",
-			"singer" : "Deep Purple",
-			"playback": {
-				"youTubeVideoId" : "WQnAxOQxQIU"
-			},
-			"categoryIds" : ["2"],
-			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/oren/english_alon/page811.txt"
-			},
-			"dateCreated" : 1590192000000,
-			"dateModified" : 1590192000000
-		}, {
 			"id" : 4000812,
 			"name" : "Cocaine",
 			"singer" : "Eric Clapton",
@@ -22666,19 +22614,6 @@
 			"dateCreated" : 1590192000000,
 			"dateModified" : 1590192000000
 		}, {
-			"id" : 4000814,
-			"name" : "The Final Countdown",
-			"singer" : "Europe",
-			"playback": {
-				"youTubeVideoId" : "WQnAxOQxQIU"
-			},
-			"categoryIds" : ["2"],
-			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/oren/english_alon/page814.txt"
-			},
-			"dateCreated" : 1590192000000,
-			"dateModified" : 1590192000000
-		}, {
 			"id" : 4000815,
 			"name" : "Don't Cry",
 			"singer" : "Guns & Roses",
@@ -22701,19 +22636,6 @@
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/oren/english_alon/page816.txt"
-			},
-			"dateCreated" : 1590192000000,
-			"dateModified" : 1590192000000
-		}, {
-			"id" : 4000817,
-			"name" : "Hey Joe",
-			"singer" : "Jimmy Hendrix",
-			"playback": {
-				"youTubeVideoId" : "WQnAxOQxQIU"
-			},
-			"categoryIds" : ["2"],
-			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/oren/english_alon/page817.txt"
 			},
 			"dateCreated" : 1590192000000,
 			"dateModified" : 1590192000000
@@ -22770,19 +22692,6 @@
 			"dateCreated" : 1590192000000,
 			"dateModified" : 1590192000000
 		}, {
-			"id" : 4000823,
-			"name" : "Beat It",
-			"singer" : "Michael Jackson",
-			"playback": {
-				"youTubeVideoId" : "WQnAxOQxQIU"
-			},
-			"categoryIds" : ["2"],
-			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/oren/english_alon/page823.txt"
-			},
-			"dateCreated" : 1590192000000,
-			"dateModified" : 1590192000000
-		}, {
 			"id" : 4000824,
 			"name" : "Billie Jean",
 			"singer" : "Michael Jackson",
@@ -22805,19 +22714,6 @@
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/oren/english_alon/page825.txt"
-			},
-			"dateCreated" : 1590192000000,
-			"dateModified" : 1590192000000
-		}, {
-			"id" : 4000826,
-			"name" : "Come As You Are",
-			"singer" : "Nirvana",
-			"playback": {
-				"youTubeVideoId" : "WQnAxOQxQIU"
-			},
-			"categoryIds" : ["2"],
-			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/oren/english_alon/page826.txt"
 			},
 			"dateCreated" : 1590192000000,
 			"dateModified" : 1590192000000
@@ -22848,19 +22744,6 @@
 			"dateCreated" : 1590192000000,
 			"dateModified" : 1590192000000
 		}, {
-			"id" : 4000829,
-			"name" : "Message In A Bottle",
-			"singer" : "Police",
-			"playback": {
-				"youTubeVideoId" : "WQnAxOQxQIU"
-			},
-			"categoryIds" : ["2"],
-			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/oren/english_alon/page829.txt"
-			},
-			"dateCreated" : 1590192000000,
-			"dateModified" : 1590192000000
-		}, {
 			"id" : 4000830,
 			"name" : "Roxanne",
 			"singer" : "Police",
@@ -22870,32 +22753,6 @@
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/oren/english_alon/page830.txt"
-			},
-			"dateCreated" : 1590192000000,
-			"dateModified" : 1590192000000
-		}, {
-			"id" : 4000831,
-			"name" : "Another One Bites the Dust",
-			"singer" : "Queen",
-			"playback": {
-				"youTubeVideoId" : "WQnAxOQxQIU"
-			},
-			"categoryIds" : ["2"],
-			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/oren/english_alon/page831.txt"
-			},
-			"dateCreated" : 1590192000000,
-			"dateModified" : 1590192000000
-		}, {
-			"id" : 4000832,
-			"name" : "I Want To Break Free",
-			"singer" : "Queen",
-			"playback": {
-				"youTubeVideoId" : "WQnAxOQxQIU"
-			},
-			"categoryIds" : ["2"],
-			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/oren/english_alon/page832.txt"
 			},
 			"dateCreated" : 1590192000000,
 			"dateModified" : 1590192000000
@@ -22922,32 +22779,6 @@
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/oren/english_alon/page834.txt"
-			},
-			"dateCreated" : 1590192000000,
-			"dateModified" : 1590192000000
-		}, {
-			"id" : 4000835,
-			"name" : "Twist & Shout",
-			"singer" : "The Beatles",
-			"playback": {
-				"youTubeVideoId" : "WQnAxOQxQIU"
-			},
-			"categoryIds" : ["2"],
-			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/oren/english_alon/page835.txt"
-			},
-			"dateCreated" : 1590192000000,
-			"dateModified" : 1590192000000
-		}, {
-			"id" : 4000836,
-			"name" : "Long Train Running",
-			"singer" : "The Doobie Brothers",
-			"playback": {
-				"youTubeVideoId" : "WQnAxOQxQIU"
-			},
-			"categoryIds" : ["2"],
-			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/oren/english_alon/page836.txt"
 			},
 			"dateCreated" : 1590192000000,
 			"dateModified" : 1590192000000
