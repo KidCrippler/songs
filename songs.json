@@ -22487,6 +22487,7 @@
 			"id" : 4000801,
 			"name" : "Back to Black",
 			"singer" : "Amy Winehouse",
+			"isPrivate" : true,
 			"playback": {
 				"youTubeVideoId" : "WQnAxOQxQIU"
 			},
@@ -22500,6 +22501,7 @@
 			"id" : 4000802,
 			"name" : "Rehab",
 			"singer" : "Amy Winehouse",
+			"isPrivate" : true,
 			"playback": {
 				"youTubeVideoId" : "WQnAxOQxQIU"
 			},
@@ -22513,6 +22515,7 @@
 			"id" : 4000803,
 			"name" : "Crazy in Love",
 			"singer" : "Beyonce",
+			"isPrivate" : true,
 			"playback": {
 				"youTubeVideoId" : "WQnAxOQxQIU"
 			},
@@ -22526,6 +22529,7 @@
 			"id" : 4000805,
 			"name" : "Locked Out of Heaven",
 			"singer" : "Bruno Mars",
+			"isPrivate" : true,
 			"playback": {
 				"youTubeVideoId" : "WQnAxOQxQIU"
 			},
@@ -22539,6 +22543,7 @@
 			"id" : 4000807,
 			"name" : "Johnny B Good",
 			"singer" : "Chuck Berry",
+			"isPrivate" : true,
 			"playback": {
 				"youTubeVideoId" : "WQnAxOQxQIU"
 			},
@@ -22552,6 +22557,7 @@
 			"id" : 4000808,
 			"name" : "Adventure of a Lifetime",
 			"singer" : "Coldplay",
+			"isPrivate" : true,
 			"playback": {
 				"youTubeVideoId" : "WQnAxOQxQIU"
 			},
@@ -22565,6 +22571,7 @@
 			"id" : 4000809,
 			"name" : "Yellow",
 			"singer" : "Coldplay",
+			"isPrivate" : true,
 			"playback": {
 				"youTubeVideoId" : "WQnAxOQxQIU"
 			},
@@ -22578,6 +22585,7 @@
 			"id" : 4000810,
 			"name" : "Get Lucky",
 			"singer" : "Daft Punk",
+			"isPrivate" : true,
 			"playback": {
 				"youTubeVideoId" : "WQnAxOQxQIU"
 			},
@@ -22591,6 +22599,7 @@
 			"id" : 4000812,
 			"name" : "Cocaine",
 			"singer" : "Eric Clapton",
+			"isPrivate" : true,
 			"playback": {
 				"youTubeVideoId" : "WQnAxOQxQIU"
 			},
@@ -22604,6 +22613,7 @@
 			"id" : 4000813,
 			"name" : "Wonderful Tonight",
 			"singer" : "Eric Clapton",
+			"isPrivate" : true,
 			"playback": {
 				"youTubeVideoId" : "WQnAxOQxQIU"
 			},
@@ -22617,6 +22627,7 @@
 			"id" : 4000815,
 			"name" : "Don't Cry",
 			"singer" : "Guns & Roses",
+			"isPrivate" : true,
 			"playback": {
 				"youTubeVideoId" : "WQnAxOQxQIU"
 			},
@@ -22630,6 +22641,7 @@
 			"id" : 4000816,
 			"name" : "I Feel Good",
 			"singer" : "James Brown",
+			"isPrivate" : true,
 			"playback": {
 				"youTubeVideoId" : "WQnAxOQxQIU"
 			},
@@ -22643,6 +22655,7 @@
 			"id" : 4000819,
 			"name" : "I Belong to You",
 			"singer" : "Lenny Kravits",
+			"isPrivate" : true,
 			"playback": {
 				"youTubeVideoId" : "WQnAxOQxQIU"
 			},
@@ -22656,6 +22669,7 @@
 			"id" : 4000820,
 			"name" : "Tutti Frutti",
 			"singer" : "Little Richard",
+			"isPrivate" : true,
 			"playback": {
 				"youTubeVideoId" : "WQnAxOQxQIU"
 			},
@@ -22669,6 +22683,7 @@
 			"id" : 4000821,
 			"name" : "All About That Bass",
 			"singer" : "Meghan Trainor",
+			"isPrivate" : true,
 			"playback": {
 				"youTubeVideoId" : "WQnAxOQxQIU"
 			},
@@ -22682,6 +22697,7 @@
 			"id" : 4000822,
 			"name" : "Move Like Jagger",
 			"singer" : "Maroon 5",
+			"isPrivate" : true,
 			"playback": {
 				"youTubeVideoId" : "WQnAxOQxQIU"
 			},
@@ -22695,6 +22711,7 @@
 			"id" : 4000824,
 			"name" : "Billie Jean",
 			"singer" : "Michael Jackson",
+			"isPrivate" : true,
 			"playback": {
 				"youTubeVideoId" : "WQnAxOQxQIU"
 			},
@@ -22708,6 +22725,7 @@
 			"id" : 4000825,
 			"name" : "Smooth Criminal",
 			"singer" : "Michael Jackson",
+			"isPrivate" : true,
 			"playback": {
 				"youTubeVideoId" : "WQnAxOQxQIU"
 			},
@@ -22721,6 +22739,7 @@
 			"id" : 4000827,
 			"name" : "Smells Like Teen Spirit",
 			"singer" : "Nirvana",
+			"isPrivate" : true,
 			"playback": {
 				"youTubeVideoId" : "WQnAxOQxQIU"
 			},
@@ -22734,6 +22753,7 @@
 			"id" : 4000828,
 			"name" : "Happy",
 			"singer" : "Pharrell Williams",
+			"isPrivate" : true,
 			"playback": {
 				"youTubeVideoId" : "WQnAxOQxQIU"
 			},
@@ -22747,6 +22767,7 @@
 			"id" : 4000830,
 			"name" : "Roxanne",
 			"singer" : "Police",
+			"isPrivate" : true,
 			"playback": {
 				"youTubeVideoId" : "WQnAxOQxQIU"
 			},
@@ -22760,6 +22781,7 @@
 			"id" : 4000833,
 			"name" : "Give it Away",
 			"singer" : "Red Hot Chili Peppers",
+			"isPrivate" : true,
 			"playback": {
 				"youTubeVideoId" : "WQnAxOQxQIU"
 			},
@@ -22773,6 +22795,7 @@
 			"id" : 4000834,
 			"name" : "Superstition",
 			"singer" : "Stevie Wonder",
+			"isPrivate" : true,
 			"playback": {
 				"youTubeVideoId" : "WQnAxOQxQIU"
 			},
