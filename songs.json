@@ -1,5 +1,5 @@
 {
-	"version" : "2020_06_27",
+	"version" : "2020_07_12",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -3953,6 +3953,45 @@
 			},
 			"dateCreated" : 1586563200000,
 			"dateModified" : 1586563200000
+		}, {
+			"id" : 1000379,
+			"name" : "בביתי הנעול",
+			"singer" : "ריטה",
+			"playback": {
+				"youTubeVideoId" : "aZADLYdoFO0"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page379.txt"
+			},
+			"dateCreated" : 1594512000000,
+			"dateModified" : 1594512000000
+		}, {
+			"id" : 1000380,
+			"name" : "יום שישי חזר",
+			"singer" : "מתי כספי",
+			"playback": {
+				"youTubeVideoId" : "6w-sut0UnHs"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page380.txt"
+			},
+			"dateCreated" : 1594512000000,
+			"dateModified" : 1594512000000
+		}, {
+			"id" : 1000381,
+			"name" : "פרי גנך",
+			"singer" : "אלי לוזון ואביבה אבידן",
+			"playback": {
+				"youTubeVideoId" : "o2WbBEAmRXs"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page381.txt"
+			},
+			"dateCreated" : 1594512000000,
+			"dateModified" : 1594512000000
 		}, {
 			"id" : 2000001,
 			"name" : "אדון שוקו",
@@ -8836,10 +8875,10 @@
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page80.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page80.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1594512000000
 		}, {
 			"id" : 3000081,
 			"name" : "Will You?",
@@ -9984,6 +10023,45 @@
 			},
 			"dateCreated" : 1586563200000,
 			"dateModified" : 1586563200000
+		}, {
+			"id" : 3000177,
+			"name" : "Old And Wise",
+			"singer" : "Alan Parsons Project",
+			"playback": {
+				"youTubeVideoId" : "v=-4HI1_LTWIk"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page177.txt"
+			},
+			"dateCreated" : 1594512000000,
+			"dateModified" : 1594512000000
+		}, {
+			"id" : 3000178,
+			"name" : "Wild World",
+			"singer" : "Cat Stevens",
+			"playback": {
+				"youTubeVideoId" : "6iC6K8fZDik"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page178.txt"
+			},
+			"dateCreated" : 1594512000000,
+			"dateModified" : 1594512000000
+		}, {
+			"id" : 3000179,
+			"name" : "Set Fire To The Rain",
+			"singer" : "Adele",
+			"playback": {
+				"youTubeVideoId" : "d9bB8csLSug"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page179.txt"
+			},
+			"dateCreated" : 1594512000000,
+			"dateModified" : 1594512000000
 		}, {
 			"id" : 4000060,
 			"name" : "Lorelei",
