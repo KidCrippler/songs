@@ -1,5 +1,5 @@
 {
-	"version" : "2020_07_12",
+	"version" : "2020_07_16",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -8242,6 +8242,16 @@
 			"categoryIds" : ["1","5"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage451.txt"
+			},
+			"dateCreated" : 1594252800000,
+			"dateModified" : 1594252800000
+		}, {
+			"id" : 2000452,
+			"name" : "השבת כבר נכנסת",
+			"singer" : "שלומי שבת",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage452.txt"
 			},
 			"dateCreated" : 1594252800000,
 			"dateModified" : 1594252800000
