@@ -1,5 +1,5 @@
 {
-	"version" : "2020_07_16",
+	"version" : "2020_07_18",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -1022,12 +1022,15 @@
 			"id" : 1000100,
 			"name" : "חלום כחול",
 			"singer" : "פורטיסחרוף",
+			"playback": {
+				"youTubeVideoId" : "ZQOWz-d9EDw"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page100.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page100.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1595030400000
 		}, {
 			"id" : 1000101,
 			"name" : "מאיה",
@@ -3993,6 +3996,43 @@
 			"dateCreated" : 1594512000000,
 			"dateModified" : 1594512000000
 		}, {
+			"id" : 1000382,
+			"name" : "כשהלב  בוכה",
+			"singer" : "שרית חדד",
+			"playback": {
+				"youTubeVideoId" : "v=bBCIefOfUKY"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page382.txt"
+			},
+			"dateCreated" : 1595030400000,
+			"dateModified" : 1595030400000
+		}, {
+			"id" : 1000383,
+			"name" : "בואי כלה",
+			"singer" : "אחינועם ניני",
+			"playback": {
+				"youTubeVideoId" : "woQRU6SXj9A"
+			},
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page383.txt"
+			},
+			"dateCreated" : 1595030400000,
+			"dateModified" : 1595030400000
+		}, {
+			"id" : 1000384,
+			"name" : "אבשלום",
+			"singer" : "רוקפור",
+			"playback": {
+				"youTubeVideoId" : "DFRdMmnenDc"
+			},
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page384.txt"
+			},
+			"dateCreated" : 1595030400000,
+			"dateModified" : 1595030400000
+		}, {
 			"id" : 2000001,
 			"name" : "אדון שוקו",
 			"singer" : "אריק איינשטיין",
@@ -5434,23 +5474,15 @@
 			"id" : 2000165,
 			"name" : "היא יודעת",
 			"singer" : "נינט טייב",
+			"playback": {
+				"youTubeVideoId" : "ea7ZWzdBswc"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage165.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage165.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
-		}, {
-			"id" : 2010165,
-			"name" : "היא יודעת (Cm)",
-			"singer" : "נינט טייב",
-			"isPrivate" : true,
-			"categoryIds" : ["1"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage165_cm.jpg"
-			},
-			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1595030400000
 		}, {
 			"id" : 2000167,
 			"name" : "עוף גוזל",
@@ -5460,7 +5492,7 @@
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage167.jpg"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1595030400000
 		}, {
 			"id" : 2000169,
 			"name" : "מתוק התפוח",
@@ -8447,12 +8479,15 @@
 			"id" : 3000020,
 			"name" : "Sister Golden Hair",
 			"singer" : "America",
+			"playback": {
+				"youTubeVideoId" : "XIycEe59Auc"
+			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page20.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page20.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1595030400000
 		}, {
 			"id" : 3000021,
 			"name" : "Comfortably Numb",
@@ -8683,10 +8718,10 @@
 			"singer" : "Steppenwolf",
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page48.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page48.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1595030400000
 		}, {
 			"id" : 3000049,
 			"name" : "Under The Bridge",
@@ -10003,10 +10038,11 @@
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page174.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page174.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1586563200000,
-			"dateModified" : 1586563200000
+			"dateModified" : 1595030400000
 		}, {
 			"id" : 3000175,
 			"name" : "Turn Of A Friendly Card",
@@ -10072,6 +10108,45 @@
 			},
 			"dateCreated" : 1594512000000,
 			"dateModified" : 1594512000000
+		}, {
+			"id" : 3000180,
+			"name" : "Rolling In The Deep",
+			"singer" : "Adele",
+			"playback": {
+				"youTubeVideoId" : "rYEDA3JcQqw"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page180.txt"
+			},
+			"dateCreated" : 1595030400000,
+			"dateModified" : 1595030400000
+		}, {
+			"id" : 3000181,
+			"name" : "Fast Car",
+			"singer" : "Tracy Chapman",
+			"playback": {
+				"youTubeVideoId" : "AIOAlaACuv4"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page181.txt"
+			},
+			"dateCreated" : 1595030400000,
+			"dateModified" : 1595030400000
+		}, {
+			"id" : 3000182,
+			"name" : "Thats The Way It Is",
+			"singer" : "Bruce Hornsby",
+			"playback": {
+				"youTubeVideoId" : "gthpodDZJeQ"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page182.txt"
+			},
+			"dateCreated" : 1595030400000,
+			"dateModified" : 1595030400000
 		}, {
 			"id" : 4000060,
 			"name" : "Lorelei",
