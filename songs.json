@@ -1,5 +1,5 @@
 {
-	"version" : "2020_07_18",
+	"version" : "2020_07_28",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -38,12 +38,15 @@
 			"id" : 1000002,
 			"name" : "חלומות שמורים",
 			"singer" : "מתי כספי",
+			"playback": {
+				"youTubeVideoId" : "dJEGbSRZVsw"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page2.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page2.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1595894400000
 		}, {
 			"id" : 1000003,
 			"name" : "משחק של דמעות",
@@ -421,12 +424,15 @@
 			"id" : 1000040,
 			"name" : "הכוכבים דולקים על אש קטנה",
 			"singer" : "משינה",
+			"playback": {
+				"youTubeVideoId" : "FilQhY2Pjq0"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page40.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page40.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1595894400000
 		}, {
 			"id" : 1000041,
 			"name" : "רוני",
@@ -1699,12 +1705,15 @@
 			"id" : 1000163,
 			"name" : "אלף כבאים",
 			"singer" : "דודה",
+			"playback": {
+				"youTubeVideoId" : "2dgOhxgFios"
+			},
 			"categoryIds" : ["1","4","5","6"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page163.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page163.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1557360000000
+			"dateModified" : 1595894400000
 		}, {
 			"id" : 1000164,
 			"name" : "השמלה ממדריד",
@@ -4015,11 +4024,12 @@
 			"playback": {
 				"youTubeVideoId" : "woQRU6SXj9A"
 			},
+			"categoryIds" : ["1"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page383.txt"
 			},
 			"dateCreated" : 1595030400000,
-			"dateModified" : 1595030400000
+			"dateModified" : 1595894400000
 		}, {
 			"id" : 1000384,
 			"name" : "אבשלום",
@@ -4027,11 +4037,50 @@
 			"playback": {
 				"youTubeVideoId" : "DFRdMmnenDc"
 			},
+			"categoryIds" : ["1"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page384.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page384.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1595030400000,
-			"dateModified" : 1595030400000
+			"dateModified" : 1595894400000
+		}, {
+			"id" : 1000385,
+			"name" : "מילה טובה",
+			"singer" : "יהודית רביץ",
+			"playback": {
+				"youTubeVideoId" : "Zn4Rzga1o"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page385.txt"
+			},
+			"dateCreated" : 1595894400000,
+			"dateModified" : 1595894400000
+		}, {
+			"id" : 1000386,
+			"name" : "שאלתי מה קרה",
+			"singer" : "שלמה ארצי",
+			"playback": {
+				"youTubeVideoId" : "jUXWyKaU3G4"
+			},
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page386.txt"
+			},
+			"dateCreated" : 1595894400000,
+			"dateModified" : 1595894400000
+		}, {
+			"id" : 1000387,
+			"name" : "שתי אצבעות מצידון",
+			"singer" : "בועז עופרי",
+			"playback": {
+				"youTubeVideoId" : "NgXmpmrt5I0"
+			},
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page387.txt"
+			},
+			"dateCreated" : 1595894400000,
+			"dateModified" : 1595894400000
 		}, {
 			"id" : 2000001,
 			"name" : "אדון שוקו",
@@ -8312,12 +8361,15 @@
 			"id" : 3000003,
 			"name" : "Time Of Your Life",
 			"singer" : "Green Day",
+			"playback": {
+				"youTubeVideoId" : "CnQ8N1KacJc"
+			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page3.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page3.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1595894400000
 		}, {
 			"id" : 3000004,
 			"name" : "Jealous Guy",
@@ -9038,10 +9090,11 @@
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page98.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page98.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1595894400000
 		}, {
 			"id" : 3000099,
 			"name" : "California Dreamin'",
@@ -10147,6 +10200,42 @@
 			},
 			"dateCreated" : 1595030400000,
 			"dateModified" : 1595030400000
+		}, {
+			"id" : 3000183,
+			"name" : "Smoke On The Water",
+			"singer" : "Deep Purple",
+			"playback": {
+				"youTubeVideoId" : "zUwEIt9ez7M"
+			},
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page183.txt"
+			},
+			"dateCreated" : 1595894400000,
+			"dateModified" : 1595894400000
+		}, {
+			"id" : 3000184,
+			"name" : "Moonlight shaddow",
+			"singer" : "Mike oldfield",
+			"playback": {
+				"youTubeVideoId" : "e80qhyovOnA"
+			},
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page184.txt"
+			},
+			"dateCreated" : 1595894400000,
+			"dateModified" : 1595894400000
+		}, {
+			"id" : 3000185,
+			"name" : "Cant Stop The Feeling",
+			"singer" : "Justin Timberlake",
+			"playback": {
+				"youTubeVideoId" : "ru0K8uYEZWw"
+			},
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page185.txt"
+			},
+			"dateCreated" : 1595894400000,
+			"dateModified" : 1595894400000
 		}, {
 			"id" : 4000060,
 			"name" : "Lorelei",
