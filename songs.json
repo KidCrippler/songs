@@ -1,5 +1,5 @@
 {
-	"version" : "2020_07_28",
+	"version" : "2020_08_02",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -53,10 +53,10 @@
 			"singer" : "נקמת הטרקטור",
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page3.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page3.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1596326400000
 		}, {
 			"id" : 1000004,
 			"name" : "בלילות של ירח מלא",
@@ -4000,10 +4000,11 @@
 			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page381.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page381.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1594512000000,
-			"dateModified" : 1594512000000
+			"dateModified" : 1596326400000
 		}, {
 			"id" : 1000382,
 			"name" : "כשהלב  בוכה",
@@ -4064,11 +4065,12 @@
 			"playback": {
 				"youTubeVideoId" : "jUXWyKaU3G4"
 			},
+			"categoryIds" : ["1"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page386.txt"
 			},
 			"dateCreated" : 1595894400000,
-			"dateModified" : 1595894400000
+			"dateModified" : 1596326400000
 		}, {
 			"id" : 1000387,
 			"name" : "שתי אצבעות מצידון",
@@ -4076,11 +4078,51 @@
 			"playback": {
 				"youTubeVideoId" : "NgXmpmrt5I0"
 			},
+			"categoryIds" : ["1"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page387.txt"
 			},
 			"dateCreated" : 1595894400000,
 			"dateModified" : 1595894400000
+		}, {
+			"id" : 1000388,
+			"name" : "הצריף הקטן",
+			"singer" : "עופרה חזה",
+			"playback": {
+				"youTubeVideoId" : "ONpD51u70Ag"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page388.txt"
+			},
+			"dateCreated" : 1596326400000,
+			"dateModified" : 1596326400000
+		}, {
+			"id" : 1000389,
+			"name" : "כתונת פסים",
+			"singer" : "אומני ישראל",
+			"playback": {
+				"youTubeVideoId" : "SO8gyhp1WyQ"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page389.txt"
+			},
+			"dateCreated" : 1596326400000,
+			"dateModified" : 1596326400000
+		}, {
+			"id" : 1000390,
+			"name" : "דמעות של מלאכים",
+			"singer" : "אריק איינשטיין",
+			"playback": {
+				"youTubeVideoId" : "t-L-GTRyJtI"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page390.txt"
+			},
+			"dateCreated" : 1596326400000,
+			"dateModified" : 1596326400000
 		}, {
 			"id" : 2000001,
 			"name" : "אדון שוקו",
@@ -8376,10 +8418,10 @@
 			"singer" : "John Lennon",
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page4.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page4.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1596326400000
 		}, {
 			"id" : 3000006,
 			"name" : "Space Oddity",
@@ -10207,11 +10249,12 @@
 			"playback": {
 				"youTubeVideoId" : "zUwEIt9ez7M"
 			},
+			"categoryIds" : ["2"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page183.txt"
 			},
 			"dateCreated" : 1595894400000,
-			"dateModified" : 1595894400000
+			"dateModified" : 1596326400000
 		}, {
 			"id" : 3000184,
 			"name" : "Moonlight shaddow",
@@ -10219,6 +10262,7 @@
 			"playback": {
 				"youTubeVideoId" : "e80qhyovOnA"
 			},
+			"categoryIds" : ["2"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page184.txt"
 			},
@@ -10231,11 +10275,51 @@
 			"playback": {
 				"youTubeVideoId" : "ru0K8uYEZWw"
 			},
+			"categoryIds" : ["2"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page185.txt"
 			},
 			"dateCreated" : 1595894400000,
 			"dateModified" : 1595894400000
+		}, {
+			"id" : 3000186,
+			"name" : "Message In A Bottle",
+			"singer" : "The Police",
+			"playback": {
+				"youTubeVideoId" : "MbXWrmQW-OE"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page186.txt"
+			},
+			"dateCreated" : 1596326400000,
+			"dateModified" : 1596326400000
+		}, {
+			"id" : 3000187,
+			"name" : "Basket Case",
+			"singer" : "Green Day",
+			"playback": {
+				"youTubeVideoId" : "NUTGr5t3MoY"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page187.txt"
+			},
+			"dateCreated" : 1596326400000,
+			"dateModified" : 1596326400000
+		}, {
+			"id" : 3000188,
+			"name" : "Im Down",
+			"singer" : "The Beatles",
+			"playback": {
+				"youTubeVideoId" : "lOWrScjXMRE"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page188.txt"
+			},
+			"dateCreated" : 1596326400000,
+			"dateModified" : 1596326400000
 		}, {
 			"id" : 4000060,
 			"name" : "Lorelei",
