@@ -1,5 +1,5 @@
 {
-	"version" : "2020_08_02",
+	"version" : "2020_08_07",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -63,10 +63,10 @@
 			"singer" : "ערן צור",
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page4.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page4.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1596758400000
 		}, {
 			"id" : 1000005,
 			"name" : "יעלה ויבוא",
@@ -4123,6 +4123,58 @@
 			},
 			"dateCreated" : 1596326400000,
 			"dateModified" : 1596326400000
+		}, {
+			"id" : 1000391,
+			"name" : "לשיר איתך",
+			"singer" : "בועז שרעבי ושושנה דמארי",
+			"playback": {
+				"youTubeVideoId" : "6kLEk3_Swhc"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page391.txt"
+			},
+			"dateCreated" : 1596758400000,
+			"dateModified" : 1596758400000
+		}, {
+			"id" : 1000392,
+			"name" : "אין שלווה",
+			"singer" : "מתי כספי ",
+			"playback": {
+				"youTubeVideoId" : "gDfP6xB3LHw"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page392.txt"
+			},
+			"dateCreated" : 1596758400000,
+			"dateModified" : 1596758400000
+		}, {
+			"id" : 1000393,
+			"name" : "כלום לא עצוב ",
+			"singer" : "אביתר בנאי ",
+			"playback": {
+				"youTubeVideoId" : "yt5LV29Q_X4"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page393.txt"
+			},
+			"dateCreated" : 1596758400000,
+			"dateModified" : 1596758400000
+		}, {
+			"id" : 1000394,
+			"name" : "פנים אל מול פנים",
+			"singer" : "גידי גוב ואתי אנקרי ",
+			"playback": {
+				"youTubeVideoId" : "jpzNE0Z74V8"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page394.txt"
+			},
+			"dateCreated" : 1596758400000,
+			"dateModified" : 1596758400000
 		}, {
 			"id" : 2000001,
 			"name" : "אדון שוקו",
@@ -8423,6 +8475,19 @@
 			"dateCreated" : 1519516800000,
 			"dateModified" : 1596326400000
 		}, {
+			"id" : 3000005,
+			"name" : "Everybody hurts",
+			"singer" : "REM",
+			"playback": {
+				"youTubeVideoId" : "5rOiW_xY-kc"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page5.txt"
+			},
+			"dateCreated" : 1596758400000,
+			"dateModified" : 1596758400000
+		}, {
 			"id" : 3000006,
 			"name" : "Space Oddity",
 			"singer" : "David Bowie",
@@ -10319,7 +10384,46 @@
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page188.txt"
 			},
 			"dateCreated" : 1596326400000,
-			"dateModified" : 1596326400000
+			"dateModified" : 1596758400000
+		}, {
+			"id" : 3000189,
+			"name" : "Don't Let The Sun Go Down On Me",
+			"singer" : "Elton John",
+			"playback": {
+				"youTubeVideoId" : "TxipVM_0CBA"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page189.txt"
+			},
+			"dateCreated" : 1596758400000,
+			"dateModified" : 1596758400000
+		}, {
+			"id" : 3000190,
+			"name" : "It Must Be Love",
+			"singer" : "Madness",
+			"playback": {
+				"youTubeVideoId" : "vmezIIrFQmY"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page190.txt"
+			},
+			"dateCreated" : 1596758400000,
+			"dateModified" : 1596758400000
+		}, {
+			"id" : 3000191,
+			"name" : "Save Tonight",
+			"singer" : "Eagle-Eye Cherry",
+			"playback": {
+				"youTubeVideoId" : "Nntd2fgMUYw"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page191.txt"
+			},
+			"dateCreated" : 1596758400000,
+			"dateModified" : 1596758400000
 		}, {
 			"id" : 4000060,
 			"name" : "Lorelei",
