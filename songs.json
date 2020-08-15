@@ -1,5 +1,5 @@
 {
-	"version" : "2020_08_07",
+	"version" : "2020_08_16",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -51,32 +51,41 @@
 			"id" : 1000003,
 			"name" : "משחק של דמעות",
 			"singer" : "נקמת הטרקטור",
+			"playback": {
+				"youTubeVideoId" : "6w0y034ZMvo"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page3.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1596326400000
+			"dateModified" : 1597536000000
 		}, {
 			"id" : 1000004,
 			"name" : "בלילות של ירח מלא",
 			"singer" : "ערן צור",
+			"playback": {
+				"youTubeVideoId" : "h6uWjFLMdVE"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page4.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1596758400000
+			"dateModified" : 1597536000000
 		}, {
 			"id" : 1000005,
 			"name" : "יעלה ויבוא",
 			"singer" : "גידי גוב",
+			"playback": {
+				"youTubeVideoId" : "RFMu8LruXn0"
+			},
 			"categoryIds" : ["1","6"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page5.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page5.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1557187200000
+			"dateModified" : 1597536000000
 		}, {
 			"id" : 1000006,
 			"name" : "ניצוצות",
@@ -4158,10 +4167,11 @@
 			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page393.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page393.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1596758400000,
-			"dateModified" : 1596758400000
+			"dateModified" : 1597536000000
 		}, {
 			"id" : 1000394,
 			"name" : "פנים אל מול פנים",
@@ -4175,6 +4185,45 @@
 			},
 			"dateCreated" : 1596758400000,
 			"dateModified" : 1596758400000
+		}, {
+			"id" : 1000395,
+			"name" : "הוא והיא",
+			"singer" : "ערן צור",
+			"playback": {
+				"youTubeVideoId" : "IWY7L2Pq6-I"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page395.txt"
+			},
+			"dateCreated" : 1597536000000,
+			"dateModified" : 1597536000000
+		}, {
+			"id" : 1000396,
+			"name" : "ערב ב' כסלו",
+			"singer" : "כרמלה גרוס ואגנר",
+			"playback": {
+				"youTubeVideoId" : "P6gjPI6lGfo"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page396.txt"
+			},
+			"dateCreated" : 1597536000000,
+			"dateModified" : 1597536000000
+		}, {
+			"id" : 1000397,
+			"name" : "לוקח ת'זמן",
+			"singer" : "יצחק קלפטר ",
+			"playback": {
+				"youTubeVideoId" : "imR2Te9kvCo"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page397.txt"
+			},
+			"dateCreated" : 1597536000000,
+			"dateModified" : 1597536000000
 		}, {
 			"id" : 2000001,
 			"name" : "אדון שוקו",
@@ -8434,23 +8483,29 @@
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
 			"singer" : "Beatles",
+			"playback": {
+				"youTubeVideoId" : "V8nLraecPRY"
+			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page1.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1558915200000
+			"dateModified" : 1597536000000
 		}, {
 			"id" : 3000002,
 			"name" : "Help",
 			"singer" : "The Beatles",
+			"playback": {
+				"youTubeVideoId" : "2Q_ZzBGPdqE"
+			},
 			"categoryIds" : ["2","5"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page2.txt",
 				"markupVersion" : "1"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1559260800000
+			"dateModified" : 1597536000000
 		}, {
 			"id" : 3000003,
 			"name" : "Time Of Your Life",
@@ -8468,12 +8523,15 @@
 			"id" : 3000004,
 			"name" : "Jealous Guy",
 			"singer" : "John Lennon",
+			"playback": {
+				"youTubeVideoId" : "wADRRYNHhOA"
+			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page4.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1596326400000
+			"dateModified" : 1597536000000
 		}, {
 			"id" : 3000005,
 			"name" : "Everybody hurts",
@@ -8491,12 +8549,15 @@
 			"id" : 3000006,
 			"name" : "Space Oddity",
 			"singer" : "David Bowie",
+			"playback": {
+				"youTubeVideoId" : "iYYRH4apXDo"
+			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page6.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page6.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1597536000000
 		}, {
 			"id" : 3000007,
 			"name" : "Nights in White Satin",
@@ -10374,17 +10435,18 @@
 			"dateModified" : 1596326400000
 		}, {
 			"id" : 3000188,
-			"name" : "Im Down",
+			"name" : "I'm Down",
 			"singer" : "The Beatles",
 			"playback": {
 				"youTubeVideoId" : "lOWrScjXMRE"
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page188.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page188.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1596326400000,
-			"dateModified" : 1596758400000
+			"dateModified" : 1597536000000
 		}, {
 			"id" : 3000189,
 			"name" : "Don't Let The Sun Go Down On Me",
@@ -10424,6 +10486,45 @@
 			},
 			"dateCreated" : 1596758400000,
 			"dateModified" : 1596758400000
+		}, {
+			"id" : 3000192,
+			"name" : "True Colors",
+			"singer" : "Cyndi Lauper",
+			"playback": {
+				"youTubeVideoId" : "LPn0KFlbqX8"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page192.txt"
+			},
+			"dateCreated" : 1597536000000,
+			"dateModified" : 1597536000000
+		}, {
+			"id" : 3000193,
+			"name" : "I Love Rock N Roll",
+			"singer" : "Joan Jett",
+			"playback": {
+				"youTubeVideoId" : "iC8oP4Z_xPw"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page193.txt"
+			},
+			"dateCreated" : 1597536000000,
+			"dateModified" : 1597536000000
+		}, {
+			"id" : 3000194,
+			"name" : "Ready To Go",
+			"singer" : "Republica",
+			"playback": {
+				"youTubeVideoId" : "JgffRW1fKDk"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page194.txt"
+			},
+			"dateCreated" : 1597536000000,
+			"dateModified" : 1597536000000
 		}, {
 			"id" : 4000060,
 			"name" : "Lorelei",
