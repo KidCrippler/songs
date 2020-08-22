@@ -1,5 +1,5 @@
 {
-	"version" : "2020_08_16",
+	"version" : "2020_08_22",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -90,12 +90,15 @@
 			"id" : 1000006,
 			"name" : "ניצוצות",
 			"singer" : "פורטיסחרוב",
+			"playback": {
+				"youTubeVideoId" : "2BD7pi77S8w"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page6.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page6.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1598054400000
 		}, {
 			"id" : 1000007,
 			"name" : "יש לי חדר משלי",
@@ -4224,6 +4227,45 @@
 			},
 			"dateCreated" : 1597536000000,
 			"dateModified" : 1597536000000
+		}, {
+			"id" : 1000398,
+			"name" : "למיה יש אקדח",
+			"singer" : "כנסיית השכל",
+			"playback": {
+				"youTubeVideoId" : "LU0P5127xyk"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page398.txt"
+			},
+			"dateCreated" : 1598054400000,
+			"dateModified" : 1598054400000
+		}, {
+			"id" : 1000399,
+			"name" : "לעיתים",
+			"singer" : "רעש",
+			"playback": {
+				"youTubeVideoId" : "TO8hj4b6zOk"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page399.txt"
+			},
+			"dateCreated" : 1598054400000,
+			"dateModified" : 1598054400000
+		}, {
+			"id" : 1000400,
+			"name" : "למה לי לקחת ללב",
+			"singer" : "אריק איינשטיין ושלום חנוך",
+			"playback": {
+				"youTubeVideoId" : "PIkk1eGFplc"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page400.txt"
+			},
+			"dateCreated" : 1598054400000,
+			"dateModified" : 1598054400000
 		}, {
 			"id" : 2000001,
 			"name" : "אדון שוקו",
@@ -8562,12 +8604,15 @@
 			"id" : 3000007,
 			"name" : "Nights in White Satin",
 			"singer" : "Moody Blues",
+			"playback": {
+				"youTubeVideoId" : "iVusUjyby18"
+			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page7.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page7.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1598054400000
 		}, {
 			"id" : 3000008,
 			"name" : "One",
@@ -10525,6 +10570,45 @@
 			},
 			"dateCreated" : 1597536000000,
 			"dateModified" : 1597536000000
+		}, {
+			"id" : 3000195,
+			"name" : "Black velvet",
+			"singer" : "Alannah Myles",
+			"playback": {
+				"youTubeVideoId" : "tT4d1LQy4es"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page195.txt"
+			},
+			"dateCreated" : 1598054400000,
+			"dateModified" : 1598054400000
+		}, {
+			"id" : 3000196,
+			"name" : "Don't You Forget About Me",
+			"singer" : "Simple Minds",
+			"playback": {
+				"youTubeVideoId" : "CdqoNKCCt7A"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page196.txt"
+			},
+			"dateCreated" : 1598054400000,
+			"dateModified" : 1598054400000
+		}, {
+			"id" : 3000197,
+			"name" : "Mrs Robinson",
+			"singer" : "Simon and Garfunkel",
+			"playback": {
+				"youTubeVideoId" : "9C1BCAgu2I8"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page197.txt"
+			},
+			"dateCreated" : 1598054400000,
+			"dateModified" : 1598054400000
 		}, {
 			"id" : 4000060,
 			"name" : "Lorelei",
