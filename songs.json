@@ -1,5 +1,5 @@
 {
-	"version" : "2020_08_22",
+	"version" : "2020_08_28",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -103,12 +103,15 @@
 			"id" : 1000007,
 			"name" : "יש לי חדר משלי",
 			"singer" : "ארכדי דוכין",
+			"playback": {
+				"youTubeVideoId" : "_ouCTRQTCeU"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page7.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page7.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1598572800000
 		}, {
 			"id" : 1000008,
 			"name" : "עד הקצה",
@@ -4266,6 +4269,71 @@
 			},
 			"dateCreated" : 1598054400000,
 			"dateModified" : 1598054400000
+		}, {
+			"id" : 1000401,
+			"name" : "מה ידוע על היום הזה",
+			"singer" : "מאור כהן",
+			"playback": {
+				"youTubeVideoId" : "i7x1O7oQ7jw"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page401.txt"
+			},
+			"dateCreated" : 1598572800000,
+			"dateModified" : 1598572800000
+		}, {
+			"id" : 1000402,
+			"name" : "היום",
+			"singer" : "שלום חנוך",
+			"playback": {
+				"youTubeVideoId" : "1tRXnRAglSM"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page402.txt"
+			},
+			"dateCreated" : 1598572800000,
+			"dateModified" : 1598572800000
+		}, {
+			"id" : 1000403,
+			"name" : "מי יודע מדוע ולמה לובשת הזברה פיג'מה",
+			"singer" : "משינה",
+			"playback": {
+				"youTubeVideoId" : "MfrulcG3S1U"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page403.txt"
+			},
+			"dateCreated" : 1598572800000,
+			"dateModified" : 1598572800000
+		}, {
+			"id" : 1000404,
+			"name" : "ציור",
+			"singer" : "מתי כספי ושלמה גרוניך",
+			"playback": {
+				"youTubeVideoId" : "ucmwor8Po70"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page404.txt"
+			},
+			"dateCreated" : 1598572800000,
+			"dateModified" : 1598572800000
+		}, {
+			"id" : 1000405,
+			"name" : "אחרי עשרים שנה",
+			"singer" : "שמוליק קראוס",
+			"playback": {
+				"youTubeVideoId" : "DsRlxvLMt8s"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page405.txt"
+			},
+			"dateCreated" : 1598572800000,
+			"dateModified" : 1598572800000
 		}, {
 			"id" : 2000001,
 			"name" : "אדון שוקו",
@@ -8627,12 +8695,15 @@
 			"id" : 3000009,
 			"name" : "Angie",
 			"singer" : "Rolling Stones",
+			"playback": {
+				"youTubeVideoId" : "RcZn2-bGXqQ"
+			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page9.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page9.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1598572800000
 		}, {
 			"id" : 3000010,
 			"name" : "Everything For Free",
@@ -8650,12 +8721,15 @@
 			"id" : 3000011,
 			"name" : "Happy Together",
 			"singer" : "Turtles",
+			"playback": {
+				"youTubeVideoId" : "9ZEURntrQOg"
+			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page11.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page11.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1598572800000
 		}, {
 			"id" : 3000012,
 			"name" : "Let it Be",
@@ -8673,12 +8747,15 @@
 			"id" : 3000013,
 			"name" : "In The Ghetto",
 			"singer" : "Elvis Presley",
+			"playback": {
+				"youTubeVideoId" : "FJ-r0bilzhU"
+			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page13.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page13.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1598572800000
 		}, {
 			"id" : 3000014,
 			"name" : "Romeo and Juliet",
@@ -10609,6 +10686,46 @@
 			},
 			"dateCreated" : 1598054400000,
 			"dateModified" : 1598054400000
+		}, {
+			"id" : 3000198,
+			"name" : "Streets Of London",
+			"singer" : "Ralph McTell",
+			"playback": {
+				"youTubeVideoId" : "M2r97Fo_HWE"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page198.txt"
+			},
+			"dateCreated" : 1598572800000,
+			"dateModified" : 1598572800000
+		}, {
+			"id" : 3000199,
+			"name" : "Bohemian Rhapsody",
+			"singer" : "Queen",
+			"isPrivate" : 1,
+			"playback": {
+				"youTubeVideoId" : "fJ9rUzIMcZQ"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page199.txt"
+			},
+			"dateCreated" : 1598572800000,
+			"dateModified" : 1598572800000
+		}, {
+			"id" : 3000200,
+			"name" : "The Long And Winding Road",
+			"singer" : "The Beatles",
+			"playback": {
+				"youTubeVideoId" : "fR4HjTH_fTM"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page200.txt"
+			},
+			"dateCreated" : 1598572800000,
+			"dateModified" : 1598572800000
 		}, {
 			"id" : 4000060,
 			"name" : "Lorelei",
