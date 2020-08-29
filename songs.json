@@ -10402,17 +10402,18 @@
 			"dateModified" : 1595030400000
 		}, {
 			"id" : 3000182,
-			"name" : "Thats The Way It Is",
+			"name" : "The Way It Is",
 			"singer" : "Bruce Hornsby",
 			"playback": {
 				"youTubeVideoId" : "gthpodDZJeQ"
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page182.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page182.txt",
+				"markupVersion" : "2"
 			},
 			"dateCreated" : 1595030400000,
-			"dateModified" : 1595030400000
+			"dateModified" : 1598745600000
 		}, {
 			"id" : 3000183,
 			"name" : "Smoke On The Water",

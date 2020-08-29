@@ -1,103 +1,106 @@
-﻿Thats The Way It Is - Bruce Hornsby
- 
-Am  Am  Em     D  D  C      G    D    C
-Am      Em     D     C      G    D    C
+﻿The Way It Is - Bruce Hornsby
 
-[Drums]
-Am  Am  Em     D  D  C      G    D    C
-Am  Am  Em     D  D  C      G    D    C
+{Piano} 
+Am   Em7   D   C   G   D   C9   C9
+Am   Em7   D   C   G   D   C9   C9
+
+{Drums Join}
+C9   C9   C9   C9
+
+{Others join}
+Am   Em7   D   C   G   D   C9   C9
+Am   Em7   D   C   G   D   C9   C9
  
- Am              Em
+ Am              Em7
 Standing in line marking time
-D               C             G
+ D               C             G
 Waiting for the welfare dime
-       D          C
+         D              C9    C9
 'Cause they can't buy a job
-    Am                   Em
+    Am                   Em7
 The man in the silk suit hurries by
-      D                C             G
-As he catches the poor ladies' eyes
-         D           C
-Just for fun he says    get a job
+       D                    C            G
+As he catches the poor old lady's eyes
+          D           C9
+Just for fun he says     get a job
 
-G       Fmaj7   C                    C
-                     That's just the way it is,
-G       Fmaj7   C                       C
-                        Somethings will never change
-G       Fmaj7   C                       C
-                        That's just the way it is
-G       Fmaj7   C               C
-                        Ah, but don't you believe them
+G   Fmaj7   C9                  C9 
+                That's just the way it is
+G   Fmaj7   C9                   C9
+                Some things will never change
+G   Fmaj7   C9                  C9
+                That's just the way it is
+G   Fmaj7   C9          C9             Am      -->
+                Ah, but don't you believe them
 
-Am  Am  Em     D  D  C      G    D    C
-Am  Am  Em     D  D  C      G    D    C
+-->   Am   Em7   D   C   G   D   C9   C9
+      Am   Em7   D   C   G   D   C9   C9
 
-         Am             Em
-They say hey little boy you can't go 
+     Am             Em7
+Said hey little boy you can't go 
           D            C       G
 where the others go
-                 D         C
+                  D         C9       C9
 'Cause you don't look like they do
-     Am          Em
+     Am          Em7
 Said hey old man how can you stand 
-   D             C        G  
+     D             C
 to think that way
-        G            D                   C
+G                            D           C9
 Did you really think about it before you made the rules
-he said, son
 
-G       Fmaj7   C                       C
-                        That's just the way it is
-G       Fmaj7   C                       C
-                        Somethings will never change
-G       Fmaj7   C                       C
-                        That's just the way it is
-G       Fmaj7   C               C
-                        Ah, but don't you believe them
+          G   Fmaj7   C9                    C9 
+He said, son                That's just the way it is
+G   Fmaj7   C9                   C9
+                Some things will never change
+G   Fmaj7   C9                  C9
+                That's just the way it is
+G   Fmaj7   C9          C9             Am      -->
+                Ah, but don't you believe them
 
-Am  Am  Em     D  D  C      G    D    C
+-->   Am   Em7   D   C   G   D   C9   C9
 
-[Piano solo]
-Am      Em     D     C      G    D    C
-Am      Em     D     C      G    D    C
-Am      Em     D     C      G    D    C
-Am      Em     D     C      G    D    C
-Am      Em     D     C      G    D    C
+{Piano solo}
+Am   Em7   D   C   G   D   C9   C9
+Am   Em7   D   C   G   D   C9   C9
+Am   Em7   D   C   G   D   C9   C9
+Am   Em7   D   C   G   D   C9   C9
+Am   Em7   D   C   G   D   C9   C9
 
-G       Fmaj7   C                       C
-                        That's just the way it is,
-G       Fmaj7   C                       C
-                        That's just the way it is,
+G   Fmaj7   C9                   C9
+                (That's just the way it is)
+G   Fmaj7   C9                   C9
+                (That's just the way it is)
 
-          Am              Em
+          Am              Em7
 Well they passed a law in '64 
-   D                    C                 G
+    D                    C                 G
 To give those who ain't got a little more
-       D            C
+       D            C9   C9
 But it only goes so far 
-            Am                Em
-because the law don't change another's mind
-     D                  C        G
-When all it sees at the hiring
-            D           C
-time is the line on the color bar
+           Am               Em7
+'Cause the law don't change another's mind
+     D                   C          G
+When all it sees at the hiring time
+        D          C9
+is the line on the color bar
  
-G       Fmaj7   C                       C
-                        That's just the way it is
-G       Fmaj7   C                       C
-                        Some things will never change
-G       Fmaj7   C                       C
-                        That's just the way it is
-G       Fmaj7   C                       C
-                        Thats just the way it is....
+G   Fmaj7   C9                  C9 
+                That's just the way it is
+G   Fmaj7   C9                   C9
+                Some things will never change
+G   Fmaj7   C9                  C9
+                That's just the way it is
+G   Fmaj7        C9
+          That's just the way it is, it is....
 
-[Piano solo]
-Am      Em     D     C      G    D    C
-Am      Em     D     C      G    D    C
-Am      Em     D     C      G    D    C
-Am  Am  Em     D  D  C      G    D    C
+{Piano solo}
+Am   Em7   D   C   G   D   C9   C9
+Am   Em7   D   C   G   D   C9   C9
+Am   Em7   D   C   G   D   C9   C9
 
-G       Fmaj7       C        C
-G       Fmaj7       C        C
-G       Fmaj7       C        C
-G       Fmaj7       C        C                        
+Am   Em7   D   C   G   D   C9   C9
+G   Fmaj7   C9   C9
+G   Fmaj7   C9   C9
+
+{Fade Out}
