@@ -1,5 +1,5 @@
 {
-	"version" : "2020_09_03",
+	"version" : "2020_09_08",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -142,12 +142,15 @@
 			"id" : 1000010,
 			"name" : "פרפרים לבנים",
 			"singer" : "אורי בנאי",
+			"playback": {
+				"youTubeVideoId" : "hSfvAKQUOzM"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page10.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page10.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1599523200000
 		}, {
 			"id" : 1000011,
 			"name" : "היא כל כך יפה",
@@ -4028,7 +4031,7 @@
 			"dateModified" : 1596326400000
 		}, {
 			"id" : 1000382,
-			"name" : "כשהלב  בוכה",
+			"name" : "כשהלב בוכה",
 			"singer" : "שרית חדד",
 			"playback": {
 				"youTubeVideoId" : "v=bBCIefOfUKY"
@@ -4038,7 +4041,7 @@
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page382.txt"
 			},
 			"dateCreated" : 1595030400000,
-			"dateModified" : 1595030400000
+			"dateModified" : 1599523200000
 		}, {
 			"id" : 1000383,
 			"name" : "בואי כלה",
@@ -4075,10 +4078,11 @@
 			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page385.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page385.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1595894400000,
-			"dateModified" : 1595894400000
+			"dateModified" : 1599523200000
 		}, {
 			"id" : 1000386,
 			"name" : "שאלתי מה קרה",
@@ -4379,6 +4383,45 @@
 			},
 			"dateCreated" : 1599091200000,
 			"dateModified" : 1599091200000
+		}, {
+			"id" : 1000409,
+			"name" : "אליעזר בן יהודה",
+			"singer" : "מתי כספי",
+			"playback": {
+				"youTubeVideoId" : "Jt2gLGvLKW0"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page409.txt"
+			},
+			"dateCreated" : 1599523200000,
+			"dateModified" : 1599523200000
+		}, {
+			"id" : 1000410,
+			"name" : "מליון פעם",
+			"singer" : "מלכת הפלקט ",
+			"playback": {
+				"youTubeVideoId" : "noBDGbi8xhY"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page410.txt"
+			},
+			"dateCreated" : 1599523200000,
+			"dateModified" : 1599523200000
+		}, {
+			"id" : 1000411,
+			"name" : "אחלה בחלה",
+			"singer" : "הדורבנים",
+			"playback": {
+				"youTubeVideoId" : "HcXnHkxR4eY"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page411.txt"
+			},
+			"dateCreated" : 1599523200000,
+			"dateModified" : 1599523200000
 		}, {
 			"id" : 2000001,
 			"name" : "אדון שוקו",
@@ -8927,22 +8970,28 @@
 			"id" : 3000023,
 			"name" : "Across the Universe",
 			"singer" : "The Beatles",
+			"playback": {
+				"youTubeVideoId" : "90M60PzmxEE"
+			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page23.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page23.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1599523200000
 		}, {
 			"id" : 3000024,
 			"name" : "Eternal Flame",
 			"singer" : "Bangles",
+			"playback": {
+				"youTubeVideoId" : "PSoOFn3wQV4"
+			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page24.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page24.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1599523200000
 		}, {
 			"id" : 3000025,
 			"name" : "Wuthering Heights",
@@ -10838,6 +10887,58 @@
 			},
 			"dateCreated" : 1599091200000,
 			"dateModified" : 1599091200000
+		}, {
+			"id" : 3000204,
+			"name" : "Wannabe",
+			"singer" : "Spice Girls",
+			"playback": {
+				"youTubeVideoId" : "gJLIiF15wjQ"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page204.txt"
+			},
+			"dateCreated" : 1599523200000,
+			"dateModified" : 1599523200000
+		}, {
+			"id" : 3000205,
+			"name" : "Shape Of My Heart",
+			"singer" : "Sting",
+			"playback": {
+				"youTubeVideoId" : "QK-Z1K67uaA"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page205.txt"
+			},
+			"dateCreated" : 1599523200000,
+			"dateModified" : 1599523200000
+		}, {
+			"id" : 3000206,
+			"name" : "Clocks",
+			"singer" : "Coldplay",
+			"playback": {
+				"youTubeVideoId" : "XbI1FpLd4Vk"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page206.txt"
+			},
+			"dateCreated" : 1599523200000,
+			"dateModified" : 1599523200000
+		}, {
+			"id" : 3000207,
+			"name" : "A Hard Days Night",
+			"singer" : "The Beatles",
+			"playback": {
+				"youTubeVideoId" : "zx2TFk0vh1I"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page207.txt"
+			},
+			"dateCreated" : 1599523200000,
+			"dateModified" : 1599523200000
 		}, {
 			"id" : 4000060,
 			"name" : "Lorelei",
