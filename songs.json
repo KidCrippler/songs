@@ -9071,16 +9071,6 @@
 			"dateCreated" : 1519516800000,
 			"dateModified" : 1519516800000
 		}, {
-			"id" : 3000034,
-			"name" : "Moonlight Shadow",
-			"singer" : "Mike oldfield",
-			"categoryIds" : ["2"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page34.jpg"
-			},
-			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
-		}, {
 			"id" : 3000039,
 			"name" : "Something",
 			"singer" : "The Beatles",
@@ -9089,7 +9079,7 @@
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page39.jpg"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1599523200000
 		}, {
 			"id" : 3000040,
 			"name" : "I Want to Hold Your Hand",
