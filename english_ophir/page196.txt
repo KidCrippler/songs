@@ -1,24 +1,36 @@
 ﻿Don't You Forget About Me - Simple Minds
 
-D  E                    D  Em       C     D        D     E
-     Heh heh heh heh              Oooooooooooooooooooooooooh
- 
+D  E                    
+     Heh heh heh heh
+D  Em       C     D        D     E
+         Oooooooooooooooooooooooooh
+
 D   Em        C     D
- 
-E                D             A             D
-  Won't you come see about me? I'll be alone dancing, you know it, baby.
-E               D                   A                    D
-  Tell me your troubles and doubts, giving me everything inside and out, and
-E                    D                 A                          D
-  Love's strange, so real in the dark, think of the tender things that we were working on
-E                 D              A                   D
-  Slow change may pull us apart, when the light gets into your heart, baby
- 
-E             D                A      D
-  Don't you...    forget about me,    don't, don't, don't, don't.
+
+E                D
+  Won't you come see about me? 
+A             D
+I'll be alone dancing, you know it, baby.
+E               D
+  Tell me your troubles and doubts
+A                    D
+giving me everything inside and out, and
+E                    D
+  Love's strange, so real in the dark
+A                          D
+think of the tender things that we were working on
+E                 D
+  Slow change may pull us apart
+A                   D
+when the light gets into your heart, baby
+
+E             D                A
+  Don't you...    forget about me
+D
+don't, don't, don't, don't
 E             D                A       A
-  Don't you...    forget about me.
- 
+  Don't you...    forget about me
+
 C                        G
 Will you stand above me, look my way, never love me?
 D                                      A
@@ -27,26 +39,38 @@ C                      G
 Will you recognize me, call my name   or walk on by?
 D                                      A
 Rain keeps falling, rain keeps falling down, down, down, down
- 
-D  E                 D  Em       C     D        D     E
-     He he he he              Oooooooooooooooooooooooooh
- 
+
+D  E                    
+     Heh heh heh heh
+D  Em       C     D        D     E
+         Oooooooooooooooooooooooooh
+
 D   Em        C     D
- 
-E            D              A                     D
-  Don't you try to pretend, it's my feeling we'll win in the end. I won't
-E             D                    A            D
-  harm you or touch your defences; vanity and security.  ah
-E              D             A             D
-  Don't you forget about me, I'll be alone dancing, you know it, baby.
-E          D                 A                  D
-  Going to take you apart,   I'll put us back together at heart, baby.
- 
-E             D                A      D
-  Don't you...    forget about me,    don't, don't, don't, don't.
+
+E            D
+  Don't you try to pretend
+A                     D
+it's my feeling we'll win in the end. I won't
+E             D
+  harm you or touch your defences
+A            D
+vanity and security.  ah
+E              D
+  Don't you forget about me
+A             D
+I'll be alone dancing, you know it, baby
+E          D
+  Going to take you apart
+A                  D
+I'll put us back together at heart, baby
+
+E             D                A
+  Don't you...    forget about me
+D
+don't, don't, don't, don't
 E             D                A       D
-  Don't you...    forget about me.
- 
+  Don't you...    forget about me
+
                E       D                   A        D
 As you walk on by...      will you call my name?
                E       D                   A        D
@@ -59,12 +83,19 @@ Or will you walk away?
 Will you walk on by?         Come on, call my name.
 E                  D     A     D
   Will you call my name?
- 
-       E           D               A               D
-I say, la la la la la...  la la la la...  la la la la la la la la la...
-E           D               A               D
-la la la la la...  la la la la...  la la la la la la la la la...
-E           D               A               D
-la la la la la...  la la la la...  la la la la la la la la la
+
+       E           D
+I say, la la la la la...  
+         A               D
+la la la la...  la la la la la la la la la...
+E           D               A
+la la la la la...  la la la la...  
+         D
+la la la la la la la la la...
+E           D               A
+la la la la la...  la la la la...
+         D
+la la la la la la la la la...
+
 E                 D    E    D
  When you walk on by

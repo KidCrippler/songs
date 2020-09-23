@@ -1,5 +1,5 @@
 {
-	"version" : "2020_09_16",
+	"version" : "2020_09_24",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -168,22 +168,28 @@
 			"id" : 1000013,
 			"name" : "כשזה עמוק",
 			"singer" : "קורין אלאל",
+			"playback": {
+				"youTubeVideoId" : "AJFZzLtswME"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page13.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page13.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1600905600000
 		}, {
 			"id" : 1000014,
 			"name" : "מדינה קטנה",
 			"singer" : "כוורת",
+			"playback": {
+				"youTubeVideoId" : "TElqr2PWU3o"
+			},
 			"categoryIds" : ["1","6"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page14.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page14.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1557187200000
+			"dateModified" : 1600905600000
 		}, {
 			"id" : 1000015,
 			"name" : "אצלי הכל בסדר",
@@ -3423,7 +3429,7 @@
 		}, {
 			"id" : 1000336,
 			"name" : "עכשיו אני",
-			"singer" : "החברים של נטשה",
+			"singer" : "החברים של נטאשה",
 			"playback": {
 				"youTubeVideoId" : "2zfu7njbiM4"
 			},
@@ -3432,7 +3438,7 @@
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page336.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1600905600000
 		}, {
 			"id" : 1000337,
 			"name" : "תותים",
@@ -4422,6 +4428,84 @@
 			},
 			"dateCreated" : 1599523200000,
 			"dateModified" : 1599523200000
+		}, {
+			"id" : 1000412,
+			"name" : "תתחנני אלי",
+			"singer" : "אביתר בנאי",
+			"playback": {
+				"youTubeVideoId" : "knek9TbTTEk"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page412.txt"
+			},
+			"dateCreated" : 1600560000000,
+			"dateModified" : 1600905600000
+		}, {
+			"id" : 1000413,
+			"name" : "אל תשכחי אותנו ",
+			"singer" : "מיסטר הרי",
+			"playback": {
+				"youTubeVideoId" : "XBmGy3q-fz8"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page413.txt"
+			},
+			"dateCreated" : 1600560000000,
+			"dateModified" : 1600560000000
+		}, {
+			"id" : 1000414,
+			"name" : "אהבתיה",
+			"singer" : "שלמה ארצי",
+			"playback": {
+				"youTubeVideoId" : "19qoWmBJVRc"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page414.txt"
+			},
+			"dateCreated" : 1600560000000,
+			"dateModified" : 1600560000000
+		}, {
+			"id" : 1000415,
+			"name" : "נאמר כבר הכל",
+			"singer" : "החברים של נטאשה ",
+			"playback": {
+				"youTubeVideoId" : "zC-dN1Qa2YU"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page415.txt"
+			},
+			"dateCreated" : 1600905600000,
+			"dateModified" : 1600905600000
+		}, {
+			"id" : 1000416,
+			"name" : "עץ ירוק מפלסטיק",
+			"singer" : "מרגלית צנעני",
+			"playback": {
+				"youTubeVideoId" : "ENMJ4waQdZ0"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page416.txt"
+			},
+			"dateCreated" : 1600905600000,
+			"dateModified" : 1600905600000
+		}, {
+			"id" : 1000417,
+			"name" : "את יפה שלי",
+			"singer" : "מיקי גבריאלוב",
+			"playback": {
+				"youTubeVideoId" : "zT2OvpXnVe8"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page417.txt"
+			},
+			"dateCreated" : 1600905600000,
+			"dateModified" : 1600905600000
 		}, {
 			"id" : 2000001,
 			"name" : "אדון שוקו",
@@ -9027,23 +9111,42 @@
 			"id" : 3000025,
 			"name" : "Wuthering Heights",
 			"singer" : "Kate Bush",
+			"playback": {
+				"youTubeVideoId" : "Fk-4lXLM34g"
+			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page25.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page25.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1600905600000
 		}, {
 			"id" : 3000026,
 			"name" : "What's Up",
 			"singer" : "4 Non Blondes",
+			"playback": {
+				"youTubeVideoId" : "6NXnxTNIWkc"
+			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page26.txt",
 				"markupVersion" : "1"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1556668800000
+			"dateModified" : 1600905600000
+		}, {
+			"id" : 3000027,
+			"name" : "Hero",
+			"singer" : "Chad Kroeger & Josey Scott",
+			"playback": {
+				"youTubeVideoId" : "TmSRMWw8Y_0"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page27.txt"
+			},
+			"dateCreated" : 1600560000000,
+			"dateModified" : 1600905600000
 		}, {
 			"id" : 3000028,
 			"name" : "Ironic",
@@ -9061,36 +9164,28 @@
 			"id" : 3000029,
 			"name" : "Daniel",
 			"singer" : "Elton John",
+			"playback": {
+				"youTubeVideoId" : "UA78e27R_J4"
+			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page29.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page29.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1600905600000
 		}, {
 			"id" : 3000030,
 			"name" : "Goodbye Yellow Brick Road",
 			"singer" : "Elton john",
-			"categoryIds" : ["2"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page30.jpg"
-			},
-			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
-		}, {
-			"id" : 3010030,
-			"name" : "Goodbye Yellow Brick Road (A)",
-			"singer" : "Elton John",
-			"isPrivate" : true,
 			"playback": {
 				"youTubeVideoId" : "DDOL7iY8kfo"
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page30_a.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page30.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1600905600000
 		}, {
 			"id" : 3000031,
 			"name" : "Zombie",
@@ -9100,7 +9195,7 @@
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page31.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1600905600000
 		}, {
 			"id" : 3000039,
 			"name" : "Something",
@@ -10930,10 +11025,11 @@
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page205.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page205.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1599523200000,
-			"dateModified" : 1599523200000
+			"dateModified" : 1600905600000
 		}, {
 			"id" : 3000206,
 			"name" : "Clocks",
@@ -10960,6 +11056,84 @@
 			},
 			"dateCreated" : 1599523200000,
 			"dateModified" : 1599523200000
+		}, {
+			"id" : 3000208,
+			"name" : "I Like Chopin",
+			"singer" : "Gazebo",
+			"playback": {
+				"youTubeVideoId" : "Dtrgwqei7ww"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page208.txt"
+			},
+			"dateCreated" : 1600560000000,
+			"dateModified" : 1600905600000
+		}, {
+			"id" : 3000209,
+			"name" : "Flowers In The Window",
+			"singer" : "Travis",
+			"playback": {
+				"youTubeVideoId" : "jsMu1L9x_Qc"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page209.txt"
+			},
+			"dateCreated" : 1600560000000,
+			"dateModified" : 1600560000000
+		}, {
+			"id" : 3000210,
+			"name" : "Don't Go Breaking My Heart",
+			"singer" : "Elton John",
+			"playback": {
+				"youTubeVideoId" : "z0qW9P-uYfM"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page210.txt"
+			},
+			"dateCreated" : 1600560000000,
+			"dateModified" : 1600560000000
+		}, {
+			"id" : 3000211,
+			"name" : "You're The One That I Want",
+			"singer" : "Grease Soundtrack",
+			"playback": {
+				"youTubeVideoId" : "itRFjzQICJU"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page211.txt"
+			},
+			"dateCreated" : 1600905600000,
+			"dateModified" : 1600905600000
+		}, {
+			"id" : 3000212,
+			"name" : "Grease Is The Word",
+			"singer" : "Grease Soundtrack",
+			"playback": {
+				"youTubeVideoId" : "8gqiyqu1GVE"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page212.txt"
+			},
+			"dateCreated" : 1600905600000,
+			"dateModified" : 1600905600000
+		}, {
+			"id" : 3000213,
+			"name" : "Copacabana",
+			"singer" : "Barry Manilow",
+			"playback": {
+				"youTubeVideoId" : "JI7kqYXoC04"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page213.txt"
+			},
+			"dateCreated" : 1600905600000,
+			"dateModified" : 1600905600000
 		}, {
 			"id" : 4000060,
 			"name" : "Lorelei",
