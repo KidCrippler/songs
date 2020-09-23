@@ -16,6 +16,9 @@
 		}, {
 			"id" : "6",
 			"name" : "עצמאות"
+		}, {
+			"id" : "7",
+			"name" : "דואטים"
 		}
 	],
 	"newSongIds" : [
@@ -818,12 +821,12 @@
 			"id" : 1000075,
 			"name" : "מה איתי",
 			"singer" : "החלונות הגבוהים",
-			"categoryIds" : ["1"],
+			"categoryIds" : ["1","7"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page75.jpg"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1600905600000
 		}, {
 			"id" : 1000076,
 			"name" : "יש לי ציפור קטנה בלב",
@@ -1187,12 +1190,12 @@
 			"playback": {
 				"youTubeVideoId" : "6WqvYZiEDrM"
 			},
-			"categoryIds" : ["1"],
+			"categoryIds" : ["1","7"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page112.txt"
 			},
 			"dateCreated" : 1549411200000,
-			"dateModified" : 1549497600000
+			"dateModified" : 1600905600000
 		}, {
 			"id" : 1000113,
 			"name" : "גשם",
@@ -1353,12 +1356,12 @@
 			"id" : 1000128,
 			"name" : "קשה לי לא להתרגש",
 			"singer" : "ג'קו אייזנברג ומאיה רוטמן",
-			"categoryIds" : ["1"],
+			"categoryIds" : ["1","7"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page128.jpg"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1600905600000
 		}, {
 			"id" : 1000129,
 			"name" : "הידעת את הדרך",
@@ -2088,12 +2091,12 @@
 			"id" : 1000200,
 			"name" : "זמר נוגה",
 			"singer" : "החלונות הגבוהים",
-			"categoryIds" : ["1"],
+			"categoryIds" : ["1","7"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page200.jpg"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1600905600000
 		}, {
 			"id" : 1000201,
 			"name" : "היה לי חבר, היה לי אח",
@@ -2159,12 +2162,12 @@
 			"id" : 1000207,
 			"name" : "ימים של שקט",
 			"singer" : "לולה",
-			"categoryIds" : ["1"],
+			"categoryIds" : ["1","7"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page207.jpg"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1600905600000
 		}, {
 			"id" : 1000208,
 			"name" : "אנטארקטיקה",
@@ -2282,12 +2285,12 @@
 			"id" : 1000219,
 			"name" : "אצלך בעולם",
 			"singer" : "היהודים",
-			"categoryIds" : ["1"],
+			"categoryIds" : ["1","7"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page219.jpg"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1600905600000
 		}, {
 			"id" : 1000220,
 			"name" : "אמריקה",
@@ -2900,13 +2903,13 @@
 			"id" : 1000282,
 			"name" : "רבות הדרכים",
 			"singer" : "דניאל סלומון ודנה עדיני",
-			"categoryIds" : ["1"],
+			"categoryIds" : ["1","7"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page282.txt",
 				"markupVersion" : "1"
 			},
 			"dateCreated" : 1519948800000,
-			"dateModified" : 1526860800000
+			"dateModified" : 1600905600000
 		}, {
 			"id" : 1000284,
 			"name" : "מכתב לילד",
@@ -2982,12 +2985,12 @@
 			"id" : 1000294,
 			"name" : "רק בשביל לקבל חיבוק",
 			"singer" : "חמי רודנר ואיגי וקסמן",
-			"categoryIds" : ["1"],
+			"categoryIds" : ["1","7"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page294.jpg"
 			},
 			"dateCreated" : 1539388800000,
-			"dateModified" : 1539388800000
+			"dateModified" : 1600905600000
 		}, {
 			"id" : 1000295,
 			"name" : "מבול",
@@ -4161,12 +4164,12 @@
 			"playback": {
 				"youTubeVideoId" : "6kLEk3_Swhc"
 			},
-			"categoryIds" : ["1"],
+			"categoryIds" : ["1","7"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page391.txt"
 			},
 			"dateCreated" : 1596758400000,
-			"dateModified" : 1596758400000
+			"dateModified" : 1600905600000
 		}, {
 			"id" : 1000392,
 			"name" : "אין שלווה",
@@ -4201,12 +4204,12 @@
 			"playback": {
 				"youTubeVideoId" : "jpzNE0Z74V8"
 			},
-			"categoryIds" : ["1"],
+			"categoryIds" : ["1","7"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page394.txt"
 			},
 			"dateCreated" : 1596758400000,
-			"dateModified" : 1596758400000
+			"dateModified" : 1600905600000
 		}, {
 			"id" : 1000395,
 			"name" : "הוא והיא",
@@ -9574,12 +9577,12 @@
 			"playback": {
 				"youTubeVideoId" : "hZ1Rb9hC4JY"
 			},
-			"categoryIds" : ["2"],
+			"categoryIds" : ["2","7"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page91.txt"
 			},
 			"dateCreated" : 1539388800000,
-			"dateModified" : 1539388800000
+			"dateModified" : 1600905600000
 		}, {
 			"id" : 3000094,
 			"name" : "Blue Suede Shoes",
@@ -10034,13 +10037,13 @@
 			"playback": {
 				"youTubeVideoId" : "ZW0DfsCzfq4"
 			},
-			"categoryIds" : ["2"],
+			"categoryIds" : ["2","7"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page130.txt",
 				"markupVersion" : "1"
 			},
 			"dateCreated" : 1520899200000,
-			"dateModified" : 1520899200000
+			"dateModified" : 1600905600000
 		}, {
 			"id" : 3000131,
 			"name" : "I Guess That's Why They Call It The Blues",
@@ -10061,12 +10064,12 @@
 			"playback": {
 				"youTubeVideoId" : "eM213aMKTHg"
 			},
-			"categoryIds" : ["2"],
+			"categoryIds" : ["2","7"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page132.txt"
 			},
 			"dateCreated" : 1521504000000,
-			"dateModified" : 1521504000000
+			"dateModified" : 1600905600000
 		}, {
 			"id" : 3000133,
 			"name" : "Radio",
@@ -10378,12 +10381,12 @@
 			"playback": {
 				"youTubeVideoId" : "YYOKMUTTDdA"
 			},
-			"categoryIds" : ["2"],
+			"categoryIds" : ["2","7"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page156.txt"
 			},
 			"dateCreated" : 1552089600000,
-			"dateModified" : 1552089600000
+			"dateModified" : 1600905600000
 		}, {
 			"id" : 3000157,
 			"name" : "You Give Love A Bad Name",
@@ -11089,12 +11092,12 @@
 			"playback": {
 				"youTubeVideoId" : "z0qW9P-uYfM"
 			},
-			"categoryIds" : ["2"],
+			"categoryIds" : ["2","7"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page210.txt"
 			},
 			"dateCreated" : 1600560000000,
-			"dateModified" : 1600560000000
+			"dateModified" : 1600905600000
 		}, {
 			"id" : 3000211,
 			"name" : "You're The One That I Want",
@@ -11102,7 +11105,7 @@
 			"playback": {
 				"youTubeVideoId" : "itRFjzQICJU"
 			},
-			"categoryIds" : ["2"],
+			"categoryIds" : ["2","7"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page211.txt"
 			},
