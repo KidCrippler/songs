@@ -1,5 +1,5 @@
 {
-	"version" : "2020_10_02",
+	"version" : "2020_10_03",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -197,12 +197,15 @@
 			"id" : 1000015,
 			"name" : "אצלי הכל בסדר",
 			"singer" : "החלונות הגבוהים",
+			"playback": {
+				"youTubeVideoId" : "m8w62VPWyI8"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page15.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page15.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1601683200000
 		}, {
 			"id" : 1000016,
 			"name" : "הנסיך הקטן",
@@ -4466,10 +4469,11 @@
 			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page414.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page414.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1600560000000,
-			"dateModified" : 1600560000000
+			"dateModified" : 1601683200000
 		}, {
 			"id" : 1000415,
 			"name" : "נאמר כבר הכל",
@@ -4508,7 +4512,46 @@
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page417.txt"
 			},
 			"dateCreated" : 1600905600000,
-			"dateModified" : 1600905600000
+			"dateModified" : 1601683200000
+		}, {
+			"id" : 1000418,
+			"name" : "זה היה סיפור של חורף",
+			"singer" : "מיקי גבריאלוב",
+			"playback": {
+				"youTubeVideoId" : "NLXGVclQieo"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page418.txt"
+			},
+			"dateCreated" : 1601683200000,
+			"dateModified" : 1601683200000
+		}, {
+			"id" : 1000419,
+			"name" : "מילים יפות מאלה",
+			"singer" : "עידן רייכל",
+			"playback": {
+				"youTubeVideoId" : "j_oajsiBiQA"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page419.txt"
+			},
+			"dateCreated" : 1601683200000,
+			"dateModified" : 1601683200000
+		}, {
+			"id" : 1000420,
+			"name" : "הורוסקופ",
+			"singer" : "החלונות הגבוהים",
+			"playback": {
+				"youTubeVideoId" : "_-FXj1C8880"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page420.txt"
+			},
+			"dateCreated" : 1601683200000,
+			"dateModified" : 1601683200000
 		}, {
 			"id" : 2000001,
 			"name" : "אדון שוקו",
@@ -9203,22 +9246,41 @@
 			"id" : 3000031,
 			"name" : "Zombie",
 			"singer" : "Cranberries",
+			"playback": {
+				"youTubeVideoId" : "6Ejga4kJUts"
+			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page31.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1600905600000
+			"dateModified" : 1601683200000
+		}, {
+			"id" : 3000033,
+			"name" : "Trouble",
+			"singer" : "Coldplay",
+			"playback": {
+				"youTubeVideoId" : "kcASPx3-HuI"
+			},
+			"categoryIds" : ["3"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page33.txt"
+			},
+			"dateCreated" : 1601683200000,
+			"dateModified" : 1601683200000
 		}, {
 			"id" : 3000039,
 			"name" : "Something",
 			"singer" : "The Beatles",
+			"playback": {
+				"youTubeVideoId" : "UelDrZ1aFeY"
+			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page39.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page39.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1599523200000
+			"dateModified" : 1601683200000
 		}, {
 			"id" : 3000040,
 			"name" : "I Want to Hold Your Hand",
@@ -10043,7 +10105,7 @@
 		}, {
 			"id" : 3000130,
 			"name" : "Summer Nights",
-			"singer" : "Grease",
+			"singer" : "Grease Soundtrack",
 			"playback": {
 				"youTubeVideoId" : "ZW0DfsCzfq4"
 			},
@@ -10053,7 +10115,7 @@
 				"markupVersion" : "1"
 			},
 			"dateCreated" : 1520899200000,
-			"dateModified" : 1600905600000
+			"dateModified" : 1601683200000
 		}, {
 			"id" : 3000131,
 			"name" : "I Guess That's Why They Call It The Blues",
@@ -10076,10 +10138,11 @@
 			},
 			"categoryIds" : ["2","7"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page132.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page132.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1521504000000,
-			"dateModified" : 1600905600000
+			"dateModified" : 1601683200000
 		}, {
 			"id" : 3000133,
 			"name" : "Radio",
@@ -10986,10 +11049,11 @@
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page201.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page201.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1599091200000,
-			"dateModified" : 1599091200000
+			"dateModified" : 1601683200000
 		}, {
 			"id" : 3000202,
 			"name" : "The Riddle chords",
@@ -10999,10 +11063,11 @@
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page202.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page202.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1599091200000,
-			"dateModified" : 1599091200000
+			"dateModified" : 1601683200000
 		}, {
 			"id" : 3000203,
 			"name" : "Linger",
@@ -11039,10 +11104,10 @@
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page205.txt",
-				"markupVersion" : "1"
+				"markupVersion" : "2"
 			},
 			"dateCreated" : 1599523200000,
-			"dateModified" : 1600905600000
+			"dateModified" : 1601683200000
 		}, {
 			"id" : 3000206,
 			"name" : "Clocks",
@@ -11123,17 +11188,18 @@
 			"dateModified" : 1600905600000
 		}, {
 			"id" : 3000212,
-			"name" : "Grease Is The Word",
+			"name" : "Grease",
 			"singer" : "Grease Soundtrack",
 			"playback": {
 				"youTubeVideoId" : "8gqiyqu1GVE"
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page212.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page212.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1600905600000,
-			"dateModified" : 1600905600000
+			"dateModified" : 1601683200000
 		}, {
 			"id" : 3000213,
 			"name" : "Copacabana",
@@ -11147,6 +11213,45 @@
 			},
 			"dateCreated" : 1600905600000,
 			"dateModified" : 1600905600000
+		}, {
+			"id" : 3000214,
+			"name" : "Livin' Thing",
+			"singer" : "Electric Light Orchestra",
+			"playback": {
+				"youTubeVideoId" : "H48j3KGBomU"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page214.txt"
+			},
+			"dateCreated" : 1601683200000,
+			"dateModified" : 1601683200000
+		}, {
+			"id" : 3000215,
+			"name" : "Here Comes The Sun",
+			"singer" : "The Beatles",
+			"playback": {
+				"youTubeVideoId" : "xUNqsfFUwhY"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page215.txt"
+			},
+			"dateCreated" : 1601683200000,
+			"dateModified" : 1601683200000
+		}, {
+			"id" : 3000216,
+			"name" : "Eight Days A Week",
+			"singer" : "The Beatles",
+			"playback": {
+				"youTubeVideoId" : "kle2xHhRHg4"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page216.txt"
+			},
+			"dateCreated" : 1601683200000,
+			"dateModified" : 1601683200000
 		}, {
 			"id" : 4000060,
 			"name" : "Lorelei",
