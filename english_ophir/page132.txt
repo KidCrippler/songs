@@ -1,60 +1,75 @@
 ﻿Need You Now – Lady Antebellum
  
-{piano}                  {bass}
-A         C#m        A         C#m
+{piano}
+A         C#m
+{bass}
+A         C#m
 {drums+guitar}
 A         C#m        A        C#m
- 
+
+[female]
 A                                                  C#m
 Picture perfect memories scattered all around the floor
 A                                                 C#m
 Reaching for the phone 'cause I can't fight it anymore
+[both]
       A                           C#m
 And I wonder if I ever cross your mind   
+[female]
           A               A!
 For me it happens all the time
 
+[both]
         E                                     Abm
 It's a quarter after one, I'm all alone and I need you now
 E                                                  Abm
 Said I wouldn't come, but I lost all control and I need you now
-      A                    A           A               A     C#m
-And I don't know how I can do without, I just need you now
+      A                    A           
+And I don't know how I can do without
+A               A     C#m
+I just need you now
 
+[male]
  A                                                 C#m
 Another shot of whiskey, can't stop looking at the door
 A                                                C#m
 Wishing you'd come sweeping in the way you did before
+[both]
       A                           C#m
 And I wonder if I ever cross your mind
+[male]
           A               A!
 For me it happens all the time
 
+[both]
         E                                     Abm
 It's a quarter after one, I'm all alone and I need you now
 E                                                 Abm
 Said I wouldnt call, but I'm a little drunk and I need you now
       A                    A
 And I don't know how I can do without,    
-A               C#m       B E       A       B   
+A               C#m       B  E          A          B   
 I just need you now
-                C#m       B E       A       B   
+                      C#m       B  E          A          B
+                   wo-wow
 
-               A!  {quiet}                                                 C#m   B
-Yes I'd rather hurt than feel nothing at all
+               A!                           C#m   B
+Yes I'd rather hurt than feel nothing    at a----ll
+[female]
         E                                     Abm
 It's a quarter after one, I'm all alone and I need you now
+[male]
 E                                                 Abm
-Said I wouldnt call, but I'm a little drunk and I need you now
-      A                    A
-And I don't know how I can do without,    
-A               E         Abm
-I just need you now
-                E         Abm
-I just need you now
-                E     Abm     
+And I said I wouldnt call, but I'm a little drunk and I need you now
+[both]
+      A                    A           A               E     Abm
+And I don't know how I can do without, I just need you no-----w
+
+                E         Abm       E     Abm
+I just need you no--------w
+[female]
                    E      Abm       
-Oh baby I need you now
+Oh baby I need you no--------w
  
 {Piano}
-E       Abm      E      Abm
+E       Abm      E      Abm      E      Abm
