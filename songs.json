@@ -1,5 +1,5 @@
 {
-	"version" : "2020_10_03",
+	"version" : "2020_10_06",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -8848,6 +8848,16 @@
 			},
 			"dateCreated" : 1601596800000,
 			"dateModified" : 1601596800000
+		}, {
+			"id" : 2000457,
+			"name" : "ואני שר",
+			"singer" : "שלומי שבת",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage457.txt"
+			},
+			"dateCreated" : 1601942400000,
+			"dateModified" : 1601942400000
 		}, {
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
