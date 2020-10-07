@@ -6676,7 +6676,7 @@
 			"singer" : "עמיר בניון",
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage246.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage246.txt"
 			},
 			"dateCreated" : 1519516800000,
 			"dateModified" : 1602028800000
