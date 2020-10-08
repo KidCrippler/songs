@@ -1,5 +1,5 @@
 {
-	"version" : "2020_10_07",
+	"version" : "2020_10_08",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -210,12 +210,15 @@
 			"id" : 1000016,
 			"name" : "הנסיך הקטן",
 			"singer" : "קצת אחרת",
+			"playback": {
+				"youTubeVideoId" : "QQA5i3aafPs"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page16.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page16.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1602115200000
 		}, {
 			"id" : 1000017,
 			"name" : "כשאלוהים אמר בפעם הראשונה",
@@ -4552,6 +4555,45 @@
 			},
 			"dateCreated" : 1601683200000,
 			"dateModified" : 1601683200000
+		}, {
+			"id" : 1000421,
+			"name" : "טבריה",
+			"singer" : "מיכה שטרית",
+			"playback": {
+				"youTubeVideoId" : "vhn6HFwTc3I"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page421.txt"
+			},
+			"dateCreated" : 1602115200000,
+			"dateModified" : 1602115200000
+		}, {
+			"id" : 1000422,
+			"name" : "בלדה בין כוכבים",
+			"singer" : "פופיק ארנון",
+			"playback": {
+				"youTubeVideoId" : "PWmF4WFNHho"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page422.txt"
+			},
+			"dateCreated" : 1602115200000,
+			"dateModified" : 1602115200000
+		}, {
+			"id" : 1000423,
+			"name" : "מה חשוב היום",
+			"singer" : "אבי טולדנו",
+			"playback": {
+				"youTubeVideoId" : "M1wIcDfmmKc"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page423.txt"
+			},
+			"dateCreated" : 1602115200000,
+			"dateModified" : 1602115200000
 		}, {
 			"id" : 2000001,
 			"name" : "אדון שוקו",
@@ -9305,22 +9347,28 @@
 			"id" : 3000040,
 			"name" : "I Want to Hold Your Hand",
 			"singer" : "The Beatles",
+			"playback": {
+				"youTubeVideoId" : "v1HDt1tknTc"
+			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page40.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page40.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1602115200000
 		}, {
 			"id" : 3000041,
 			"name" : "The Night Before",
 			"singer" : "The Beatles",
+			"playback": {
+				"youTubeVideoId" : "7tD40D7jk-Q"
+			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page41.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page41.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1602115200000
 		}, {
 			"id" : 3000042,
 			"name" : "And I Love Her",
@@ -9338,22 +9386,28 @@
 			"id" : 3000043,
 			"name" : "I Saw Her Standing There",
 			"singer" : "The Beatles",
+			"playback": {
+				"youTubeVideoId" : "oxwAB3SECtc"
+			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page43.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1591228800000
+			"dateModified" : 1602115200000
 		}, {
 			"id" : 3000044,
 			"name" : "Come Together",
 			"singer" : "The Beatles",
+			"playback": {
+				"youTubeVideoId" : "45cYwDMibGo"
+			},
 			"categoryIds" : ["2","5"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page44.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page44.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1602115200000
 		}, {
 			"id" : 3000045,
 			"name" : "Ziggy Stardust",
@@ -11272,6 +11326,45 @@
 			},
 			"dateCreated" : 1601683200000,
 			"dateModified" : 1601683200000
+		}, {
+			"id" : 3000217,
+			"name" : "Waiting",
+			"singer" : "Green Day",
+			"playback": {
+				"youTubeVideoId" : "xc1Uld0k4W4"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page217.txt"
+			},
+			"dateCreated" : 1602115200000,
+			"dateModified" : 1602115200000
+		}, {
+			"id" : 3000218,
+			"name" : "Two Princes",
+			"singer" : "Spin Doctors",
+			"playback": {
+				"youTubeVideoId" : "wsdy_rct6uo"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page218.txt"
+			},
+			"dateCreated" : 1602115200000,
+			"dateModified" : 1602115200000
+		}, {
+			"id" : 3000219,
+			"name" : "One way or another",
+			"singer" : "Blondie",
+			"playback": {
+				"youTubeVideoId" : "_zBwRDEFMRY"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page219.txt"
+			},
+			"dateCreated" : 1602115200000,
+			"dateModified" : 1602115200000
 		}, {
 			"id" : 4000060,
 			"name" : "Lorelei",
