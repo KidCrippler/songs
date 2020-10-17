@@ -1,5 +1,5 @@
 {
-	"version" : "2020_10_16",
+	"version" : "2020_10_17",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -223,12 +223,15 @@
 			"id" : 1000017,
 			"name" : "כשאלוהים אמר בפעם הראשונה",
 			"singer" : "מתי כספי",
+			"playback": {
+				"youTubeVideoId" : "2jfh3Gfiu24"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page17.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page17.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1602892800000
 		}, {
 			"id" : 1000018,
 			"name" : "אני רואה אותה בדרך לגימנסיה",
@@ -4594,6 +4597,45 @@
 			},
 			"dateCreated" : 1602115200000,
 			"dateModified" : 1602115200000
+		}, {
+			"id" : 1000424,
+			"name" : "נועה של הים",
+			"singer" : "יזהר אשדות",
+			"playback": {
+				"youTubeVideoId" : "YjkPzJyS96o"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page424.txt"
+			},
+			"dateCreated" : 1602892800000,
+			"dateModified" : 1602892800000
+		}, {
+			"id" : 1000425,
+			"name" : "שמחות קטנות",
+			"singer" : "עמיר בניון ומיכה שטרית",
+			"playback": {
+				"youTubeVideoId" : "5ejT8FqglLM"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page425.txt"
+			},
+			"dateCreated" : 1602892800000,
+			"dateModified" : 1602892800000
+		}, {
+			"id" : 1000426,
+			"name" : "שלמים",
+			"singer" : "עידן חביב",
+			"playback": {
+				"youTubeVideoId" : "5ejT8FqglLM"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page426.txt"
+			},
+			"dateCreated" : 1602892800000,
+			"dateModified" : 1602892800000
 		}, {
 			"id" : 2000001,
 			"name" : "אדון שוקו",
@@ -9439,32 +9481,41 @@
 			"id" : 3000045,
 			"name" : "Ziggy Stardust",
 			"singer" : "David Bowie",
+			"playback": {
+				"youTubeVideoId" : "XXq5VvYAI1Q"
+			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page45.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page45.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1602892800000
 		}, {
 			"id" : 3000046,
 			"name" : "Proud Mary",
 			"singer" : "Creedence Clearwater Revival",
+			"playback": {
+				"youTubeVideoId" : "XfyEpmQM7bw"
+			},
 			"categoryIds" : ["2","5"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page46.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page46.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1602892800000
 		}, {
 			"id" : 3000047,
 			"name" : "Day Tripper",
 			"singer" : "The Beatles",
+			"playback": {
+				"youTubeVideoId" : "2IbPn5j2YKk"
+			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page47.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page47.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1602892800000
 		}, {
 			"id" : 3000048,
 			"name" : "Born To Be Wild",
@@ -11392,6 +11443,58 @@
 			},
 			"dateCreated" : 1602115200000,
 			"dateModified" : 1602115200000
+		}, {
+			"id" : 3000220,
+			"name" : "Heart of Glass",
+			"singer" : "Blondie",
+			"playback": {
+				"youTubeVideoId" : "WGU_4-5RaxU"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page220.txt"
+			},
+			"dateCreated" : 1602892800000,
+			"dateModified" : 1602892800000
+		}, {
+			"id" : 3000221,
+			"name" : "Mmm Mmm Mmm Mmm",
+			"singer" : "Crash Test Dummies",
+			"playback": {
+				"youTubeVideoId" : "eTeg1txDv8w"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page221.txt"
+			},
+			"dateCreated" : 1602892800000,
+			"dateModified" : 1602892800000
+		}, {
+			"id" : 3000222,
+			"name" : "Eye Of The Tiger",
+			"singer" : "Survivor",
+			"playback": {
+				"youTubeVideoId" : "btPJPFnesV4"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page222.txt"
+			},
+			"dateCreated" : 1602892800000,
+			"dateModified" : 1602892800000
+		}, {
+			"id" : 3000223,
+			"name" : "Like A Prayer",
+			"singer" : "Madonna",
+			"playback": {
+				"youTubeVideoId" : "79fzeNUqQbQ"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page223.txt"
+			},
+			"dateCreated" : 1602892800000,
+			"dateModified" : 1602892800000
 		}, {
 			"id" : 4000060,
 			"name" : "Lorelei",
