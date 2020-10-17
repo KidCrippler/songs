@@ -11209,8 +11209,8 @@
 			"dateModified" : 1601683200000
 		}, {
 			"id" : 3000202,
-			"name" : "The Riddle chords",
-			"singer" : "Kershaw",
+			"name" : "The Riddle",
+			"singer" : "Nick Kershaw",
 			"playback": {
 				"youTubeVideoId" : "bDygS0a6Tgo"
 			},
@@ -11220,7 +11220,7 @@
 				"markupVersion" : "1"
 			},
 			"dateCreated" : 1599091200000,
-			"dateModified" : 1601683200000
+			"dateModified" : 1602892800000
 		}, {
 			"id" : 3000203,
 			"name" : "Linger",
