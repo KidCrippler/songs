@@ -1,5 +1,5 @@
 {
-	"version" : "2020_10_17",
+	"version" : "2020_10_24",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -236,12 +236,15 @@
 			"id" : 1000018,
 			"name" : "אני רואה אותה בדרך לגימנסיה",
 			"singer" : "אריק איינשטיין",
+			"playback": {
+				"youTubeVideoId" : "yYW-8iacVZQ"
+			},
 			"categoryIds" : ["1","6"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page18.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page18.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1557187200000
+			"dateModified" : 1603497600000
 		}, {
 			"id" : 1000019,
 			"name" : "גשם כבד עומד ליפול",
@@ -4529,10 +4532,11 @@
 			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page418.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page418.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1601683200000,
-			"dateModified" : 1601683200000
+			"dateModified" : 1603497600000
 		}, {
 			"id" : 1000419,
 			"name" : "מילים יפות מאלה",
@@ -4637,6 +4641,45 @@
 			},
 			"dateCreated" : 1602892800000,
 			"dateModified" : 1602892800000
+		}, {
+			"id" : 1000427,
+			"name" : "בוא איתי אל הגליל",
+			"singer" : "להקת פיקוד צפון",
+			"playback": {
+				"youTubeVideoId" : "GAHUvfv_2AA"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page427.txt"
+			},
+			"dateCreated" : 1603497600000,
+			"dateModified" : 1603497600000
+		}, {
+			"id" : 1000428,
+			"name" : "איך כש��",
+			"singer" : "יוסי אלפנט",
+			"playback": {
+				"youTubeVideoId" : "7v4paEM-0Fo"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page428.txt"
+			},
+			"dateCreated" : 1603497600000,
+			"dateModified" : 1603497600000
+		}, {
+			"id" : 1000429,
+			"name" : "דבר לא קרה",
+			"singer" : "דני רובס",
+			"playback": {
+				"youTubeVideoId" : "-bhNmCn--aI"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page429.txt"
+			},
+			"dateCreated" : 1603497600000,
+			"dateModified" : 1603497600000
 		}, {
 			"id" : 2000001,
 			"name" : "אדון שוקו",
@@ -9521,42 +9564,54 @@
 			"id" : 3000048,
 			"name" : "Born To Be Wild",
 			"singer" : "Steppenwolf",
+			"playback": {
+				"youTubeVideoId" : "egMWlD3fLJ8"
+			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page48.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1595030400000
+			"dateModified" : 1603497600000
 		}, {
 			"id" : 3000049,
 			"name" : "Under The Bridge",
 			"singer" : "Red Hot Chilli Peppers",
+			"playback": {
+				"youTubeVideoId" : "lwlogyj7nFE"
+			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page49.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page49.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1603497600000
 		}, {
 			"id" : 3000050,
 			"name" : "Easy Like Sunday Morning",
 			"singer" : "Faith No More",
+			"playback": {
+				"youTubeVideoId" : "vPzDTfIb0DU"
+			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page50.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page50.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1603497600000
 		}, {
 			"id" : 3000051,
 			"name" : "Sad Lisa",
 			"singer" : "Cat Stevens",
+			"playback": {
+				"youTubeVideoId" : "S3HOb9fIzgQ"
+			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page51.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page51.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1603497600000
 		}, {
 			"id" : 3000054,
 			"name" : "Bird of Paradise",
@@ -11217,10 +11272,10 @@
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page202.txt",
-				"markupVersion" : "1"
+				"markupVersion" : "2"
 			},
 			"dateCreated" : 1599091200000,
-			"dateModified" : 1602892800000
+			"dateModified" : 1603497600000
 		}, {
 			"id" : 3000203,
 			"name" : "Linger",
@@ -11496,6 +11551,45 @@
 			},
 			"dateCreated" : 1602892800000,
 			"dateModified" : 1602892800000
+		}, {
+			"id" : 3000224,
+			"name" : "Baby One More Time",
+			"singer" : "Britney Spears",
+			"playback": {
+				"youTubeVideoId" : "C-u5WLJ9Yk4"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page224.txt"
+			},
+			"dateCreated" : 1603497600000,
+			"dateModified" : 1603497600000
+		}, {
+			"id" : 3000225,
+			"name" : "If You Leave Me Now",
+			"singer" : "Chicago",
+			"playback": {
+				"youTubeVideoId" : "-9_d-sFhmRM"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page225.txt"
+			},
+			"dateCreated" : 1603497600000,
+			"dateModified" : 1603497600000
+		}, {
+			"id" : 3000226,
+			"name" : "Depeche mode",
+			"singer" : "enjoy the silence",
+			"playback": {
+				"youTubeVideoId" : "aGSKrC7dGcY"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page226.txt"
+			},
+			"dateCreated" : 1603497600000,
+			"dateModified" : 1603497600000
 		}, {
 			"id" : 4000060,
 			"name" : "Lorelei",
