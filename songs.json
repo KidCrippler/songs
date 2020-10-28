@@ -1,5 +1,5 @@
 {
-	"version" : "2020_10_24",
+	"version" : "2020_10_28",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -249,12 +249,15 @@
 			"id" : 1000019,
 			"name" : "גשם כבד עומד ליפול",
 			"singer" : "אביב גפן",
+			"playback": {
+				"youTubeVideoId" : "P9u_svtR3Sg"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page19.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page19.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1603843200000
 		}, {
 			"id" : 1000020,
 			"name" : "תמיד יחכו לך",
@@ -4656,7 +4659,7 @@
 			"dateModified" : 1603497600000
 		}, {
 			"id" : 1000428,
-			"name" : "איך כש��",
+			"name" : "איך כש&",
 			"singer" : "יוסי אלפנט",
 			"playback": {
 				"youTubeVideoId" : "7v4paEM-0Fo"
@@ -4680,6 +4683,45 @@
 			},
 			"dateCreated" : 1603497600000,
 			"dateModified" : 1603497600000
+		}, {
+			"id" : 1000430,
+			"name" : "מיליארד טועים",
+			"singer" : "אביב גפן",
+			"playback": {
+				"youTubeVideoId" : "_ChMp1XsH90"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page430.txt"
+			},
+			"dateCreated" : 1603843200000,
+			"dateModified" : 1603843200000
+		}, {
+			"id" : 1000431,
+			"name" : "מהפכה של שמחה",
+			"singer" : "ליאור נרקיס ועומר אדם",
+			"playback": {
+				"youTubeVideoId" : "GlV0h4JPid0"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page431.txt"
+			},
+			"dateCreated" : 1603843200000,
+			"dateModified" : 1603843200000
+		}, {
+			"id" : 1000432,
+			"name" : "איזה יום",
+			"singer" : "דודו טסה ",
+			"playback": {
+				"youTubeVideoId" : "HHWcnaJXeIY"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page432.txt"
+			},
+			"dateCreated" : 1603843200000,
+			"dateModified" : 1603843200000
 		}, {
 			"id" : 2000001,
 			"name" : "אדון שוקו",
@@ -9616,22 +9658,28 @@
 			"id" : 3000054,
 			"name" : "Bird of Paradise",
 			"singer" : "Snowy White",
+			"playback": {
+				"youTubeVideoId" : "ewjw3wlVttQ"
+			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page54.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page54.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1603843200000
 		}, {
 			"id" : 3000055,
 			"name" : "More Than Words",
 			"singer" : "Exterme",
+			"playback": {
+				"youTubeVideoId" : "0R-FGchhwLw"
+			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page55.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page55.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1603843200000
 		}, {
 			"id" : 3000056,
 			"name" : "Bridge Over Troubled Water",
@@ -9832,24 +9880,10 @@
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page86.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page86.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
-		}, {
-			"id" : 3010086,
-			"name" : "Speed of Sound (E)",
-			"singer" : "Coldplay",
-			"isPrivate" : true,
-			"playback": {
-				"youTubeVideoId" : "0k_1kvDh2UA"
-			},
-			"categoryIds" : ["2"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page86_e.jpg"
-			},
-			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1603843200000
 		}, {
 			"id" : 3000091,
 			"name" : "A Whole New World",
@@ -9862,7 +9896,7 @@
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page91.txt"
 			},
 			"dateCreated" : 1539388800000,
-			"dateModified" : 1600905600000
+			"dateModified" : 1603843200000
 		}, {
 			"id" : 3000094,
 			"name" : "Blue Suede Shoes",
@@ -9872,10 +9906,10 @@
 			},
 			"categoryIds" : ["2","5"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page94.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page94.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1603843200000
 		}, {
 			"id" : 3000097,
 			"name" : "Make You Feel My Love",
@@ -9921,14 +9955,14 @@
 			"name" : "The Sound of Silence",
 			"singer" : "Simon and Garfunkel",
 			"playback": {
-				"youTubeVideoId" : "RZYpzXjdtwg"
+				"youTubeVideoId" : "nkUOACGtGfA"
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page100.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1603843200000
 		}, {
 			"id" : 3000101,
 			"name" : "Nobody's Wife",
@@ -11590,6 +11624,45 @@
 			},
 			"dateCreated" : 1603497600000,
 			"dateModified" : 1603497600000
+		}, {
+			"id" : 3000227,
+			"name" : "The Logical Song",
+			"singer" : "Supertramp",
+			"playback": {
+				"youTubeVideoId" : "-_JA0fGMICc"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page227.txt"
+			},
+			"dateCreated" : 1603843200000,
+			"dateModified" : 1603843200000
+		}, {
+			"id" : 3000228,
+			"name" : "Dont Look Back In Anger",
+			"singer" : "Oasis",
+			"playback": {
+				"youTubeVideoId" : "r8OipmKFDeM"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page228.txt"
+			},
+			"dateCreated" : 1603843200000,
+			"dateModified" : 1603843200000
+		}, {
+			"id" : 3000229,
+			"name" : "Live Forever",
+			"singer" : "Oasis",
+			"playback": {
+				"youTubeVideoId" : "TDe1DqxwJoc"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page229.txt"
+			},
+			"dateCreated" : 1603843200000,
+			"dateModified" : 1603843200000
 		}, {
 			"id" : 4000060,
 			"name" : "Lorelei",
