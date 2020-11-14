@@ -4808,7 +4808,7 @@
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page438.txt"
 			},
 			"dateCreated" : 1604880000000,
-			"dateModified" : 1604880000000
+			"dateModified" : 1605312000000
 		}, {
 			"id" : 2000001,
 			"name" : "אדון שוקו",
@@ -8427,17 +8427,6 @@
 			"categoryIds" : ["1"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage392.txt"
-			},
-			"dateCreated" : 1569456000000,
-			"dateModified" : 1569456000000
-		}, {
-			"id" : 2000393,
-			"name" : "עד שתעזוב (מילים)",
-			"singer" : "ריטה",
-			"isPrivate" : true,
-			"categoryIds" : ["1"],
-			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage393.txt"
 			},
 			"dateCreated" : 1569456000000,
 			"dateModified" : 1569456000000
