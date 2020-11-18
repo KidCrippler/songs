@@ -14,15 +14,15 @@ Am   Em7   D   C   G   D   C9   C9
  
  Am              Em7
 Standing in line marking time
- D               C             G
+D               C             G
 Waiting for the welfare dime
-         D              C9    C9
+       D           C9    C9
 'Cause they can't buy a job
     Am                   Em7
 The man in the silk suit hurries by
-       D                    C            G
+      D                    C            G
 As he catches the poor old lady's eyes
-          D           C9
+         D           C9
 Just for fun he says     get a job
 
 G   Fmaj7   C9                  C9 
@@ -31,42 +31,39 @@ G   Fmaj7   C9                   C9
                 Some things will never change
 G   Fmaj7   C9                  C9
                 That's just the way it is
-G   Fmaj7   C9          C9             Am      -->
+G   Fmaj7   C9          C9             Am
                 Ah, but don't you believe them
 
--->   Am   Em7   D   C   G   D   C9   C9
-      Am   Em7   D   C   G   D   C9   C9
+(Am)   Em7   D   C   G   D   C9   C9
 
-     Am             Em7
-Said hey little boy you can't go 
+     Am                Em7
+Said hey little boy    you can't go 
           D            C       G
 where the others go
-                  D         C9       C9
+                 D         C9       C9
 'Cause you don't look like they do
-     Am          Em7
-Said hey old man how can you stand 
-     D             C
+     Am            Em7
+Said hey old man   how can you stand 
+   D          C
 to think that way
-G                            D           C9
-Did you really think about it before you made the rules
+        G                  D
+Did you really think about it
+           C9
+before you made the rules
 
-          G   Fmaj7   C9                    C9 
-He said, son                That's just the way it is
+          G   Fmaj7  C9                  C9 
+He said, son             That's just the way it is
 G   Fmaj7   C9                   C9
                 Some things will never change
 G   Fmaj7   C9                  C9
                 That's just the way it is
-G   Fmaj7   C9          C9             Am      -->
+G   Fmaj7   C9          C9             Am
                 Ah, but don't you believe them
 
--->   Am   Em7   D   C   G   D   C9   C9
+(Am)   Em7   D   C   G   D   C9   C9
 
 {Piano solo}
-Am   Em7   D   C   G   D   C9   C9
-Am   Em7   D   C   G   D   C9   C9
-Am   Em7   D   C   G   D   C9   C9
-Am   Em7   D   C   G   D   C9   C9
-Am   Em7   D   C   G   D   C9   C9
+Am   Em7   D   C   G   D   C9   C9  {X5}
 
 G   Fmaj7   C9                   C9
                 (That's just the way it is)
@@ -74,7 +71,7 @@ G   Fmaj7   C9                   C9
                 (That's just the way it is)
 
           Am              Em7
-Well they passed a law in '64 
+Well they passed a law in sixty four
     D                    C                 G
 To give those who ain't got a little more
        D            C9   C9
@@ -83,7 +80,7 @@ But it only goes so far
 'Cause the law don't change another's mind
      D                   C          G
 When all it sees at the hiring time
-        D          C9
+       D           C9
 is the line on the color bar
  
 G   Fmaj7   C9                  C9 
@@ -96,12 +93,7 @@ G   Fmaj7        C9
           That's just the way it is, it is....
 
 {Piano solo}
+Am   Em7   D   C   G   D   C9   C9   {X3}
 Am   Em7   D   C   G   D   C9   C9
-Am   Em7   D   C   G   D   C9   C9
-Am   Em7   D   C   G   D   C9   C9
-
-Am   Em7   D   C   G   D   C9   C9
-G   Fmaj7   C9   C9
-G   Fmaj7   C9   C9
-
+G   Fmaj7   C9   C9  {X3}
 {Fade Out}

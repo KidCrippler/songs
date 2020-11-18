@@ -1,5 +1,5 @@
 {
-	"version" : "2020_11_09",
+	"version" : "2020_11_18",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -314,12 +314,15 @@
 			"id" : 1000024,
 			"name" : "יונתן, סע הביתה",
 			"singer" : "אושיק לוי",
+			"playback": {
+				"youTubeVideoId" : "O0bZfq4bXI8"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page24.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page24.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1605657600000
 		}, {
 			"id" : 1000025,
 			"name" : "מדברים על שלום",
@@ -337,32 +340,41 @@
 			"id" : 1000027,
 			"name" : "חור בלבנה",
 			"singer" : "רוקפור",
+			"playback": {
+				"youTubeVideoId" : "CIO05JrLojY"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page27.txt"
 			},
 			"dateCreated" : 1520121600000,
-			"dateModified" : 1520121600000
+			"dateModified" : 1605657600000
 		}, {
 			"id" : 1000028,
 			"name" : "באמונה עיוורת",
 			"singer" : "ברי סחרוב",
+			"playback": {
+				"youTubeVideoId" : "Onijit1N7lo"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page28.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page28.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1605657600000
 		}, {
 			"id" : 1000029,
 			"name" : "סוף העונה",
 			"singer" : "גלי עטרי",
+			"playback": {
+				"youTubeVideoId" : "m8-uOjGSfaU"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page29.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1605657600000
 		}, {
 			"id" : 1000030,
 			"name" : "מודדת",
@@ -4809,6 +4821,58 @@
 			},
 			"dateCreated" : 1604880000000,
 			"dateModified" : 1605312000000
+		}, {
+			"id" : 1000439,
+			"name" : "באה אליכם",
+			"singer" : "מירי מסיקה",
+			"playback": {
+				"youTubeVideoId" : "oBLk8rPi8o0"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page439.txt"
+			},
+			"dateCreated" : 1605657600000,
+			"dateModified" : 1605657600000
+		}, {
+			"id" : 1000440,
+			"name" : "מגרד",
+			"singer" : "יוני בלוך ואפרת גוש",
+			"playback": {
+				"youTubeVideoId" : "gIBZnjlDdXQ"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page440.txt"
+			},
+			"dateCreated" : 1605657600000,
+			"dateModified" : 1605657600000
+		}, {
+			"id" : 1000441,
+			"name" : "תראו אותי",
+			"singer" : "מופע הארנבות של ד"ר",
+			"playback": {
+				"youTubeVideoId" : "ePtW_BvjSG4"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page441.txt"
+			},
+			"dateCreated" : 1605657600000,
+			"dateModified" : 1605657600000
+		}, {
+			"id" : 1000442,
+			"name" : "קשה בלעדיך",
+			"singer" : "שרון ליפשיץ",
+			"playback": {
+				"youTubeVideoId" : "9y4Njz4wPOQ"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page442.txt"
+			},
+			"dateCreated" : 1605657600000,
+			"dateModified" : 1605657600000
 		}, {
 			"id" : 2000001,
 			"name" : "אדון שוקו",
@@ -11823,6 +11887,45 @@
 			},
 			"dateCreated" : 1604880000000,
 			"dateModified" : 1604880000000
+		}, {
+			"id" : 3000236,
+			"name" : "Black",
+			"singer" : "Pearl Jam",
+			"playback": {
+				"youTubeVideoId" : "4q9UafsiQ6k"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page236.txt"
+			},
+			"dateCreated" : 1605657600000,
+			"dateModified" : 1605657600000
+		}, {
+			"id" : 3000237,
+			"name" : "I Want To Break Free",
+			"singer" : "Queen",
+			"playback": {
+				"youTubeVideoId" : "f4Mc-NYPHaQ"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page237.txt"
+			},
+			"dateCreated" : 1605657600000,
+			"dateModified" : 1605657600000
+		}, {
+			"id" : 3000238,
+			"name" : "In Bloom",
+			"singer" : "Nirvana",
+			"playback": {
+				"youTubeVideoId" : "PbgKEjNBHqM"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page238.txt"
+			},
+			"dateCreated" : 1605657600000,
+			"dateModified" : 1605657600000
 		}, {
 			"id" : 4000060,
 			"name" : "Lorelei",
