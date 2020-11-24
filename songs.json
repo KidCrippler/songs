@@ -4874,7 +4874,7 @@
 			"id" : 2000003,
 			"name" : "אהבה ראשונה",
 			"singer" : "החלונות הגבוהים",
-			"categoryIds" : ["1"],
+			"categoryIds" : ["1","7"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage3.jpg"
 			},
@@ -4947,7 +4947,7 @@
 			"id" : 2000010,
 			"name" : "אינך יכולה",
 			"singer" : "החלונות הגבוהים",
-			"categoryIds" : ["1","5","6"],
+			"categoryIds" : ["1","5","6","7"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage10.jpg"
 			},
@@ -5218,7 +5218,7 @@
 			"id" : 2000038,
 			"name" : "הייתי נער",
 			"singer" : "להקת הנחל",
-			"categoryIds" : ["1","6"],
+			"categoryIds" : ["1","6","7"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage38.jpg"
 			},
@@ -5279,7 +5279,7 @@
 			"id" : 2000045,
 			"name" : "והפעם שיר אהבה",
 			"singer" : "טיפקס",
-			"categoryIds" : ["1"],
+			"categoryIds" : ["1","7"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage45.jpg"
 			},
@@ -5351,7 +5351,7 @@
 			"id" : 2000052,
 			"name" : "יומן מסע",
 			"singer" : "אביב גפן ואריק איינשטיין",
-			"categoryIds" : ["1"],
+			"categoryIds" : ["1","7"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage52.txt"
 			},
@@ -5392,7 +5392,7 @@
 			"id" : 2000056,
 			"name" : "ימים של קולנוע",
 			"singer" : "הטוב הרע והנערה",
-			"categoryIds" : ["1"],
+			"categoryIds" : ["1","7"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage56.jpg"
 			},
@@ -5565,7 +5565,7 @@
 			"id" : 2000071,
 			"name" : "מכתב קטן",
 			"singer" : "דני רובס ואופירה יוספי",
-			"categoryIds" : ["1"],
+			"categoryIds" : ["1","7"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage71.jpg"
 			},
@@ -5811,7 +5811,7 @@
 			"id" : 2000095,
 			"name" : "שוב",
 			"singer" : "חוה אלברשטיין ואריק סיני",
-			"categoryIds" : ["1"],
+			"categoryIds" : ["1","7"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage95.jpg"
 			},
@@ -5831,7 +5831,7 @@
 			"id" : 2000097,
 			"name" : "שיר הלהקה",
 			"singer" : "להקת הנחל",
-			"categoryIds" : ["1","5","6"],
+			"categoryIds" : ["1","5","6","7"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage97.jpg"
 			},
@@ -5911,7 +5911,7 @@
 			"id" : 2000109,
 			"name" : "אגדת השמש והירח",
 			"singer" : "אתניקס",
-			"categoryIds" : ["1","5"],
+			"categoryIds" : ["1","5","7"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage109.jpg"
 			},
@@ -6062,7 +6062,7 @@
 			"id" : 2000139,
 			"name" : "היא לא תדע",
 			"singer" : "גזוז",
-			"categoryIds" : ["1"],
+			"categoryIds" : ["1","7"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage139.jpg"
 			},
@@ -6155,7 +6155,7 @@
 			"id" : 2000149,
 			"name" : "שבע עשרה",
 			"singer" : "בן ארצי",
-			"categoryIds" : ["1"],
+			"categoryIds" : ["1","7"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage149.jpg"
 			},
@@ -6165,7 +6165,7 @@
 			"id" : 2000150,
 			"name" : "שיר פרידה",
 			"singer" : "שלמה ארצי",
-			"categoryIds" : ["1"],
+			"categoryIds" : ["1","7"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage150.jpg"
 			},
@@ -6334,7 +6334,7 @@
 			"id" : 2000173,
 			"name" : "הרקדן האוטומטי",
 			"singer" : "צביקה פיק",
-			"categoryIds" : ["1","5","6"],
+			"categoryIds" : ["1","5","6","7"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage173.jpg"
 			},
@@ -6345,7 +6345,7 @@
 			"name" : "הרקדן האוטומטי (D)",
 			"singer" : "צביקה פיק",
 			"isPrivate" : true,
-			"categoryIds" : ["1","5"],
+			"categoryIds" : ["1","5","7"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage173_d.jpg"
 			},
@@ -6436,7 +6436,7 @@
 			"id" : 2000186,
 			"name" : "מעליות",
 			"singer" : "דודו טסה ורוני אלטר",
-			"categoryIds" : ["1"],
+			"categoryIds" : ["1","7"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage186.jpg"
 			},
@@ -6517,7 +6517,7 @@
 			"id" : 2000197,
 			"name" : "דואט פרידה",
 			"singer" : "מני בגר וגלי עטרי",
-			"categoryIds" : ["1"],
+			"categoryIds" : ["1","7"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage197.jpg"
 			},
@@ -6528,7 +6528,7 @@
 			"name" : "דואט פרידה (G)",
 			"singer" : "מני בגר וגלי עטרי",
 			"isPrivate" : true,
-			"categoryIds" : ["1"],
+			"categoryIds" : ["1","7"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage197_g.jpg"
 			},
@@ -6660,7 +6660,7 @@
 			"id" : 2000215,
 			"name" : "זהב",
 			"singer" : "סטטיק ובן אל תבורי",
-			"categoryIds" : ["1","4","5"],
+			"categoryIds" : ["1","4","5","7"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage215.jpg"
 			},
@@ -6856,7 +6856,7 @@
 			"id" : 2000237,
 			"name" : "הריקוד המוזר של הלב",
 			"singer" : "רונה קינן וגידי גוב",
-			"categoryIds" : ["1"],
+			"categoryIds" : ["1","7"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage237.jpg"
 			},
@@ -7068,7 +7068,7 @@
 			"id" : 2000257,
 			"name" : "טיפות",
 			"singer" : "עילי בוטנר וילדי החוץ",
-			"categoryIds" : ["1"],
+			"categoryIds" : ["1","7"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage257.jpg"
 			},
@@ -7375,7 +7375,7 @@
 			"id" : 2000284,
 			"name" : "עלש",
 			"singer" : "שלמה ארצי ושמעון בוסקילה",
-			"categoryIds" : ["1"],
+			"categoryIds" : ["1","7"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage284.jpg"
 			},
@@ -7580,7 +7580,7 @@
 			"id" : 2000303,
 			"name" : "אני חולם על נעמי",
 			"singer" : "חדוה ודוד",
-			"categoryIds" : ["1","5","6"],
+			"categoryIds" : ["1","5","6","7"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage303.txt"
 			},
@@ -7653,7 +7653,7 @@
 			"id" : 2000311,
 			"name" : "כאן",
 			"singer" : "אורנה ומשה דץ",
-			"categoryIds" : ["1","4","6"],
+			"categoryIds" : ["1","4","6","7"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage311.txt",
 				"markupVersion" : "2"
@@ -7844,7 +7844,7 @@
 			"id" : 2000330,
 			"name" : "מלדיטה לונה",
 			"singer" : "שלומי שבת ופבלו רוזנברג",
-			"categoryIds" : ["1","5"],
+			"categoryIds" : ["1","5","7"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage330.txt"
 			},
@@ -8171,7 +8171,7 @@
 			"id" : 2000363,
 			"name" : "ליל חניה",
 			"singer" : "חנן יובל, ירדנה ארזי, אפרים שמיר",
-			"categoryIds" : ["1","6"],
+			"categoryIds" : ["1","6","7"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage363.txt"
 			},
@@ -8311,7 +8311,7 @@
 			"id" : 2000377,
 			"name" : "לא יודע מה עובר לך בראש",
 			"singer" : "שלמה ארצי ויעל דקלבאום",
-			"categoryIds" : ["1"],
+			"categoryIds" : ["1","7"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage377.txt"
 			},
@@ -8647,7 +8647,7 @@
 			"id" : 2000411,
 			"name" : "תני לי",
 			"singer" : "שמוליק קראוס ומזי כהן",
-			"categoryIds" : ["1"],
+			"categoryIds" : ["1","7"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage411.txt"
 			},
@@ -8830,7 +8830,7 @@
 			"name" : "מלודי",
 			"singer" : "איזולירבנד",
 			"isPrivate" : true,
-			"categoryIds" : ["1"],
+			"categoryIds" : ["1","7"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage430.txt"
 			},
@@ -8870,7 +8870,7 @@
 			"id" : 2000434,
 			"name" : "שירים עד כאן",
 			"singer" : "צוות חופים",
-			"categoryIds" : ["1"],
+			"categoryIds" : ["1","7"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage434.txt"
 			},
@@ -11936,7 +11936,7 @@
 			"playback": {
 				"youTubeVideoId" : "lU9p1WRfA9w"
 			},
-			"categoryIds" : ["2"],
+			"categoryIds" : ["2","7"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page62.jpg"
 			},
@@ -12042,7 +12042,7 @@
 			"playback": {
 				"youTubeVideoId" : "Y1hcc1QvM2Q"
 			},
-			"categoryIds" : ["2"],
+			"categoryIds" : ["2","7"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page92.txt"
 			},
@@ -12323,7 +12323,7 @@
 			"playback": {
 				"youTubeVideoId" : "Q8Tiz6INF7I"
 			},
-			"categoryIds" : ["2","5"],
+			"categoryIds" : ["2","5","7"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page115.txt"
 			},
@@ -12588,7 +12588,7 @@
 			"playback": {
 				"youTubeVideoId" : "bo_efYhYU2A"
 			},
-			"categoryIds" : ["2"],
+			"categoryIds" : ["2","7"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page135.txt"
 			},
@@ -12642,7 +12642,7 @@
 			"playback": {
 				"youTubeVideoId" : "zsfj9j0kjoU"
 			},
-			"categoryIds" : ["2"],
+			"categoryIds" : ["2","7"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page139.txt"
 			},
@@ -12879,7 +12879,7 @@
 			"playback": {
 				"youTubeVideoId" : "1UUYjd2rjsE"
 			},
-			"categoryIds" : ["2"],
+			"categoryIds" : ["2","7"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page157.txt"
 			},
