@@ -4770,19 +4770,6 @@
 			"dateCreated" : 1604448000000,
 			"dateModified" : 1604448000000
 		}, {
-			"id" : 1000435,
-			"name" : "ואני שר",
-			"singer" : "שלומי שבת",
-			"playback": {
-				"youTubeVideoId" : "u1i5IxDJEKE"
-			},
-			"categoryIds" : ["1"],
-			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page435.txt"
-			},
-			"dateCreated" : 1604448000000,
-			"dateModified" : 1604448000000
-		}, {
 			"id" : 1000436,
 			"name" : "איגי וקסמן",
 			"singer" : "לא מחכה יותר לדוור",
@@ -7673,17 +7660,6 @@
 			},
 			"dateCreated" : 1557187200000,
 			"dateModified" : 1557705600000
-		}, {
-			"id" : 2000312,
-			"name" : "בוא איתי אל הגליל",
-			"singer" : "להקת פיקוד דרום",
-			"isPrivate" : true,
-			"categoryIds" : ["1","6"],
-			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage312.txt"
-			},
-			"dateCreated" : 1524355200000,
-			"dateModified" : 1557187200000
 		}, {
 			"id" : 2000313,
 			"name" : "מחרוזת גשר הירקון",
