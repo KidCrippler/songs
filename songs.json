@@ -5970,7 +5970,7 @@
 		}, {
 			"id" : 2000123,
 			"name" : "קרוב אל ליבך",
-			"singer" : "רמי קליינשטיין",
+			"singer" : "רמי קלינשטיין",
 			"categoryIds" : ["1"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage123.jpg"
@@ -9198,6 +9198,26 @@
 			"categoryIds" : ["1","5"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage466.txt"
+			},
+			"dateCreated" : 1607040000000,
+			"dateModified" : 1607040000000 
+		}, {
+			"id" : 2000467,
+			"name" : "הניחי לי",
+			"singer" : "רמי קלינשטיין",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage467.txt"
+			},
+			"dateCreated" : 1607040000000,
+			"dateModified" : 1607040000000 
+		}, {
+			"id" : 2000468,
+			"name" : "תפוחים ותמרים",
+			"singer" : "רמי קלינשטיין",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage468.txt"
 			},
 			"dateCreated" : 1607040000000,
 			"dateModified" : 1607040000000 
