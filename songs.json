@@ -1,5 +1,5 @@
 {
-	"version" : "2020_11_28",
+	"version" : "2020_12_5",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -9192,6 +9192,16 @@
 			"dateCreated" : 1606521600000,
 			"dateModified" : 1606521600000 
 		}, {
+			"id" : 2000466,
+			"name" : "הבל החן שקר היופי",
+			"singer" : "חיים צינוביץ׳",
+			"categoryIds" : ["1","5"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage466.txt"
+			},
+			"dateCreated" : 1607040000000,
+			"dateModified" : 1607040000000 
+		}, {
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
 			"singer" : "Beatles",
@@ -13026,7 +13036,20 @@
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page167.txt"
 			},
 			"dateCreated" : 1606521600000,
-			"dateModified" : 1606521600000
+			"dateModified" : 1607040000000
+		}, {
+			"id" : 4000168,
+			"name" : "You Raise Me Up",
+			"singer" : "Josh Groban",
+			"playback": {
+				"youTubeVideoId" : "aJxrX42WcjQ"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page168.txt"
+			},
+			"dateCreated" : 1607040000000,
+			"dateModified" : 1607040000000
 		}
 	]
 }
