@@ -56,15 +56,14 @@ G           Am
 Living like lovers
 C            F                  D/F#
 Rolling like thunder, under the covers
-      F                     G           C    G   F
+      F                     G            C    G   F
 And I guess that's why they call it the blues
 
 {Harmonica solo}
 
-G        
-      Em              F       C  Dm  C  Dm  C  Dm
-   C            G
-   Bm       F                 C  Dm  C  Dm  C  Dm
+G     G     Em     F     C  Dm  C  Dm  C  Dm  C
+G     G     Bm     F     C  Dm  C  Dm  C  Dm
+
 C          G     B7                     Em    Dm
 Wait on me girl, cry in the night if it helps
               C                  G
