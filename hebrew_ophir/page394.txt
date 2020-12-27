@@ -3,7 +3,8 @@
 C   C   C   C   F   F   G   G
 C   C   C   G   F   F   G   G
 Am  Am  Am  Am  F   F   G   G
-C G/B  Am  C/G  F   F   D   D
+C G/B  Am  C/G  F   F   F   F 
+D   D   D   D
 
 C           G
 פנים אל מול פנים
@@ -53,8 +54,8 @@ C        D     G          G7
  Am      F           Dsus4   D
 ואת יפה פנים אל מול פנים
 
-F        F       D          D
-Am   E    Am   E
+F   F   F   F   D   D   D   D
+Am  E   Am  E
 
 C           G
 פנים אל מול פנים

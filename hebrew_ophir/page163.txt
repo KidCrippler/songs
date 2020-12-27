@@ -1,10 +1,10 @@
 ﻿אלף כבאים – דודה / דני סנדרסון / דני סנדרסון וגידי גוב
 
-[גיטרה בלבד]
+{גיטרה בלבד}
 G    C  G     C  G     C  G
 G    C  G     C  G     C  G
 
-[כולם]            
+{כולם}           
 G    C  G     C  G     C  G
 G    C  G     C  G     C  G
 
@@ -39,11 +39,11 @@ Em            D        Bb                  F         C  D
         C D             C D              C D
 מגיע,         לא מגיע,        לא מגיע
 
-G    G    G    G     Dm     Dm      C      C
-G    G      F  G          F G     F   G  
-F         F         Dm          Dm
+G     G     G     G      Dm      Dm       C       C
+G     G     G     G     F  G     G      F   G    F   G  
+F     F    Dm     Dm
 
-    C G      C G    C G       G    C G    C G    C G 
+G!                             G    C G    C G    C G 
 אלף כבאים לא יצליחו לכבות אותי
 G    C G      C G    C G       C    F C    F C    F C
 אלף כבאים לא יצליחו לכבות אותי                 (לכבות אותי)
