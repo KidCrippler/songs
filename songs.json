@@ -9225,6 +9225,16 @@
 			"dateCreated" : 1607040000000,
 			"dateModified" : 1607040000000
 		}, {
+			"id" : 2000469,
+			"name" : "פעם תורי ופעם תורך",
+			"singer" : "שלמה ארצי",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage469.txt"
+			},
+			"dateCreated" : 1610755200000,
+			"dateModified" : 1610755200000
+		}, {
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
 			"singer" : "Beatles",
