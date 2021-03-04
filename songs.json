@@ -1,5 +1,5 @@
 {
-	"version" : "2020_01_22",
+	"version" : "2021_03_04",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -380,63 +380,67 @@
 			"id" : 1000030,
 			"name" : "מודדת",
 			"singer" : "ירמי קפלן",
+			"playback": {
+				"youTubeVideoId" : "IYjI7uep9Mc"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page30.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page30.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1614816000000
 		}, {
 			"id" : 1000031,
 			"name" : "האיש שראה הכול",
 			"singer" : "רוקפור",
+			"playback": {
+				"youTubeVideoId" : "za4aTmtjzDo"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page31.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page31.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1614816000000
 		}, {
 			"id" : 1000032,
 			"name" : "אמצע ספטמבר",
 			"singer" : "גלי עטרי",
+			"playback": {
+				"youTubeVideoId" : "pHlMK3IChG4"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page32.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page32.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1614816000000
 		}, {
 			"id" : 1000033,
 			"name" : "פראג",
 			"singer" : "אריק איינשטיין",
+			"playback": {
+				"youTubeVideoId" : "L-zCFDfYWtc"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page33.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page33.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1614816000000
 		}, {
 			"id" : 1000034,
 			"name" : "ככלות הקול והתמונה",
 			"singer" : "דני בסן",
+			"playback": {
+				"youTubeVideoId" : "tWN7c6cn3WA"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page34.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page34.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
-		}, {
-			"id" : 1010034,
-			"name" : "ככלות הקול והתמונה (A)",
-			"singer" : "דני בסן",
-			"isPrivate" : true,
-			"categoryIds" : ["1"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page34_a.jpg"
-			},
-			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1614816000000
 		}, {
 			"id" : 1000035,
 			"name" : "אגדת דשא",
@@ -449,17 +453,20 @@
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page35.jpg"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1614816000000
 		}, {
 			"id" : 1000036,
 			"name" : "ימים לבנים",
 			"singer" : "קצת אחרת",
+			"playback": {
+				"youTubeVideoId" : "7K9aJStI3bg"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page36.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page36.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1614816000000
 		}, {
 			"id" : 1000037,
 			"name" : "שיר בין ערביים",
@@ -4820,10 +4827,11 @@
 			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page439.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page439.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1605657600000,
-			"dateModified" : 1605657600000
+			"dateModified" : 1614816000000
 		}, {
 			"id" : 1000440,
 			"name" : "מגרד",
@@ -9239,7 +9247,7 @@
 			"name" : "העולם שמח",
 			"singer" : "כוורת",
 			"isPrivate" : true,
-			"categoryIds" : ["1", "5"],
+			"categoryIds" : ["1","5"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage470.txt"
 			},
@@ -11968,6 +11976,71 @@
 			},
 			"dateCreated" : 1605657600000,
 			"dateModified" : 1605657600000
+		}, {
+			"id" : 3000239,
+			"name" : "Kiss From A Rose",
+			"singer" : "Seal",
+			"playback": {
+				"youTubeVideoId" : "vx-Lzo9NxAQ"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page239.txt"
+			},
+			"dateCreated" : 1614816000000,
+			"dateModified" : 1614816000000
+		}, {
+			"id" : 3000240,
+			"name" : "Roar",
+			"singer" : "Katy Perry",
+			"playback": {
+				"youTubeVideoId" : "CevxZvSJLk8"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page240.txt"
+			},
+			"dateCreated" : 1614816000000,
+			"dateModified" : 1614816000000
+		}, {
+			"id" : 3000241,
+			"name" : "So Far Away",
+			"singer" : "Dire Straits",
+			"playback": {
+				"youTubeVideoId" : "IHXK9glwFBg"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page241.txt"
+			},
+			"dateCreated" : 1614816000000,
+			"dateModified" : 1614816000000
+		}, {
+			"id" : 3000242,
+			"name" : "Killing Me Softly",
+			"singer" : "Roberta Flack",
+			"playback": {
+				"youTubeVideoId" : "DEbi_YjpA-Y"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page242.txt"
+			},
+			"dateCreated" : 1614816000000,
+			"dateModified" : 1614816000000
+		}, {
+			"id" : 3000243,
+			"name" : "Private Emotion",
+			"singer" : "Ricky Martin",
+			"playback": {
+				"youTubeVideoId" : "N-m9fn1yeEI"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page243.txt"
+			},
+			"dateCreated" : 1614816000000,
+			"dateModified" : 1614816000000
 		}, {
 			"id" : 4000060,
 			"name" : "Lorelei",
