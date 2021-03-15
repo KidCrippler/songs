@@ -9254,6 +9254,16 @@
 			"dateCreated" : 1611273600000,
 			"dateModified" : 1614816000000
 		}, {
+			"id" : 2000471,
+			"name" : "הפינאלי",
+			"singer" : "סאבלימינל והצל",
+			"categoryIds" : ["1","5"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage471.txt"
+			},
+			"dateCreated" : 1615766400000,
+			"dateModified" : 1615766400000
+		}, {
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
 			"singer" : "Beatles",
