@@ -9264,6 +9264,16 @@
 			"dateCreated" : 1615766400000,
 			"dateModified" : 1615766400000
 		}, {
+			"id" : 2000472,
+			"name" : "חתולים",
+			"singer" : "ג׳ימבו ג׳יי ורביד פלוטניק",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage472.txt"
+			},
+			"dateCreated" : 1616803200000,
+			"dateModified" : 1616803200000
+		}, {
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
 			"singer" : "Beatles",
