@@ -26,7 +26,7 @@ Am         Em           F
 בנגיעה אחת אל מציאות אחרת
 
 G        Gm 
-Dm     Dm {maj7}    Dm7    Dm6
+Dm     {maj7} Dm    Dm7    Dm6
 
 C        Em
    אורח חיים אחר
@@ -58,8 +58,8 @@ Am         Em           F
           C#              Cm
 מחשבה היא אור, ידיעה היא ערך
 
-G        Gm         Dm     Dm {maj7
+G        Gm         Dm     {maj7} Dm
 G        Gm
-Dm     Dm {maj7}    Dm7    Dm6
+Dm     {maj7} Dm    Dm7    Dm6
 
 C        Em         C         Em

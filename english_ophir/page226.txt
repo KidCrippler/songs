@@ -23,7 +23,7 @@ Fm
    All I ever wanted
 Ab
    All I ever needed
-   Cm      Cm/B
+   Cm      Cm/Bb
 Is here in my arms
 Fm
    Words are very
@@ -57,7 +57,7 @@ Fm
    All I ever wanted
 Ab
    All I ever needed
-   Cm      Cm/B
+   Cm      Cm/Bb
 Is here in my arms
 Fm
    Words are very
@@ -74,7 +74,7 @@ Fm
    All I ever wanted
 Ab
    All I ever needed
-   Cm      Cm/B
+   Cm      Cm/Bb
 Is here in my arms
 Fm
    Words are very
@@ -86,7 +86,7 @@ Fm
    All I ever wanted
 Ab
    All I ever needed
-   Cm      Cm/B
+   Cm      Cm/Bb
 Is here in my arms
 Fm
    Words are very
@@ -95,8 +95,8 @@ unnecessary
 Cm               B     B
 They can only do harm
 
-Fm     Ab      Cm      Cm/B
-Fm     Ab      Cm      Cm/B
-Fm     Ab      Cm      Cm/B
-Fm     Ab      Cm      Cm/B
+Fm     Ab      Cm      Cm/Bb
+Fm     Ab      Cm      Cm/Bb
+Fm     Ab      Cm      Cm/Bb
+Fm     Ab      Cm      Cm/Bb
 {[Fade out}

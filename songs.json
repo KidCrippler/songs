@@ -1,5 +1,5 @@
 {
-	"version" : "2021_03_04",
+	"version" : "2021_04_03",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -307,10 +307,11 @@
 			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page23.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page23.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1604880000000
+			"dateModified" : 1617408000000
 		}, {
 			"id" : 1000024,
 			"name" : "יונתן, סע הביתה",
@@ -4395,10 +4396,11 @@
 			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page405.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page405.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1598572800000,
-			"dateModified" : 1598572800000
+			"dateModified" : 1617408000000
 		}, {
 			"id" : 1000406,
 			"name" : "רק איתך",
@@ -4750,10 +4752,11 @@
 			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page432.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page432.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1603843200000,
-			"dateModified" : 1603843200000
+			"dateModified" : 1617408000000
 		}, {
 			"id" : 1000433,
 			"name" : "קיץ",
@@ -4829,10 +4832,10 @@
 			"categoryIds" : ["1"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page439.txt",
-				"markupVersion" : "1"
+				"markupVersion" : "2"
 			},
 			"dateCreated" : 1605657600000,
-			"dateModified" : 1614816000000
+			"dateModified" : 1617408000000
 		}, {
 			"id" : 1000440,
 			"name" : "מגרד",
@@ -10796,10 +10799,11 @@
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page147.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page147.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1543881600000,
-			"dateModified" : 1543968000000
+			"dateModified" : 1617408000000
 		}, {
 			"id" : 3000148,
 			"name" : "Let it grow",
@@ -11837,10 +11841,11 @@
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page226.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page226.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1608854400000,
-			"dateModified" : 1608854400000
+			"dateModified" : 1617408000000
 		}, {
 			"id" : 3000227,
 			"name" : "The Logical Song",
