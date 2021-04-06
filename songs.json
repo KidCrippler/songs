@@ -1,5 +1,5 @@
 {
-	"version" : "2021_04_03",
+	"version" : "2021_04_07",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -9170,7 +9170,7 @@
 			"id" : 2000462,
 			"name" : "אם תרצי",
 			"singer" : "חנן בן ארי",
-			"categoryIds" : ["1"],
+			"categoryIds" : ["1","5"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage462.txt"
 			},
@@ -9270,12 +9270,23 @@
 			"id" : 2000472,
 			"name" : "חתולים",
 			"singer" : "ג׳ימבו ג׳יי ורביד פלוטניק",
+			"isPrivate" : true,
 			"categoryIds" : ["1"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage472.txt"
 			},
 			"dateCreated" : 1616803200000,
 			"dateModified" : 1616803200000
+		}, {
+			"id" : 2000473,
+			"name" : "אנחנו",
+			"singer" : "גיא מזיג",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage473.txt"
+			},
+			"dateCreated" : 1617667200000,
+			"dateModified" : 1617667200000
 		}, {
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
