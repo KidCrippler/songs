@@ -1,5 +1,5 @@
 {
-	"version" : "2021_04_07",
+	"version" : "2021_04_17",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -9287,6 +9287,17 @@
 			},
 			"dateCreated" : 1617667200000,
 			"dateModified" : 1617667200000
+		}, {
+			"id" : 2000474,
+			"name" : "לבד במדבר",
+			"singer" : "גיא מזיג",
+			"isPrivate" : true,
+			"categoryIds" : ["1","5"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage474.txt"
+			},
+			"dateCreated" : 1618531200000,
+			"dateModified" : 1618531200000
 		}, {
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
