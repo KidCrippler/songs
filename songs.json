@@ -9299,6 +9299,16 @@
 			"dateCreated" : 1618531200000,
 			"dateModified" : 1618531200000
 		}, {
+			"id" : 2000475,
+			"name" : "בדמעות שאת בוכה",
+			"singer" : "פבלו רוזנברג",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage475.txt"
+			},
+			"dateCreated" : 1618617600000,
+			"dateModified" : 1618617600000
+		}, {
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
 			"singer" : "Beatles",
