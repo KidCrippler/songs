@@ -82,7 +82,7 @@ Bmaj7             Ddim7     Ebm7                     Ab7
 Bmaj7                       Ddim7    Ebm7                      Ab7  
      And now it's virtual insanity        Forget your virtual reality
 Bmaj7                  Ddim7       Ebm7          Ab7
-Oh,     there's nothing so bad.       
+Oh,     there's nothing so bad  Not so bad
 Bmaj7   Ddim7    Ebm7    Ab7
      Oh yeh    I know   ye   ah
 
@@ -108,5 +108,8 @@ Oh, now there is no sound, for we all live underground
   Bmaj7        Ddim7 Ebm7        Ab7
        Living,       virtual   insanity
 
-Bmaj7    Bdim7   Ebm       C#        F#7               B     Cm7b5      Bmaj7    Bdim7 
-                 Virtual insanity is what we're living in
+Bmaj7    Bdim7   
+Ebm       C#        F#7               B
+Virtual insanity is what we're living in
+Cm7b5          Bmaj7          Bdim7 
+      Yeh      Yeh            It's allright now
