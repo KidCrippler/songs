@@ -19,6 +19,9 @@
 		}, {
 			"id" : "7",
 			"name" : "דואטים"
+		}, {
+			"id" : "10",
+			"name" : "נובה"
 		}
 	],
 	"newSongIds" : [
@@ -9312,9 +9315,9 @@
 			"id" : 2000800,
 			"name" : "אחלה חמודה",
 			"singer" : "בני בשן",
-			"categoryIds" : ["1"],
+			"categoryIds" : ["1","10"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/oren/hebrew_alon/apage800.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/oren/hebrew_oren/apage800.txt"
 			},
 			"dateCreated" : 1590883200000,
 			"dateModified" : 1590883200000
@@ -9322,9 +9325,9 @@
 			"id" : 2000801,
 			"name" : "איפה כל החברות שלך",
 			"singer" : "עומר אדם",
-			"categoryIds" : ["1"],
+			"categoryIds" : ["1","10"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/oren/hebrew_alon/apage801.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/oren/hebrew_oren/apage801.txt"
 			},
 			"dateCreated" : 1590883200000,
 			"dateModified" : 1590883200000
@@ -9479,7 +9482,7 @@
 			"playback": {
 				"youTubeVideoId" : "wGCMznqgqhE"
 			},
-			"categoryIds" : ["2"],
+			"categoryIds" : ["2","10"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page12.txt"
 			},
@@ -9559,7 +9562,7 @@
 			"playback": {
 				"youTubeVideoId" : "m4tJSn0QtME"
 			},
-			"categoryIds" : ["2"],
+			"categoryIds" : ["2","10"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page18.txt"
 			},
@@ -9598,7 +9601,7 @@
 			"playback": {
 				"youTubeVideoId" : "_FrOQC-zEog"
 			},
-			"categoryIds" : ["2"],
+			"categoryIds" : ["2","10"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page21.txt"
 			},
@@ -9886,7 +9889,7 @@
 			"playback": {
 				"youTubeVideoId" : "lwlogyj7nFE"
 			},
-			"categoryIds" : ["2"],
+			"categoryIds" : ["2","10"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page49.txt"
 			},
@@ -9977,7 +9980,7 @@
 			"playback": {
 				"youTubeVideoId" : "ttEMYvpoR-k"
 			},
-			"categoryIds" : ["2"],
+			"categoryIds" : ["2","10"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page66.txt"
 			},
@@ -10029,7 +10032,7 @@
 			"playback": {
 				"youTubeVideoId" : "vGJTaP6anOU"
 			},
-			"categoryIds" : ["2"],
+			"categoryIds" : ["2","10"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page71.txt",
 				"markupVersion" : "1"
@@ -10043,7 +10046,7 @@
 			"playback": {
 				"youTubeVideoId" : "1w7OgIMMRc4"
 			},
-			"categoryIds" : ["2"],
+			"categoryIds" : ["2","10"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page75.txt"
 			},
@@ -10121,7 +10124,7 @@
 			"playback": {
 				"youTubeVideoId" : "lrfhf1Gv4Tw"
 			},
-			"categoryIds" : ["2"],
+			"categoryIds" : ["2","10"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page83.txt"
 			},
@@ -10199,7 +10202,7 @@
 			"playback": {
 				"youTubeVideoId" : "OMOGaugKpzs"
 			},
-			"categoryIds" : ["2"],
+			"categoryIds" : ["2","10"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page98.txt",
 				"markupVersion" : "1"
@@ -10253,7 +10256,7 @@
 			"playback": {
 				"youTubeVideoId" : "0fAQhSRLQnM"
 			},
-			"categoryIds" : ["2"],
+			"categoryIds" : ["2","10"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page102.txt"
 			},
@@ -10261,12 +10264,12 @@
 			"dateModified" : 1519516800000
 		}, {
 			"id" : 3000103,
-			"name" : "Californication ",
+			"name" : "Californication",
 			"singer" : "Red Hot Chili Peppers",
 			"playback": {
 				"youTubeVideoId" : "YlUKcNNmywk"
 			},
-			"categoryIds" : ["2"],
+			"categoryIds" : ["2","10"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page103.txt"
 			},
@@ -10305,7 +10308,7 @@
 			"playback": {
 				"youTubeVideoId" : "9f06QZCVUHg"
 			},
-			"categoryIds" : ["2"],
+			"categoryIds" : ["2","10"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page106.txt"
 			},
@@ -10318,7 +10321,7 @@
 			"playback": {
 				"youTubeVideoId" : "bx1Bh8ZvH84"
 			},
-			"categoryIds" : ["2"],
+			"categoryIds" : ["2","10"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page107.txt"
 			},
@@ -10344,7 +10347,7 @@
 			"playback": {
 				"youTubeVideoId" : "xwtdhWltSIg"
 			},
-			"categoryIds" : ["2"],
+			"categoryIds" : ["2","10"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page109.txt"
 			},
@@ -10370,7 +10373,7 @@
 			"playback": {
 				"youTubeVideoId" : "EvuL5jyCHOw"
 			},
-			"categoryIds" : ["2"],
+			"categoryIds" : ["2","10"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page111.txt"
 			},
@@ -10450,7 +10453,7 @@
 			"playback": {
 				"youTubeVideoId" : "d_EADBnXjXc"
 			},
-			"categoryIds" : ["2"],
+			"categoryIds" : ["2","10"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page117.txt"
 			},
@@ -10569,7 +10572,7 @@
 			"playback": {
 				"youTubeVideoId" : "1G8V6ta9Auk"
 			},
-			"categoryIds" : ["2"],
+			"categoryIds" : ["2","10"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page126.txt"
 			},
@@ -10769,7 +10772,7 @@
 			"playback": {
 				"youTubeVideoId" : "TR3Vdo5etCQ"
 			},
-			"categoryIds" : ["2"],
+			"categoryIds" : ["2","10"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page141.txt",
 				"markupVersion" : "1"
@@ -10836,7 +10839,7 @@
 			"playback": {
 				"youTubeVideoId" : "GXhJxLWemxE"
 			},
-			"categoryIds" : ["2"],
+			"categoryIds" : ["2","10"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page146.txt"
 			},
@@ -10995,7 +10998,7 @@
 			"playback": {
 				"youTubeVideoId" : "5IpYOF4Hi6Q"
 			},
-			"categoryIds" : ["2"],
+			"categoryIds" : ["2","10"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page158.txt"
 			},
@@ -11009,7 +11012,7 @@
 			"playback": {
 				"youTubeVideoId" : "oRdxUFDoQe0"
 			},
-			"categoryIds" : ["2"],
+			"categoryIds" : ["2","10"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page159.txt"
 			},
@@ -11285,7 +11288,7 @@
 			"playback": {
 				"youTubeVideoId" : "rYEDA3JcQqw"
 			},
-			"categoryIds" : ["2"],
+			"categoryIds" : ["2","10"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page180.txt"
 			},
@@ -11325,7 +11328,7 @@
 			"playback": {
 				"youTubeVideoId" : "zUwEIt9ez7M"
 			},
-			"categoryIds" : ["2"],
+			"categoryIds" : ["2","10"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page183.txt"
 			},
@@ -11364,7 +11367,7 @@
 			"playback": {
 				"youTubeVideoId" : "MbXWrmQW-OE"
 			},
-			"categoryIds" : ["2"],
+			"categoryIds" : ["2","10"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page186.txt"
 			},
@@ -11801,7 +11804,7 @@
 			"playback": {
 				"youTubeVideoId" : "_zBwRDEFMRY"
 			},
-			"categoryIds" : ["2"],
+			"categoryIds" : ["2","10"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page219.txt"
 			},
@@ -12036,7 +12039,7 @@
 			"playback": {
 				"youTubeVideoId" : "f4Mc-NYPHaQ"
 			},
-			"categoryIds" : ["2"],
+			"categoryIds" : ["2","10"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page237.txt"
 			},
@@ -12234,7 +12237,7 @@
 			"playback": {
 				"youTubeVideoId" : "gj0Rz-uP4Mk"
 			},
-			"categoryIds" : ["2","5"],
+			"categoryIds" : ["2","5","10"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page89.jpg"
 			},
@@ -12325,7 +12328,7 @@
 			"playback": {
 				"youTubeVideoId" : "luwAMFcc2f8"
 			},
-			"categoryIds" : ["2"],
+			"categoryIds" : ["2","10"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page99.txt",
 				"markupVersion" : "2"
@@ -12447,7 +12450,7 @@
 			"playback": {
 				"youTubeVideoId" : "HgzGwKwLmgM"
 			},
-			"categoryIds" : ["2","5"],
+			"categoryIds" : ["2","5","10"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page108.txt"
 			},
@@ -12541,7 +12544,7 @@
 			"playback": {
 				"youTubeVideoId" : "Q8Tiz6INF7I"
 			},
-			"categoryIds" : ["2","5","7"],
+			"categoryIds" : ["2","5","7","10"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page115.txt"
 			},
@@ -12846,7 +12849,7 @@
 			"playback": {
 				"youTubeVideoId" : "izGwDsrQ1eQ"
 			},
-			"categoryIds" : ["2"],
+			"categoryIds" : ["2","10"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page138.txt"
 			},
@@ -13289,20 +13292,6 @@
 			"dateCreated" : 1610755200000,
 			"dateModified" : 1610755200000
 		}, {
-			"id" : 4000800,
-			"name" : "Rolling in the Deep",
-			"singer" : "Adele",
-			"isPrivate" : true,
-			"playback": {
-				"youTubeVideoId" : "WQnAxOQxQIU"
-			},
-			"categoryIds" : ["2"],
-			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/oren/english_alon/page800.txt"
-			},
-			"dateCreated" : 1590192000000,
-			"dateModified" : 1590192000000
-		}, {
 			"id" : 4000801,
 			"name" : "Back to Black",
 			"singer" : "Amy Winehouse",
@@ -13310,9 +13299,9 @@
 			"playback": {
 				"youTubeVideoId" : "WQnAxOQxQIU"
 			},
-			"categoryIds" : ["2"],
+			"categoryIds" : ["2","10"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/oren/english_alon/page801.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/oren/english_oren/page801.txt"
 			},
 			"dateCreated" : 1590192000000,
 			"dateModified" : 1590192000000
@@ -13324,9 +13313,9 @@
 			"playback": {
 				"youTubeVideoId" : "WQnAxOQxQIU"
 			},
-			"categoryIds" : ["2"],
+			"categoryIds" : ["2","10"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/oren/english_alon/page802.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/oren/english_oren/page802.txt"
 			},
 			"dateCreated" : 1590192000000,
 			"dateModified" : 1590192000000
@@ -13338,9 +13327,9 @@
 			"playback": {
 				"youTubeVideoId" : "WQnAxOQxQIU"
 			},
-			"categoryIds" : ["2"],
+			"categoryIds" : ["2","10"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/oren/english_alon/page803.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/oren/english_oren/page803.txt"
 			},
 			"dateCreated" : 1590192000000,
 			"dateModified" : 1590192000000
@@ -13352,9 +13341,9 @@
 			"playback": {
 				"youTubeVideoId" : "WQnAxOQxQIU"
 			},
-			"categoryIds" : ["2"],
+			"categoryIds" : ["2","10"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/oren/english_alon/page804.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/oren/english_oren/page804.txt"
 			},
 			"dateCreated" : 1590192000000,
 			"dateModified" : 1590192000000
@@ -13366,9 +13355,9 @@
 			"playback": {
 				"youTubeVideoId" : "WQnAxOQxQIU"
 			},
-			"categoryIds" : ["2"],
+			"categoryIds" : ["2","10"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/oren/english_alon/page805.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/oren/english_oren/page805.txt"
 			},
 			"dateCreated" : 1590192000000,
 			"dateModified" : 1590192000000
@@ -13380,9 +13369,10 @@
 			"playback": {
 				"youTubeVideoId" : "WQnAxOQxQIU"
 			},
-			"categoryIds" : ["2"],
+			"categoryIds" : ["2","10"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/oren/english_alon/page806.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/oren/english_oren/page806.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1590192000000,
 			"dateModified" : 1590192000000
@@ -13394,9 +13384,9 @@
 			"playback": {
 				"youTubeVideoId" : "WQnAxOQxQIU"
 			},
-			"categoryIds" : ["2"],
+			"categoryIds" : ["2","10"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/oren/english_alon/page807.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/oren/english_oren/page807.txt"
 			},
 			"dateCreated" : 1590192000000,
 			"dateModified" : 1590192000000
@@ -13408,9 +13398,9 @@
 			"playback": {
 				"youTubeVideoId" : "WQnAxOQxQIU"
 			},
-			"categoryIds" : ["2"],
+			"categoryIds" : ["2","10"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/oren/english_alon/page808.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/oren/english_oren/page808.txt"
 			},
 			"dateCreated" : 1590192000000,
 			"dateModified" : 1590192000000
@@ -13422,9 +13412,9 @@
 			"playback": {
 				"youTubeVideoId" : "WQnAxOQxQIU"
 			},
-			"categoryIds" : ["2"],
+			"categoryIds" : ["2","10"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/oren/english_alon/page809.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/oren/english_oren/page809.txt"
 			},
 			"dateCreated" : 1590192000000,
 			"dateModified" : 1590192000000
@@ -13436,23 +13426,9 @@
 			"playback": {
 				"youTubeVideoId" : "WQnAxOQxQIU"
 			},
-			"categoryIds" : ["2"],
+			"categoryIds" : ["2","10"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/oren/english_alon/page810.txt"
-			},
-			"dateCreated" : 1590192000000,
-			"dateModified" : 1590192000000
-		}, {
-			"id" : 4000811,
-			"name" : "Smoke on The Water",
-			"singer" : "Deep Purple",
-			"isPrivate" : true,
-			"playback": {
-				"youTubeVideoId" : "WQnAxOQxQIU"
-			},
-			"categoryIds" : ["2"],
-			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/oren/english_alon/page811.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/oren/english_oren/page810.txt"
 			},
 			"dateCreated" : 1590192000000,
 			"dateModified" : 1590192000000
@@ -13464,9 +13440,9 @@
 			"playback": {
 				"youTubeVideoId" : "WQnAxOQxQIU"
 			},
-			"categoryIds" : ["2"],
+			"categoryIds" : ["2","10"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/oren/english_alon/page812.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/oren/english_oren/page812.txt"
 			},
 			"dateCreated" : 1590192000000,
 			"dateModified" : 1590192000000
@@ -13478,9 +13454,9 @@
 			"playback": {
 				"youTubeVideoId" : "WQnAxOQxQIU"
 			},
-			"categoryIds" : ["2"],
+			"categoryIds" : ["2","10"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/oren/english_alon/page813.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/oren/english_oren/page813.txt"
 			},
 			"dateCreated" : 1590192000000,
 			"dateModified" : 1590192000000
@@ -13492,9 +13468,9 @@
 			"playback": {
 				"youTubeVideoId" : "WQnAxOQxQIU"
 			},
-			"categoryIds" : ["2"],
+			"categoryIds" : ["2","10"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/oren/english_alon/page814.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/oren/english_oren/page814.txt"
 			},
 			"dateCreated" : 1590192000000,
 			"dateModified" : 1590192000000
@@ -13506,9 +13482,9 @@
 			"playback": {
 				"youTubeVideoId" : "WQnAxOQxQIU"
 			},
-			"categoryIds" : ["2"],
+			"categoryIds" : ["2","10"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/oren/english_alon/page815.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/oren/english_oren/page815.txt"
 			},
 			"dateCreated" : 1590192000000,
 			"dateModified" : 1590192000000
@@ -13520,9 +13496,9 @@
 			"playback": {
 				"youTubeVideoId" : "WQnAxOQxQIU"
 			},
-			"categoryIds" : ["2"],
+			"categoryIds" : ["2","10"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/oren/english_alon/page816.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/oren/english_oren/page816.txt"
 			},
 			"dateCreated" : 1590192000000,
 			"dateModified" : 1590192000000
@@ -13534,9 +13510,9 @@
 			"playback": {
 				"youTubeVideoId" : "WQnAxOQxQIU"
 			},
-			"categoryIds" : ["2"],
+			"categoryIds" : ["2","10"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/oren/english_alon/page817.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/oren/english_oren/page817.txt"
 			},
 			"dateCreated" : 1590192000000,
 			"dateModified" : 1590192000000
@@ -13548,9 +13524,9 @@
 			"playback": {
 				"youTubeVideoId" : "WQnAxOQxQIU"
 			},
-			"categoryIds" : ["2"],
+			"categoryIds" : ["2","10"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/oren/english_alon/page819.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/oren/english_oren/page819.txt"
 			},
 			"dateCreated" : 1590192000000,
 			"dateModified" : 1590192000000
@@ -13562,9 +13538,9 @@
 			"playback": {
 				"youTubeVideoId" : "WQnAxOQxQIU"
 			},
-			"categoryIds" : ["2"],
+			"categoryIds" : ["2","10"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/oren/english_alon/page820.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/oren/english_oren/page820.txt"
 			},
 			"dateCreated" : 1590192000000,
 			"dateModified" : 1590192000000
@@ -13576,9 +13552,9 @@
 			"playback": {
 				"youTubeVideoId" : "WQnAxOQxQIU"
 			},
-			"categoryIds" : ["2"],
+			"categoryIds" : ["2","10"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/oren/english_alon/page821.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/oren/english_oren/page821.txt"
 			},
 			"dateCreated" : 1590192000000,
 			"dateModified" : 1590192000000
@@ -13590,23 +13566,9 @@
 			"playback": {
 				"youTubeVideoId" : "WQnAxOQxQIU"
 			},
-			"categoryIds" : ["2"],
+			"categoryIds" : ["2","10"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/oren/english_alon/page822.txt"
-			},
-			"dateCreated" : 1590192000000,
-			"dateModified" : 1590192000000
-		}, {
-			"id" : 4000823,
-			"name" : "Beat It",
-			"singer" : "Michael Jackson",
-			"isPrivate" : true,
-			"playback": {
-				"youTubeVideoId" : "WQnAxOQxQIU"
-			},
-			"categoryIds" : ["2"],
-			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/oren/english_alon/page823.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/oren/english_oren/page822.txt"
 			},
 			"dateCreated" : 1590192000000,
 			"dateModified" : 1590192000000
@@ -13618,9 +13580,9 @@
 			"playback": {
 				"youTubeVideoId" : "WQnAxOQxQIU"
 			},
-			"categoryIds" : ["2"],
+			"categoryIds" : ["2","10"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/oren/english_alon/page824.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/oren/english_oren/page824.txt"
 			},
 			"dateCreated" : 1590192000000,
 			"dateModified" : 1590192000000
@@ -13632,23 +13594,9 @@
 			"playback": {
 				"youTubeVideoId" : "WQnAxOQxQIU"
 			},
-			"categoryIds" : ["2"],
+			"categoryIds" : ["2","10"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/oren/english_alon/page825.txt"
-			},
-			"dateCreated" : 1590192000000,
-			"dateModified" : 1590192000000
-		}, {
-			"id" : 4000826,
-			"name" : "Come As You Are",
-			"singer" : "Nirvana",
-			"isPrivate" : true,
-			"playback": {
-				"youTubeVideoId" : "WQnAxOQxQIU"
-			},
-			"categoryIds" : ["2"],
-			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/oren/english_alon/page826.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/oren/english_oren/page825.txt"
 			},
 			"dateCreated" : 1590192000000,
 			"dateModified" : 1590192000000
@@ -13660,9 +13608,9 @@
 			"playback": {
 				"youTubeVideoId" : "WQnAxOQxQIU"
 			},
-			"categoryIds" : ["2"],
+			"categoryIds" : ["2","10"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/oren/english_alon/page827.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/oren/english_oren/page827.txt"
 			},
 			"dateCreated" : 1590192000000,
 			"dateModified" : 1590192000000
@@ -13674,23 +13622,9 @@
 			"playback": {
 				"youTubeVideoId" : "WQnAxOQxQIU"
 			},
-			"categoryIds" : ["2"],
+			"categoryIds" : ["2","10"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/oren/english_alon/page827.txt"
-			},
-			"dateCreated" : 1590192000000,
-			"dateModified" : 1590192000000
-		}, {
-			"id" : 4000829,
-			"name" : "Message In A Bottle",
-			"singer" : "Police",
-			"isPrivate" : true,
-			"playback": {
-				"youTubeVideoId" : "WQnAxOQxQIU"
-			},
-			"categoryIds" : ["2"],
-			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/oren/english_alon/page829.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/oren/english_oren/page827.txt"
 			},
 			"dateCreated" : 1590192000000,
 			"dateModified" : 1590192000000
@@ -13702,9 +13636,9 @@
 			"playback": {
 				"youTubeVideoId" : "WQnAxOQxQIU"
 			},
-			"categoryIds" : ["2"],
+			"categoryIds" : ["2","10"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/oren/english_alon/page830.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/oren/english_oren/page830.txt"
 			},
 			"dateCreated" : 1590192000000,
 			"dateModified" : 1590192000000
@@ -13716,23 +13650,9 @@
 			"playback": {
 				"youTubeVideoId" : "WQnAxOQxQIU"
 			},
-			"categoryIds" : ["2"],
+			"categoryIds" : ["2","10"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/oren/english_alon/page831.txt"
-			},
-			"dateCreated" : 1590192000000,
-			"dateModified" : 1590192000000
-		}, {
-			"id" : 4000832,
-			"name" : "I Want To Break Free",
-			"singer" : "Queen",
-			"isPrivate" : true,
-			"playback": {
-				"youTubeVideoId" : "WQnAxOQxQIU"
-			},
-			"categoryIds" : ["2"],
-			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/oren/english_alon/page832.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/oren/english_oren/page831.txt"
 			},
 			"dateCreated" : 1590192000000,
 			"dateModified" : 1590192000000
@@ -13744,9 +13664,9 @@
 			"playback": {
 				"youTubeVideoId" : "WQnAxOQxQIU"
 			},
-			"categoryIds" : ["2"],
+			"categoryIds" : ["2","10"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/oren/english_alon/page833.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/oren/english_oren/page833.txt"
 			},
 			"dateCreated" : 1590192000000,
 			"dateModified" : 1590192000000
@@ -13758,9 +13678,9 @@
 			"playback": {
 				"youTubeVideoId" : "WQnAxOQxQIU"
 			},
-			"categoryIds" : ["2"],
+			"categoryIds" : ["2","10"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/oren/english_alon/page834.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/oren/english_oren/page834.txt"
 			},
 			"dateCreated" : 1590192000000,
 			"dateModified" : 1590192000000
@@ -13772,23 +13692,9 @@
 			"playback": {
 				"youTubeVideoId" : "WQnAxOQxQIU"
 			},
-			"categoryIds" : ["2"],
+			"categoryIds" : ["2","10"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/oren/english_alon/page835.txt"
-			},
-			"dateCreated" : 1590192000000,
-			"dateModified" : 1590192000000
-		}, {
-			"id" : 4000836,
-			"name" : "Long Train Running",
-			"singer" : "The Doobie Brothers",
-			"isPrivate" : true,
-			"playback": {
-				"youTubeVideoId" : "WQnAxOQxQIU"
-			},
-			"categoryIds" : ["2"],
-			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/oren/english_alon/page836.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/oren/english_oren/page835.txt"
 			},
 			"dateCreated" : 1590192000000,
 			"dateModified" : 1590192000000
