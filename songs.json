@@ -1,5 +1,5 @@
 {
-	"version" : "2021_04_17",
+	"version" : "2021_04_24",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -5174,21 +5174,11 @@
 			"singer" : "שלמה ארצי",
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage31.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage31.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
-		}, {
-			"id" : 2010031,
-			"name" : "האהבה הישנה (Am)",
-			"singer" : "שלמה ארצי",
-			"isPrivate" : true,
-			"categoryIds" : ["1"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage31_am.jpg"
-			},
-			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1619222400000
 		}, {
 			"id" : 2000033,
 			"name" : "האיש ההוא",
@@ -9308,6 +9298,16 @@
 			},
 			"dateCreated" : 1618617600000,
 			"dateModified" : 1618617600000
+		}, {
+			"id" : 2000476,
+			"name" : "ככה וככה",
+			"singer" : "שלום חנוך",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage476.txt"
+			},
+			"dateCreated" : 1619222400000,
+			"dateModified" : 1619222400000
 		}, {
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
