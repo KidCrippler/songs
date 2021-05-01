@@ -1,5 +1,5 @@
 {
-	"version" : "2021_04_29",
+	"version" : "2021_05_01",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -1554,12 +1554,15 @@
 			"id" : 1000142,
 			"name" : "חתול מפלצת",
 			"singer" : "פורטיסחרוף",
+			"playback": {
+				"youTubeVideoId" : "fSWZ1fFsGXw"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page142.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page142.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1619827200000
 		}, {
 			"id" : 1000143,
 			"name" : "תשע בכיכר",
