@@ -72,10 +72,11 @@
 			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page4.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page4.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1597536000000
+			"dateModified" : 1619827200000
 		}, {
 			"id" : 1000005,
 			"name" : "יעלה ויבוא",
@@ -190,10 +191,10 @@
 			"categoryIds" : ["1","6"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page14.txt",
-				"markupVersion" : "1"
+				"markupVersion" : "2"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1608854400000
+			"dateModified" : 1619827200000
 		}, {
 			"id" : 1000015,
 			"name" : "אצלי הכל בסדר",
@@ -6031,10 +6032,11 @@
 			"singer" : "גידי גוב",
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage134.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage134.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1526860800000,
-			"dateModified" : 1526860800000
+			"dateModified" : 1619827200000
 		}, {
 			"id" : 2000137,
 			"name" : "יש אי שם",
@@ -10081,10 +10083,11 @@
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page80.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page80.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1594512000000
+			"dateModified" : 1619827200000
 		}, {
 			"id" : 3000081,
 			"name" : "Will You?",
@@ -10462,10 +10465,11 @@
 			},
 			"categoryIds" : ["2","5"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page119.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page119.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1619827200000
 		}, {
 			"id" : 3000120,
 			"name" : "Out Here On My Own",
@@ -10542,10 +10546,10 @@
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page125.txt",
-				"markupVersion" : "2"
+				"markupVersion" : "3"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1567209600000
+			"dateModified" : 1619827200000
 		}, {
 			"id" : 3000126,
 			"name" : "Come As You Are",
@@ -11469,10 +11473,11 @@
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page195.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page195.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1598054400000,
-			"dateModified" : 1598054400000
+			"dateModified" : 1619827200000
 		}, {
 			"id" : 3000196,
 			"name" : "Don't You Forget About Me",
