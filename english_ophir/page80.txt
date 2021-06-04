@@ -1,6 +1,6 @@
 ﻿Against all odds – Phil collins (+1)
  
-[Piano only]
+{Piano only}
 Dm7     G       Dm7     G        
  
 Am7                    Bm7                          Csus2           Dm7
@@ -27,7 +27,7 @@ And you coming back to me is against the odds
            Dm7              Gsus4  Gsus4  G  G
 and that's what I've got to face                    
 
-[Drums]
+{Drums}
 
   Am7                        Bm7                Csus2                  Dm7
 I wish I could just make you turn around        Turn around and see me cry
