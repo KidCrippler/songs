@@ -1,5 +1,5 @@
 {
-	"version" : "2021_07_08",
+	"version" : "2021_07_26",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -73,10 +73,10 @@
 			"categoryIds" : ["1"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page4.txt",
-				"markupVersion" : "1"
+				"markupVersion" : "2"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1619827200000
+			"dateModified" : 1625875200000
 		}, {
 			"id" : 1000005,
 			"name" : "יעלה ויבוא",
@@ -440,10 +440,11 @@
 			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page34.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page34.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1614816000000
+			"dateModified" : 1625875200000
 		}, {
 			"id" : 1000035,
 			"name" : "אגדת דשא",
@@ -4796,8 +4797,8 @@
 			"dateModified" : 1604448000000
 		}, {
 			"id" : 1000436,
-			"name" : "איגי וקסמן",
-			"singer" : "לא מחכה יותר לדוור",
+			"name" : "לא מחכה יותר לדוור",
+			"singer" : "איגי וקסמן",
 			"playback": {
 				"youTubeVideoId" : "3L4gFHig1JE"
 			},
@@ -4909,10 +4910,11 @@
 			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page444.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page444.txt",
+				"markupVersion" : "2"
 			},
 			"dateCreated" : 1624752000000,
-			"dateModified" : 1625702400000
+			"dateModified" : 1626480000000
 		}, {
 			"id" : 2000001,
 			"name" : "אדון שוקו",
@@ -5794,10 +5796,10 @@
 			"singer" : "אתניקס",
 			"categoryIds" : ["1","5"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage90.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage90.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1626220800000
 		}, {
 			"id" : 2000091,
 			"name" : "צליל מיתר",
@@ -6481,21 +6483,10 @@
 			"singer" : "ריטה",
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage187.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage187.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
-		}, {
-			"id" : 2010187,
-			"name" : "בוא (E)",
-			"singer" : "ריטה",
-			"isPrivate" : true,
-			"categoryIds" : ["1"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage187_e.jpg"
-			},
-			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1626220800000
 		}, {
 			"id" : 2000189,
 			"name" : "זכיתי לאהוב",
@@ -9446,6 +9437,87 @@
 			"dateCreated" : 1622764800000,
 			"dateModified" : 1622764800000
 		}, {
+			"id" : 2000487,
+			"name" : "מי מפחד מגברת לוין",
+			"singer" : "השלושרים",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage487.txt"
+			},
+			"dateCreated" : 1626220800000,
+			"dateModified" : 1626220800000
+		}, {
+			"id" : 2000488,
+			"name" : "סיגליות",
+			"singer" : "דיוויד ברוזה",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage488.txt"
+			},
+			"dateCreated" : 1626220800000,
+			"dateModified" : 1626220800000
+		}, {
+			"id" : 2000489,
+			"name" : "חלומות אחרים",
+			"singer" : "מאיר בנאי",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage489.txt"
+			},
+			"dateCreated" : 1626220800000,
+			"dateModified" : 1626220800000
+		}, {
+			"id" : 2000490,
+			"name" : "הראשונה",
+			"singer" : "משה פרץ",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage490.txt"
+			},
+			"dateCreated" : 1626220800000,
+			"dateModified" : 1626220800000
+		}, {
+			"id" : 2000491,
+			"name" : "סוף",
+			"singer" : "נדב כהן",
+			"isPrivate" : true,
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage491.txt"
+			},
+			"dateCreated" : 1626825600000,
+			"dateModified" : 1626825600000
+		}, {
+			"id" : 2000492,
+			"name" : "אחרי כל השנים",
+			"singer" : "עומר אדם",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage492.txt"
+			},
+			"dateCreated" : 1627084800000,
+			"dateModified" : 1627084800000
+		}, {
+			"id" : 2000493,
+			"name" : "כמה פעמים",
+			"singer" : "שירי מימון",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage493.txt"
+			},
+			"dateCreated" : 1627084800000,
+			"dateModified" : 1627084800000
+		}, {
+			"id" : 2000494,
+			"name" : "עד סוף העולם",
+			"singer" : "חיים משה ויואב יצחק",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage494.txt"
+			},
+			"dateCreated" : 1627171200000,
+			"dateModified" : 1627171200000
+		}, {
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
 			"singer" : "Beatles",
@@ -10282,10 +10354,11 @@
 			},
 			"categoryIds" : ["2","7"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page91.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page91.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1539388800000,
-			"dateModified" : 1603843200000
+			"dateModified" : 1625875200000
 		}, {
 			"id" : 3000094,
 			"name" : "Blue Suede Shoes",
@@ -13449,6 +13522,33 @@
 			},
 			"dateCreated" : 1625443200000,
 			"dateModified" : 1625443200000
+		}, {
+			"id" : 4000175,
+			"name" : "Open Road",
+			"singer" : "Gary Barlow",
+			"playback": {
+				"youTubeVideoId" : "OhLpZgKEmB8"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page175.txt"
+			},
+			"dateCreated" : 1626393600000,
+			"dateModified" : 1626393600000
+		}, {
+			"id" : 4000176,
+			"name" : "Supreme",
+			"singer" : "Robbie Williams",
+			"isPrivate" : true,
+			"playback": {
+				"youTubeVideoId" : "ULTtWUZhD9c"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page176.txt"
+			},
+			"dateCreated" : 1626393600000,
+			"dateModified" : 1626393600000
 		}
 	]
 }
