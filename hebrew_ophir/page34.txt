@@ -81,14 +81,13 @@ G                         Dm
   כי אחרי ככלות הקול והתמונה
 F         C                G    F#m
    מישהו יכול לשאול בלי כוונה
-Bm!               F#m
+Bm                F#m
     מתי בפעם האחרונה
-G    Bm       F#m   Asus4   A
+G    Bm       F#m     Asus4   A
 עשית משהו בשביל מישהו
- Bm   F#m       G    Asus4   A
+G    Bm       F#m     Asus4   A
 עשית משהו בשביל מישהו
- Bm   F#m       G    Asus4   A
+G    Bm       F#m     Asus4   A
 עשית משהו בשביל מישהו
- Bm   F#m       G    Asus4   A
+G    Bm       F#m     Asus4   A
 עשית משהו בשביל מישהו
-{Fade out}
