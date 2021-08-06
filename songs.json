@@ -1,5 +1,5 @@
 {
-	"version" : "2021_07_26",
+	"version" : "2021_08_07",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -9518,6 +9518,16 @@
 			},
 			"dateCreated" : 1627171200000,
 			"dateModified" : 1627171200000
+		}, {
+			"id" : 2000495,
+			"name" : "ויקיפדיה",
+			"singer" : "חנן בן ארי",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage495.txt"
+			},
+			"dateCreated" : 1628208000000,
+			"dateModified" : 1628208000000
 		}, {
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
