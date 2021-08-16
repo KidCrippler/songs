@@ -1897,12 +1897,15 @@
 			"id" : 1000173,
 			"name" : "קח אותי",
 			"singer" : "היהודים",
+			"playback": {
+				"youTubeVideoId" : "ZS68fKgg36k"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page173.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page173.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1628899200000
 		}, {
 			"id" : 1000174,
 			"name" : "הזמן שלך",
@@ -3224,12 +3227,15 @@
 			"id" : 1000311,
 			"name" : "סיגפו",
 			"singer" : "בית הבובות",
+			"playback": {
+				"youTubeVideoId" : "y_sHzgKo0i4"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page311.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page311.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1628899200000
 		}, {
 			"id" : 1000312,
 			"name" : "בגלל הרוח",
@@ -9427,10 +9433,11 @@
 			"singer" : "רביב כנר",
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage485.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage485.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1622764800000,
-			"dateModified" : 1622764800000
+			"dateModified" : 1628899200000
 		}, {
 			"id" : 2000486,
 			"name" : "עכשיו כולם רוקדים",
@@ -10411,6 +10418,20 @@
 			"dateCreated" : 1519516800000,
 			"dateModified" : 1603843200000
 		}, {
+			"id" : 3000096,
+			"name" : "Africa - guitar only",
+			"singer" : "Toto",
+			"isPrivate" : true,
+			"playback": {
+				"youTubeVideoId" : "FTQbiNvZqaY"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page96.txt"
+			},
+			"dateCreated" : 1519516800000,
+			"dateModified" : 1628899200000
+		}, {
 			"id" : 3000097,
 			"name" : "Make You Feel My Love",
 			"singer" : "Adele",
@@ -10645,10 +10666,10 @@
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page114.txt",
-				"markupVersion" : "1"
+				"markupVersion" : "2"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1628899200000
 		}, {
 			"id" : 3000115,
 			"name" : "Purple Rain",
@@ -12355,6 +12376,19 @@
 			},
 			"dateCreated" : 1614816000000,
 			"dateModified" : 1614816000000
+		}, {
+			"id" : 3000244,
+			"name" : "You Know Im No Good",
+			"singer" : "Amy Winehouse",
+			"playback": {
+				"youTubeVideoId" : "b-I2s5zRbHg"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page244.txt"
+			},
+			"dateCreated" : 1628899200000,
+			"dateModified" : 1628899200000
 		}, {
 			"id" : 4000060,
 			"name" : "Lorelei",
