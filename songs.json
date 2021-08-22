@@ -350,10 +350,11 @@
 			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page27.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page27.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1520121600000,
-			"dateModified" : 1605657600000
+			"dateModified" : 1629504000000
 		}, {
 			"id" : 1000028,
 			"name" : "באמונה עיוורת",
@@ -9435,10 +9436,10 @@
 			"categoryIds" : ["1"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage485.txt",
-				"markupVersion" : "1"
+				"markupVersion" : "2"
 			},
 			"dateCreated" : 1622764800000,
-			"dateModified" : 1628899200000
+			"dateModified" : 1629504000000
 		}, {
 			"id" : 2000486,
 			"name" : "עכשיו כולם רוקדים",
@@ -10449,10 +10450,11 @@
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page96.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page96.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1628899200000
+			"dateModified" : 1629504000000
 		}, {
 			"id" : 3000097,
 			"name" : "Make You Feel My Love",
@@ -10503,10 +10505,10 @@
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page100.txt",
-				"markupVersion" : "1"
+				"markupVersion" : "2"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1603843200000
+			"dateModified" : 1629504000000
 		}, {
 			"id" : 3000101,
 			"name" : "Nobody's Wife",
@@ -12407,10 +12409,24 @@
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page244.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page244.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1628899200000,
-			"dateModified" : 1628899200000
+			"dateModified" : 1629504000000
+		}, {
+			"id" : 3000245,
+			"name" : "The Show Must Go On",
+			"singer" : "Queen",
+			"playback": {
+				"youTubeVideoId" : "t99KH0TR-J4"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page245.txt"
+			},
+			"dateCreated" : 1629504000000,
+			"dateModified" : 1629504000000
 		}, {
 			"id" : 4000060,
 			"name" : "Lorelei",
