@@ -70,13 +70,13 @@ And a life ever after
               Dm    --->
 I cannot get enough
  
-Dm   Am/D   F/D   G/D
-Dm   Am/D   F/D   G/D
-{Guitar Solo}
-Dm   Am/D    F     G
-Dm   Am/D    F     G
-Dm   Am/D    F     G
-Dm   Am/D    F
+---> Dm   Am/D   F/D   G/D
+     Dm   Am/D   F/D   G/D
+     {Guitar Solo}
+     Dm   Am/D    F     G
+     Dm   Am/D    F     G
+     Dm   Am/D    F     G
+     Dm   Am/D    F
 
 G             Bb        F
 I just wanna feel real love

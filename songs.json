@@ -1,5 +1,5 @@
 {
-	"version" : "2021_08_29",
+	"version" : "2021_08_31",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -9538,10 +9538,11 @@
 			"singer" : "חנן בן ארי",
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage495.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage495.txt",
+				"markupVersion" : "2"
 			},
 			"dateCreated" : 1628208000000,
-			"dateModified" : 1629158400000
+			"dateModified" : 1630368000000
 		}, {
 			"id" : 2000496,
 			"name" : "תיבת הזמרה נפרדת (על העיר עפות יונים)",
@@ -9595,6 +9596,26 @@
 			},
 			"dateCreated" : 1630195200000,
 			"dateModified" : 1630195200000
+		}, {
+			"id" : 2000501,
+			"name" : "שמש",
+			"singer" : "חנן בן ארי",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage501.txt"
+			},
+			"dateCreated" : 1630368000000,
+			"dateModified" : 1630368000000
+		}, {
+			"id" : 2000502,
+			"name" : "אמא אם הייתי",
+			"singer" : "חנן בן ארי",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage502.txt"
+			},
+			"dateCreated" : 1630368000000,
+			"dateModified" : 1630368000000
 		}, {
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
