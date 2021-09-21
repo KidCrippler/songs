@@ -1,5 +1,5 @@
 {
-	"version" : "2021_09_21",
+	"version" : "2021_09_22",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -9636,6 +9636,47 @@
 			},
 			"dateCreated" : 1632182400000,
 			"dateModified" : 1632182400000
+		}, {
+			"id" : 2000505,
+			"name" : "שיר העמק",
+			"singer" : "הפרברים",
+			"isPrivate" : true,
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage505.txt"
+			},
+			"dateCreated" : 1632182400000,
+			"dateModified" : 1632182400000
+		}, {
+			"id" : 2000506,
+			"name" : "בחום של תל אביב (פרחה במרצדס)",
+			"singer" : "שרית חדד",
+			"categoryIds" : ["1","5"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage506.txt"
+			},
+			"dateCreated" : 1632268800000,
+			"dateModified" : 1632268800000
+		}, {
+			"id" : 2000507,
+			"name" : "בגללך",
+			"singer" : "אריק איינשטיין",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage507.txt"
+			},
+			"dateCreated" : 1632268800000,
+			"dateModified" : 1632268800000
+		}, {
+			"id" : 2000508,
+			"name" : "גברת עם סלים",
+			"singer" : "אריק איינשטיין",
+			"categoryIds" : ["1","4"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage508.txt"
+			},
+			"dateCreated" : 1632268800000,
+			"dateModified" : 1632268800000
 		}, {
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
