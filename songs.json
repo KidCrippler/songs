@@ -1,5 +1,5 @@
 {
-	"version" : "2021_09_22",
+	"version" : "2021_10_06",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -9678,6 +9678,16 @@
 			"dateCreated" : 1632268800000,
 			"dateModified" : 1632268800000
 		}, {
+			"id" : 2000509,
+			"name" : "חייך וחיי",
+			"singer" : "גידי גוב וריטה",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage509.txt"
+			},
+			"dateCreated" : 1633478400000,
+			"dateModified" : 1633478400000
+		}, {
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
 			"singer" : "Beatles",
@@ -13766,6 +13776,19 @@
 			},
 			"dateCreated" : 1629676800000,
 			"dateModified" : 1629676800000
+		}, {
+			"id" : 4000178,
+			"name" : "Underneath Your Clothes",
+			"singer" : "Shakira",
+			"playback": {
+				"youTubeVideoId" : "uwBwKcQ1k84"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page178.txt"
+			},
+			"dateCreated" : 1633478400000,
+			"dateModified" : 1633478400000
 		}
 	]
 }
