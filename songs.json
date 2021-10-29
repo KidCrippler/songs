@@ -1,5 +1,5 @@
 {
-	"version" : "2021_10_27",
+	"version" : "2021_10_30",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -6617,21 +6617,10 @@
 			"singer" : "דני ליטני",
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage203.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage203.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
-		}, {
-			"id" : 2010203,
-			"name" : "ימות משיח (Am)",
-			"singer" : "דני ליטני",
-			"isPrivate" : true,
-			"categoryIds" : ["1"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage203_am.jpg"
-			},
-			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1635552000000
 		}, {
 			"id" : 2000205,
 			"name" : "לא יפריד דבר",
@@ -9749,6 +9738,16 @@
 			},
 			"dateCreated" : 1635292800000,
 			"dateModified" : 1635292800000
+		}, {
+			"id" : 2000516,
+			"name" : "בואי נפרד",
+			"singer" : "חמי רודנר",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage516.txt"
+			},
+			"dateCreated" : 1635552000000,
+			"dateModified" : 1635552000000
 		}, {
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
