@@ -1,5 +1,5 @@
 {
-	"version" : "2021_11_13",
+	"version" : "2021_11_14",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -9789,6 +9789,16 @@
 			"dateCreated" : 1636761600000,
 			"dateModified" : 1636761600000
 		}, {
+			"id" : 2000522,
+			"name" : "ילד אתה שואל",
+			"singer" : "עוזי חיטמן",
+			"categoryIds" : ["1","4"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage522.txt"
+			},
+			"dateCreated" : 1636761600000,
+			"dateModified" : 1636848000000
+		}, {
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
 			"singer" : "Beatles",
@@ -13891,6 +13901,19 @@
 			},
 			"dateCreated" : 1633478400000,
 			"dateModified" : 1633478400000
+		}, {
+			"id" : 4000179,
+			"name" : "Hopelessly Devoted To You",
+			"singer" : "Olivia Newton John",
+			"playback": {
+				"youTubeVideoId" : "7433YZ9exRI"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page179.txt"
+			},
+			"dateCreated" : 1636848000000,
+			"dateModified" : 1636848000000
 		}
 	]
 }
