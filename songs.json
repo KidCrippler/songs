@@ -1,5 +1,5 @@
 {
-	"version" : "2021_11_26",
+	"version" : "2021_11_27",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -9768,6 +9768,36 @@
 			},
 			"dateCreated" : 1637798400000,
 			"dateModified" : 1637798400000
+		}, {
+			"id" : 2000524,
+			"name" : "צל עץ תמר",
+			"singer" : "זוהר ארגוב",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage524.txt"
+			},
+			"dateCreated" : 1637884800000,
+			"dateModified" : 1637884800000
+		}, {
+			"id" : 2000525,
+			"name" : "רוב הזמן את אשתי",
+			"singer" : "שלמה ארצי",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage525.txt"
+			},
+			"dateCreated" : 1637971200000,
+			"dateModified" : 1637971200000
+		}, {
+			"id" : 2000526,
+			"name" : "שניים",
+			"singer" : "שלמה ארצי וריטה",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage526.txt"
+			},
+			"dateCreated" : 1637971200000,
+			"dateModified" : 1637971200000
 		}, {
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
