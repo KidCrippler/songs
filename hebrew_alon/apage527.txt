@@ -14,7 +14,7 @@ A       Dm       Dm/A       Bb    -  /C   -  Bb    -
 
   Dm     Ao/D  F#o7     Gm    /F
 וכשבאת, כשבאת   אלי יש מאין
-Go/E        A     Dm   -   C   -   Bb
+ Eo         A     Dm   -   C   -   Bb
 ראיתי את בריאת העולם
    G       G/E      A
 ונגלה לי, נגלה לי האור
@@ -47,7 +47,7 @@ A       Dm       Dm/A       Bb    -  /C   -  Bb    -
 
   Dm     Ao/D  F#o7     Gm    /F
 וכשבאת, כשבאת   אלי יש מאין
-Go/E        A     Dm   -   C   -   Bb
+ Eo         A     Dm   -   C   -   Bb
 ראיתי את בריאת העולם
    G       G/E      A
 ונגלה לי, נגלה לי האור
