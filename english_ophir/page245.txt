@@ -1,6 +1,7 @@
 The Show Must Go On - Queen
 
-Bm     G      Em     F#sus4      Em
+Bm  Bm  Bm  Bm  G  G  G  G  
+Em  Em  F#sus4  F#sus4  Em  Em
 
       Bm
 Empty spaces, what are we living for
@@ -36,19 +37,20 @@ I guess I'm learning I must be warmer now
 I'll soon be turning round the corner now
   F#m
 Outside the dawn is breaking
-    G#sus4        G#                    F#m
+    G#sus4        G#                    F#m      Em!
 but inside in the dark I'm aching to be free
 
-Em               Bm                       G
+                 Bm                       G
 The show must go on      The show must go on
-  Em
-Inside my heart is breaking
+          Em
+Oooohh  inside my heart is breaking
    F#sus4          F#
 My make-up may be flaking
         Em               Bm
 But my smile      still stays on
 
-(Bm)     G      Em     F#sus4      Em
+Bm  Bm  Bm  G  G  G  G  
+Em  Em  F#sus4  F#sus4  Em  Em
 
 F            G            Em           Am
 My soul is painted like the wings of butterflies,
@@ -64,7 +66,8 @@ I'll face it with a grin, I'm never giving in
             Em    Bm
 on with the show
 
-(Bm)     G      Em     F#sus4      Em
+Bm  Bm  Bm  G  G  G  G  
+Em  Em  F#sus4  F#sus4  Em  Em
 
      Em
 I'll top the bill I'll overkill
