@@ -1,5 +1,5 @@
 {
-	"version" : "2021_12_23",
+	"version" : "2021_12_24",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -9809,6 +9809,26 @@
 			},
 			"dateCreated" : 1638662400000,
 			"dateModified" : 1638662400000
+		}, {
+			"id" : 2000528,
+			"name" : "איילת אהבים",
+			"singer" : "שלישיית גשר הירקון",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage528.txt"
+			},
+			"dateCreated" : 1640304000000,
+			"dateModified" : 1640304000000
+		}, {
+			"id" : 2000529,
+			"name" : "אלוהיי",
+			"singer" : "שלמה ארצי ואברהם טל",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage529.txt"
+			},
+			"dateCreated" : 1640304000000,
+			"dateModified" : 1640304000000
 		}, {
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
