@@ -1,5 +1,5 @@
 {
-	"version" : "2021_12_26",
+	"version" : "2021_12_29",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -9879,6 +9879,17 @@
 			},
 			"dateCreated" : 1640476800000,
 			"dateModified" : 1640476800000
+		}, {
+			"id" : 2000535,
+			"name" : "משה דץ",
+			"singer" : "קצת עצבון ערבה",
+			"isPrivate" : true,
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage535.txt"
+			},
+			"dateCreated" : 1640736000000,
+			"dateModified" : 1640736000000
 		}, {
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
