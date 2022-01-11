@@ -1,5 +1,5 @@
 {
-	"version" : "2022_01_06",
+	"version" : "2022_01_12",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -9900,6 +9900,26 @@
 			},
 			"dateCreated" : 1641254400000,
 			"dateModified" : 1641427200000
+		}, {
+			"id" : 2000537,
+			"name" : "ההר הירוק תמיד",
+			"singer" : "הגבעטרון",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage537.txt"
+			},
+			"dateCreated" : 1641686400000,
+			"dateModified" : 1641686400000
+		}, {
+			"id" : 2000538,
+			"name" : "אתה לי ארץ",
+			"singer" : "ירדנה ארזי",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage538.txt"
+			},
+			"dateCreated" : 1641945600000,
+			"dateModified" : 1641945600000
 		}, {
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
