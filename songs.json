@@ -10050,7 +10050,8 @@
 			"isPrivate" : true,
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage551.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage551.txt",
+				"markupVersion" : "2"
 			},
 			"dateCreated" : 1645228800000,
 			"dateModified" : 1645228800000
