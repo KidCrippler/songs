@@ -1,5 +1,5 @@
 {
-	"version" : "2022_04_15",
+	"version" : "2022_04_21",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -6174,21 +6174,10 @@
 			"singer" : "אליעד נחום",
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage146.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage146.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
-		}, {
-			"id" : 2010146,
-			"name" : "מתוק כשמר לי (Am)",
-			"singer" : "אליעד נחום",
-			"isPrivate" : true,
-			"categoryIds" : ["1"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage146_am.jpg"
-			},
-			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1650499200000
 		}, {
 			"id" : 2000148,
 			"name" : "רכב חברה",
@@ -6477,10 +6466,10 @@
 			"singer" : "הראל סקעת",
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage185.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage185.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1650499200000
 		}, {
 			"id" : 2000186,
 			"name" : "מעליות",
@@ -6689,10 +6678,10 @@
 			"singer" : "סטטיק ובן אל תבורי",
 			"categoryIds" : ["1","4","5","7"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage215.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage215.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1650499200000
 		}, {
 			"id" : 2000216,
 			"name" : "הבלדה למחלקה להלבשה תחתונה",
@@ -7212,21 +7201,10 @@
 			"singer" : "קובי אפללו",
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage272.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage272.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
-		}, {
-			"id" : 2010272,
-			"name" : "מה שהלב בחר (C)",
-			"singer" : "קובי אפללו",
-			"isPrivate" : true,
-			"categoryIds" : ["1"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage272_c.jpg"
-			},
-			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1650499200000
 		}, {
 			"id" : 2000273,
 			"name" : "בא מן השתיקה",
@@ -7417,10 +7395,10 @@
 			"singer" : "יהורם גאון",
 			"categoryIds" : ["1","5","6"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage289.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage289.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1557187200000
+			"dateModified" : 1650499200000
 		}, {
 			"id" : 2000290,
 			"name" : "חתונה",
