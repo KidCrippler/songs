@@ -1,5 +1,9 @@
 {
+<<<<<<< Updated upstream
 	"version" : "2022_05_12",
+=======
+	"version" : "2022_05_15",
+>>>>>>> Stashed changes
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -2946,10 +2950,11 @@
 			"singer" : "רמי קלינשטיין",
 			"categoryIds" : ["1","4"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page279.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page279.txt",
+				"markupVersion" : "2"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1652572800000
 		}, {
 			"id" : 1000280,
 			"name" : "רק אל תלכי",
@@ -6493,10 +6498,11 @@
 			"singer" : "עברי לידר",
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage189.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage189.txt",
+				"markupVersion" : "2"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1652572800000
 		}, {
 			"id" : 2000190,
 			"name" : "נואיבה",
@@ -10122,6 +10128,28 @@
 			},
 			"dateCreated" : 1651968000000,
 			"dateModified" : 1651968000000
+		}, {
+			"id" : 2000561,
+			"name" : "מחרוזת הורה",
+			"singer" : "עממי",
+			"isPrivate" : true,
+			"categoryIds" : ["1","5"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage561.txt"
+			},
+			"dateCreated" : 1652572800000,
+			"dateModified" : 1652572800000
+		}, {
+			"id" : 2000562,
+			"name" : "מחרוזת שבועות",
+			"singer" : "עממי",
+			"isPrivate" : true,
+			"categoryIds" : ["1","5"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage562.txt"
+			},
+			"dateCreated" : 1652572800000,
+			"dateModified" : 1652572800000
 		}, {
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
