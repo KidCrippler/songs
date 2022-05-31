@@ -18,7 +18,7 @@ C          G        Am    Am/F#      Em     C
 
 Em           Am/F#         
    אבל היא שם בחלומות שלא  
-G           Am   
+Em/G        Am
    יתגשמו בלעדיך
 Em         Am/F#         
    היא מחפשת ת'מקום שבו  
@@ -49,7 +49,7 @@ C     G          Am     Am/F#        Em     C
 
 Em           Am/F#         
    אבל היא שם בחלומות שלא  
-G           Am   
+Em/G        Am
    יתגשמו בלעדיך
 Em         Am/F#         
    היא מחפשת ת'מקום שבו  
@@ -64,22 +64,22 @@ C           G          Am
       F     Cmaj7     B            Em
 אתה שומע זאת אני,             שרה אליך...
 
-(Em) Am/F#   G                 Am
+(Em) Am/F#   Em/G              Am
                    אבל היא שם בחלומות שלא.....
-Em   Am/F#   G                Am
+(Em) Am/F#   Em/G              Am
                     יתגשמו בלעדיך.....
-Em   Am/F#   G                 Am
+(Em) Am/F#   Em/G              Am
                    אבל היא שם בחלומות שלא.....
-Em   Am/F#   G               Am
+(Em) Am/F#   Em/G              Am
                    יתגשמו בלעדיך.....
-Em         Am/F#        G          Am
+Em         Am/F#        Em/G       Am
     וואאהה       וואאהה   וואאהה   אהאהאהאה
-Em         Am/F#        G          Am
+Em         Am/F#        Em/G       Am
     וואאהה       וואאהה   וואאהה   אהאהאהאה
-Em           Am/F#            G            Am
+Em           Am/F#            Em/G         Am
 וואאהה      וואאהה      וואאהה   אהאהאהאה
-Em         Am/F#        G          Am
+Em         Am/F#        Em/G       Am
     וואאהה       וואאהה   וואאהה   אהאהאהאה
 
-Em         Am/F#          G           Am
-Em         Am/F#          G           Am
+Em         Am/F#          Em/G        Am
+Em         Am/F#          Em/G        Am

@@ -1,5 +1,5 @@
 {
-	"version" : "2022_05_28",
+	"version" : "2022_06_01",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -1610,12 +1610,15 @@
 			"id" : 1000145,
 			"name" : "יוצא לאור",
 			"singer" : "אהוד בנאי",
+			"playback": {
+				"youTubeVideoId" : "0hgfLoI-UDA"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page145.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page145.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1654041600000
 		}, {
 			"id" : 1000146,
 			"name" : "נרדם על החולות",
@@ -1910,20 +1913,24 @@
 			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page173.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page173.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1628899200000
+			"dateModified" : 1654041600000
 		}, {
 			"id" : 1000174,
 			"name" : "הזמן שלך",
 			"singer" : "היהודים",
+			"playback": {
+				"youTubeVideoId" : "tr-OXFt3YTA"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page174.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page174.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1654041600000
 		}, {
 			"id" : 1000175,
 			"name" : "השיר שלנו",
@@ -1948,12 +1955,15 @@
 			"id" : 1000177,
 			"name" : "מילים יפות",
 			"singer" : "גזוז",
+			"playback": {
+				"youTubeVideoId" : "DphyFKfxD4c"
+			},
 			"categoryIds" : ["1","5"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page177.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page177.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1654041600000
 		}, {
 			"id" : 1000180,
 			"name" : "פנים ושמות",
@@ -1963,7 +1973,7 @@
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page180.jpg"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1654041600000
 		}, {
 			"id" : 1000181,
 			"name" : "עד מחר",
@@ -2784,12 +2794,15 @@
 			"id" : 1000264,
 			"name" : "חזקה מהרוח",
 			"singer" : "גלי עטרי",
+			"playback": {
+				"youTubeVideoId" : "IBeUJY-Ybls"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page264.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page264.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1654041600000
 		}, {
 			"id" : 1000265,
 			"name" : "לילות לבנים",
@@ -12789,10 +12802,11 @@
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page227.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page227.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1603843200000,
-			"dateModified" : 1603843200000
+			"dateModified" : 1654041600000
 		}, {
 			"id" : 3000228,
 			"name" : "Dont Look Back In Anger",
