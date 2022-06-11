@@ -1,5 +1,5 @@
 {
-	"version" : "2022_06_11",
+	"version" : "2022_06_12",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -10193,6 +10193,16 @@
 			},
 			"dateCreated" : 1652832000000,
 			"dateModified" : 1652832000000
+		}, {
+			"id" : 2000566,
+			"name" : "אבינועם בחור כארז",
+			"singer" : "הדודאים",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage566.txt"
+			},
+			"dateCreated" : 1654992000000,
+			"dateModified" : 1654992000000
 		}, {
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
