@@ -3470,7 +3470,7 @@
 			"name" : "שועל במנוסה",
 			"singer" : "פורטיסחרוף",
 			"playback": {
-				"youTubeVideoId" : "v=s7bRxBhbPxM"
+				"youTubeVideoId" : "s7bRxBhbPxM"
 			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
@@ -3478,7 +3478,7 @@
 				"markupVersion" : "1"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1624752000000
+			"dateModified" : 1654992000000
 		}, {
 			"id" : 1000333,
 			"name" : "באתי אלייך",
@@ -4134,14 +4134,14 @@
 			"name" : "כשהלב בוכה",
 			"singer" : "שרית חדד",
 			"playback": {
-				"youTubeVideoId" : "v=bBCIefOfUKY"
+				"youTubeVideoId" : "bBCIefOfUKY"
 			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page382.txt"
 			},
 			"dateCreated" : 1595030400000,
-			"dateModified" : 1599523200000
+			"dateModified" : 1654992000000
 		}, {
 			"id" : 1000383,
 			"name" : "בואי כלה",
@@ -5411,12 +5411,15 @@
 			"id" : 2000051,
 			"name" : "יום שישי",
 			"singer" : "בנזין",
+			"playback": {
+				"youTubeVideoId" : "hC-2elRW4RE"
+			},
 			"categoryIds" : ["1","5"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage51.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage51.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1654992000000
 		}, {
 			"id" : 2000052,
 			"name" : "יומן מסע",
@@ -12146,14 +12149,14 @@
 			"name" : "Old And Wise",
 			"singer" : "Alan Parsons Project",
 			"playback": {
-				"youTubeVideoId" : "v=-4HI1_LTWIk"
+				"youTubeVideoId" : "-4HI1_LTWIk"
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page177.txt"
 			},
 			"dateCreated" : 1594512000000,
-			"dateModified" : 1594512000000
+			"dateModified" : 1654992000000
 		}, {
 			"id" : 3000178,
 			"name" : "Wild World",
