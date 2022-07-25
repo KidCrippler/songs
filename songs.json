@@ -1,5 +1,5 @@
 {
-	"version" : "2022_07_24",
+	"version" : "2022_07_25",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -10203,6 +10203,26 @@
 			},
 			"dateCreated" : 1658534400000,
 			"dateModified" : 1658534400000
+		}, {
+			"id" : 2000571,
+			"name" : "היא רוקדת",
+			"singer" : "ירדנה ארזי",
+			"categoryIds" : ["1","5"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage571.txt"
+			},
+			"dateCreated" : 1658707200000,
+			"dateModified" : 1658707200000
+		}, {
+			"id" : 2000572,
+			"name" : "הכינור הנאמן",
+			"singer" : "ירדנה ארזי",
+			"categoryIds" : ["1","5"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage572.txt"
+			},
+			"dateCreated" : 1658707200000,
+			"dateModified" : 1658707200000
 		}, {
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
