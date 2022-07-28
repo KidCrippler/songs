@@ -1,5 +1,5 @@
 {
-	"version" : "2022_07_25",
+	"version" : "2022_07_29",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -10223,6 +10223,79 @@
 			},
 			"dateCreated" : 1658707200000,
 			"dateModified" : 1658707200000
+		}, {
+			"id" : 2000573,
+			"name" : "על כל אלה (על הדבש ועל העוקץ)",
+			"singer" : "נעמי שמר",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage573.txt"
+			},
+			"dateCreated" : 1659052800000,
+			"dateModified" : 1659052800000
+		}, {
+			"id" : 2000574,
+			"name" : "חופים",
+			"singer" : "חוה אלברשטיין",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage574.txt"
+			},
+			"dateCreated" : 1659052800000,
+			"dateModified" : 1659052800000
+		}, {
+			"id" : 2000575,
+			"name" : "חולצה כחולה",
+			"singer" : "הגבעטרון",
+			"isPrivate" : true,
+			"categoryIds" : ["1","5"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage575.txt"
+			},
+			"dateCreated" : 1659052800000,
+			"dateModified" : 1659052800000
+		}, {
+			"id" : 2000576,
+			"name" : "במזרח זורח ורד",
+			"singer" : "תנועות הנוער",
+			"isPrivate" : true,
+			"categoryIds" : ["1","5"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage576.txt"
+			},
+			"dateCreated" : 1659052800000,
+			"dateModified" : 1659052800000
+		}, {
+			"id" : 2000577,
+			"name" : "למי אכפת מה שיהיה",
+			"singer" : "הגבעטרון",
+			"isPrivate" : true,
+			"categoryIds" : ["1","5"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage577.txt"
+			},
+			"dateCreated" : 1659052800000,
+			"dateModified" : 1659052800000
+		}, {
+			"id" : 2000578,
+			"name" : "בדרך חזרה",
+			"singer" : "אבי טולדנו",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage578.txt"
+			},
+			"dateCreated" : 1659052800000,
+			"dateModified" : 1659052800000
+		}, {
+			"id" : 2000579,
+			"name" : "אל הדרך",
+			"singer" : "אילנית",
+			"categoryIds" : ["1","5"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage579.txt"
+			},
+			"dateCreated" : 1659052800000,
+			"dateModified" : 1659052800000
 		}, {
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
