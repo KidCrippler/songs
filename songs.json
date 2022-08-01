@@ -1,5 +1,5 @@
 {
-	"version" : "2022_07_30",
+	"version" : "2022_08_02",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -10339,6 +10339,60 @@
 			},
 			"dateCreated" : 1659139200000,
 			"dateModified" : 1659139200000
+		}, {
+			"id" : 2000584,
+			"name" : "מגדים",
+			"singer" : "עמנואל זמיר",
+			"isPrivate" : true,
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage584.txt"
+			},
+			"dateCreated" : 1659398400000,
+			"dateModified" : 1659398400000
+		}, {
+			"id" : 2000585,
+			"name" : "דבקה החמור",
+			"singer" : "עמנואל זמיר",
+			"isPrivate" : true,
+			"categoryIds" : ["1","5"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage585.txt"
+			},
+			"dateCreated" : 1659398400000,
+			"dateModified" : 1659398400000
+		}, {
+			"id" : 2000586,
+			"name" : "שיר הנוקדים",
+			"singer" : "הדודאים",
+			"categoryIds" : ["1","5"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage586.txt"
+			},
+			"dateCreated" : 1659398400000,
+			"dateModified" : 1659398400000
+		}, {
+			"id" : 2000587,
+			"name" : "מחנה זה עניין רב תועלת",
+			"singer" : "תנועות הנוער",
+			"isPrivate" : true,
+			"categoryIds" : ["1","5"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage587.txt"
+			},
+			"dateCreated" : 1659398400000,
+			"dateModified" : 1659398400000
+		}, {
+			"id" : 2000588,
+			"name" : "פנינו אל השמש העולה",
+			"singer" : "תנועות הנוער",
+			"isPrivate" : true,
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage588.txt"
+			},
+			"dateCreated" : 1659398400000,
+			"dateModified" : 1659398400000
 		}, {
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
