@@ -1,5 +1,5 @@
 {
-	"version" : "2022_08_07",
+	"version" : "2022_08_08",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -10445,6 +10445,26 @@
 			},
 			"dateCreated" : 1659830400000,
 			"dateModified" : 1659830400000
+		}, {
+			"id" : 2000594,
+			"name" : "אני אוהב אותך לאה",
+			"singer" : "צביקה פיק",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage594.txt"
+			},
+			"dateCreated" : 1659916800000,
+			"dateModified" : 1659916800000
+		}, {
+			"id" : 2000595,
+			"name" : "בית אבי",
+			"singer" : "יהורם גאון",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage595.txt"
+			},
+			"dateCreated" : 1659916800000,
+			"dateModified" : 1659916800000
 		}, {
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
