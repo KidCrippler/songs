@@ -1,5 +1,5 @@
 {
-	"version" : "2022_08_19",
+	"version" : "2022_09_07",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -5904,10 +5904,10 @@
 			"singer" : "יוני רכטר",
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage100.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage100.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1662508800000
 		}, {
 			"id" : 2000101,
 			"name" : "שיר סתיו (כל הנחלים הולכים לים)",
@@ -7162,10 +7162,10 @@
 			"singer" : "דני רובס",
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage270.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage270.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1662508800000
 		}, {
 			"id" : 2000271,
 			"name" : "ברית עולם",
