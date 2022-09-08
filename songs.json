@@ -13366,6 +13366,45 @@
 			"dateCreated" : 1640217600000,
 			"dateModified" : 1640217600000
 		}, {
+			"id" : 3000248,
+			"name" : "About a girl",
+			"singer" : "Nirvana",
+			"playback": {
+				"youTubeVideoId" : "AhcttcXcRYY"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page248.txt"
+			},
+			"dateCreated" : 1662595200000,
+			"dateModified" : 1662595200000
+		}, {
+			"id" : 3000249,
+			"name" : "All apologies",
+			"singer" : "Nirvana",
+			"playback": {
+				"youTubeVideoId" : "aWmkuH1k7uA"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page249.txt"
+			},
+			"dateCreated" : 1662595200000,
+			"dateModified" : 1662595200000
+		}, {
+			"id" : 3000250,
+			"name" : "The final countdown",
+			"singer" : "Europe",
+			"playback": {
+				"youTubeVideoId" : "9jK-NcRmVcw"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page250.txt"
+			},
+			"dateCreated" : 1662595200000,
+			"dateModified" : 1662595200000
+		}, {
 			"id" : 4000060,
 			"name" : "Lorelei",
 			"singer" : "Scorpions",
