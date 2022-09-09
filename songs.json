@@ -1,5 +1,5 @@
 {
-	"version" : "2022_09_09",
+	"version" : "2022_09_10",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -10498,6 +10498,26 @@
 			},
 			"dateCreated" : 1662681600000,
 			"dateModified" : 1662681600000
+		}, {
+			"id" : 2000599,
+			"name" : "תפתחי חלון",
+			"singer" : "אליאב זוהר",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage599.txt"
+			},
+			"dateCreated" : 1662768000000,
+			"dateModified" : 1662768000000
+		}, {
+			"id" : 2000600,
+			"name" : "לא נפסיק לשיר",
+			"singer" : "יהורם גאון",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage600.txt"
+			},
+			"dateCreated" : 1662768000000,
+			"dateModified" : 1662768000000
 		}, {
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
