@@ -452,14 +452,14 @@
 			"name" : "אגדת דשא",
 			"singer" : "אושיק לוי",
 			"playback": {
-				"youTubeVideoId" : "N6GQi2mdnz8"
+				"youTubeVideoId" : "3Zl9Kb7C0PY"
 			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page35.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page35.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1614816000000
+			"dateModified" : 1662768000000
 		}, {
 			"id" : 1000036,
 			"name" : "ימים לבנים",
@@ -1479,20 +1479,20 @@
 			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page134.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page134.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1662768000000
 		}, {
 			"id" : 1000135,
 			"name" : "לאבד אותך ",
 			"singer" : "שי סאבי לוי",
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page135.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page135.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1662768000000
 		}, {
 			"id" : 1000136,
 			"name" : "אחרי שנסעת",
@@ -2011,12 +2011,15 @@
 			"id" : 1000184,
 			"name" : "רואים רחוק רואים שקוף",
 			"singer" : "שמוליק קראוס",
+			"playback": {
+				"youTubeVideoId" : "-IYi1bQJ6oA"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page184.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page184.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1662768000000
 		}, {
 			"id" : 1000185,
 			"name" : "שיר אחרי המלחמה",
@@ -2273,12 +2276,15 @@
 			"id" : 1000210,
 			"name" : "זן נדיר",
 			"singer" : "קורין אלאל",
+			"playback": {
+				"youTubeVideoId" : "V_dFJwzaK7k"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page210.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page210.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1662768000000
 		}, {
 			"id" : 1000211,
 			"name" : "יש לי חולשה לרקדנים",
@@ -2653,12 +2659,15 @@
 			"id" : 1000251,
 			"name" : "אין מקום אחר",
 			"singer" : "משינה",
+			"playback": {
+				"youTubeVideoId" : "3i6J5RJZBLc"
+			},
 			"categoryIds" : ["1","5"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page251.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page251.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1662768000000
 		}, {
 			"id" : 1000252,
 			"name" : "תפסיק לכוון אלי",
@@ -3399,10 +3408,11 @@
 			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page326.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page326.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1662768000000
 		}, {
 			"id" : 1000327,
 			"name" : "חוזה לך ברח",
@@ -3809,10 +3819,11 @@
 			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page357.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page357.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1539475200000,
-			"dateModified" : 1539475200000
+			"dateModified" : 1662768000000
 		}, {
 			"id" : 1000358,
 			"name" : "זמנך עבר",
@@ -10537,10 +10548,11 @@
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page1.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page1.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1597536000000
+			"dateModified" : 1662768000000
 		}, {
 			"id" : 3000002,
 			"name" : "Help",
@@ -11425,10 +11437,10 @@
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page98.txt",
-				"markupVersion" : "1"
+				"markupVersion" : "2"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1595894400000
+			"dateModified" : 1662768000000
 		}, {
 			"id" : 3000099,
 			"name" : "California Dreamin'",
@@ -11703,10 +11715,10 @@
 			"categoryIds" : ["2","5"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page119.txt",
-				"markupVersion" : "1"
+				"markupVersion" : "2"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1619827200000
+			"dateModified" : 1662768000000
 		}, {
 			"id" : 3000120,
 			"name" : "Out Here On My Own",
