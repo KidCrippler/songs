@@ -1,11 +1,10 @@
 The Final Countdown - Europe
 
-F#m   D   Bm   E - /E#
-F#m   D   Bm   E - /E#
-F#m   D   Bm   E - /E#
-F#m   D   Bm   E - /E#
+{Keyboard riff}
+F#m   D   Bm   E - /E#     {X4}
 F#m  E/G#  A   D   C#sus4   C#
- 
+
+{Drums+base}
 F#m   D   Bm   E
 F#m   D   Bm   E
 F#m  E/G#  A   D   C#sus4   C#
@@ -53,11 +52,13 @@ It's the final countdown...
                F#m    E/G#  A  D  C#sus4   C#
      The final countdown...       Ohhh
 
-F#m
+F#m     F#m
 {Instrumental}
  
 Bm  A/C#  D  G  Em  A  Bm  F#m
 Bm  A/C#  D  G  Em  A  Bm  C#
+
+{Keyboard riff}
 F#m  D  Bm  E
 F#m  D  Bm  E
           F#m    E/G#  A  D    C#sus4   C#
@@ -67,3 +68,8 @@ The final countdown...      Oh-oh
 It's the final countdown...
                F#m        D      Bm      E
      The final countdown...
+               F#m        D      Bm      E
+     The final countdown...
+               F#m        D      Bm      E
+     The final countdown...
+          F#m    E/G#  A  D    C#sus4   C#     F#m   
