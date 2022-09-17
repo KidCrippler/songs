@@ -1,5 +1,5 @@
 {
-	"version" : "2022_09_15",
+	"version" : "2022_09_17",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -521,12 +521,15 @@
 			"id" : 1000041,
 			"name" : "רוני",
 			"singer" : "גזוז",
+			"playback": {
+				"youTubeVideoId" : "UzeWZQnlYWA"
+			},
 			"categoryIds" : ["1","5"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page41.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page41.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1663372800000
 		}, {
 			"id" : 1000042,
 			"name" : "ילדים של החיים",
@@ -2509,12 +2512,15 @@
 			"id" : 1000231,
 			"name" : "ערב אבוד",
 			"singer" : "דודה",
+			"playback": {
+				"youTubeVideoId" : "e-VDtNd7xPw"
+			},
 			"categoryIds" : ["1","5"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page231.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page231.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1663372800000
 		}, {
 			"id" : 1000232,
 			"name" : "בלעדייך",
@@ -4977,6 +4983,45 @@
 			},
 			"dateCreated" : 1663200000000,
 			"dateModified" : 1663200000000
+		}, {
+			"id" : 1000446,
+			"name" : "סרטים",
+			"singer" : "קרח 9",
+			"playback": {
+				"youTubeVideoId" : "FCIeRaq8kck"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page446.txt"
+			},
+			"dateCreated" : 1663372800000,
+			"dateModified" : 1663372800000
+		}, {
+			"id" : 1000447,
+			"name" : "אפר ואבק",
+			"singer" : "יהודה פוליקר",
+			"playback": {
+				"youTubeVideoId" : "1FwSKM_GlkE"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page447.txt"
+			},
+			"dateCreated" : 1663372800000,
+			"dateModified" : 1663372800000
+		}, {
+			"id" : 1000448,
+			"name" : "שיר תקווה",
+			"singer" : "אביב גפן",
+			"playback": {
+				"youTubeVideoId" : "5yc6AwEmJ_E"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page448.txt"
+			},
+			"dateCreated" : 1663372800000,
+			"dateModified" : 1663372800000
 		}, {
 			"id" : 2000001,
 			"name" : "אדון שוקו",
@@ -13482,7 +13527,7 @@
 			"dateCreated" : 1662595200000,
 			"dateModified" : 1663200000000
 		}, {
-			"id" : 3000250,
+			"id" : 3000251,
 			"name" : "Get Back",
 			"singer" : "The Beatles",
 			"playback": {
@@ -13490,10 +13535,62 @@
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page250.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page251.txt"
 			},
 			"dateCreated" : 1663200000000,
-			"dateModified" : 1663200000000
+			"dateModified" : 1663372800000
+		}, {
+			"id" : 3000252,
+			"name" : "Soon Well Be Found",
+			"singer" : "Sia",
+			"playback": {
+				"youTubeVideoId" : "t1x8DMfbYN4"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page252.txt"
+			},
+			"dateCreated" : 1663372800000,
+			"dateModified" : 1663372800000
+		}, {
+			"id" : 3000253,
+			"name" : "Woman In Love",
+			"singer" : "Barbra Streisand",
+			"playback": {
+				"youTubeVideoId" : "tskm5LWYmIM"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page253.txt"
+			},
+			"dateCreated" : 1663372800000,
+			"dateModified" : 1663372800000
+		}, {
+			"id" : 3000254,
+			"name" : "Crazy",
+			"singer" : "Gnarls Barkley",
+			"playback": {
+				"youTubeVideoId" : "-N4jf6rtyuw"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page254.txt"
+			},
+			"dateCreated" : 1663372800000,
+			"dateModified" : 1663372800000
+		}, {
+			"id" : 3000255,
+			"name" : "Another One Bites The Dust",
+			"singer" : "Queen",
+			"playback": {
+				"youTubeVideoId" : "rY0WxgSXdEE"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page255.txt"
+			},
+			"dateCreated" : 1663372800000,
+			"dateModified" : 1663372800000
 		}, {
 			"id" : 4000060,
 			"name" : "Lorelei",
@@ -13823,10 +13920,11 @@
 			},
 			"categoryIds" : ["2","5"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page108.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page108.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1663372800000
 		}, {
 			"id" : 4000109,
 			"name" : "Thinking Out Loud",
