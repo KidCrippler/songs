@@ -1,5 +1,5 @@
 {
-	"version" : "2022_09_20",
+	"version" : "2022_09_21",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -2248,22 +2248,28 @@
 			"id" : 1000207,
 			"name" : "ימים של שקט",
 			"singer" : "לולה",
+			"playback": {
+				"youTubeVideoId" : "Mk4NgJDLxDA"
+			},
 			"categoryIds" : ["1","7"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page207.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page207.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1600905600000
+			"dateModified" : 1663718400000
 		}, {
 			"id" : 1000208,
 			"name" : "אנטארקטיקה",
 			"singer" : "קורין אלאל",
+			"playback": {
+				"youTubeVideoId" : "kXeSRsH3ibw"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page208.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page208.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1663718400000
 		}, {
 			"id" : 1000209,
 			"name" : "עכשיו הכל בסדר",
@@ -2385,12 +2391,15 @@
 			"id" : 1000220,
 			"name" : "אמריקה",
 			"singer" : "פורטיסחרוף",
+			"playback": {
+				"youTubeVideoId" : "rrkWpbST8pI"
+			},
 			"categoryIds" : ["1","5"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page220.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page220.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1624752000000
+			"dateModified" : 1663718400000
 		}, {
 			"id" : 1000221,
 			"name" : "שובי לביתך",
