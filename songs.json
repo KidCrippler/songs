@@ -1,5 +1,5 @@
 {
-	"version" : "2022_09_21",
+	"version" : "2022_09_27",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -477,32 +477,41 @@
 			"id" : 1000037,
 			"name" : "שיר בין ערביים",
 			"singer" : "קצת אחרת",
+			"playback": {
+				"youTubeVideoId" : "bnAALnidOQc"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page37.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page37.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1664236800000
 		}, {
 			"id" : 1000038,
 			"name" : "שיר אהבה ישן",
 			"singer" : "חוה אלברשטיין",
+			"playback": {
+				"youTubeVideoId" : "Wb7bt2_9aHw"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page38.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page38.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1664236800000
 		}, {
 			"id" : 1000039,
 			"name" : "חלומות",
 			"singer" : "רוחמה רז",
+			"playback": {
+				"youTubeVideoId" : "8s8GlypTbtY"
+			},
 			"categoryIds" : ["1","6"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page39.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page39.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1557187200000
+			"dateModified" : 1664236800000
 		}, {
 			"id" : 1000040,
 			"name" : "הכוכבים דולקים על אש קטנה",
@@ -2404,23 +2413,15 @@
 			"id" : 1000221,
 			"name" : "שובי לביתך",
 			"singer" : "שם טוב לוי",
+			"playback": {
+				"youTubeVideoId" : "e0EIvVlg1s8"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page221.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page221.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
-		}, {
-			"id" : 1010221,
-			"name" : "שובי לביתך (Dm)",
-			"singer" : "שם טוב לוי",
-			"isPrivate" : true,
-			"categoryIds" : ["1"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page221_dm.jpg"
-			},
-			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1664236800000
 		}, {
 			"id" : 1000222,
 			"name" : "אה אה אה",
@@ -2430,7 +2431,7 @@
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page222.jpg"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1664236800000
 		}, {
 			"id" : 1000223,
 			"name" : "לראות את האור",
@@ -5017,7 +5018,7 @@
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page447.txt"
 			},
 			"dateCreated" : 1663372800000,
-			"dateModified" : 1663372800000
+			"dateModified" : 1664236800000
 		}, {
 			"id" : 1000448,
 			"name" : "שיר תקווה",
@@ -5031,6 +5032,84 @@
 			},
 			"dateCreated" : 1663372800000,
 			"dateModified" : 1663372800000
+		}, {
+			"id" : 1000449,
+			"name" : "מה זאת אהבה",
+			"singer" : "ריקי גל ומתי כספי",
+			"playback": {
+				"youTubeVideoId" : "7JJ38cZFUio"
+			},
+			"categoryIds" : ["1","7"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page449.txt"
+			},
+			"dateCreated" : 1664236800000,
+			"dateModified" : 1664236800000
+		}, {
+			"id" : 1000450,
+			"name" : "עבדים",
+			"singer" : "ברי סחרוף",
+			"playback": {
+				"youTubeVideoId" : "2LH8kvivV-A"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page450.txt"
+			},
+			"dateCreated" : 1664236800000,
+			"dateModified" : 1664236800000
+		}, {
+			"id" : 1000451,
+			"name" : "צעיר לנצח",
+			"singer" : "רמי קליינשטיין",
+			"playback": {
+				"youTubeVideoId" : "WGwVoBZQ2qo"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page451.txt"
+			},
+			"dateCreated" : 1664236800000,
+			"dateModified" : 1664236800000
+		}, {
+			"id" : 1000452,
+			"name" : "חוץ ממך כלום",
+			"singer" : "רמי קליינשטיין",
+			"playback": {
+				"youTubeVideoId" : "UDOhaGWHWL4"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page452.txt"
+			},
+			"dateCreated" : 1664236800000,
+			"dateModified" : 1664236800000
+		}, {
+			"id" : 1000453,
+			"name" : "לאונרדו",
+			"singer" : "עברי לידר",
+			"playback": {
+				"youTubeVideoId" : "_n-bRXP2TaU"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page453.txt"
+			},
+			"dateCreated" : 1664236800000,
+			"dateModified" : 1664236800000
+		}, {
+			"id" : 1000454,
+			"name" : "זה מכבר",
+			"singer" : "אושיק לוי",
+			"playback": {
+				"youTubeVideoId" : "vA-5WvgbZlQ"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page454.txt"
+			},
+			"dateCreated" : 1664236800000,
+			"dateModified" : 1664236800000
 		}, {
 			"id" : 2000001,
 			"name" : "אדון שוקו",
@@ -13591,7 +13670,7 @@
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page252.txt"
 			},
 			"dateCreated" : 1663372800000,
-			"dateModified" : 1663372800000
+			"dateModified" : 1664236800000
 		}, {
 			"id" : 3000253,
 			"name" : "Woman In Love",
@@ -13631,6 +13710,97 @@
 			},
 			"dateCreated" : 1663372800000,
 			"dateModified" : 1663372800000
+		}, {
+			"id" : 3000256,
+			"name" : "Woman",
+			"singer" : "John Lennon",
+			"playback": {
+				"youTubeVideoId" : "Y0jTA0DtZvY"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page256.txt"
+			},
+			"dateCreated" : 1664236800000,
+			"dateModified" : 1664236800000
+		}, {
+			"id" : 3000257,
+			"name" : "My Sweet Lord",
+			"singer" : "George Harrison",
+			"playback": {
+				"youTubeVideoId" : "SP9wms6oEMo"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page257.txt"
+			},
+			"dateCreated" : 1664236800000,
+			"dateModified" : 1664236800000
+		}, {
+			"id" : 3000258,
+			"name" : "Crazy",
+			"singer" : "Aerosmith",
+			"playback": {
+				"youTubeVideoId" : "2KBBbSTQf6U"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page258.txt"
+			},
+			"dateCreated" : 1664236800000,
+			"dateModified" : 1664236800000
+		}, {
+			"id" : 3000259,
+			"name" : "God Only Knows",
+			"singer" : "Beach Boys",
+			"playback": {
+				"youTubeVideoId" : "u90beUXTKwo"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page259.txt"
+			},
+			"dateCreated" : 1664236800000,
+			"dateModified" : 1664236800000
+		}, {
+			"id" : 3000260,
+			"name" : "Good Vibrations",
+			"singer" : "Beach Boys",
+			"playback": {
+				"youTubeVideoId" : "Eab_beh07HU"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page260.txt"
+			},
+			"dateCreated" : 1664236800000,
+			"dateModified" : 1664236800000
+		}, {
+			"id" : 3000261,
+			"name" : "Free Fallin",
+			"singer" : "Tom Petty",
+			"playback": {
+				"youTubeVideoId" : "1lWJXDG2i0A"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page261.txt"
+			},
+			"dateCreated" : 1664236800000,
+			"dateModified" : 1664236800000
+		}, {
+			"id" : 3000262,
+			"name" : "Learning To Fly",
+			"singer" : "Tom Petty",
+			"playback": {
+				"youTubeVideoId" : "s5BJXwNeKsQ"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page262.txt"
+			},
+			"dateCreated" : 1664236800000,
+			"dateModified" : 1664236800000
 		}, {
 			"id" : 4000060,
 			"name" : "Lorelei",
