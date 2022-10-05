@@ -1,5 +1,5 @@
 {
-	"version" : "2022_09_27",
+	"version" : "2022_10_06",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -535,50 +535,63 @@
 			},
 			"categoryIds" : ["1","5"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page41.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page41.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1663372800000
+			"dateModified" : 1665014400000
 		}, {
 			"id" : 1000042,
 			"name" : "ילדים של החיים",
 			"singer" : "אריק איינשטיין",
+			"playback": {
+				"youTubeVideoId" : "3IRJ9oTakkE"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page42.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page42.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1665014400000
 		}, {
 			"id" : 1000043,
 			"name" : "לבן על לבן",
 			"singer" : "דן תורן",
+			"playback": {
+				"youTubeVideoId" : "HOGxuaL9lOk"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page43.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page43.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1665014400000
 		}, {
 			"id" : 1000044,
 			"name" : "סליחות",
 			"singer" : "יהודית רביץ",
+			"playback": {
+				"youTubeVideoId" : "k8GZxZOYQK8"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page44.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page44.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1665014400000
 		}, {
 			"id" : 1000045,
 			"name" : "אהבה יומיומית",
 			"singer" : "יהודית רביץ",
+			"playback": {
+				"youTubeVideoId" : "uEAVEEk1Hlo"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page45.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page45.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1665014400000
 		}, {
 			"id" : 1000046,
 			"name" : "דרכנו",
@@ -2275,10 +2288,11 @@
 			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page208.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page208.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1663718400000
+			"dateModified" : 1665014400000
 		}, {
 			"id" : 1000209,
 			"name" : "עכשיו הכל בסדר",
@@ -5110,6 +5124,45 @@
 			},
 			"dateCreated" : 1664236800000,
 			"dateModified" : 1664236800000
+		}, {
+			"id" : 1000455,
+			"name" : "מחכה לו",
+			"singer" : "דנה ברגר",
+			"playback": {
+				"youTubeVideoId" : "QT1-5ilhhk0"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page455.txt"
+			},
+			"dateCreated" : 1665014400000,
+			"dateModified" : 1665014400000
+		}, {
+			"id" : 1000456,
+			"name" : "כוכבים",
+			"singer" : "תיסלם",
+			"playback": {
+				"youTubeVideoId" : "gd-mZIONM_8"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page456.txt"
+			},
+			"dateCreated" : 1665014400000,
+			"dateModified" : 1665014400000
+		}, {
+			"id" : 1000457,
+			"name" : "אני אשיר לך שיר",
+			"singer" : "אריק לביא",
+			"playback": {
+				"youTubeVideoId" : "0MQHiMQbPDw"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page457.txt"
+			},
+			"dateCreated" : 1665014400000,
+			"dateModified" : 1665014400000
 		}, {
 			"id" : 2000001,
 			"name" : "אדון שוקו",
@@ -13801,6 +13854,45 @@
 			},
 			"dateCreated" : 1664236800000,
 			"dateModified" : 1664236800000
+		}, {
+			"id" : 3000263,
+			"name" : "Why Worry",
+			"singer" : "Dire Straits",
+			"playback": {
+				"youTubeVideoId" : "_03uXQiz6eY"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page263.txt"
+			},
+			"dateCreated" : 1665014400000,
+			"dateModified" : 1665014400000
+		}, {
+			"id" : 3000264,
+			"name" : "Hey Joe",
+			"singer" : "Jimi Hendrix",
+			"playback": {
+				"youTubeVideoId" : "rXwMrBb2x1Q"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page264.txt"
+			},
+			"dateCreated" : 1665014400000,
+			"dateModified" : 1665014400000
+		}, {
+			"id" : 3000265,
+			"name" : "Suspicious Minds",
+			"singer" : "Elvis Presley",
+			"playback": {
+				"youTubeVideoId" : "RxOBOhRECoo"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page265.txt"
+			},
+			"dateCreated" : 1665014400000,
+			"dateModified" : 1665014400000
 		}, {
 			"id" : 4000060,
 			"name" : "Lorelei",
