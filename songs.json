@@ -1,5 +1,5 @@
 {
-	"version" : "2022_10_06",
+	"version" : "2022_10_08",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -596,12 +596,15 @@
 			"id" : 1000046,
 			"name" : "דרכנו",
 			"singer" : "דני בסן",
+			"playback": {
+				"youTubeVideoId" : "xwDQd1rPs_Y"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page46.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page46.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1665187200000
 		}, {
 			"id" : 1000047,
 			"name" : "הגלשן",
@@ -611,7 +614,7 @@
 			},
 			"categoryIds" : ["1","4","5"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page47.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page47.txt"
 			},
 			"dateCreated" : 1519516800000,
 			"dateModified" : 1519516800000
@@ -619,52 +622,67 @@
 			"id" : 1000048,
 			"name" : "אהוב יקר",
 			"singer" : "רונית שחר",
+			"playback": {
+				"youTubeVideoId" : "uHfrqMbVy3Y"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page48.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page48.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1665187200000
 		}, {
 			"id" : 1000049,
 			"name" : "חורף 73",
 			"singer" : "להקת חיל חינוך",
+			"playback": {
+				"youTubeVideoId" : "gp9sO89a32I"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page49.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page49.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1665187200000
 		}, {
 			"id" : 1000050,
 			"name" : "נתתי לה חיי",
 			"singer" : "כוורת",
+			"playback": {
+				"youTubeVideoId" : "orkXG-xXO-k"
+			},
 			"categoryIds" : ["1","5","6"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page50.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page50.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1557187200000
+			"dateModified" : 1665187200000
 		}, {
 			"id" : 1000051,
 			"name" : "יורם",
 			"singer" : "יהודה פוליקר",
+			"playback": {
+				"youTubeVideoId" : "USN-mknddnM"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page51.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page51.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1665187200000
 		}, {
 			"id" : 1000052,
 			"name" : "דני",
 			"singer" : "משינה",
+			"playback": {
+				"youTubeVideoId" : "zK_MqjhWYK4"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page52.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page52.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1665187200000
 		}, {
 			"id" : 1000053,
 			"name" : "איש קש",
@@ -1607,23 +1625,15 @@
 			"id" : 1000143,
 			"name" : "תשע בכיכר",
 			"singer" : "גזוז",
+			"playback": {
+				"youTubeVideoId" : "A4vG5CA7RQ0"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page143.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page143.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
-		}, {
-			"id" : 1010143,
-			"name" : "תשע בכיכר (C)",
-			"singer" : "גזוז",
-			"isPrivate" : true,
-			"categoryIds" : ["1"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page143_c.jpg"
-			},
-			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1665187200000
 		}, {
 			"id" : 1000144,
 			"name" : "כולם אומרים",
@@ -1633,7 +1643,7 @@
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page144.jpg"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1665187200000
 		}, {
 			"id" : 1000145,
 			"name" : "יוצא לאור",
@@ -13759,10 +13769,11 @@
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page255.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page255.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1663372800000,
-			"dateModified" : 1663372800000
+			"dateModified" : 1665187200000
 		}, {
 			"id" : 3000256,
 			"name" : "Woman",
@@ -13837,10 +13848,11 @@
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page261.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page261.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1664236800000,
-			"dateModified" : 1664236800000
+			"dateModified" : 1665187200000
 		}, {
 			"id" : 3000262,
 			"name" : "Learning To Fly",
