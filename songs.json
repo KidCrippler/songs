@@ -1,5 +1,5 @@
 {
-	"version" : "2022_10_11",
+	"version" : "2022_10_16",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -687,22 +687,28 @@
 			"id" : 1000053,
 			"name" : "איש קש",
 			"singer" : "מוניקה סקס",
+			"playback": {
+				"youTubeVideoId" : "-32TOD2kg3g"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page53.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page53.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1665878400000
 		}, {
 			"id" : 1000054,
 			"name" : "התעשיה האבירית",
 			"singer" : "קורין אלאל",
+			"playback": {
+				"youTubeVideoId" : "eBSgM_05RmQ"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page54.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page54.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1665878400000
 		}, {
 			"id" : 1000055,
 			"name" : "יותר טוב כלום",
@@ -5007,7 +5013,7 @@
 		}, {
 			"id" : 1000445,
 			"name" : "תרגיל בהתעוררות",
-			"singer" : "שלומי שבן וחווה אלברשטיין",
+			"singer" : "שלומי שבן וחוה אלברשטיין",
 			"playback": {
 				"youTubeVideoId" : "EGGfPtSt-Gs"
 			},
@@ -5016,7 +5022,7 @@
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page445.txt"
 			},
 			"dateCreated" : 1663200000000,
-			"dateModified" : 1663200000000
+			"dateModified" : 1665878400000
 		}, {
 			"id" : 1000446,
 			"name" : "סרטים",
@@ -5117,10 +5123,11 @@
 			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page453.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page453.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1664236800000,
-			"dateModified" : 1664236800000
+			"dateModified" : 1665878400000
 		}, {
 			"id" : 1000454,
 			"name" : "זה מכבר",
@@ -5130,10 +5137,11 @@
 			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page454.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page454.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1664236800000,
-			"dateModified" : 1664236800000
+			"dateModified" : 1665878400000
 		}, {
 			"id" : 1000455,
 			"name" : "מחכה לו",
@@ -5173,6 +5181,45 @@
 			},
 			"dateCreated" : 1665014400000,
 			"dateModified" : 1665014400000
+		}, {
+			"id" : 1000458,
+			"name" : "ריקמה אנושית אחת",
+			"singer" : "חוה אלברשטיין",
+			"playback": {
+				"youTubeVideoId" : "cobPO_0eS1A"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page458.txt"
+			},
+			"dateCreated" : 1665878400000,
+			"dateModified" : 1665878400000
+		}, {
+			"id" : 1000459,
+			"name" : "לא סתם",
+			"singer" : "אמיר דדון",
+			"playback": {
+				"youTubeVideoId" : "vNOGhGPLV3o"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page459.txt"
+			},
+			"dateCreated" : 1665878400000,
+			"dateModified" : 1665878400000
+		}, {
+			"id" : 1000460,
+			"name" : "כמה אני אוהב אותך",
+			"singer" : "גיא מזיג",
+			"playback": {
+				"youTubeVideoId" : "oOFdWRZr2uM"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page460.txt"
+			},
+			"dateCreated" : 1665878400000,
+			"dateModified" : 1665878400000
 		}, {
 			"id" : 2000001,
 			"name" : "אדון שוקו",
@@ -13916,6 +13963,45 @@
 			},
 			"dateCreated" : 1665014400000,
 			"dateModified" : 1665014400000
+		}, {
+			"id" : 3000266,
+			"name" : "Where The Wild Roses Grow",
+			"singer" : "Nick Cave & Kylie Minogue",
+			"playback": {
+				"youTubeVideoId" : "lDpnjE1LUvE"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page266.txt"
+			},
+			"dateCreated" : 1665878400000,
+			"dateModified" : 1665878400000
+		}, {
+			"id" : 3000267,
+			"name" : "Man On The Moon",
+			"singer" : "REM",
+			"playback": {
+				"youTubeVideoId" : "dLxpNiF0YKs"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page267.txt"
+			},
+			"dateCreated" : 1665878400000,
+			"dateModified" : 1665878400000
+		}, {
+			"id" : 3000268,
+			"name" : "The Boxer",
+			"singer" : "Simon and Garfunkel",
+			"playback": {
+				"youTubeVideoId" : "l3LFML_pxlY"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page268.txt"
+			},
+			"dateCreated" : 1665878400000,
+			"dateModified" : 1665878400000
 		}, {
 			"id" : 4000060,
 			"name" : "Lorelei",

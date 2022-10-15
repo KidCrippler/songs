@@ -15,7 +15,7 @@ Cmaj7    Fmaj7      Em
     G          Cm   Cm7
 עוד חודש, עוד שנה
 
-}סולו חשמלית}
+{סולו חשמלית}
 Cmaj7    Cmaj7   Fmaj7     E
 
   A      Dsus4     D       A
@@ -31,7 +31,7 @@ D          A      Dm
     G          Cm   Cm7
 עוד חודש, עוד שנה
 
-}סולו חשמלית}
+{סולו חשמלית}
 Cmaj7    Cmaj7   Fmaj7     E
 
 A      Dsus4     D        A
