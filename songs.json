@@ -1,5 +1,5 @@
 {
-	"version" : "2022_10_16",
+	"version" : "2022_10_20",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -713,33 +713,42 @@
 			"id" : 1000055,
 			"name" : "יותר טוב כלום",
 			"singer" : "עברי לידר",
+			"playback": {
+				"youTubeVideoId" : "LW9elcPJmHY"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page55.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page55.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1666224000000
 		}, {
 			"id" : 1000056,
 			"name" : "מעיין",
 			"singer" : "קורין אלאל",
+			"playback": {
+				"youTubeVideoId" : "Z_fY6uc2GU8"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page56.jpg",
-				"imageVersion" : "1"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page56.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1666224000000
 		}, {
 			"id" : 1000057,
 			"name" : "גיטרה וכינור",
 			"singer" : "שלום חנוך",
+			"playback": {
+				"youTubeVideoId" : "6UltSHD_BbM"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page57.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page57.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1666224000000
 		}, {
 			"id" : 1000058,
 			"name" : "אור הירח",
@@ -757,22 +766,28 @@
 			"id" : 1000059,
 			"name" : "הכעס",
 			"singer" : "רוקפור",
+			"playback": {
+				"youTubeVideoId" : "Tw6ExvpuKT0"
+			},
 			"categoryIds" : ["1","5"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page59.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page59.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1666224000000
 		}, {
 			"id" : 1000060,
 			"name" : "גן נעול",
 			"singer" : "שוקי ודורית",
+			"playback": {
+				"youTubeVideoId" : "XAJgXkkVJv4"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page60.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page60.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1666224000000
 		}, {
 			"id" : 1000061,
 			"name" : "קפה אצל ברטה",
@@ -5220,6 +5235,32 @@
 			},
 			"dateCreated" : 1665878400000,
 			"dateModified" : 1665878400000
+		}, {
+			"id" : 1000461,
+			"name" : "טיפ טיפה",
+			"singer" : "אהוד בנאי",
+			"playback": {
+				"youTubeVideoId" : "rF5aXujbavA"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page461.txt"
+			},
+			"dateCreated" : 1666224000000,
+			"dateModified" : 1666224000000
+		}, {
+			"id" : 1000462,
+			"name" : "ריקוד המכונה",
+			"singer" : "משינה",
+			"playback": {
+				"youTubeVideoId" : "U0THoV7yTeA"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page462.txt"
+			},
+			"dateCreated" : 1666224000000,
+			"dateModified" : 1666224000000
 		}, {
 			"id" : 2000001,
 			"name" : "אדון שוקו",
@@ -13988,7 +14029,7 @@
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page267.txt"
 			},
 			"dateCreated" : 1665878400000,
-			"dateModified" : 1665878400000
+			"dateModified" : 1666224000000
 		}, {
 			"id" : 3000268,
 			"name" : "The Boxer",
@@ -14002,6 +14043,32 @@
 			},
 			"dateCreated" : 1665878400000,
 			"dateModified" : 1665878400000
+		}, {
+			"id" : 3000269,
+			"name" : "Stupid Thing",
+			"singer" : "Aimee Mann",
+			"playback": {
+				"youTubeVideoId" : "sTm7aZE6u6w"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page269.txt"
+			},
+			"dateCreated" : 1666224000000,
+			"dateModified" : 1666224000000
+		}, {
+			"id" : 3000270,
+			"name" : "Otherside",
+			"singer" : "Red Hot Chili Peppers",
+			"playback": {
+				"youTubeVideoId" : "rn_YodiJO6k"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page270.txt"
+			},
+			"dateCreated" : 1666224000000,
+			"dateModified" : 1666224000000
 		}, {
 			"id" : 4000060,
 			"name" : "Lorelei",
