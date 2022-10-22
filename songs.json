@@ -1,5 +1,5 @@
 {
-	"version" : "2022_10_20",
+	"version" : "2022_10_23",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -806,22 +806,28 @@
 			"id" : 1000062,
 			"name" : "ציף ציף מעל הרציף",
 			"singer" : "דני ליטני",
+			"playback": {
+				"youTubeVideoId" : "qUjqRu3SR3g"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page62.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page62.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1666483200000
 		}, {
 			"id" : 1000063,
 			"name" : "עכשיו",
 			"singer" : "ג'וני שועלי",
+			"playback": {
+				"youTubeVideoId" : "NzGDdQ5W1GM"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page63.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page63.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1666483200000
 		}, {
 			"id" : 1000064,
 			"name" : "אני אוהב",
@@ -5261,6 +5267,32 @@
 			},
 			"dateCreated" : 1666224000000,
 			"dateModified" : 1666224000000
+		}, {
+			"id" : 1000463,
+			"name" : "אני אוהב אותך",
+			"singer" : "החברים של נטאשה",
+			"playback": {
+				"youTubeVideoId" : "kOJmBtFnh-g"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page463.txt"
+			},
+			"dateCreated" : 1666483200000,
+			"dateModified" : 1666483200000
+		}, {
+			"id" : 1000464,
+			"name" : "ניגע אל החלום",
+			"singer" : "איחינועם ניני",
+			"playback": {
+				"youTubeVideoId" : "wZ70KhL40fQ"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page464.txt"
+			},
+			"dateCreated" : 1666483200000,
+			"dateModified" : 1666483200000
 		}, {
 			"id" : 2000001,
 			"name" : "אדון שוקו",
@@ -14069,6 +14101,32 @@
 			},
 			"dateCreated" : 1666224000000,
 			"dateModified" : 1666224000000
+		}, {
+			"id" : 3000271,
+			"name" : "Tequila",
+			"singer" : "The Champs",
+			"playback": {
+				"youTubeVideoId" : "dcvf_DNoyXk"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page271.txt"
+			},
+			"dateCreated" : 1666483200000,
+			"dateModified" : 1666483200000
+		}, {
+			"id" : 3000272,
+			"name" : "What A Wonderful World",
+			"singer" : "Louis Armstrong",
+			"playback": {
+				"youTubeVideoId" : "VqhCQZaH4Vs"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page272.txt"
+			},
+			"dateCreated" : 1666483200000,
+			"dateModified" : 1666483200000
 		}, {
 			"id" : 4000060,
 			"name" : "Lorelei",
