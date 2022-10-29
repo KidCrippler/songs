@@ -1,5 +1,5 @@
 {
-	"version" : "2022_10_23",
+	"version" : "2022_10_29",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -832,19 +832,25 @@
 			"id" : 1000064,
 			"name" : "אני אוהב",
 			"singer" : "הכבש השישה עשר",
+			"playback": {
+				"youTubeVideoId" : "vC1T5vkLs-k"
+			},
 			"categoryIds" : ["1","4"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page64.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page64.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1667001600000
 		}, {
 			"id" : 1000065,
 			"name" : "אל תשאלי אם אני אוהב",
 			"singer" : "דיוויד ברוזה ונימרוד לב",
+			"playback": {
+				"youTubeVideoId" : "C-dY3XpLKdQ"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page65.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page65.txt"
 			},
 			"dateCreated" : 1519516800000,
 			"dateModified" : 1519516800000
@@ -852,9 +858,12 @@
 			"id" : 1000066,
 			"name" : "אני ואתה",
 			"singer" : "אריק איינשטיין",
+			"playback": {
+				"youTubeVideoId" : "gP6PS-poyMg"
+			},
 			"categoryIds" : ["1","4"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page66.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page66.txt"
 			},
 			"dateCreated" : 1519516800000,
 			"dateModified" : 1519516800000
@@ -862,9 +871,12 @@
 			"id" : 1000067,
 			"name" : "אימפריות נופלות לאט",
 			"singer" : "דן תורן",
+			"playback": {
+				"youTubeVideoId" : "EnZqM_LKN6E"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page67.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page67.txt"
 			},
 			"dateCreated" : 1519516800000,
 			"dateModified" : 1519516800000
@@ -872,9 +884,12 @@
 			"id" : 1000068,
 			"name" : "משבר אמון",
 			"singer" : "דני ליטני",
+			"playback": {
+				"youTubeVideoId" : "tiqOjCWydXU"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page68.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page68.txt"
 			},
 			"dateCreated" : 1519516800000,
 			"dateModified" : 1519516800000
@@ -882,9 +897,12 @@
 			"id" : 1000069,
 			"name" : "כמה טוב שבאת הביתה",
 			"singer" : "אריק איינשטיין",
+			"playback": {
+				"youTubeVideoId" : "Che2jea8z_Q"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page69.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page69.txt"
 			},
 			"dateCreated" : 1519516800000,
 			"dateModified" : 1519516800000
@@ -892,9 +910,12 @@
 			"id" : 1000070,
 			"name" : "לכבוד הקיץ",
 			"singer" : "גזוז",
+			"playback": {
+				"youTubeVideoId" : "XYpWCoqirPM"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page70.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page70.txt"
 			},
 			"dateCreated" : 1519516800000,
 			"dateModified" : 1519516800000
@@ -5040,10 +5061,11 @@
 			},
 			"categoryIds" : ["1","7"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page445.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page445.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1663200000000,
-			"dateModified" : 1665878400000
+			"dateModified" : 1667001600000
 		}, {
 			"id" : 1000446,
 			"name" : "סרטים",
@@ -5185,10 +5207,11 @@
 			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page456.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page456.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1665014400000,
-			"dateModified" : 1665014400000
+			"dateModified" : 1667001600000
 		}, {
 			"id" : 1000457,
 			"name" : "אני אשיר לך שיר",
@@ -5293,6 +5316,19 @@
 			},
 			"dateCreated" : 1666483200000,
 			"dateModified" : 1666483200000
+		}, {
+			"id" : 1000465,
+			"name" : "מקום לדאגה",
+			"singer" : "מתי כספי",
+			"playback": {
+				"youTubeVideoId" : "vzM7MR9ry-k"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page465.txt"
+			},
+			"dateCreated" : 1667001600000,
+			"dateModified" : 1667001600000
 		}, {
 			"id" : 2000001,
 			"name" : "אדון שוקו",
@@ -14128,6 +14164,18 @@
 			},
 			"dateCreated" : 1666483200000,
 			"dateModified" : 1666483200000
+		}, {
+			"id" : 3000273,
+			"name" : "The Neverending Story",
+			"singer" : "Limahl",
+			"playback": {
+				"youTubeVideoId" : "2WN0T-Ee3q4"
+			},
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page273.txt"
+			},
+			"dateCreated" : 1667001600000,
+			"dateModified" : 1667001600000
 		}, {
 			"id" : 4000060,
 			"name" : "Lorelei",
