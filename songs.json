@@ -1,5 +1,5 @@
 {
-	"version" : "2022_10_29",
+	"version" : "2022_11_05",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -923,19 +923,25 @@
 			"id" : 1000071,
 			"name" : "תן לשים ת'ראש על דיונה",
 			"singer" : "הגשש החיוור",
+			"playback": {
+				"youTubeVideoId" : "KhebufM9PH8"
+			},
 			"categoryIds" : ["1","6"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page71.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page71.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1557187200000
+			"dateModified" : 1667606400000
 		}, {
 			"id" : 1000072,
 			"name" : "יכול להיות שזה נגמר",
 			"singer" : "שם טוב לוי",
+			"playback": {
+				"youTubeVideoId" : "ibuwWxb25PQ"
+			},
 			"categoryIds" : ["1","6"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page72.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page72.txt"
 			},
 			"dateCreated" : 1519516800000,
 			"dateModified" : 1557187200000
@@ -943,9 +949,12 @@
 			"id" : 1000073,
 			"name" : "כהה כהה",
 			"singer" : "שלום חנוך",
+			"playback": {
+				"youTubeVideoId" : "HBUhMLevLL8"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page73.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page73.txt"
 			},
 			"dateCreated" : 1519516800000,
 			"dateModified" : 1519516800000
@@ -953,9 +962,12 @@
 			"id" : 1000074,
 			"name" : "המכשפות",
 			"singer" : "המכשפות",
+			"playback": {
+				"youTubeVideoId" : "wjt0no3E_-E"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page74.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page74.txt"
 			},
 			"dateCreated" : 1519516800000,
 			"dateModified" : 1519516800000
@@ -963,9 +975,12 @@
 			"id" : 1000075,
 			"name" : "מה איתי",
 			"singer" : "החלונות הגבוהים",
+			"playback": {
+				"youTubeVideoId" : "fWdreBGjRXE"
+			},
 			"categoryIds" : ["1","7"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page75.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page75.txt"
 			},
 			"dateCreated" : 1519516800000,
 			"dateModified" : 1600905600000
@@ -973,9 +988,12 @@
 			"id" : 1000076,
 			"name" : "יש לי ציפור קטנה בלב",
 			"singer" : "יגאל בשן",
+			"playback": {
+				"youTubeVideoId" : "aaJbbzIR2xY"
+			},
 			"categoryIds" : ["1","4","6"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page76.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page76.txt"
 			},
 			"dateCreated" : 1519516800000,
 			"dateModified" : 1557187200000
@@ -983,19 +1001,37 @@
 			"id" : 1000077,
 			"name" : "ארץ קטנה עם שפם",
 			"singer" : "קורין אלאל",
+			"playback": {
+				"youTubeVideoId" : "YnjIyXzUgFs"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page77.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page77.txt"
 			},
 			"dateCreated" : 1519516800000,
 			"dateModified" : 1519516800000
 		}, {
+			"id" : 1000078,
+			"name" : "גוליית",
+			"singer" : "כוורת",
+			"playback": {
+				"youTubeVideoId" : "B0xWYu3zasE"
+			},
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page78.txt"
+			},
+			"dateCreated" : 1667606400000,
+			"dateModified" : 1667606400000
+		}, {
 			"id" : 1000079,
 			"name" : "גן סגור",
 			"singer" : "הכבש השישה עשר",
+			"playback": {
+				"youTubeVideoId" : "DojXO938m2Q"
+			},
 			"categoryIds" : ["1","4"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page79.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page79.txt"
 			},
 			"dateCreated" : 1519516800000,
 			"dateModified" : 1519516800000
@@ -1003,9 +1039,12 @@
 			"id" : 1000080,
 			"name" : "הבלדה על יואל מוישה סלומון",
 			"singer" : "אריק איינשטיין",
+			"playback": {
+				"youTubeVideoId" : "VBaahU8YmyA"
+			},
 			"categoryIds" : ["1","6"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page80.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page80.txt"
 			},
 			"dateCreated" : 1519516800000,
 			"dateModified" : 1557360000000
@@ -3203,12 +3242,15 @@
 			"id" : 1000297,
 			"name" : "הדרכים הידועות",
 			"singer" : "שלום חנוך",
+			"playback": {
+				"youTubeVideoId" : "vYQ8MUYwdmk"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page297.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page297.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1667606400000
 		}, {
 			"id" : 1010297,
 			"name" : "הדרכים הידועות (Em)",
@@ -5329,6 +5371,45 @@
 			},
 			"dateCreated" : 1667001600000,
 			"dateModified" : 1667001600000
+		}, {
+			"id" : 1000466,
+			"name" : "קרן שמש",
+			"singer" : "בניה ברבי",
+			"playback": {
+				"youTubeVideoId" : "n5illsgvqKA"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page466.txt"
+			},
+			"dateCreated" : 1667606400000,
+			"dateModified" : 1667606400000
+		}, {
+			"id" : 1000467,
+			"name" : "טרמינל לומינלט",
+			"singer" : "מאיר אריאל",
+			"playback": {
+				"youTubeVideoId" : "GME1UyUpMPU"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page467.txt"
+			},
+			"dateCreated" : 1667606400000,
+			"dateModified" : 1667606400000
+		}, {
+			"id" : 1000468,
+			"name" : "מתי נתנשק",
+			"singer" : "אביתר בנאי",
+			"playback": {
+				"youTubeVideoId" : "mwFjgtidDDA"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page468.txt"
+			},
+			"dateCreated" : 1667606400000,
+			"dateModified" : 1667606400000
 		}, {
 			"id" : 2000001,
 			"name" : "אדון שוקו",
@@ -11112,10 +11193,11 @@
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page12.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page12.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1667606400000
 		}, {
 			"id" : 3000013,
 			"name" : "In The Ghetto",
@@ -14171,11 +14253,51 @@
 			"playback": {
 				"youTubeVideoId" : "2WN0T-Ee3q4"
 			},
+			"categoryIds" : ["2"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page273.txt"
 			},
 			"dateCreated" : 1667001600000,
-			"dateModified" : 1667001600000
+			"dateModified" : 1667606400000
+		}, {
+			"id" : 3000274,
+			"name" : "Change The World",
+			"singer" : "Eric Clapton",
+			"playback": {
+				"youTubeVideoId" : "x11NA63gLDM"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page274.txt"
+			},
+			"dateCreated" : 1667606400000,
+			"dateModified" : 1667606400000
+		}, {
+			"id" : 3000275,
+			"name" : "Always The Sun",
+			"singer" : "The Stranglers",
+			"playback": {
+				"youTubeVideoId" : "cYQTL-ws6p4"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page275.txt"
+			},
+			"dateCreated" : 1667606400000,
+			"dateModified" : 1667606400000
+		}, {
+			"id" : 3000276,
+			"name" : "Let the Sunshine In",
+			"singer" : "Hair",
+			"playback": {
+				"youTubeVideoId" : "T8yssvCh3ac"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page276.txt"
+			},
+			"dateCreated" : 1667606400000,
+			"dateModified" : 1667606400000
 		}, {
 			"id" : 4000060,
 			"name" : "Lorelei",
