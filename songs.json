@@ -5291,10 +5291,10 @@
 			"categoryIds" : ["1"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page456.txt",
-				"markupVersion" : "1"
+				"markupVersion" : "2"
 			},
 			"dateCreated" : 1665014400000,
-			"dateModified" : 1667001600000
+			"dateModified" : 1669248000000
 		}, {
 			"id" : 1000457,
 			"name" : "אני אשיר לך שיר",
@@ -12269,10 +12269,10 @@
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page114.txt",
-				"markupVersion" : "2"
+				"markupVersion" : "3"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1628899200000
+			"dateModified" : 1669248000000
 		}, {
 			"id" : 3000115,
 			"name" : "Purple Rain",
@@ -14112,10 +14112,11 @@
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page253.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page253.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1663372800000,
-			"dateModified" : 1663372800000
+			"dateModified" : 1669248000000
 		}, {
 			"id" : 3000254,
 			"name" : "Crazy",
