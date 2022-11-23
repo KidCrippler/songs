@@ -1,9 +1,9 @@
 Woman In Love - Barbra Streisand (+1)
 
-Dm          Dm         Dm        Dm    
-Bbmaj7    Bbmaj7     Bbmaj7     Bbmaj7 
-Dm          Dm         Dm        Dm    
-Bbmaj7    Bbmaj7     Bbmaj7     Bbmaj7 
+Dm        Dm       Dm      Dm    
+Bbmaj7  Bbmaj7   Bbmaj7   Bbmaj7 
+Dm        Dm       Dm      Dm    
+Bbmaj7  Bbmaj7   Bbmaj7   Bbmaj7 
 
 Dm            Gm         Dm
     Life is a moment in space 
@@ -43,9 +43,9 @@ And hold you within
 It's a r----ight I defe---nd 
                F
 Over and over again 
-Dm          Dm        Dm         Dm
+Dm         Dm       Dm        Dm
 What do I do
-Bbmaj7    Bbmaj7     Bbmaj7     Bbmaj7 
+Bbmaj7   Bbmaj7   Bbmaj7   Bbmaj7 
 
 Dm           Gm       Dm
    With you eternally mine 
@@ -85,9 +85,9 @@ And hold you within
 It's a r----ight I defe---nd 
                F
 Over and over again 
-Dm            Dm      Dm        Dm
+Dm         Dm       Dm        Dm
 What do I do
-Bbmaj7    Bbmaj7     Bbmaj7     Bbmaj7 
+Bbmaj7   Bbmaj7   Bbmaj7   Bbmaj7 
 
 Ebm         Bb       Ebm
      I am a woman in love 
@@ -115,4 +115,8 @@ It's a right I defend
                Bb7
 Over and over again 
  
-{fade}
+Dm        Dm       Dm      Dm    
+Bbmaj7  Bbmaj7   Bbmaj7   Bbmaj7 
+Dm        Dm       Dm      Dm    
+Bbmaj7  Bbmaj7   Bbmaj7   Bbmaj7 
+Dm
