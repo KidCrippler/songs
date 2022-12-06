@@ -1,5 +1,5 @@
 {
-	"version" : "2022_11_24",
+	"version" : "2022_12_07",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -11156,6 +11156,27 @@
 			},
 			"dateCreated" : 1665446400000,
 			"dateModified" : 1665446400000
+		}, {
+			"id" : 2000607,
+			"name" : "דרך המלך",
+			"singer" : "גילי וגלית",
+			"isPrivate" : true,
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage607.txt"
+			},
+			"dateCreated" : 1670371200000,
+			"dateModified" : 1670371200000
+		}, {
+			"id" : 2000608,
+			"name" : "אל בורות המים",
+			"singer" : "נעמי שמר",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage608.txt"
+			},
+			"dateCreated" : 1670371200000,
+			"dateModified" : 1670371200000
 		}, {
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
