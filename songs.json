@@ -1,5 +1,5 @@
 {
-	"version" : "2022_12_10",
+	"version" : "2022_12_16",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -15810,6 +15810,19 @@
 			},
 			"dateCreated" : 1637366400000,
 			"dateModified" : 1637366400000
+		}, {
+			"id" : 4000182,
+			"name" : "We Are The Champions",
+			"singer" : "Queen",
+			"playback": {
+				"youTubeVideoId" : "04854XqcfCY"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page182.txt"
+			},
+			"dateCreated" : 1671148800000,
+			"dateModified" : 1671148800000
 		}
 	]
 }
