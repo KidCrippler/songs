@@ -15,8 +15,11 @@ A               E/C#               A/F#
     She's coming in twelve thirty flight  
     A/E              G/D        
 the moonlit wings reflect the stars 
-     D/E             Dmaj7/F#  G  G - F#m -  Bm
+     D/E             Dmaj7/F#  G  
 that guide me toward salva  -  tion
+
+(G) - G - F#m -  Bm
+
 A               E/C#              A/F#
    I stopped an old man along the way
 A/E                 G/D            D/E
@@ -25,8 +28,10 @@ Hoping to find some long forgotten words
 or ancient me -  lodies
 A              E/C#         A/F# 
    He turned to me as if to say
-                 G                   G - F#m -  Bm    Bm
+                 G                   G
 Hurry boy, it's waiting there for you
+
+(G) - F#m -  Bm    Bm
 
 Em              C               G        D
    Gonna take a lot to drag me away from you
@@ -38,8 +43,11 @@ Em             C              G   D
    I bless the rains down in  Africa
 Em                  C               G
    Gonna take some time to do the things 
-         Bm   D    Em     D/F#  (G   G  -  F#m  -   Bm    Bm) x2
+         Bm   D    Em     D/F#  G
 we never ha--------d       oohooh
+
+(G)   G  -  F#m  -   Bm    Bm
+G   G  -  F#m  -   Bm    Bm
 
 A                 E/C#           A/F#
     The wild dogs cry out in the night
@@ -47,6 +55,7 @@ A                 E/C#           A/F#
 As they grow restless longing for some solitary 
 Dmaj7/F#  G  G - F#m -  Bm
   compa - ny
+
 A              E/C#              A/F#
     I know that I must do what's right
            A/E         G/D         D/E
@@ -55,8 +64,10 @@ As sure as Kilimanjaro rises like Olympus
 above the Se  -  rengeti
 A             E/C#               A/F#
     I seek to cure what's deep inside
-                     G                 G  -  F#m  -  Bm    Bm
+                     G                 G
 Frightened of this thing that I've become
+
+(G)  -  F#m  -  Bm    Bm
 
 Em              C               G        D
    Gonna take a lot to drag me away from you
@@ -68,8 +79,11 @@ Em             C              G   D
    I bless the rains down in  Africa
 Em                 C              G
    Gonna take some time to do the things 
-         Bm   D    Em     D/F#  (G   G  -  F#m  -   Bm    Bm) x2
+         Bm   D    Em     D/F#  G
 we never ha--------d       oohooh
+
+(G)   G  -  F#m  -   Bm    Bm
+G     G  -  F#m  -   Bm    Bm
 
 A   C#m   F#m   A   G   Bm    F#m    G   G - F#m -  Bm
 A   C#m   F#m
@@ -95,5 +109,8 @@ Em             C              G   D
    I bless the rains down in  Africa
 Em                 C              G
    Gonna take some time to do the things 
-         Bm   D    Em     D/F#  (G   G  -  F#m  -   Bm    Bm) x6
+         Bm   D    Em     D/F#  G
 we never ha--------d       oohooh
+
+(G)   G  -  F#m  -   Bm    Bm
+G     G  -  F#m  -   Bm    Bm        x5

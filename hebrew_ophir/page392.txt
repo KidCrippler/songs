@@ -8,7 +8,7 @@ Fm  G7  Ab  C7  F
 לא, לא, לא, לא, לא
 Eb7   Ab      Gm7
 ואני רוצה אך איני מוצא
-  Cm   F  F#  F  Gm  Cm
+  Cm   F  F#  F  Cm   Gm
 אללי
 Cm
 זה שובר לא עובר,
@@ -34,7 +34,7 @@ Fm  G7  Ab  C7  F
 את, את, את, את, את
 Eb7    Ab       Gm7
 מה אני שווה? בא ומקווה
-  Cm   F  F#  F  Gm  Cm
+  Cm   F  F#  F  Cm   Gm
 שאולי -
 Cm
 אם תרצי תמצאי
@@ -60,7 +60,7 @@ Fm  G7  Ab  C7  F
 את, את, את, את, את
 Eb7      Ab     Gm7
 אין לך נשמה מה אכפת לך, מה
-  Cm   F  F#  F  Gm  Cm
+  Cm   F  F#  F  Cm   Gm
 שאולי,
 Cm
 אל תלכי, תחייכי

@@ -1,6 +1,9 @@
 איזה יום - דודו טסה / דודו טסה / דודו טסה וטלי כץ
 
-Ebmaj7    D7    Ebmaj7    D7    D7/F#
+Ebmaj7    Ebmaj7     Ebmaj7    Ebmaj7
+D7        D7         D7        D7
+Ebmaj7    Ebmaj7     Ebmaj7    Ebmaj7
+D7        D7         D7/F#     D7/F#
 
      Em7              D
 וכבר הייתי עצוב, כבר הייתי שמח
@@ -12,14 +15,14 @@ Ebmaj7    D7    Ebmaj7    D7    D7/F#
 וכבר הייתי גיבור    עפתי בשמיים
    Bb                  Gm         Ebmaj7
 ועכשיו ביום אפור אני עוקף שלולית של מים
- Dm             D
+ Dm             Ebmaj7
 אסור לאחר,      אין פתרון קל
 
 Gm        Ebmaj7                Cm
 איזה יום,         איזה יום עבר עלי
 D7               Gm    Bb 
     זה קצת יותר מדי
-  Cm        F        F  D/F#
+  Cm        F        F - D/F# -
 פתחי לי את הדלת
 
       Em7             D
@@ -50,14 +53,16 @@ D7               Gm    Bb
   Cm        F     F
 פתחי לי את הדלת
 
-Gm   Gm   Bb   Bb
-Gm   Gm   Bb   F
+Ebmaj7    Ebmaj7     Ebmaj7    Ebmaj7
+Bb        Bb         Bb        Bb
+Ebmaj7    Ebmaj7     Ebmaj7    Ebmaj7
+Bb        Bb         F         F
 
 Gm        Ebmaj7                Cm
 איזה יום,         איזה יום עבר עלי
 D7               Gm    Bb 
     זה קצת יותר מדי
-  Cm        F     D/F#
+  Cm        F     F - D/F# -
 פתחי לי את הדלת
 
      Em7              D
