@@ -1703,10 +1703,10 @@
 			"categoryIds" : ["1"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page137.txt",
-				"markupVersion" : "1"
+				"markupVersion" : "2"
 			},
 			"dateCreated" : 1547164800000,
-			"dateModified" : 1557705600000
+			"dateModified" : 1678924800000
 		}, {
 			"id" : 1000138,
 			"name" : "סוף עונת התפוזים",
@@ -2621,10 +2621,10 @@
 			"singer" : "יהודית רביץ",
 			"categoryIds" : ["1","6"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page225.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page225.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1557187200000
+			"dateModified" : 1678924800000
 		}, {
 			"id" : 1000226,
 			"name" : "יש בי עוד כח",
