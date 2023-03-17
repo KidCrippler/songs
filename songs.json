@@ -1,5 +1,5 @@
 {
-	"version" : "2023_03_16",
+	"version" : "2023_03_17",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -6436,10 +6436,10 @@
 			"singer" : "חוה אלברשטיין ואריק סיני",
 			"categoryIds" : ["1","7"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage95.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage95.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1679011200000
 		}, {
 			"id" : 2000096,
 			"name" : "שי",
@@ -6854,21 +6854,10 @@
 			"singer" : "כוורת",
 			"categoryIds" : ["1","4"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage160.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage160.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
-		}, {
-			"id" : 2010160,
-			"name" : "גולית (C)",
-			"singer" : "כוורת",
-			"isPrivate" : true,
-			"categoryIds" : ["1"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage160_c.jpg"
-			},
-			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1679011200000
 		}, {
 			"id" : 2000162,
 			"name" : "להתראות נעורים שלום אהבה",
@@ -6926,13 +6915,12 @@
 			"id" : 2000170,
 			"name" : "גרעינים",
 			"singer" : "דני רובס",
-			"isPrivate" : true,
 			"categoryIds" : ["1"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage170.jpg"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1679011200000
 		}, {
 			"id" : 2000172,
 			"name" : "לא נרדמת תל-אביב",
@@ -6949,21 +6937,10 @@
 			"singer" : "צביקה פיק",
 			"categoryIds" : ["1","5","6","7"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage173.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage173.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1557360000000
-		}, {
-			"id" : 2010173,
-			"name" : "הרקדן האוטומטי (D)",
-			"singer" : "צביקה פיק",
-			"isPrivate" : true,
-			"categoryIds" : ["1","5","7"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage173_d.jpg"
-			},
-			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1679011200000
 		}, {
 			"id" : 2000177,
 			"name" : "לאן שלא תלכי",
@@ -7021,10 +6998,10 @@
 			"singer" : "מאיר בנאי",
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage183.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage183.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1679011200000
 		}, {
 			"id" : 2000184,
 			"name" : "ערב בלי טלפון",
@@ -7051,10 +7028,10 @@
 			"singer" : "דודו טסה ורוני אלטר",
 			"categoryIds" : ["1","7"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage186.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage186.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1679011200000
 		}, {
 			"id" : 2000187,
 			"name" : "בוא",
@@ -7122,21 +7099,10 @@
 			"singer" : "מני בגר וגלי עטרי",
 			"categoryIds" : ["1","7"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage197.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage197.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1569801600000
-		}, {
-			"id" : 2010197,
-			"name" : "דואט פרידה (G)",
-			"singer" : "מני בגר וגלי עטרי",
-			"isPrivate" : true,
-			"categoryIds" : ["1","7"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage197_g.jpg"
-			},
-			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1679011200000
 		}, {
 			"id" : 2000198,
 			"name" : "גשם",
@@ -7724,10 +7690,10 @@
 			"singer" : "גידי גוב",
 			"categoryIds" : ["1","5"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage269.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage269.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1679011200000
 		}, {
 			"id" : 2000270,
 			"name" : "משהו חדש מתחיל",
