@@ -1,5 +1,5 @@
 {
-	"version" : "2023_04_14",
+	"version" : "2023_04_21",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -221,7 +221,7 @@
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page16.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1602115200000
+			"dateModified" : 1681948800000
 		}, {
 			"id" : 1000017,
 			"name" : "כשאלוהים אמר בפעם הראשונה",
@@ -2275,10 +2275,10 @@
 			"singer" : "יהודה פוליקר",
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page192.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page192.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1681948800000
 		}, {
 			"id" : 1000193,
 			"name" : "מישהו הולך תמיד איתי",
@@ -2315,10 +2315,10 @@
 			"singer" : "שלמה ארצי",
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page196.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page196.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1681948800000
 		}, {
 			"id" : 1000197,
 			"name" : "מישהו",
@@ -4202,7 +4202,7 @@
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page373.txt"
 			},
 			"dateCreated" : 1583193600000,
-			"dateModified" : 1583193600000
+			"dateModified" : 1681948800000
 		}, {
 			"id" : 1000374,
 			"name" : "שיר בכיף",
@@ -5186,6 +5186,7 @@
 			"id" : 1000449,
 			"name" : "מה זאת אהבה",
 			"singer" : "ריקי גל ומתי כספי",
+			"isPrivate" : true,
 			"playback": {
 				"youTubeVideoId" : "7JJ38cZFUio"
 			},
@@ -6202,10 +6203,10 @@
 			"singer" : "דני רובס ואופירה יוספי",
 			"categoryIds" : ["1","7"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage71.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage71.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1681948800000
 		}, {
 			"id" : 2000072,
 			"name" : "מלנכוליה אהובתי",
@@ -7315,10 +7316,10 @@
 			"singer" : "יהורם גאון",
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage228.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage228.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1557360000000
+			"dateModified" : 1681948800000
 		}, {
 			"id" : 2000229,
 			"name" : "אני בא הביתה מהלילה",
@@ -9382,7 +9383,7 @@
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage438.txt"
 			},
 			"dateCreated" : 1587772800000,
-			"dateModified" : 1587772800000
+			"dateModified" : 1681948800000
 		}, {
 			"id" : 2000439,
 			"name" : "כאב של לוחמים",
