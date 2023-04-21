@@ -3287,17 +3287,6 @@
 			"dateCreated" : 1519516800000,
 			"dateModified" : 1667606400000
 		}, {
-			"id" : 1010297,
-			"name" : "הדרכים הידועות (Em)",
-			"singer" : "שלום חנוך",
-			"isPrivate" : true,
-			"categoryIds" : ["1"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page297_em.jpg"
-			},
-			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
-		}, {
 			"id" : 1000299,
 			"name" : "כולם אומרים (A)",
 			"singer" : "שלומי שבן",
