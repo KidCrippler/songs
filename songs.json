@@ -11188,6 +11188,26 @@
 			"dateCreated" : 1683849600000,
 			"dateModified" : 1683849600000
 		}, {
+			"id" : 2000615,
+			"name" : "לתת ולקחת",
+			"singer" : "שלמה ארצי ודודו טסה",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage615.txt"
+			},
+			"dateCreated" : 1683849600000,
+			"dateModified" : 1683849600000
+		}, {
+			"id" : 2000616,
+			"name" : "שדות של אירוסים",
+			"singer" : "שלמה ארצי",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage616.txt"
+			},
+			"dateCreated" : 1683849600000,
+			"dateModified" : 1683849600000
+		}, {
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
 			"singer" : "Beatles",
