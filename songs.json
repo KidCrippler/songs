@@ -2388,7 +2388,7 @@
 			"singer" : "חנן יובל",
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page204.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page204.txt"
 			},
 			"dateCreated" : 1519516800000,
 			"dateModified" : 1684195200000
@@ -5823,7 +5823,7 @@
 			"singer" : "מירי אלוני",
 			"categoryIds" : ["1","6"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage34.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage34.txt"
 			},
 			"dateCreated" : 1519516800000,
 			"dateModified" : 1684195200000
