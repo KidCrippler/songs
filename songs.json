@@ -1,5 +1,5 @@
 {
-	"version" : "2023_05_17",
+	"version" : "2023_05_25",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -11227,6 +11227,16 @@
 			},
 			"dateCreated" : 1683936000000,
 			"dateModified" : 1683936000000
+		}, {
+			"id" : 2000619,
+			"name" : "שיר לערב חג",
+			"singer" : "מירי אלוני",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage619.txt"
+			},
+			"dateCreated" : 1684972800000,
+			"dateModified" : 1684972800000
 		}, {
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
