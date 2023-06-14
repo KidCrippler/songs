@@ -1,5 +1,5 @@
 {
-	"version" : "2023_05_25",
+	"version" : "2023_06_15",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -5550,10 +5550,10 @@
 			"singer" : "שלישיית גשר הירקון",
 			"categoryIds" : ["1","5","6"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage5.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage5.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1557187200000
+			"dateModified" : 1686700800000
 		}, {
 			"id" : 2000006,
 			"name" : "אחכה לך",
@@ -6781,10 +6781,10 @@
 			"singer" : "אריק סיני",
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage151.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage151.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1686700800000
 		}, {
 			"id" : 2000152,
 			"name" : "מלך העולם",
@@ -6865,10 +6865,10 @@
 			"singer" : "אריק איינשטיין",
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage163.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage163.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1686700800000
 		}, {
 			"id" : 2000165,
 			"name" : "היא יודעת",
@@ -7853,10 +7853,10 @@
 			"singer" : "יהורם גאון",
 			"categoryIds" : ["1","5","6"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage286.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage286.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1557187200000
+			"dateModified" : 1686700800000
 		}, {
 			"id" : 2000287,
 			"name" : "אם יוולד לי ילד",
@@ -11237,6 +11237,17 @@
 			},
 			"dateCreated" : 1684972800000,
 			"dateModified" : 1684972800000
+		}, {
+			"id" : 2000620,
+			"name" : "ריבים קטנים",
+			"singer" : "הכבש השישה עשר",
+			"isPrivate" : true,
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage620.txt"
+			},
+			"dateCreated" : 1686700800000,
+			"dateModified" : 1686700800000
 		}, {
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
