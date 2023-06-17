@@ -1,5 +1,5 @@
 {
-	"version" : "2023_06_15",
+	"version" : "2023_06_18",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -5519,10 +5519,10 @@
 			"singer" : "אריק איינשטיין",
 			"categoryIds" : ["1","4"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage1.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage1.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1686960000000
 		}, {
 			"id" : 2000003,
 			"name" : "אהבה ראשונה",
