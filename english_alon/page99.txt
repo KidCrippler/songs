@@ -1,7 +1,7 @@
 Angels - Robbie Williams
 Lyrics and Music: Guy Chambers, Robbie Williams
 
-D  D
+D      D
 
            D                          G            A
 I sit and wait, does an angel contemplate my fate
@@ -63,11 +63,12 @@ And down the waterfall, wherever it may take me
 I know that life won't break me, when I come to call
             [Em]
 She won't forsake me
-C             G/B        D
+C             G/B       D
    I'm loving angels instead
 
 {Guitar Solo}
-(Am  G  D  D) x 4
+(Am       Em        D        D) x 3
+ Am       Em        D
 
                A                    Bm
 And through it all she offers me protection
