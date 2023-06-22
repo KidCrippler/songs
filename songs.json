@@ -3031,12 +3031,16 @@
 			"id" : 1000269,
 			"name" : "איך הוא שר",
 			"singer" : "דני רובס",
+			"playback": {
+				"youTubeVideoId" : "ARuMB_iMRcY"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page269.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page269.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1687392000000
 		}, {
 			"id" : 1000270,
 			"name" : "תשאירי לי מקום לחבק אותך",
