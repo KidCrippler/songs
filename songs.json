@@ -2468,12 +2468,16 @@
 			"id" : 1000211,
 			"name" : "יש לי חולשה לרקדנים",
 			"singer" : "ריקי גל",
+			"playback": {
+				"youTubeVideoId" : "6xdQ-zg12Tw"
+			},
 			"categoryIds" : ["1","5"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page211.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page211.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1687392000000
 		}, {
 			"id" : 1000212,
 			"name" : "רחבת הריקודים",
