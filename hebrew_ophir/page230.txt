@@ -88,4 +88,12 @@ Am                 C
    Em          Bm
     A          A
     C          D
+    G          D
+   G          Bm
+   C           D
+   G          Bm
+   C/F         D
+   Em          Bm
+    A          A
+    C          D
     G          D      G!
