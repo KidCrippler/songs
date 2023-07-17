@@ -1,5 +1,5 @@
 {
-	"version" : "2023_07_12",
+	"version" : "2023_07_18",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -2283,7 +2283,7 @@
 		}, {
 			"id" : 1000193,
 			"name" : "מישהו הולך תמיד איתי",
-			"singer" : "עופרה חזה",
+			"singer" : "עפרה חזה",
 			"categoryIds" : ["1"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page193.jpg"
@@ -4394,7 +4394,7 @@
 		}, {
 			"id" : 1000388,
 			"name" : "הצריף הקטן",
-			"singer" : "עופרה חזה",
+			"singer" : "עפרה חזה",
 			"playback": {
 				"youTubeVideoId" : "ONpD51u70Ag"
 			},
@@ -11273,6 +11273,16 @@
 			},
 			"dateCreated" : 1687737600000,
 			"dateModified" : 1687737600000
+		}, {
+			"id" : 2000622,
+			"name" : "גורל אחד",
+			"singer" : "עפרה חזה",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage622.txt"
+			},
+			"dateCreated" : 1689552000000,
+			"dateModified" : 1689552000000
 		}, {
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
