@@ -11284,6 +11284,17 @@
 			"dateCreated" : 1689552000000,
 			"dateModified" : 1689552000000
 		}, {
+			"id" : 2000623,
+			"name" : "שיר המטבחון",
+			"singer" : "גיא רפפורט",
+			"isPrivate" : true,
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage623.txt"
+			},
+			"dateCreated" : 1689638400000,
+			"dateModified" : 1689638400000
+		}, {
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
 			"singer" : "Beatles",
