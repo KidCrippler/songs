@@ -1,5 +1,5 @@
 {
-	"version" : "2023_07_18",
+	"version" : "2023_07_23",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -11294,6 +11294,16 @@
 			},
 			"dateCreated" : 1689638400000,
 			"dateModified" : 1689638400000
+		}, {
+			"id" : 2000624,
+			"name" : "פמלה",
+			"singer" : "בועז שרעבי",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage624.txt"
+			},
+			"dateCreated" : 1689984000000,
+			"dateModified" : 1689984000000
 		}, {
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
