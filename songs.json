@@ -1,5 +1,5 @@
 {
-	"version" : "2023_07_23",
+	"version" : "2023_07_27",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -5215,7 +5215,7 @@
 		}, {
 			"id" : 1000451,
 			"name" : "צעיר לנצח",
-			"singer" : "רמי קליינשטיין",
+			"singer" : "רמי קלינשטיין",
 			"playback": {
 				"youTubeVideoId" : "WGwVoBZQ2qo"
 			},
@@ -5228,7 +5228,7 @@
 		}, {
 			"id" : 1000452,
 			"name" : "חוץ ממך כלום",
-			"singer" : "רמי קליינשטיין",
+			"singer" : "רמי קלינשטיין",
 			"playback": {
 				"youTubeVideoId" : "UDOhaGWHWL4"
 			},
@@ -6602,10 +6602,10 @@
 			"singer" : "רמי קלינשטיין",
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage123.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage123.txt"
 			},
-			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateCreated" : 1690329600000,
+			"dateModified" : 1690329600000
 		}, {
 			"id" : 2000127,
 			"name" : "תחת שמי ים התיכון",
@@ -11304,6 +11304,16 @@
 			},
 			"dateCreated" : 1689984000000,
 			"dateModified" : 1689984000000
+		}, {
+			"id" : 2000625,
+			"name" : "אש",
+			"singer" : "רמי קלינשטיין",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage625.txt"
+			},
+			"dateCreated" : 1690329600000,
+			"dateModified" : 1690329600000
 		}, {
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
