@@ -1570,10 +1570,10 @@
 			"singer" : "הכבש השישה עשר",
 			"categoryIds" : ["1","4"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page125.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page125.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1697328000000
 		}, {
 			"id" : 1000126,
 			"name" : "רציתי שתדע",
@@ -11360,6 +11360,36 @@
 			"categoryIds" : ["1","4"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage630.txt"
+			},
+			"dateCreated" : 1697328000000,
+			"dateModified" : 1697328000000
+		}, {
+			"id" : 2000631,
+			"name" : "לילה טוב",
+			"singer" : "הכבש השישה עשר",
+			"categoryIds" : ["1","4"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage631.txt"
+			},
+			"dateCreated" : 1697328000000,
+			"dateModified" : 1697328000000
+		}, {
+			"id" : 2000632,
+			"name" : "יד ביד (ולב אל לב)",
+			"singer" : "ילדי הפסטיגל",
+			"categoryIds" : ["1","4"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage632.txt"
+			},
+			"dateCreated" : 1697328000000,
+			"dateModified" : 1697328000000
+		}, {
+			"id" : 2000633,
+			"name" : "שיר לאהבה",
+			"singer" : "גאיה ודין דין אביב",
+			"categoryIds" : ["1","4"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage633.txt"
 			},
 			"dateCreated" : 1697328000000,
 			"dateModified" : 1697328000000
