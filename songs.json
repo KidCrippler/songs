@@ -11435,6 +11435,16 @@
 			"dateCreated" : 1698969600000,
 			"dateModified" : 1698969600000
 		}, {
+			"id" : 2000639,
+			"name" : "יהיה טוב",
+			"singer" : "דיוויד ברוזה",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage639.txt"
+			},
+			"dateCreated" : 1699056000000,
+			"dateModified" : 1699056000000
+		}, {
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
 			"singer" : "Beatles",
