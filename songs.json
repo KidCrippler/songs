@@ -1,5 +1,5 @@
 {
-	"version" : "2023_11_03",
+	"version" : "2023_11_05",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -6176,21 +6176,10 @@
 			"singer" : "ריטה",
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage69.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage69.txt"
 			},
-			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
-		}, {
-			"id" : 2010069,
-			"name" : "מחכה (Gm)",
-			"singer" : "ריטה",
-			"isPrivate" : true,
-			"categoryIds" : ["1"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage69_gm.jpg"
-			},
-			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateCreated" : 1699056000000,
+			"dateModified" : 1699056000000
 		}, {
 			"id" : 2000070,
 			"name" : "מכתב לאחי",
