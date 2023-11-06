@@ -1,5 +1,5 @@
 {
-	"version" : "2023_11_06",
+	"version" : "2023_11_07",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -11454,6 +11454,26 @@
 			},
 			"dateCreated" : 1699142400000,
 			"dateModified" : 1699142400000
+		}, {
+			"id" : 2000641,
+			"name" : "שרק תחייך",
+			"singer" : "יובל דיין",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage641.txt"
+			},
+			"dateCreated" : 1699228800000,
+			"dateModified" : 1699228800000
+		}, {
+			"id" : 2000642,
+			"name" : "כשתבוא",
+			"singer" : "בועז שרעבי",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage642.txt"
+			},
+			"dateCreated" : 1699228800000,
+			"dateModified" : 1699228800000
 		}, {
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
