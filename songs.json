@@ -1,5 +1,5 @@
 {
-	"version" : "2023_11_21",
+	"version" : "2023_11_27",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -5879,10 +5879,10 @@
 			"singer" : "אריק איינשטיין",
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage39.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage39.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1701043200000
 		}, {
 			"id" : 2000040,
 			"name" : "המסע הגדול",
@@ -11516,6 +11516,27 @@
 			},
 			"dateCreated" : 1700179200000,
 			"dateModified" : 1700179200000
+		}, {
+			"id" : 2000647,
+			"name" : "רוח סתיו",
+			"singer" : "אריק איינשטיין",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage647.txt"
+			},
+			"dateCreated" : 1700956800000,
+			"dateModified" : 1700956800000
+		}, {
+			"id" : 2000648,
+			"name" : "מה עושות האיילות",
+			"singer" : "אריק איינשטיין",
+			"isPrivate" : true,
+			"categoryIds" : ["1","4"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage648.txt"
+			},
+			"dateCreated" : 1700956800000,
+			"dateModified" : 1700956800000
 		}, {
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
