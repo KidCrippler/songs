@@ -1,5 +1,5 @@
 {
-	"version" : "2023_11_27",
+	"version" : "2023_12_14",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -11537,6 +11537,16 @@
 			},
 			"dateCreated" : 1700956800000,
 			"dateModified" : 1700956800000
+		}, {
+			"id" : 2000649,
+			"name" : "היי שקטה",
+			"singer" : "ריקי גל",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage649.txt"
+			},
+			"dateCreated" : 1702512000000,
+			"dateModified" : 1702512000000
 		}, {
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
