@@ -1,5 +1,5 @@
 {
-	"version" : "2024_01_17",
+	"version" : "2024_01_19",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -11568,6 +11568,36 @@
 			},
 			"dateCreated" : 1705449600000,
 			"dateModified" : 1705449600000
+		}, {
+			"id" : 2000652,
+			"name" : "שיר לאמא",
+			"singer" : "אלון עדר",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage652.txt"
+			},
+			"dateCreated" : 1705536000000,
+			"dateModified" : 1705536000000
+		}, {
+			"id" : 2000653,
+			"name" : "בקצה ההר",
+			"singer" : "גידי גוב",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage653.txt"
+			},
+			"dateCreated" : 1705536000000,
+			"dateModified" : 1705536000000
+		}, {
+			"id" : 2000654,
+			"name" : "קול אחד",
+			"singer" : "רועי נויפלד",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage654.txt"
+			},
+			"dateCreated" : 1705536000000,
+			"dateModified" : 1705536000000
 		}, {
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
