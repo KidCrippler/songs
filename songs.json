@@ -16371,6 +16371,19 @@
 			},
 			"dateCreated" : 1694304000000,
 			"dateModified" : 1694304000000
+		}, {
+			"id" : 4000190,
+			"name" : "Turn The Lights Back On",
+			"singer" : "Billy Joel",
+			"playback": {
+				"youTubeVideoId" : "UOf6CMbHPuA"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page190.txt"
+			},
+			"dateCreated" : 1708560000000,
+			"dateModified" : 1708560000000
 		}
 	]
 }
