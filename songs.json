@@ -1853,10 +1853,10 @@
 			"singer" : "אריק סיני",
 			"categoryIds" : ["1","6"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page150.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page150.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1557187200000
+			"dateModified" : 1708560000000
 		}, {
 			"id" : 1000151,
 			"name" : "חלליות",
@@ -5669,10 +5669,10 @@
 			"singer" : "דני רובס",
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage14.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage14.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1708646400000
 		}, {
 			"id" : 2000017,
 			"name" : "בא לשכונה בחור חדש",
@@ -5930,10 +5930,10 @@
 			"singer" : "טיפקס",
 			"categoryIds" : ["1","7"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage45.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage45.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1708646400000
 		}, {
 			"id" : 2000046,
 			"name" : "זמר שלוש התשובות",
@@ -6338,10 +6338,10 @@
 			"singer" : "יהודה פוליקר",
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage86.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage86.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1708646400000
 		}, {
 			"id" : 2000087,
 			"name" : "פתאום כשלא באת",
@@ -11552,7 +11552,6 @@
 			"id" : 2000650,
 			"name" : "כל שעה נשיקה",
 			"singer" : "חוה אלברשטיין",
-			"isPrivate" : true,
 			"categoryIds" : ["1"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage650.txt"
