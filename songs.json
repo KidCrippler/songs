@@ -11750,6 +11750,16 @@
 			"dateCreated" : 1712016000000,
 			"dateModified" : 1712016000000
 		}, {
+			"id" : 2000669,
+			"name" : "הזמן מרפא",
+			"singer" : "איריס אברהם",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage669.txt"
+			},
+			"dateCreated" : 1713225600000,
+			"dateModified" : 1713225600000
+		}, {
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
 			"singer" : "Beatles",
