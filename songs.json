@@ -1,5 +1,5 @@
 {
-	"version" : "2024_05_03",
+	"version" : "2024_05_04",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -11851,6 +11851,16 @@
 			},
 			"dateCreated" : 1714608000000,
 			"dateModified" : 1714608000000
+		}, {
+			"id" : 2000679,
+			"name" : "ללכת שבי אחרייך",
+			"singer" : "אילנית",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage679.txt"
+			},
+			"dateCreated" : 1714780800000,
+			"dateModified" : 1714780800000
 		}, {
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
