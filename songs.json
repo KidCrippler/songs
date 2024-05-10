@@ -1,5 +1,5 @@
 {
-	"version" : "2024_05_04",
+	"version" : "2024_05_10",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -11871,6 +11871,26 @@
 			},
 			"dateCreated" : 1714780800000,
 			"dateModified" : 1714780800000
+		}, {
+			"id" : 2000681,
+			"name" : "יש פרחים",
+			"singer" : "להקת פיקוד מרכז",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage681.txt"
+			},
+			"dateCreated" : 1715299200000,
+			"dateModified" : 1715299200000
+		}, {
+			"id" : 2000682,
+			"name" : "כשאהיה גדול (שוטי שוטי ספינתי)",
+			"singer" : "להקת חיל הים",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage682.txt"
+			},
+			"dateCreated" : 1715299200000,
+			"dateModified" : 1715299200000
 		}, {
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
