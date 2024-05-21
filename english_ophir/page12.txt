@@ -1,7 +1,7 @@
 Let it be - The beatles
 
 C     G     Am     F
-C     G     F     Em  Dm  C
+C     G     F	   C
  
        C	      G
 When I Find myself in times of trouble,
@@ -48,8 +48,8 @@ There will be an answer      let it be
 F     Em  Dm  C     Bb  F  G    F    C
 F     Em  Dm  C     Bb  F  G    F    C
 {Solo guitar}
-C   G    Am    F   C    G    F     Em  Dm  C
-C   G    Am    F   C    G    F     Em  Dm  C
+C   G    Am    F   C    G    F    C
+C   G    Am    F   C    G    F    C
 
        Am         Am/G        F          C
 Let it be, let it be,  let it be, let it be
