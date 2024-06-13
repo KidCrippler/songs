@@ -1,5 +1,5 @@
 {
-	"version" : "2024_06_13",
+	"version" : "2024_06_14",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -6806,10 +6806,10 @@
 			"singer" : "שלמה ארצי",
 			"categoryIds" : ["1","5","6"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage153.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage153.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1557187200000
+			"dateModified" : 1718236800000
 		}, {
 			"id" : 2000154,
 			"name" : "זכית בי",
@@ -7259,10 +7259,10 @@
 			"singer" : "בועז שרעבי",
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage221.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage221.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1718236800000
 		}, {
 			"id" : 2000222,
 			"name" : "לראות אותה היום (גרסת הופעה)",
