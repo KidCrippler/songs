@@ -11986,6 +11986,16 @@
 			"dateCreated" : 1718409600000,
 			"dateModified" : 1718409600000
 		}, {
+			"id" : 2000692,
+			"name" : "בדד",
+			"singer" : "זוהר ארגוב",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage692.txt"
+			},
+			"dateCreated" : 1718409600000,
+			"dateModified" : 1718409600000
+		}, {
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
 			"singer" : "Beatles",
