@@ -1,5 +1,5 @@
 {
-	"version" : "2024_06_28",
+	"version" : "2024_07_04",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -5529,6 +5529,19 @@
 			},
 			"dateCreated" : 1669248000000,
 			"dateModified" : 1669248000000
+		}, {
+			"id" : 1000475,
+			"name" : "ילד אסור ילד מותר",
+			"singer" : "ריקי גל",
+			"playback": {
+				"youTubeVideoId" : "R9W5XeFaWL4"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page475.txt"
+			},
+			"dateCreated" : 1720051200000,
+			"dateModified" : 1720051200000
 		}, {
 			"id" : 2000001,
 			"name" : "אדון שוקו",
