@@ -1,5 +1,5 @@
 {
-	"version" : "2024_07_04",
+	"version" : "2024_07_10",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -1335,22 +1335,28 @@
 			"id" : 1000103,
 			"name" : "נח",
 			"singer" : "מתי כספי ושוקולד מנטה מסטיק",
+			"playback": {
+				"youTubeVideoId" : "H1eFKp1_L4w"
+			},
 			"categoryIds" : ["1","6"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page103.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page103.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1557360000000
+			"dateModified" : 1720569600000
 		}, {
 			"id" : 1000104,
 			"name" : "נפולאון",
 			"singer" : "יוני בלוך",
+			"playback": {
+				"youTubeVideoId" : "jTUWAsQvS1I"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page104.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page104.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1720569600000
 		}, {
 			"id" : 1000105,
 			"name" : "פרח הלילך",
@@ -5355,10 +5361,11 @@
 			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page461.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page461.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1666224000000,
-			"dateModified" : 1666224000000
+			"dateModified" : 1720569600000
 		}, {
 			"id" : 1000462,
 			"name" : "ריקוד המכונה",
@@ -5460,10 +5467,10 @@
 			"categoryIds" : ["1"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page469.txt",
-				"markupVersion" : "1"
+				"markupVersion" : "2"
 			},
 			"dateCreated" : 1669248000000,
-			"dateModified" : 1687305600000
+			"dateModified" : 1720569600000
 		}, {
 			"id" : 1000470,
 			"name" : "פני מלאך",
@@ -5499,10 +5506,11 @@
 			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page472.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page472.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1669248000000,
-			"dateModified" : 1669248000000
+			"dateModified" : 1720569600000
 		}, {
 			"id" : 1000473,
 			"name" : "מחפש תשובה",
@@ -5538,10 +5546,11 @@
 			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page475.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page475.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1720051200000,
-			"dateModified" : 1720051200000
+			"dateModified" : 1720569600000
 		}, {
 			"id" : 2000001,
 			"name" : "אדון שוקו",
@@ -6896,10 +6905,11 @@
 			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage165.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage165.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1595030400000
+			"dateModified" : 1720569600000
 		}, {
 			"id" : 2000167,
 			"name" : "עוף גוזל",
@@ -7679,10 +7689,11 @@
 			"singer" : "אושיק לוי",
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage267.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage267.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1658534400000
+			"dateModified" : 1720569600000
 		}, {
 			"id" : 2000268,
 			"name" : "תביא קצת דינרוס",
@@ -15366,6 +15377,19 @@
 			"dateCreated" : 1669248000000,
 			"dateModified" : 1716249600000
 		}, {
+			"id" : 3000283,
+			"name" : "All The Young Dudes",
+			"singer" : "Mott The Hoople",
+			"playback": {
+				"youTubeVideoId" : "9IqiRY60ZDE"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page283.txt"
+			},
+			"dateCreated" : 1720569600000,
+			"dateModified" : 1720569600000
+		}, {
 			"id" : 4000060,
 			"name" : "Lorelei",
 			"singer" : "Scorpions",
@@ -15573,10 +15597,10 @@
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page99.txt",
-				"markupVersion" : "3"
+				"markupVersion" : "4"
 			},
 			"dateCreated" : 1526860800000,
-			"dateModified" : 1687392000000
+			"dateModified" : 1720569600000
 		}, {
 			"id" : 4000100,
 			"name" : "Show me The Meaning of Being Lonely",
@@ -15641,10 +15665,11 @@
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page104.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page104.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1720569600000
 		}, {
 			"id" : 4000105,
 			"name" : "Wake Me Up Before You Go-Go",

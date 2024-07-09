@@ -30,9 +30,9 @@ Dm/Bb      Am    Gm     C       F
     Gm   Gm/E
 רק תבואי, בואי חזרי אלי 
 
-Dm    Dm    Dm/B    Dm/B
+Dm    Dm    Dm/Bb   Dm/Bb
 Gm    Gm    Gm/E    Gm/E
-Dm    Dm    Dm/B    Dm/B
+Dm    Dm    Dm/Bb   Dm/Bb
 Gm    Gm    Gm/E    Gm/E
 
          Dm
@@ -57,9 +57,9 @@ Dm/Bb      Am    Gm     C       F
     Gm   Gm/E
 רק תבואי, בואי חזרי אלי 
 
-Dm    Dm    Dm/B    Dm/B
+Dm    Dm    Dm/Bb   Dm/Bb
 Gm    Gm    Gm/E    Gm/E
-Dm    Dm    Dm/B    Dm/B
+Dm    Dm    Dm/Bb   Dm/Bb
 Gm    Gm    Gm/E    Gm/E
 
 Gm     Gm/E         Dm - Dm/C -
@@ -81,8 +81,8 @@ Dm/Bb      Am    Gm     C       F
 Dm/Bb
  בואי חזרי אלי
 
-Dm    Dm    Dm/B    Dm/B
+Dm    Dm    Dm/Bb   Dm/Bb
 Gm    Gm    Gm/E    Gm/E
-Dm    Dm    Dm/B    Dm/B
+Dm    Dm    Dm/Bb   Dm/Bb
 Gm    Gm    Gm/E    Gm/E
 Dm
