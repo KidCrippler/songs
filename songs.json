@@ -1,5 +1,5 @@
 {
-	"version" : "2024_07_10",
+	"version" : "2024_07_11",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -15389,6 +15389,45 @@
 			},
 			"dateCreated" : 1720569600000,
 			"dateModified" : 1720569600000
+		}, {
+			"id" : 3000284,
+			"name" : "For What Its Worth",
+			"singer" : "Buffalo Springfield",
+			"playback": {
+				"youTubeVideoId" : "80_39eAx3z8"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page284.txt"
+			},
+			"dateCreated" : 1720656000000,
+			"dateModified" : 1720656000000
+		}, {
+			"id" : 3000285,
+			"name" : "Redemption Song",
+			"singer" : "Bob Marley & The Wailers",
+			"playback": {
+				"youTubeVideoId" : "yv5xonFSC4c"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page285.txt"
+			},
+			"dateCreated" : 1720656000000,
+			"dateModified" : 1720656000000
+		}, {
+			"id" : 3000286,
+			"name" : "Seven Nation Army",
+			"singer" : "The White Stripes",
+			"playback": {
+				"youTubeVideoId" : "0J2QdDbelmY"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page286.txt"
+			},
+			"dateCreated" : 1720656000000,
+			"dateModified" : 1720656000000
 		}, {
 			"id" : 4000060,
 			"name" : "Lorelei",
