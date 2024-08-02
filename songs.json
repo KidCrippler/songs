@@ -1,5 +1,5 @@
 {
-	"version" : "2024_07_25",
+	"version" : "2024_08_02",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -6405,10 +6405,10 @@
 			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage89.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage89.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1722556800000
 		}, {
 			"id" : 2000090,
 			"name" : "ציפור מדבר",
@@ -6505,10 +6505,10 @@
 			"singer" : "אריק לביא",
 			"categoryIds" : ["1","5","6"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage101.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage101.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1557187200000
+			"dateModified" : 1722470400000
 		}, {
 			"id" : 2000103,
 			"name" : "שיר של יום חולין",
@@ -7680,10 +7680,10 @@
 			"singer" : "שלמה ארצי",
 			"categoryIds" : ["1","5"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage266.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage266.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1722556800000
 		}, {
 			"id" : 2000267,
 			"name" : "בלדה לשוטר",
