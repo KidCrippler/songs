@@ -1,5 +1,5 @@
 {
-	"version" : "2024_08_04",
+	"version" : "2024_08_05",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -6820,10 +6820,10 @@
 			"singer" : "שלמה ארצי",
 			"categoryIds" : ["1","4"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage152.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage152.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1722729600000
 		}, {
 			"id" : 2000153,
 			"name" : "ארץ חדשה",
@@ -12041,6 +12041,16 @@
 			},
 			"dateCreated" : 1719532800000,
 			"dateModified" : 1722643200000
+		}, {
+			"id" : 2000695,
+			"name" : "שינויי מזג האוויר",
+			"singer" : "שלמה ארצי",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage695.txt"
+			},
+			"dateCreated" : 1722729600000,
+			"dateModified" : 1722729600000
 		}, {
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
