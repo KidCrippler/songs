@@ -1,5 +1,5 @@
 {
-	"version" : "2024_08_05",
+	"version" : "2024_08_14",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -1058,10 +1058,11 @@
 			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page81.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page81.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1669248000000
+			"dateModified" : 1723593600000
 		}, {
 			"id" : 1000082,
 			"name" : "זיוה",
@@ -2058,12 +2059,15 @@
 			"id" : 1000169,
 			"name" : "כבר הסתיו עכשיו",
 			"singer" : "תיסלם",
+			"playback": {
+				"youTubeVideoId" : "fPZiIjxbT3c"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page169.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page169.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1723593600000
 		}, {
 			"id" : 1000170,
 			"name" : "השיר שיביא לך אהבה",
@@ -2073,7 +2077,7 @@
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page170.jpg"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1723593600000
 		}, {
 			"id" : 1000171,
 			"name" : "גשם בעיתו",
@@ -2839,12 +2843,15 @@
 			"id" : 1000250,
 			"name" : "עוד פגישה",
 			"singer" : "תיסלם",
+			"playback": {
+				"youTubeVideoId" : "NhMjgBacXPE"
+			},
 			"categoryIds" : ["1","5"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page250.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page250.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1723593600000
 		}, {
 			"id" : 1000251,
 			"name" : "אין מקום אחר",
@@ -6523,12 +6530,15 @@
 			"id" : 2000104,
 			"name" : "שירות עצמי",
 			"singer" : "כוורת",
+			"playback": {
+				"youTubeVideoId" : "PBMhFRmf87o"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage104.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage104.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1723593600000
 		}, {
 			"id" : 2000106,
 			"name" : "שירים פשוטים",
@@ -9768,13 +9778,16 @@
 			"id" : 2000474,
 			"name" : "לבד במדבר",
 			"singer" : "גיא מזיג",
-			"isPrivate" : true,
+			"playback": {
+				"youTubeVideoId" : "5llD4epFi6s"
+			},
 			"categoryIds" : ["1","5"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage474.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage474.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1618531200000,
-			"dateModified" : 1618531200000
+			"dateModified" : 1723593600000
 		}, {
 			"id" : 2000475,
 			"name" : "בדמעות שאת בוכה",
@@ -10226,10 +10239,11 @@
 			"singer" : "הראל סקעת",
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage518.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage518.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1636761600000,
-			"dateModified" : 1636761600000
+			"dateModified" : 1723593600000
 		}, {
 			"id" : 2000519,
 			"name" : "שמיים",
@@ -12660,10 +12674,11 @@
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page54.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page54.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1603843200000
+			"dateModified" : 1723593600000
 		}, {
 			"id" : 3000055,
 			"name" : "More Than Words",
@@ -15172,10 +15187,11 @@
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page265.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page265.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1665014400000,
-			"dateModified" : 1665014400000
+			"dateModified" : 1723593600000
 		}, {
 			"id" : 3000266,
 			"name" : "Where The Wild Roses Grow",
@@ -15450,6 +15466,19 @@
 			},
 			"dateCreated" : 1720656000000,
 			"dateModified" : 1720656000000
+		}, {
+			"id" : 3000287,
+			"name" : "Suspicious Minds",
+			"singer" : "Elvis Presley",
+			"playback": {
+				"youTubeVideoId" : "13iMsGNUHFo"
+			},
+			"categoryIds" : ["2","5"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page287.txt"
+			},
+			"dateCreated" : 1723593600000,
+			"dateModified" : 1723593600000
 		}, {
 			"id" : 4000060,
 			"name" : "Lorelei",
