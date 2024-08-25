@@ -1,21 +1,21 @@
 ילד אסור ילד מותר - ריקי גל / מתי כספי / יעקב גלעד
 
 Am   Amaj7   Am7   Am6   Am    Dm   
-Am   D      /E  /F  /F#  /G - /Ab
+Am   D      /E  /F  /F#  /G
 Am   Amaj7   Am7   Am6   Am    Dm   
-Am   D      /E  /F  /F#  /G - /Ab
+Am   D      /E  /F  /F#  /G
 
 Am   Amaj7           Am7
             ילד בא אל העולם
 Am6           Am     Dm
       אבא קם ונעלם
-Am            D      /E  /F  /F#  /G - /Ab
+Am            D      /E  /F  /F#  /G
       אמא פה ואמא שם
 Am   Amaj7           Am7
             הוא ניסה להתאבד
 Am6           Am     Dm
       מה כבר יש לו לפחד
-Am             D      /E  /F  /F#  /G - /Ab
+Am             D      /E  /F  /F#
     כאן ברחוב הכי בודד
 
 G       Dm        C       Em
@@ -31,13 +31,13 @@ F#m       F         Am
              זמן גוסס שעות מתות
 Am6              Am     Dm
      בין חומות מתמוטטות
-Am              D      /E  /F  /F#  /G - /Ab
+Am              D      /E  /F  /F#  /G
     הוא חובש את השריטות
 Am   Amaj7           Am7
               ריח שתן רוח ים
 Am6           Am     Dm
       בר נטוש ומיותם
-Am             D      /E  /F  /F#  /G - /Ab
+Am             D      /E  /F  /F#
      כאן בחוץ הבית חם
 
 G       Dm        C       Em
@@ -53,13 +53,13 @@ F#m       F         Am
              בן חורג לאלוהים
 Am6           Am     Dm
     פרח בר של החיים
-Am            D      /E  /F  /F#  /G - /Ab
+Am            D      /E  /F  /F#  /G
      לא נראה ואין רואים
 Am   Amaj7           Am7
                מתקפל בתוך בועה
 Am6           Am     Dm
        ונרגע לפי שעה
-Am             D      /E  /F  /F#  /G - /Ab
+Am             D      /E  /F  /F#
      כאן בעיר הכי רעה
 
 G       Dm        C       Em
@@ -75,7 +75,7 @@ F#m       F         Am
 
 Am   Amaj7    Am7     Am6
 Am     Dm
-Am      D     /E  /F  /F#  /G - /Ab
+Am      D     /E  /F  /F#  /G
 Am   Amaj7           Am7
             ילד בא אל העולם
 Am6           Am     Dm        Am
