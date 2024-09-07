@@ -1,67 +1,149 @@
 Piano Man - Billy Joel
 Lyrics and Music: Billy Joel
 
-It's nine o'clock on a Saturday
+{Piano Intro}  Dm7   Dº7
+{Harmonica + Piano}
+C   Em/B   Am   /G   F   C/E   D7   G
+C   Em/B   Am   /G   F   /G
+(C  F/A   G/B   F  -  /E  -  /D  -) x 2
+
+      C      Em/B      Am          /G
+It's Nine o'clock on a Saturday
+     F       C/E           D7    G
 The regular crowd shuffles in
+           C    Em/B       Am            /G
 There's an old man sitting next to me
-Making love to his tonic and gin
+        F          /G         C    C
+Makin' love to his tonic and gin
 
-He says, "Son can you play me a memory
+{Harmonica}  C   Em/B   Am   /G   F   /G   C   C   F/C   F/C
+
+          C           Em/B      Am        /G
+He says "Son, can you play me a memory?
+     F         C/E         D7      G
 I'm not really sure how it goes
-But it's sad and it's sweet
-And I knew it complete
-When I wore a younger man's clothes."
+          C            Em/B        Am         /G
+But it's sad and it's sweet and I knew it complete
+     F        /G              C       C
+When I wore a younger man's clothes"
 
-La la la di di da
-La la di di da da dum
+Am    /G       D7/F#    F
+La la la, di di da
+Am     /G       D7/F#  F        G    /F   /E   /D
+    La la, di di da         da dum
 
-Sing us a song you're the piano man
+ C        Em/B              Am          /G
+Sing us a song, you're the piano man
+ F        C/E    D7      G
 Sing us a song tonight
-Well we're all in the mood for a melody
-And you've got us feeling alright
+            C          Em/B       Am        /G
+Well, we're all in the mood for a melody
+     F             /G        C     C
+And you've got us feelin' alright
 
+{Harmonica}   C   Em/B   Am   /G   F   /G
+(C  F/A   G/B   F  -  /E  -  /D  -) x 2
+
+     C         Em/B       Am              /G
 Now John at the bar is a friend of mine
+    F          C/E        D7     G
 He gets me my drinks for free
-And he's quick with a joke or to light up your smoke
-But there's someplace that he'd rather be
+          C           Em/B
+And he's quick with a joke
+      Am             /G
+or to light up your smoke, but there’s
+ F             /G           C   C   F/C   F/C
+someplace that he'd rather be
 
-He says, "Bill, I believe this is killing me."
-As a smile ran away from his face
-"Well, I'm sure that I could be a movie star
-If I could get out of this place."
+          C       Em/B           Am          /G
+He says "Bill, I believe this is killing me"
+         F        C/E          D7     G
+As the smile ran away from his face
+           C          Em/B       Am          /G
+"Well I'm sure that I could be a movie star
+   F           /G            C     C
+If I could get out of this place"
 
-La la la di di da
-La la di di da da dum
+Am    /G       D7/F#    F
+La la la, di di da
+Am     /G       D7/F#  F        G    /F   /E   /D
+    La la, di di da         da dum
 
+     C        Em/B        Am          /G
 Now Paul is a real estate novelist
+     F        C/E         D7     G
 Who never had time for a wife
-And he's talking with Davy, who's still in the Navy
+          C           Em/B
+And he's talkin' with Davy
+       Am          /G
+who's still in the navy
+     F       /G           C     C
 And probably will be for life
 
+{Harmonica}  C   Em/B   Am   /G   F   /G   C   C   F/C   F/C
+
+         C          Em/B       Am         /G
 And the waitress is practicing politics
+        F          C/E         D7       G
 As the businessmen slowly get stoned
-Yes they're sharing a drink they call "Loneliness"
-But it's better than drinking alone
+               C        Em/B
+Yes, they're sharing a drink
+          Am            /G
+they call loneliness
+          F           /G        C      C
+But it's better than drinkin' alone
 
-Sing us a song you're the piano man
+{Piano Solo}
+(Am   Am/G   D7/F#   F) x 2
+ Am   Am/G   D7/F#  D7/F#
+ G     /F     /E     /D
+
+ C        Em/B              Am          /G
+Sing us a song, you're the piano man
+ F        C/E    D7      G
 Sing us a song tonight
-Well we're all in the mood for a melody
-And you've got us feeling alright
+            C          Em/B       Am        /G
+Well, we're all in the mood for a melody
+     F             /G        C     C
+And you've got us feelin' alright
 
+{Harmonica}   C   Em/B   Am   /G   F   /G
+(C  F/A   G/B   F  -  /E  -  /D  -) x 2
+
+         C          Em/B       Am          /G
 It's a pretty good crowd for a Saturday
+         F      C/E         D7     G
 And the manager gives me a smile
-'Cause he knows that it's me they've been coming to see
+            C            Em/B             Am        /G
+'Cause he knows that it's me they've been comin' to see
+       F        /G           C   C   F/C   F/C
 To forget about life for a while
 
-And the piano it sounds like a carnival
+         C        Em/B          Am         /G
+And the piano, it sounds like a carnival
+         F         C/E           D7     G
 And the microphone smells like a beer
-And they sit at the bar and put bread in my jar
-And say, "Man, what are you doing here?"
+          C         Em/B
+And they sit at the bar
+         Am         /G
+and put bread in my jar
+          F            /G         C       C
+And say "Man, what are you doin' here?"
 
-La la la di di da
-La la di di da da dum
+Am    /G       D7/F#    F
+La la la, di di da
+Am     /G       D7/F#  F        G    /F   /E   /D
+    La la, di di da         da dum
 
-Sing us a song you're the piano man
+ C        Em/B              Am          /G
+Sing us a song, you're the piano man
+ F        C/E    D7      G
 Sing us a song tonight
-Well we're all in the mood for a melody
-And you've got us feeling alright
+            C          Em/B       Am        /G
+Well, we're all in the mood for a melody
+     F             /G        C     C
+And you've got us feelin' alright
+
+{Harmonica}   C   Em/B   Am   /G   F   /G
+(C  F/A   G/B   F  -  /E  -  /D  -) x 2
+ C

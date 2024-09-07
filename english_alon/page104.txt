@@ -1,6 +1,7 @@
 The Winner Takes it All - ABBA
 Lyrics and Music: Benny Anderson and Bjoern Ulvaeus
 
+{Only piano}
 F  /A - Dm  /F# - Gm  C7
 F  /A - Dm  /F# - Gm  C7
 
@@ -21,15 +22,17 @@ Nothing more to say
                C7
 No more ace to play
 
+{Bass joins}
                     F
 The winner takes it all
-                      Dm
+    /A                Dm
 The loser's standing small
-                Gm
+  /F#           Gm
 Beside the victory
                 C7
 That's her destiny
 
+{Rest of the band joins}
               F
 I was in your arms
              C/E
@@ -47,19 +50,19 @@ But I was a fool
                C7
 Playing by the rules
 
-                    F
+                     F
 The gods may throw a dice
-               Dm
+      /A         Dm
 Their minds as cold as ice
-            Gm
+    /F#     Gm
 And someone way down here
           C7
 Loses someone dear
                 F
 The winner takes it all
-                 Dm
+    /A           Dm
 The loser has to fall
-                    Gm
+     /F#              Gm
 It's simple and it's plain
              C7
 Why should I complain?
@@ -83,21 +86,22 @@ Rules must be obeyed
 
                F
 The judges will decide
-             Dm
+    /A       Dm
 The likes of me abide
-                   Gm
+    /F#           Gm
 Spectators of the show
           C7
 Always staying low
-              F
+                F
 The game is on again
-             Dm
+  /A         Dm
 A lover or a friend
-                  Gm
+ /F#              Gm
 A big thing or a small
                     C7   C7
 The winner takes it all
 
+{Quiet, just piano}
                F
 I don't wanna talk
                 C/E
@@ -115,20 +119,33 @@ Seeing me so tense
           C7
 No self-confidence (But you see)
 
-                    F   Dm
+                    F
 The winner takes it all
-                Gm       C7
+     /A     Dm
+   /F#              Gm
 The winner takes it all
+       C7
 
-F               Dm
-  So the winner    takes it all
-Gm                  C7
-  And the the loser    has to fall
-F              Dm
-  Throw a dice,  cold as ice
-Gm              C7
-  Way down here,   someone dear
-F              Dm
-  Takes it all,   has to fall
-Gm                  C7
-  It seems plain...
+F                
+          So the winner
+/A    Dm
+          takes it all
+/F#   Gm            
+          And the the loser
+C7
+          has to fall
+F
+          Throw a dice
+/A   Dm
+          cold as ice
+/F#   Gm
+          Way down here
+C7
+          someone dear
+F
+          Takes it all
+/A   Dm
+          has to fall
+/F#   Gm
+          It seems plain...
+C7

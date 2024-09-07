@@ -27,7 +27,7 @@ Well I don't want to know
 
 Fm
 Don't speak
-C#                      Eb
+Bbm                     Eb
 I know just what you're saying
    C              Bbm
 So please stop explaining
@@ -35,11 +35,11 @@ So please stop explaining
 Don't tell me 'cause it hurts
 Fm
 Don't speak
-C#                 Eb
+Bbm                Eb
 I know what you're thinking
 C                 Bbm
 I don't need your reasons
-      C                 Fm     Bbm  C
+      C                 Fm     C#   Eb
 Don't tell me 'cause it hurts
 
       Cm
@@ -59,7 +59,7 @@ I sit and cry
 
 Fm
 Don't speak
- Bbm                    Eb
+Bbm                     Eb
 I know just what you're saying
 C                Bbm
 So please stop explaining
@@ -74,9 +74,9 @@ I don't need your reasons
        C                Fm     Eb   C   G#
 Don't tell me 'cause it hurts
 
-C#       G#                     
+C#       G#/C
 It's all ending
-         B      F#             A! A! A
+         B      F#/Bb          A! A! A
 I gotta stop pretending who we are...
 
 G#4! G#4! G#

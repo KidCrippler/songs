@@ -1,7 +1,7 @@
 Angels - Robbie Williams
 Lyrics and Music: Guy Chambers, Robbie Williams
 
-D  D
+D         D
 
            D                          G            A
 I sit and wait, does an angel contemplate my fate
@@ -67,7 +67,8 @@ C             G/B        D
    I'm loving angels instead
 
 {Guitar Solo}
-(Am  G  D  D) x 4
+(Am   G   D   D)   x3
+ Am   G   D
 
                A                    Bm
 And through it all she offers me protection
