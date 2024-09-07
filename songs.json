@@ -16932,7 +16932,6 @@
 			"id" : 4000193,
 			"name" : "Uptown Funk",
 			"singer" : "Bruno Mars",
-			"isPrivate" : true,
 			"playback": {
 				"youTubeVideoId" : "OPf0YbXqDm0"
 			},
