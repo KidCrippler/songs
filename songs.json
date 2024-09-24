@@ -1,5 +1,5 @@
 {
-	"version" : "2024_09_07",
+	"version" : "2024_09_25",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -12066,6 +12066,26 @@
 			},
 			"dateCreated" : 1722729600000,
 			"dateModified" : 1722729600000
+		}, {
+			"id" : 2000696,
+			"name" : "מה יהיה מחר",
+			"singer" : "פאר טסי",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage696.txt"
+			},
+			"dateCreated" : 1727136000000,
+			"dateModified" : 1727136000000
+		}, {
+			"id" : 2000697,
+			"name" : "אחרי הנצח",
+			"singer" : "פאר טסי",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage697.txt"
+			},
+			"dateCreated" : 1727136000000,
+			"dateModified" : 1727136000000
 		}, {
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
