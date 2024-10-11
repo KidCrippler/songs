@@ -1,5 +1,5 @@
 {
-	"version" : "2024_10_04",
+	"version" : "2024_10_12",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -12127,6 +12127,27 @@
 			},
 			"dateCreated" : 1727913600000,
 			"dateModified" : 1727913600000
+		}, {
+			"id" : 2000702,
+			"name" : "סליחה",
+			"singer" : "מתי כספי",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage702.txt"
+			},
+			"dateCreated" : 1728604800000,
+			"dateModified" : 1728604800000
+		}, {
+			"id" : 2000703,
+			"name" : "ונתנה תוקף",
+			"singer" : "הגבעטרון",
+			"isPrivate" : true,
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage703.txt"
+			},
+			"dateCreated" : 1728604800000,
+			"dateModified" : 1728604800000
 		}, {
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
