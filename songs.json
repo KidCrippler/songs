@@ -1,5 +1,5 @@
 {
-	"version" : "2024_10_17",
+	"version" : "2024_10_18",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -7449,10 +7449,10 @@
 			"singer" : "משינה",
 			"categoryIds" : ["1","5"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage236.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage236.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1729123200000
 		}, {
 			"id" : 2000237,
 			"name" : "הריקוד המוזר של הלב",
@@ -7500,21 +7500,10 @@
 			"singer" : "הפרוייקט של עידן רייכל",
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage242.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage242.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
-		}, {
-			"id" : 2010242,
-			"name" : "שאריות של החיים (A)",
-			"singer" : "הפרוייקט של עידן רייכל",
-			"isPrivate" : true,
-			"categoryIds" : ["1"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage242_a.jpg"
-			},
-			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1729123200000
 		}, {
 			"id" : 2000244,
 			"name" : "תלבשי לבן",
