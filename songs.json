@@ -12177,17 +12177,6 @@
 			"dateCreated" : 1728604800000,
 			"dateModified" : 1728604800000
 		}, {
-			"id" : 2000704,
-			"name" : "השיר שיביא אהבה (משפחת ברוך)",
-			"singer" : "משפחת ברוך",
-			"isPrivate" : true,
-			"categoryIds" : ["1"],
-			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage704.txt"
-			},
-			"dateCreated" : 1730678400000,
-			"dateModified" : 1730678400000
-		}, {
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
 			"singer" : "Beatles",
