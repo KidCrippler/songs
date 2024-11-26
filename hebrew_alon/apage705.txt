@@ -86,6 +86,6 @@ Fmaj7     C
 שידיי את ידייך מחפשות
 
 {סולו חשמלית}
-(Am   Am   Em   Em) x 2
+(Am   Dm   G   E   Am   D   G   E) x 2
 
 {Fade Out}
