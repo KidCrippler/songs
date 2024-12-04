@@ -1,5 +1,4 @@
-לקחת את ידי בידך - יהודית רביץ
-מילים: יעקב רוטבליט   לחן: מתי כספי
+לקחת את ידי בידך - יהודית רביץ / מתי כספי / יעקב רוטבליט   
 
       [Dm]          []      [] Gm
 לקחת         את ידי     בידך ואמרת לי
@@ -10,13 +9,13 @@ Bb    C      Dm     A4   -  A  -
   E°    Dm/F     E7       A7    Dm    Dm
 דברים שרואים משם     לא רואים מכאן
 
-         E°        A7  D    Dmaj7
+         E°        A7  D      Bm
 ניגנת לי שיר על הגיטרה וקולך רעד
-Bm     Bb      A4  A7     Dm        Gm
+       Bb       A4 A7     Dm        Gm
 רוח בי קמה, רוח  שרה,  והזמן כאילו עמד
   Cm       F7     Bb   Eb
 ואני עוד זוכרת כל טעם וריח
-E°        F  D7/F#  Gm   -  D7/A    -  Gm/Bb       -  G/B    -
+E°        F  D7/F#  Gm    D7/A     Gm/Bb        G/B    
 את חלקת השדה לאור הירח
      Cm     F7    Bb            Eb
 קול התן מן הואדי וכובד הפרי בבוסתן
@@ -32,13 +31,13 @@ E°        F  D7/F#  Gm   -  D7/A    -  Gm/Bb       -  G/B    -
   E°    Dm/F     E7       A7    Dm    Dm
 דברים שרואים משם     לא רואים מכאן
 
-       Gm           A7  D      Dmaj7
+       Gm           A7  D      Bm
 נתת לי יד, הראית לי דרך להרבה דברים
- Bm   Bb         A4 A7  Dm    Gm
+      Bb         A4 A7  Dm    Gm
 הבאת חיוך יפה כמו פרח  וכח להאמין
   Cm       F7  Bb       Eb
 ואני עוד זוכרת את השיר ששרת
-E°        F     D7/F#  Gm   -  D7/A    -  Gm/Bb       -  G/B    -
+E°       F      D7/F#  Gm    D7/A     Gm/Bb      G/B    
 את החלק הטוב מכל מה  שאמרת
       Cm   F7    Bb             Eb
 היי מלאך ושטן, התשוב לעצור את הזמן
@@ -47,15 +46,23 @@ E°        F     D7/F#  Gm   -  D7/A    -  Gm/Bb       -  G/B    -
   E°    Dm/F     E7       A7    Dm
 דברים שרואים משם     לא רואים מכאן
 
-Bb   B°   Dm/C   C#°
-Dm   Eb°   E°   Dm/F
-F#°  Gm    G#°  Dm/A
-Bb7  B°   Dm/C   C#° - A7 -
-Dm   E°   Dm/F  D7/F#
-Gm   G#°  Dm/A   Bb
-B°  Dm/C   C#°   Dm
-D7  Gm - E° - Dm/F# - A7 -
-Dm  Bb
+Bb     B°     Dm/C     C#°
+.
+Dm     Eb°     E°     Dm/F
+.
+F#°    Gm      G#°    Dm/A
+.
+Bb7    B°     Dm/C     C#° - A7 -
+.
+Dm     E°     Dm/F    D7/F#
+.
+Gm     G#°    Dm/A     Bb
+.
+B°    Dm/C     C#°     Dm
+.
+D7   Gm   - E° - Dm/F# - A7 -
+.
+Dm    Bb
 
   E°    Dm/F     E7       A7    Dm     []
 דברים שרואים משם     לא רואים מכאן
