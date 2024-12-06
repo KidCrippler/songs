@@ -1,5 +1,5 @@
 {
-	"version" : "2024_12_04",
+	"version" : "2024_12_06",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -7511,10 +7511,10 @@
 			"singer" : "הדודאים והפרברים",
 			"categoryIds" : ["1","6"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage244.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage244.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1557187200000
+			"dateModified" : 1733443200000
 		}, {
 			"id" : 2000246,
 			"name" : "עומד בשער",
