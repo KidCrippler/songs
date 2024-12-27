@@ -1,5 +1,5 @@
 {
-	"version" : "2024_12_26",
+	"version" : "2024_12_28",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -12258,6 +12258,26 @@
 			},
 			"dateCreated" : 1735171200000,
 			"dateModified" : 1735171200000
+		}, {
+			"id" : 2000712,
+			"name" : "בשש או בשבע",
+			"singer" : "השלושרים",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage712.txt"
+			},
+			"dateCreated" : 1735257600000,
+			"dateModified" : 1735257600000
+		}, {
+			"id" : 2000713,
+			"name" : "איפה נטשה ופייר",
+			"singer" : "השלושרים",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage713.txt"
+			},
+			"dateCreated" : 1735257600000,
+			"dateModified" : 1735257600000
 		}, {
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
