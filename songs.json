@@ -12279,6 +12279,46 @@
 			"dateCreated" : 1735257600000,
 			"dateModified" : 1735257600000
 		}, {
+			"id" : 2000714,
+			"name" : "לוחמת",
+			"singer" : "אייל גולן",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage714.txt"
+			},
+			"dateCreated" : 1735257600000,
+			"dateModified" : 1735257600000
+		}, {
+			"id" : 2000715,
+			"name" : "יפה שלי",
+			"singer" : "אייל גולן",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage715.txt"
+			},
+			"dateCreated" : 1735257600000,
+			"dateModified" : 1735257600000
+		}, {
+			"id" : 2000716,
+			"name" : "דמעות",
+			"singer" : "אייל גולן",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage716.txt"
+			},
+			"dateCreated" : 1735257600000,
+			"dateModified" : 1735257600000
+		}, {
+			"id" : 2000717,
+			"name" : "אם יש גן עדן",
+			"singer" : "אייל גולן",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage717.txt"
+			},
+			"dateCreated" : 1735257600000,
+			"dateModified" : 1735257600000
+		}, {
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
 			"singer" : "Beatles",
