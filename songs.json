@@ -12383,6 +12383,16 @@
 			"dateCreated" : 1738195200000,
 			"dateModified" : 1738195200000
 		}, {
+			"id" : 2000724,
+			"name" : "ממך עד אליי",
+			"singer" : "חנן בן ארי",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage724.txt"
+			},
+			"dateCreated" : 1738195200000,
+			"dateModified" : 1738195200000
+		}, {
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
 			"singer" : "Beatles",
