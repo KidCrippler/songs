@@ -1,5 +1,5 @@
 {
-	"version" : "2025_02_28",
+	"version" : "2025_03_06",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -2629,10 +2629,10 @@
 			"singer" : "מוניקה סקס",
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page224.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page224.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1741219200000
 		}, {
 			"id" : 1000225,
 			"name" : "לקחת את ידי בידך",
@@ -3533,10 +3533,10 @@
 			"singer" : "שלמה ניצן",
 			"categoryIds" : ["1","4"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page320.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page320.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1741132800000
 		}, {
 			"id" : 1000321,
 			"name" : "עוד לא אהבתי די",
