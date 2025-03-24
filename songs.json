@@ -1,5 +1,5 @@
 {
-	"version" : "2025_03_14",
+	"version" : "2025_03_24",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -5602,6 +5602,58 @@
 			"dateCreated" : 1729123200000,
 			"dateModified" : 1729123200000
 		}, {
+			"id" : 1000479,
+			"name" : "חלומות של אחרים",
+			"singer" : "עידן רייכל",
+			"playback": {
+				"youTubeVideoId" : "WDpUlvF0-Dg"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page479.txt"
+			},
+			"dateCreated" : 1742774400000,
+			"dateModified" : 1742774400000
+		}, {
+			"id" : 1000480,
+			"name" : "כל דבר קט",
+			"singer" : "אלון אולארצ'יק",
+			"playback": {
+				"youTubeVideoId" : "a59B5s8hqec"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page480.txt"
+			},
+			"dateCreated" : 1742774400000,
+			"dateModified" : 1742774400000
+		}, {
+			"id" : 1000481,
+			"name" : "כולנו זקוקים לחסד",
+			"singer" : "נורית גלרון",
+			"playback": {
+				"youTubeVideoId" : "iE-lp0rICnw"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page481.txt"
+			},
+			"dateCreated" : 1742774400000,
+			"dateModified" : 1742774400000
+		}, {
+			"id" : 1000482,
+			"name" : "קרב אגרוף",
+			"singer" : "אפרת גוש",
+			"playback": {
+				"youTubeVideoId" : "jPRye-CcqO8"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page482.txt"
+			},
+			"dateCreated" : 1742774400000,
+			"dateModified" : 1742774400000
+		}, {
 			"id" : 2000001,
 			"name" : "אדון שוקו",
 			"singer" : "אריק איינשטיין",
@@ -7142,10 +7194,11 @@
 			"singer" : "אמיר דדון",
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage192.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage192.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1526860800000,
-			"dateModified" : 1526860800000
+			"dateModified" : 1742774400000
 		}, {
 			"id" : 2000194,
 			"name" : "איך אפשר שלא",
@@ -14861,10 +14914,11 @@
 			},
 			"categoryIds" : ["2","7"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page210.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page210.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1600560000000,
-			"dateModified" : 1600905600000
+			"dateModified" : 1742774400000
 		}, {
 			"id" : 3000211,
 			"name" : "You're The One That I Want",
@@ -15071,10 +15125,10 @@
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page226.txt",
-				"markupVersion" : "1"
+				"markupVersion" : "2"
 			},
 			"dateCreated" : 1608854400000,
-			"dateModified" : 1617408000000
+			"dateModified" : 1742774400000
 		}, {
 			"id" : 3000227,
 			"name" : "The Logical Song",
