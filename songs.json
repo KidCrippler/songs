@@ -12530,6 +12530,17 @@
 			"dateCreated" : 1743206400000,
 			"dateModified" : 1743206400000
 		}, {
+			"id" : 2000733,
+			"name" : "ניצנים נראו בארץ",
+			"singer" : "הגבעטרון",
+			"isPrivate" : true,
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage733.txt"
+			},
+			"dateCreated" : 1743292800000,
+			"dateModified" : 1743292800000
+		}, {
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
 			"singer" : "Beatles",
