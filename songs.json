@@ -1,5 +1,5 @@
 {
-	"version" : "2025_03_30",
+	"version" : "2025_04_03",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -2067,10 +2067,11 @@
 			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page169.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page169.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1723593600000
+			"dateModified" : 1743638400000
 		}, {
 			"id" : 1000170,
 			"name" : "השיר שיביא לך אהבה",
@@ -2157,10 +2158,11 @@
 			},
 			"categoryIds" : ["1","5"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page177.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page177.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1654041600000
+			"dateModified" : 1743638400000
 		}, {
 			"id" : 1000180,
 			"name" : "פנים ושמות",
@@ -2391,12 +2393,15 @@
 			"id" : 1000203,
 			"name" : "שבתות וחגים",
 			"singer" : "יהודית רביץ",
+			"playback": {
+				"youTubeVideoId" : "KuIgbfFfaEw"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page203.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page203.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1670630400000
+			"dateModified" : 1743638400000
 		}, {
 			"id" : 1000204,
 			"name" : "פגישה חצי פגישה",
@@ -5308,10 +5313,10 @@
 			"categoryIds" : ["1"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page456.txt",
-				"markupVersion" : "2"
+				"markupVersion" : "3"
 			},
 			"dateCreated" : 1665014400000,
-			"dateModified" : 1669248000000
+			"dateModified" : 1743638400000
 		}, {
 			"id" : 1000457,
 			"name" : "אני אשיר לך שיר",
@@ -5611,10 +5616,11 @@
 			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page479.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page479.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1742774400000,
-			"dateModified" : 1742774400000
+			"dateModified" : 1743638400000
 		}, {
 			"id" : 1000480,
 			"name" : "כל דבר קט",
@@ -6300,12 +6306,16 @@
 			"id" : 2000069,
 			"name" : "מחכה",
 			"singer" : "ריטה",
+			"playback": {
+				"youTubeVideoId" : "hAX2ku9ifEs"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage69.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage69.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1699056000000,
-			"dateModified" : 1699056000000
+			"dateModified" : 1743638400000
 		}, {
 			"id" : 2000070,
 			"name" : "מכתב לאחי",
