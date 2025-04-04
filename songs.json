@@ -1,5 +1,5 @@
 {
-	"version" : "2025_04_03",
+	"version" : "2025_04_05",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -12550,6 +12550,37 @@
 			},
 			"dateCreated" : 1743292800000,
 			"dateModified" : 1743292800000
+		}, {
+			"id" : 2000734,
+			"name" : "שמרי לי על המנגינה",
+			"singer" : "יהורם גאון",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage734.txt"
+			},
+			"dateCreated" : 1743724800000,
+			"dateModified" : 1743724800000
+		}, {
+			"id" : 2000735,
+			"name" : "ים השיבולים",
+			"singer" : "הגבעטרון",
+			"isPrivate" : true,
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage735.txt"
+			},
+			"dateCreated" : 1743724800000,
+			"dateModified" : 1743724800000
+		}, {
+			"id" : 2000736,
+			"name" : "מה אברך",
+			"singer" : "רבקה זוהר",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage736.txt"
+			},
+			"dateCreated" : 1743724800000,
+			"dateModified" : 1743724800000
 		}, {
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
