@@ -1,5 +1,5 @@
 {
-	"version" : "2025_04_05",
+	"version" : "2025_04_06",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -1940,10 +1940,10 @@
 			"singer" : "מתי כספי",
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page157.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page157.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1743811200000
 		}, {
 			"id" : 1000158,
 			"name" : "אמא ודני",
@@ -12581,6 +12581,26 @@
 			},
 			"dateCreated" : 1743724800000,
 			"dateModified" : 1743724800000
+		}, {
+			"id" : 2000737,
+			"name" : "אתה לבד",
+			"singer" : "דני סנדרסון",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage737.txt"
+			},
+			"dateCreated" : 1743811200000,
+			"dateModified" : 1743811200000
+		}, {
+			"id" : 2000738,
+			"name" : "החול יזכור",
+			"singer" : "חוה אלברשטיין",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage738.txt"
+			},
+			"dateCreated" : 1743811200000,
+			"dateModified" : 1743811200000
 		}, {
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
