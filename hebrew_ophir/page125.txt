@@ -69,16 +69,18 @@ Ebo7           B7
  Fm7           Bb7
 כשאת הילדה הכי יפה בגן
 
-Abmaj7   Abmaj7   Gm7   Gm7
- F#o7     Fm7  -  Bb7   Eo7   C7
+Gmaj7   Gmaj7   F#m7   F#m7
+לללה לללה לללה
+Fo7   Em7 - A7    Ebo7    B7
+לללה לללה לללה
 
-Fm7      Bb7
+ Em7     A7
 וכמה שמביטים בה יותר
-  Gm7        C7
+ F#m7        B7
 רואים שאין מה    לדבר
- Fm7
+ Em7
 והיא הילדה
-Bb7    Abmaj7   Gm7
+ A7       Gmaj7   Gmaj7   F#m7   F#m7
 הכי יפה, יפה בגן
-       Fm7    Bb7    Eb9
+       Em7    A7    D9
 אווווו אהההההההההההההה
