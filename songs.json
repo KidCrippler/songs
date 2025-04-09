@@ -1365,22 +1365,28 @@
 			"id" : 1000105,
 			"name" : "פרח הלילך",
 			"singer" : "חוה אלברשטיין",
+			"playback": {
+				"youTubeVideoId" : "o-IRUpk3GGc"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page105.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page105.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1744156800000
 		}, {
 			"id" : 1000106,
 			"name" : "עכשיו טוב",
 			"singer" : "גלעד שגב",
+			"playback": {
+				"youTubeVideoId" : "dsQN26NxEPA"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page106.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page106.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1744156800000
 		}, {
 			"id" : 1000107,
 			"name" : "רגע מתוק וקצר",
@@ -5671,6 +5677,19 @@
 			"dateCreated" : 1742774400000,
 			"dateModified" : 1742774400000
 		}, {
+			"id" : 1000483,
+			"name" : "לילה",
+			"singer" : "נוער שוליים",
+			"playback": {
+				"youTubeVideoId" : "jmmdL8yRxoA"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page483.txt"
+			},
+			"dateCreated" : 1744156800000,
+			"dateModified" : 1744156800000
+		}, {
 			"id" : 2000001,
 			"name" : "אדון שוקו",
 			"singer" : "אריק איינשטיין",
@@ -7142,12 +7161,16 @@
 			"id" : 2000183,
 			"name" : "כמה אהבה",
 			"singer" : "מאיר בנאי",
+			"playback": {
+				"youTubeVideoId" : "MtkYo-IVCjw"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage183.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage183.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1679011200000
+			"dateModified" : 1744156800000
 		}, {
 			"id" : 2000184,
 			"name" : "ערב בלי טלפון",
@@ -16045,6 +16068,19 @@
 			},
 			"dateCreated" : 1733270400000,
 			"dateModified" : 1733270400000
+		}, {
+			"id" : 3000289,
+			"name" : "Keep Yourself Alive",
+			"singer" : "Queen",
+			"playback": {
+				"youTubeVideoId" : "zLpCXoBYr-U"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page289.txt"
+			},
+			"dateCreated" : 1744156800000,
+			"dateModified" : 1744156800000
 		}, {
 			"id" : 4000060,
 			"name" : "Lorelei",
