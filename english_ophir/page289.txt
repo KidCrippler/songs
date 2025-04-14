@@ -6,15 +6,11 @@ A
 D
 A  D  F      F
 
-      F
-I was told a million times
-           Bb             F
-Of all the troubles in my way
-        F
-How to grow a little wiser
-       Bb           F
-Little better every day
-         C
+      F                                Bb            F
+I was told a million times of all the troubles in my way
+        F                          Bb           F
+How to grow a little wiser, little better every day
+          C
 But if I crossed a million rivers
       C#
 And I rode a million miles
@@ -22,14 +18,10 @@ And I rode a million miles
 Then I'd still be where I started
           C
 Bread and butter for a smile
-       F
-Well I sold a million mirrors
-     Bb             F
-In a shopping alley way
-      F
-But I never saw my face
-       Bb         F
-In any window any day
+       F                           Bb             F
+Well I sold a million mirrors in a shopping alley way
+      F                        Bb         F
+But I never saw my face in any window any day
           C
 Well they say your folks are telling you
    C#
@@ -39,11 +31,9 @@ But I tell you just be satisfied
    A7
 To stay right where you are
 
-D
-Keep yourself alive
-D              A
-keep yourself alive
-      D         F♯‎      Bm           G
+D              D       D              A
+Keep yourself alive    keep yourself alive
+      D         F#     Bm           G
 It'll take you all your time and the money
 A               D
 Honey you'll survive
@@ -51,14 +41,10 @@ Honey you'll survive
 A   A   A   A   A   A   A   A   A   A   A
 A   D   F   F   
 
-          F
-Well I've loved a million women
-     Bb         F
-In a belladonic haze
-      F
-And I ate a million dinners
-           Bb           F
-Brought to me on silver trays
+          F                          Bb         F
+Well I've loved a million women in a belladonic haze
+      F                                Bb            F
+And I ate a million dinners brought to me on silver trays
         C
 Give me everything I need
            C#
@@ -67,14 +53,10 @@ To feed my body and my soul
 And I'll grow a little bigger
       C
 Maybe that can be my goal
-      F
-I was told a million times
-           Bb           F
-Of all the people in my way
-      F
-How I had to keep on trying
-        Bb           F
-And get better every day
+      F                               Bb           F
+I was told a million times of all the people in my way
+      F                             Bb           F
+How I had to keep on trying and get better every day
           C
 But if I crossed a million rivers
       C#
@@ -84,11 +66,9 @@ Then I'd still be where I started
 A7
 Still be where I started
 
-D
-Keep yourself alive
-D              A
-keep yourself alive
-      D         F♯‎      Bm           G
+D              D       D              A
+Keep yourself alive    keep yourself alive
+      D        F#‎       Bm           G
 It'll take you all your time and the money
 A               D
 Honey you'll survive
@@ -96,18 +76,12 @@ Honey you'll survive
 {Drums}
 
 {Guitar solo}
-F      F   C
-F  A  Dm  Bb
-C    F
-F      F   C
-F  A  Dm  Bb
-C    F
+F      F   C       F  A  Dm  Bb     C    F
+F      F   C       F  A  Dm  Bb     C    F
 
-D
-Keep yourself alive
-D              A
-keep yourself alive
-      D         F♯‎      Bm           G
+D              D       D              A
+Keep yourself alive    keep yourself alive
+      D         F#      Bm           G
 It'll take you all your time and the money
    A            D     E!
 To keep me satisfied
@@ -118,35 +92,27 @@ No, I just think I'm two steps nearer to my grave
 
 E       A
 
-D
-Keep yourself alive
-D             A
-Keep yourself alive
-    D         F♯‎       Bm        G
+D              D       D              A
+Keep yourself alive    keep yourself alive
+    D         F#       Bm      G
 You take your time and take my money
 A              D
 Keep yourself alive
-F
-Keep yourself alive
-F              C
-Keep yourself alive
+F              F       F              C
+Keep yourself alive    Keep yourself alive
 F     A     Dm    Bb
 All   you   pe---ople 
 C              F
 keep yourself alive
-D
-Keep yourself alive
-D             A
-Keep yourself alive
-D         F♯‎       Bm            G
+D              D       D              A
+Keep yourself alive    keep yourself alive
+D         F#       Bm            G
 take your all your time and take money
    A            D
 To keep me satisfied
 
-B
-Keep yourself alive
-B              F#
-Keep yourself alive
+B              B       B              F#
+Keep yourself alive    Keep yourself alive
 B     Eb    Abm  E
 All   you   pe---ople 
 F#             B
@@ -154,5 +120,4 @@ Keep yourself alive
 
 B
 Take you all your time and money honey
- 
 You will survive...

@@ -1,5 +1,5 @@
 {
-	"version" : "2025_04_10",
+	"version" : "2025_04_14",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -1393,20 +1393,23 @@
 			"singer" : "קובי הרי",
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page107.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page107.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1744588800000
 		}, {
 			"id" : 1000108,
 			"name" : "נגעה בשמיים",
 			"singer" : "משינה",
+			"playback": {
+				"youTubeVideoId" : "c1kQgVUQCVo"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page108.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page108.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1744588800000
 		}, {
 			"id" : 1000109,
 			"name" : "היא התווכחה איתו שעות",
@@ -2840,10 +2843,11 @@
 			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page245.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page245.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1744156800000
+			"dateModified" : 1744588800000
 		}, {
 			"id" : 1000247,
 			"name" : "בלדה לעוזב קיבוץ",
@@ -5675,7 +5679,7 @@
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page482.txt"
 			},
 			"dateCreated" : 1742774400000,
-			"dateModified" : 1742774400000
+			"dateModified" : 1744588800000
 		}, {
 			"id" : 1000483,
 			"name" : "לילה",
@@ -5685,10 +5689,37 @@
 			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page483.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page483.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1744156800000,
-			"dateModified" : 1744156800000
+			"dateModified" : 1744588800000
+		}, {
+			"id" : 1000484,
+			"name" : "עתיד מתוק",
+			"singer" : "משינה",
+			"playback": {
+				"youTubeVideoId" : "_3OOrrGxJ1M"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page484.txt"
+			},
+			"dateCreated" : 1744588800000,
+			"dateModified" : 1744588800000
+		}, {
+			"id" : 1000485,
+			"name" : "אהבה חדשה",
+			"singer" : "אסף אמדורסקי",
+			"playback": {
+				"youTubeVideoId" : "UCjvC03GoeI"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page485.txt"
+			},
+			"dateCreated" : 1744588800000,
+			"dateModified" : 1744588800000
 		}, {
 			"id" : 2000001,
 			"name" : "אדון שוקו",
@@ -6341,10 +6372,10 @@
 			"categoryIds" : ["1"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage69.txt",
-				"markupVersion" : "1"
+				"markupVersion" : "2"
 			},
 			"dateCreated" : 1699056000000,
-			"dateModified" : 1743638400000
+			"dateModified" : 1744588800000
 		}, {
 			"id" : 2000070,
 			"name" : "מכתב לאחי",
@@ -7755,12 +7786,16 @@
 			"id" : 2000259,
 			"name" : "שוב הדיסקו כאן",
 			"singer" : "הדורבנים",
+			"playback": {
+				"youTubeVideoId" : "xZSyaDtE0hE"
+			},
 			"categoryIds" : ["1","5"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage259.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage259.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1744588800000
 		}, {
 			"id" : 2000260,
 			"name" : "שיר לשירה",
@@ -16078,10 +16113,37 @@
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page289.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page289.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1744156800000,
-			"dateModified" : 1744156800000
+			"dateModified" : 1744588800000
+		}, {
+			"id" : 3000290,
+			"name" : "Take Me To Church",
+			"singer" : "Hozier",
+			"playback": {
+				"youTubeVideoId" : "PVjiKRfKpPI"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page290.txt"
+			},
+			"dateCreated" : 1744588800000,
+			"dateModified" : 1744588800000
+		}, {
+			"id" : 3000291,
+			"name" : "Dancing In The Dark",
+			"singer" : "Bruce Springsteen",
+			"playback": {
+				"youTubeVideoId" : "129kuDCQtHs"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page291.txt"
+			},
+			"dateCreated" : 1744588800000,
+			"dateModified" : 1744588800000
 		}, {
 			"id" : 4000060,
 			"name" : "Lorelei",
