@@ -1,10 +1,9 @@
 ﻿Back on the Chain Gang - The Pretenders
+Lyrics and Music: Chrissie Hynde
 
-D   A   Em7   Em7
-D   A   Em7   Em7
+D   A   Em7   Em7    X2
 {Guitar solo}
-D   A   Em7   Em7
-D   A   Em7   Em7
+D   A   Em7   Em7    X2
  
 D           A              Em7    Bm        G
   I found a picture of you,       ohh oh oh ohh ohhh
@@ -37,18 +36,18 @@ Ohhh, ohhhhhhhh
 Back on the chain gang
             D           A    Em7      Bm    G
             D           A    Em7      Bm    G
-            D           A    Em7      Bm    G    G
+            D!         D!
 
 Dm       A               Dm       A                        Dm
      The powers that be      that force us to live like we do
 Dm   A                 Dm        A                        Dm
      Bring me to my knees when I see what they've done to you
 
-Dm   AaddF    Dm   AaddF 
+(Dm)    A    Dm   A 
 
 Dm              A                     Dm       A                      Dm 
      And will I die as I stand here today,    knowing that deep in my heart
-Dm    A                        Dm       A
+Dm    A                        Dm       A           A
       They'll fall to ruin one day, for making us p---art
 
 E    B    A    C#m   A
@@ -59,7 +58,7 @@ E                      B                   A       C#m     A
     Oh, those were the happiest days of my life
 E                       B               A       C#m       A
     Like a break in the battle was your part,   ohh oh oh ohh ohhh
-E                   B                A       C#m       A
+E                   B                A        B
     in the wretched life of a lonely heart
 
 A                        B             A   B
