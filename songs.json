@@ -1,5 +1,5 @@
 {
-	"version" : "2025_04_21",
+	"version" : "2025_04_22",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -1467,33 +1467,42 @@
 			"id" : 1000113,
 			"name" : "גשם",
 			"singer" : "אלי לוזון",
+			"playback": {
+				"youTubeVideoId" : "JeOMg1e8MFY"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page113.txt",
 				"markupVersion" : "1"
 			},
 			"dateCreated" : 1519948800000,
-			"dateModified" : 1745020800000
+			"dateModified" : 1745280000000
 		}, {
 			"id" : 1000114,
 			"name" : "אהבת נעורי",
 			"singer" : "שלום חנוך",
+			"playback": {
+				"youTubeVideoId" : "5zd_U6X0oEI"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page114.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page114.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1745280000000
 		}, {
 			"id" : 1000115,
 			"name" : "נשל הנחש",
 			"singer" : "מאיר אריאל",
+			"playback": {
+				"youTubeVideoId" : "CH5DPl0NfEs"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page115.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page115.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1745280000000
 		}, {
 			"id" : 1000116,
 			"name" : "שיר אהבה בדואי",
@@ -1524,72 +1533,93 @@
 			"id" : 1000118,
 			"name" : "אם תלך",
 			"singer" : "הפרוייקט של עידן רייכל",
+			"playback": {
+				"youTubeVideoId" : "cXQ6uVJtH_Q"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page118.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page118.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1745280000000
 		}, {
 			"id" : 1000119,
 			"name" : "השמיים הכחולים",
 			"singer" : "אסף אמדורסקי",
+			"playback": {
+				"youTubeVideoId" : "sUfTN50bxuQ"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page119.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page119.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1745280000000
 		}, {
 			"id" : 1000120,
 			"name" : "מי אוהב אותך יותר ממני",
 			"singer" : "ארקדי דוכין",
+			"playback": {
+				"youTubeVideoId" : "l0WYMRSs9C4"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page120.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page120.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1745280000000
 		}, {
 			"id" : 1000121,
 			"name" : "ממעמקים",
 			"singer" : "הפרוייקט של עידן רייכל",
+			"playback": {
+				"youTubeVideoId" : "kmW2yAYhMmM"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page121.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page121.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1745280000000
 		}, {
 			"id" : 1000122,
 			"name" : "היא לא יודעת מה עובר עלי",
 			"singer" : "שלמה ארצי",
+			"playback": {
+				"youTubeVideoId" : "WHDQ-JHI6Z8"
+			},
 			"categoryIds" : ["1","5"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page122.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1678492800000
+			"dateModified" : 1745280000000
 		}, {
 			"id" : 1000123,
 			"name" : "איך שיר נולד",
 			"singer" : "הכבש השישה עשר",
+			"playback": {
+				"youTubeVideoId" : "uAtpJBD1vuQ"
+			},
 			"categoryIds" : ["1","4"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page123.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page123.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1745280000000
 		}, {
 			"id" : 1000124,
 			"name" : "פרחים בקנה",
 			"singer" : "להקת חיל התותחנים",
+			"playback": {
+				"youTubeVideoId" : "EwvAywMw93M"
+			},
 			"categoryIds" : ["1","5","6"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page124.txt"
 			},
 			"dateCreated" : 1551744000000,
-			"dateModified" : 1557187200000
+			"dateModified" : 1745280000000
 		}, {
 			"id" : 1000125,
 			"name" : "הילדה הכי יפה בגן",
@@ -2325,10 +2355,10 @@
 			"singer" : "עפרה חזה",
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page193.txt"
+				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page193.jpg"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1745107200000
+			"dateModified" : 1519516800000
 		}, {
 			"id" : 1000194,
 			"name" : "החיטה צומחת שוב",
