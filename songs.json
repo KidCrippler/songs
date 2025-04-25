@@ -1,5 +1,5 @@
 {
-	"version" : "2025_04_22",
+	"version" : "2025_04_25",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -12738,6 +12738,37 @@
 			},
 			"dateCreated" : 1743811200000,
 			"dateModified" : 1743811200000
+		}, {
+			"id" : 2000739,
+			"name" : "אנחנו מאותו הכפר",
+			"singer" : "להקת פיקוד מרכז",
+			"isPrivate" : true,
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage739.txt"
+			},
+			"dateCreated" : 1745539200000,
+			"dateModified" : 1745539200000
+		}, {
+			"id" : 2000740,
+			"name" : "הביתה",
+			"singer" : "ירדנה ארזי",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage740.txt"
+			},
+			"dateCreated" : 1745539200000,
+			"dateModified" : 1745539200000
+		}, {
+			"id" : 2000741,
+			"name" : "גיבור של אמא",
+			"singer" : "משה פרץ",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage741.txt"
+			},
+			"dateCreated" : 1745539200000,
+			"dateModified" : 1745539200000
 		}, {
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
