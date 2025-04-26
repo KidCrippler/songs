@@ -1,56 +1,57 @@
 ﻿Tiny Dancer - Elton John
+Lyrics: Elton John Music: Bernie Taupin
 
-C    C/F    C    C/F    C    C/F    C    C/F
+C    F/C    C    F/C    C    F/C    C    F/C
 
-C            C/F   C       C/F    C                    F/A     F/A G/B
+C            F/C   C       F/C    C                    F/A     F/A G/B
    Blue jean baby,    L.A. lady,    seamstress for the band
-C         C/F   C         C/F    C                       F/A   F/A G
+C         F/C   C         F/C    C                       F/A   F/A G
    Pretty eyed,    pirate smile,    you'll marry a music man
-F       Em7   Am               D/F#      Dm7  E7             Am    G7/B
-   Ballerina,    you must have seen her,      dancing in the sand
-C            C/F     C         C/F      C                   G - F - Em - Dm
+F       Em7   Am               D/F#      Dm7     E7             Am    G7/B
+   Ballerina,    you must have seen her,         dancing in the sand
+C            F/C     C         F/C      C                   G - F - Em - Dm
    Now she's in me,     always with me,   tiny dancer in my hand
 
-C    C/F    C    C/F
+C    F/C    C    F/C
  
-C         C/F   C            C/F    C                         F/A     F/A G/B
+C         F/C   C            F/C    C                         F/A     F/A G/B
    Jesus freaks,  out in the street,  handing tickets out for God
-C          C/F  C          C/F    C                           F/A   F/A G
+C          F/C  C          F/C    C                           F/A   F/A G
    Turning back,  she just laughs,  the boulevard is not that bad
 F        Em7   Am             D/F#    Dm7        E7     Am    G7/B
    Piano man,    he makes his stand,      in the auditorium
-C          C/F  C                C/F   C                                   G - F - Em - Dm
+C          F/C  C                F/C   C                                   G - F - Em - Dm
    Looking on,     she sings the songs,  the words she knows, the tune she hums
 
-C    C/F    C    C
+C    F/C    C    C
 
 Ab               Bb              Gm               Cm
    But oh how it feels so real   Lying here, with no one near
 Ab                           Bb                      B°              G/D
 Only you,        and you can hear me    When I say, "Softly..."    "Slowly..."
 
-F          C/E         Dm      Dm C/E  F           C/E               G/A    G/A
-   Hold me closer Tiny Dancer            Count the headlights on the highway
-F         C/E               Dm      Dm C/E  F           C/E        G/A    G/A
-   Lay me down in sheets of linen             You had a busy day today
-F          C/E         Dm      Dm C/E  F           C/E               G/A    G/A
-   Hold me closer Tiny Dancer            Count the headlights on the highway
-F         C/E               Dm      Dm C/E  F           C/E        G/A   G/A
-   Lay me down in sheets of linen             You had a busy day today
+F          C/E         Dm      Dm - C/E  F           C/E               G/A    G/A
+   Hold me closer Tiny Dancer              Count the headlights on the highway
+F         C/E               Dm      Dm - C/E  F           C/E        G/A    G/A
+   Lay me down in sheets of linen               You had a busy day today
+F          C/E         Dm      Dm - C/E  F           C/E               G/A    G/A
+   Hold me closer Tiny Dancer              Count the headlights on the highway
+F         C/E               Dm      Dm - C/E  F           C/E        G/A   G/A
+   Lay me down in sheets of linen               You had a busy day today
 
 F/A   F/A   G/A   G/A   F/C   F/C
-C    C/F    C    C/F
+C    F/C    C    F/C
 
-C            C/F   C       C/F    C                    F/A     F/A G/B
+C            F/C   C       F/C    C                    F/A     F/A G/B
    Blue jean baby,    L.A. lady,    seamstress for the band
-C         C/F   C         C/F    C                       F/A   F/A G
+C         F/C   C         F/C    C                       F/A   F/A G
    Pretty eyed,    pirate smile,    you'll marry a music man
-F       Em7   Am               D/F#      Dm7  E7             Am    G7/B
-   Ballerina,    you must have seen her,      dancing in the sand
-C            C/F     C         C/F      C                   G - F - Em - Dm
+F       Em7   Am               D/F#      Dm7   E7             Am    G7/B
+   Ballerina,    you must have seen her,       dancing in the sand
+C            F/C     C         F/C      C                   G - F - Em - Dm
    Now she's in me,     always with me,   tiny dancer in my hand
 
-C    C/F    C    C
+C    F/C    C    C
 
 Ab               Bb              Gm               Cm
    But oh how it feels so real   Lying here, with no one near
@@ -66,4 +67,4 @@ F          C/E         Dm      Dm C/E  F           C/E               G/A    G/A
 F         C/E               Dm      Dm C/E  F           C/E        G/A   G/A
    Lay me down in sheets of linen             You had a busy day today
 F/A   F/A   
-C    C/F    C    C/F    C    C/F    C    C
+C    F/C    C    F/C    C    F/C    C    C

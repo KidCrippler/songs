@@ -1,7 +1,7 @@
 Eye In The Sky - Alan Parsons Project
 
 Bm    G     Bm     G
- 
+
 D                           Bm
 Don't think  Sorry's easily said
 D                            Bm
@@ -9,7 +9,7 @@ Don't try  Turning tables instead
        G                       Gm
 You've taken lots of chances before
     Bm                    E
-But I ain't gonna give anymore, Don't ask me   
+But I ain't gonna give anymore, Don't ask me
 D 
 That's how it goes
       G                            D
@@ -37,13 +37,13 @@ I am the maker of rules  Dealing with fools
 F#m
       I can cheat you blind
     G                      Gm
-And I don't need to see anymore To know that 
+And I don't need to see anymore To know that
 Bm
-    I can read your mind (Looking At You), 
+    I can read your mind (Looking At You)
 G
-    I can read your mind (Looking At You),
+    I can read your mind (Looking At You)
 Bm
-    I can read your mind (Looking At You),
+    I can read your mind (Looking At You)
 G
     I can read your mind
 
@@ -60,7 +60,7 @@ Some of the lies
       G                      D          D
 while all of the signs are deceiving
 
-         D                D              
+         D                D
 I am the eye in the sky   Looking at you
 F#m
      I can read your mind
@@ -69,17 +69,17 @@ I am the maker of rules  Dealing with fools
 F#m
       I can cheat you blind
     G                      Gm
-And I don't need to see anymore To know that 
+And I don't need to see anymore To know that
 Bm
-    I can read your mind (Looking At You), 
+    I can read your mind (Looking At You)
 G
-    I can read your mind (Looking At You),
+    I can read your mind (Looking At You)
 Bm
-    I can read your mind (Looking At You),
+    I can read your mind (Looking At You)
 G
     I can read your mind
 
-         D                D              
+         D                D
 I am the eye in the sky   Looking at you
 F#m
      I can read your mind
@@ -88,12 +88,15 @@ I am the maker of rules  Dealing with fools
 F#m
       I can cheat you blind
     G                      Gm
-And I don't need to see anymore To know that 
+And I don't need to see anymore To know that
 Bm
-    I can read your mind (Looking At You), 
+    I can read your mind (Looking At You),
 G
-    I can read your mind (Looking At You),
+    I can read your mind (Looking At You)
 Bm
-    I can read your mind (Looking At You),
-G                            D
+    I can read your mind (Looking At You)
+G
     I can read your mind
+
+Bm           G  
+{X many + fade}

@@ -17,8 +17,8 @@ Dm    Dm/A    Bb  C    Dm
  אני   הגיבור שרוכב בדמיון
 
 {גיטרת ליווי מצטרפת}
-    F      Am    Am
- חלליות רודפות אחריך
+(Bb)   F      Am    Am
+    חלליות רודפות אחריך
 Bb     F      Am       C
     חלליות קוראות לי לחזור
 Bb       F      Am    Am
@@ -42,8 +42,8 @@ Dm/A   Bb    C          Dm
     Dm/A    Bb      C     Bb
 אני עומד למשפט  והם לא מרחמים
 
-    F      Am    Am
- חלליות רודפות אחריך
+(Bb)   F      Am    Am
+    חלליות רודפות אחריך
 Bb     F      Am       C
     חלליות קוראות לי לחזור
 Bb       F      Am    Am
@@ -65,8 +65,8 @@ Dm   Dm/A   Bb    C
 Dm   Dm/A   Bb    C
 Dm   Dm/A   Bb    C
 
-    F      Am    Am
- חלליות רודפות אחריך
+(Bb)   F      Am    Am
+    חלליות רודפות אחריך
 Bb     F      Am       C
     חלליות קוראות לי לחזור
 Bb       F      Am    Am
@@ -74,8 +74,8 @@ Bb       F      Am    Am
 Bb     F       Gm          C   C   A    A
     חלליות   להיות או לא להיות
 
-    F      Am    Am
- חלליות רודפות אחריך
+(Bb)   F      Am    Am
+    חלליות רודפות אחריך
 Bb     F      Am       C
     חלליות קוראות לי לחזור
 Bb       F      Am    Am

@@ -1,5 +1,5 @@
 {
-	"version" : "2025_04_25",
+	"version" : "2025_04_27",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -1638,52 +1638,67 @@
 			"id" : 1000126,
 			"name" : "רציתי שתדע",
 			"singer" : "עוזי חיטמן",
+			"playback": {
+				"youTubeVideoId" : "O_E9cjwpIk4"
+			},
 			"categoryIds" : ["1","4"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page126.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page126.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1745712000000
 		}, {
 			"id" : 1000127,
 			"name" : "סוס עץ",
 			"singer" : "אריק איינשטיין",
+			"playback": {
+				"youTubeVideoId" : "-3DuzR0byZ4"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page127.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page127.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1745712000000
 		}, {
 			"id" : 1000128,
 			"name" : "קשה לי לא להתרגש",
 			"singer" : "ג'קו אייזנברג ומאיה רוטמן",
+			"playback": {
+				"youTubeVideoId" : "O_JhJ24NxDY"
+			},
 			"categoryIds" : ["1","7"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page128.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page128.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1600905600000
+			"dateModified" : 1745712000000
 		}, {
 			"id" : 1000129,
 			"name" : "הידעת את הדרך",
 			"singer" : "אפרים שמיר ושם טוב לוי",
+			"playback": {
+				"youTubeVideoId" : "b0NLWDyl1H4"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page129.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page129.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1745712000000
 		}, {
 			"id" : 1000130,
 			"name" : "נפלת חזק",
 			"singer" : "איפה הילד",
+			"playback": {
+				"youTubeVideoId" : "BeLRBtavG2U"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page130.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page130.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1745712000000
 		}, {
 			"id" : 1000131,
 			"name" : "הבא בתור הוא סוס",
@@ -1927,10 +1942,11 @@
 			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page151.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page151.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1744156800000
+			"dateModified" : 1745712000000
 		}, {
 			"id" : 1000152,
 			"name" : "האהבה שלי היא לא האהבה שלו",
@@ -1943,7 +1959,7 @@
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page152.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1652313600000
+			"dateModified" : 1745712000000
 		}, {
 			"id" : 1000153,
 			"name" : "צליל מכוון",
@@ -5489,10 +5505,11 @@
 			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page465.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page465.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1667001600000,
-			"dateModified" : 1667001600000
+			"dateModified" : 1745712000000
 		}, {
 			"id" : 1000466,
 			"name" : "קרן שמש",
@@ -13457,10 +13474,11 @@
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page69.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page69.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1542844800000,
-			"dateModified" : 1542844800000
+			"dateModified" : 1745712000000
 		}, {
 			"id" : 3000070,
 			"name" : "Karma Police",
@@ -13672,10 +13690,10 @@
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page98.txt",
-				"markupVersion" : "2"
+				"markupVersion" : "3"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1662768000000
+			"dateModified" : 1745712000000
 		}, {
 			"id" : 3000099,
 			"name" : "California Dreamin'",
@@ -14127,10 +14145,10 @@
 			"categoryIds" : ["2","7"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page132.txt",
-				"markupVersion" : "1"
+				"markupVersion" : "2"
 			},
 			"dateCreated" : 1521504000000,
-			"dateModified" : 1601683200000
+			"dateModified" : 1745712000000
 		}, {
 			"id" : 3000133,
 			"name" : "Radio",
@@ -14288,10 +14306,10 @@
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page144.txt",
-				"markupVersion" : "1"
+				"markupVersion" : "2"
 			},
 			"dateCreated" : 1541894400000,
-			"dateModified" : 1542844800000
+			"dateModified" : 1745712000000
 		}, {
 			"id" : 3000145,
 			"name" : "While My Guitar Gently Weeps",
@@ -14659,10 +14677,11 @@
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page172.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page172.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1583193600000,
-			"dateModified" : 1583193600000
+			"dateModified" : 1745712000000
 		}, {
 			"id" : 3000173,
 			"name" : "Yesterday",
@@ -14672,10 +14691,11 @@
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page173.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page173.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1583193600000,
-			"dateModified" : 1583193600000
+			"dateModified" : 1745712000000
 		}, {
 			"id" : 3000174,
 			"name" : "Hero",
@@ -16268,6 +16288,32 @@
 			"dateCreated" : 1745020800000,
 			"dateModified" : 1745020800000
 		}, {
+			"id" : 3000294,
+			"name" : "My Favorite Mistake",
+			"singer" : "Sheryl Crow",
+			"playback": {
+				"youTubeVideoId" : "AmIlUKo4dQc"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page294.txt"
+			},
+			"dateCreated" : 1745712000000,
+			"dateModified" : 1745712000000
+		}, {
+			"id" : 3000295,
+			"name" : "Everybody Wants To Rule The World",
+			"singer" : "Tears For Fears",
+			"playback": {
+				"youTubeVideoId" : "znDgBy2mHbc"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page295.txt"
+			},
+			"dateCreated" : 1745712000000,
+			"dateModified" : 1745712000000
+		}, {
 			"id" : 4000060,
 			"name" : "Lorelei",
 			"singer" : "Scorpions",
@@ -16396,10 +16442,10 @@
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page90.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page90.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1745712000000
 		}, {
 			"id" : 4000092,
 			"name" : "Can You Feel The Love Tonight",
