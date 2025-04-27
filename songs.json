@@ -2371,7 +2371,7 @@
 			"singer" : "עפרה חזה",
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page193.jpg",
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page193.txt",
 				"markupVersion" : "1"
 			},
 			"dateCreated" : 1519516800000,
