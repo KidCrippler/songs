@@ -1,5 +1,5 @@
 {
-	"version" : "2025_04_27",
+	"version" : "2025_05_02",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -6474,10 +6474,11 @@
 			"singer" : "דני רובס ואופירה יוספי",
 			"categoryIds" : ["1","7"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage71.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage71.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1681948800000
+			"dateModified" : 1746144000000
 		}, {
 			"id" : 2000072,
 			"name" : "מלנכוליה אהובתי",
@@ -6933,21 +6934,11 @@
 			"singer" : "גידי גוב",
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage137.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage137.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
-		}, {
-			"id" : 2010137,
-			"name" : "יש אי שם (C)",
-			"singer" : "גידי גוב",
-			"isPrivate" : true,
-			"categoryIds" : ["1"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage137_c.jpg"
-			},
-			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1746144000000
 		}, {
 			"id" : 2000138,
 			"name" : "יו יה",
