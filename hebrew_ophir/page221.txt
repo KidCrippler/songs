@@ -1,15 +1,15 @@
 שובי לביתך - שם טוב לוי
 מילים: דליה רביקוביץ׳   לחן: שם טוב לוי
 
-Am      Bdim      Am      Bdim E
-
-Am          Ebdim7   B
+Am      Bo      Am      Bo  E
+.
+Am          Ebo     B
 מה לך בחוץ, ילדה
 Em            F
     מנוח לא מצאה רגלך
-  Am           Dm     /D   -   /C   -
+  Am           Dm     /D - /C -
 ציפור פצועה, חזרי אלי
-Bdim   Cdim7      E
+Bo     Co         E
   ו-------שובי לביתך
 
 Am        Ebo   B
@@ -27,7 +27,7 @@ Bb    Bb7/G#  Am
 אור על ענפי אילן
  F     Em   Bb
 תני לנפשך לשמוע
-Bdim  E
+Bo    E
  זמר קטן
 
 Am      Ebo   B
@@ -45,11 +45,12 @@ Bb    Bb7/G#  Am
 אור על ענפי אילן
  F     Em   Bb
 תני לנפשך לשמוע
-Bdim  E
+Bo    E
  זמר קטן
 
-A     F#m      D     E
-A     F#m      D   Esus4    E
+A6    F#m     Bm     E
+A6    F#m     Bm    
+Esus4   Esus4   E   E
 
  Am       Ebo   B
 שאי עין למרום
@@ -60,4 +61,5 @@ A     F#m      D   Esus4    E
 E          Am      
 שו---בי לביתך
 
-(Am)  Bdim    Am    Bdim   E    Am!
+(Am)  Bo    Am    Bo   E    Am!
+.

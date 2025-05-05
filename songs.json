@@ -1,5 +1,5 @@
 {
-	"version" : "2025_05_02",
+	"version" : "2025_05_05",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -444,10 +444,10 @@
 			"categoryIds" : ["1"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page34.txt",
-				"markupVersion" : "1"
+				"markupVersion" : "2"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1625875200000
+			"dateModified" : 1746403200000
 		}, {
 			"id" : 1000035,
 			"name" : "אגדת דשא",
@@ -2672,10 +2672,11 @@
 			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page221.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page221.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1664236800000
+			"dateModified" : 1746403200000
 		}, {
 			"id" : 1000222,
 			"name" : "אה אה אה",
@@ -5803,6 +5804,84 @@
 			"dateCreated" : 1745020800000,
 			"dateModified" : 1745020800000
 		}, {
+			"id" : 1000488,
+			"name" : "מי ראה את באני",
+			"singer" : "מתי כספי",
+			"playback": {
+				"youTubeVideoId" : "w4SIiG4erIk"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page488.txt"
+			},
+			"dateCreated" : 1746403200000,
+			"dateModified" : 1746403200000
+		}, {
+			"id" : 1000489,
+			"name" : "תמונה אימפרסיוניסטית",
+			"singer" : "כרמלה גרוס ואגנר",
+			"playback": {
+				"youTubeVideoId" : "3wES9R387MI"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page489.txt"
+			},
+			"dateCreated" : 1746403200000,
+			"dateModified" : 1746403200000
+		}, {
+			"id" : 1000490,
+			"name" : "אמסטרדם",
+			"singer" : "נוער שוליים",
+			"playback": {
+				"youTubeVideoId" : "CD9m7IXxbKg"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page490.txt"
+			},
+			"dateCreated" : 1746403200000,
+			"dateModified" : 1746403200000
+		}, {
+			"id" : 1000491,
+			"name" : "פלוגה בקו",
+			"singer" : "מאיר אריאל",
+			"playback": {
+				"youTubeVideoId" : "a-sv-TF_S6Y"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page491.txt"
+			},
+			"dateCreated" : 1746403200000,
+			"dateModified" : 1746403200000
+		}, {
+			"id" : 1000492,
+			"name" : "תמיד כשאתה בא",
+			"singer" : "אפשרת גוש",
+			"playback": {
+				"youTubeVideoId" : "9hvSfImLl8g"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page492.txt"
+			},
+			"dateCreated" : 1746403200000,
+			"dateModified" : 1746403200000
+		}, {
+			"id" : 1000493,
+			"name" : "שיר אחר",
+			"singer" : "החברים של נטאשה",
+			"playback": {
+				"youTubeVideoId" : "9rjrt5SxYvY"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page493.txt"
+			},
+			"dateCreated" : 1746403200000,
+			"dateModified" : 1746403200000
+		}, {
 			"id" : 2000001,
 			"name" : "אדון שוקו",
 			"singer" : "אריק איינשטיין",
@@ -7865,10 +7944,10 @@
 			"categoryIds" : ["1","5"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage259.txt",
-				"markupVersion" : "1"
+				"markupVersion" : "2"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1744588800000
+			"dateModified" : 1746403200000
 		}, {
 			"id" : 2000260,
 			"name" : "שיר לשירה",
