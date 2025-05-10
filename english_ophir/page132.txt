@@ -3,10 +3,8 @@ Lyrics and Music: Hillary Scott, Charles Kelley, Dave Haywood, Josh Kear
  
 {piano}
 A         C#m
-{bass}
+{drums+guitar+bass}
 A         C#m
-{drums+guitar}
-A         C#m        A        C#m
 
 [female]
 A                                                  C#m
@@ -25,7 +23,7 @@ For me it happens all the time
 It's a quarter after one, I'm all alone and I need you now
 E                                                  Abm
 Said I wouldn't come, but I lost all control and I need you now
-      A                    A           
+      A                    A
 And I don't know how I can do without
 A               A     C#m
 I just need you now
@@ -45,10 +43,10 @@ For me it happens all the time
 [both]
         E                                     Abm
 It's a quarter after one, I'm all alone and I need you now
-E                                                 Abm
-Said I wouldnt call, but I'm a little drunk and I need you now
+E                                                  Abm
+Said I wouldn't call, but I'm a little drunk and I need you now
       A                    A
-And I don't know how I can do without,    
+And I don't know how I can do without  
 A               C#m       B - E          A          B   
 I just need you now
                       C#m       B - E          A          B
@@ -60,8 +58,8 @@ Yes I'd rather hurt than feel nothing    at a----ll
         E                                     Abm
 It's a quarter after one, I'm all alone and I need you now
 [male]
-E                                                 Abm
-And I said I wouldnt call, but I'm a little drunk and I need you now
+E                                                  Abm
+And I said I wouldn't call, but I'm a little drunk and I need you now
 [both]
       A                    A           A               E     Abm
 And I don't know how I can do without, I just need you no-----w
@@ -69,8 +67,8 @@ And I don't know how I can do without, I just need you no-----w
                 E         Abm       E     Abm
 I just need you no--------w
 [female]
-                   E      Abm       
+                   E          Abm       
 Oh baby I need you no--------w
  
 {Piano}
-E       Abm      E      Abm      E      Abm
+E       Abm
