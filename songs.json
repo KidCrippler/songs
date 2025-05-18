@@ -1,5 +1,5 @@
 {
-	"version" : "2025_05_18",
+	"version" : "2025_05_19",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -6003,6 +6003,32 @@
 			},
 			"dateCreated" : 1746403200000,
 			"dateModified" : 1746403200000
+		}, {
+			"id" : 1000494,
+			"name" : "חושב עליה",
+			"singer" : "עידן יניב וליאור דטאוקר",
+			"playback": {
+				"youTubeVideoId" : "sPEhpMQZDCg"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page494.txt"
+			},
+			"dateCreated" : 1747612800000,
+			"dateModified" : 1747612800000
+		}, {
+			"id" : 1000495,
+			"name" : "שקט",
+			"singer" : "בלאגן",
+			"playback": {
+				"youTubeVideoId" : "MY_KmIxfiQA"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page495.txt"
+			},
+			"dateCreated" : 1747612800000,
+			"dateModified" : 1747612800000
 		}, {
 			"id" : 2000001,
 			"name" : "אדון שוקו",
@@ -12983,7 +13009,7 @@
 		}, {
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
-			"singer" : "Beatles",
+			"singer" : "The Beatles",
 			"playback": {
 				"youTubeVideoId" : "V8nLraecPRY"
 			},
@@ -12993,7 +13019,7 @@
 				"markupVersion" : "2"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1742774400000
+			"dateModified" : 1747612800000
 		}, {
 			"id" : 3000002,
 			"name" : "Help",
@@ -14334,7 +14360,7 @@
 			"name" : "Need You Now",
 			"singer" : "Lady Antebellum",
 			"playback": {
-				"youTubeVideoId" : "eM213aMKTHg"
+				"youTubeVideoId" : "S-rB0pHI9fU"
 			},
 			"categoryIds" : ["2","7"],
 			"lyrics" : {
@@ -14342,7 +14368,7 @@
 				"markupVersion" : "3"
 			},
 			"dateCreated" : 1521504000000,
-			"dateModified" : 1746835200000
+			"dateModified" : 1747612800000
 		}, {
 			"id" : 3000133,
 			"name" : "Radio",
@@ -16522,7 +16548,7 @@
 			"dateModified" : 1746662400000
 		}, {
 			"id" : 3000297,
-			"name" : "Hound Dog Chords",
+			"name" : "Hound Dog",
 			"singer" : "Elvis Presley",
 			"playback": {
 				"youTubeVideoId" : "-eHJ12Vhpyc"
@@ -16533,7 +16559,7 @@
 				"markupVersion" : "1"
 			},
 			"dateCreated" : 1746662400000,
-			"dateModified" : 1746835200000
+			"dateModified" : 1747612800000
 		}, {
 			"id" : 3000298,
 			"name" : "Here Comes Your Man",
@@ -16573,6 +16599,58 @@
 			},
 			"dateCreated" : 1746662400000,
 			"dateModified" : 1746662400000
+		}, {
+			"id" : 3000301,
+			"name" : "Penny Lane",
+			"singer" : "The Beatles",
+			"playback": {
+				"youTubeVideoId" : "S-rB0pHI9fU"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page301.txt"
+			},
+			"dateCreated" : 1747612800000,
+			"dateModified" : 1747612800000
+		}, {
+			"id" : 3000302,
+			"name" : "Please Please Me",
+			"singer" : "The Beatles",
+			"playback": {
+				"youTubeVideoId" : "czw8eqepir8"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page302.txt"
+			},
+			"dateCreated" : 1747612800000,
+			"dateModified" : 1747612800000
+		}, {
+			"id" : 3000303,
+			"name" : "Candle In The Wind",
+			"singer" : "Elton John",
+			"playback": {
+				"youTubeVideoId" : "MYU3F8uUGiw"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page303.txt"
+			},
+			"dateCreated" : 1747612800000,
+			"dateModified" : 1747612800000
+		}, {
+			"id" : 3000304,
+			"name" : "Somebody That I Used To Know",
+			"singer" : "Gotye",
+			"playback": {
+				"youTubeVideoId" : "8UVNT4wvIGY"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page304.txt"
+			},
+			"dateCreated" : 1747612800000,
+			"dateModified" : 1747612800000
 		}, {
 			"id" : 4000060,
 			"name" : "Lorelei",
