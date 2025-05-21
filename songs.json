@@ -1,5 +1,5 @@
 {
-	"version" : "2025_05_20",
+	"version" : "2025_05_21",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -2325,32 +2325,41 @@
 			"id" : 1000180,
 			"name" : "פנים ושמות",
 			"singer" : "דני רובס",
+			"playback": {
+				"youTubeVideoId" : "6nOCXb4qyOw"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page180.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1682121600000
+			"dateModified" : 1747785600000
 		}, {
 			"id" : 1000181,
 			"name" : "עד מחר",
 			"singer" : "אביתר בנאי",
+			"playback": {
+				"youTubeVideoId" : "g_gFnDyi2Ho"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page181.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page181.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1747785600000
 		}, {
 			"id" : 1000182,
 			"name" : "תחזור תחזור",
 			"singer" : "משינה",
+			"playback": {
+				"youTubeVideoId" : "RxonDOJGHBo"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page182.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page182.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1747785600000
 		}, {
 			"id" : 1000183,
 			"name" : "שיעור מולדת",
@@ -2378,12 +2387,15 @@
 			"id" : 1000185,
 			"name" : "שיר של אחרי מלחמה",
 			"singer" : "אריק איינשטיין",
+			"playback": {
+				"youTubeVideoId" : "R0O4ZFgRLWA"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page185.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1700006400000
+			"dateModified" : 1747785600000
 		}, {
 			"id" : 1000186,
 			"name" : "ערב מול הגלעד",
@@ -6069,6 +6081,32 @@
 			"dateCreated" : 1747699200000,
 			"dateModified" : 1747699200000
 		}, {
+			"id" : 1000499,
+			"name" : "כאילו כאן",
+			"singer" : "בועז מעודה",
+			"playback": {
+				"youTubeVideoId" : "2mimzENRU5c"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page499.txt"
+			},
+			"dateCreated" : 1747785600000,
+			"dateModified" : 1747785600000
+		}, {
+			"id" : 1000500,
+			"name" : "שלכת",
+			"singer" : "אביב גפן",
+			"playback": {
+				"youTubeVideoId" : "ntNocY_hBLk"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page500.txt"
+			},
+			"dateCreated" : 1747785600000,
+			"dateModified" : 1747785600000
+		}, {
 			"id" : 2000001,
 			"name" : "אדון שוקו",
 			"singer" : "אריק איינשטיין",
@@ -9365,10 +9403,11 @@
 			"singer" : "שמוליק קראוס",
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage382.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage382.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1562457600000,
-			"dateModified" : 1562457600000
+			"dateModified" : 1747785600000
 		}, {
 			"id" : 2000383,
 			"name" : "חתיכת שמיים",
@@ -14015,10 +14054,11 @@
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page103.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page103.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1747785600000
 		}, {
 			"id" : 3000104,
 			"name" : "Psycho killer",
@@ -14399,7 +14439,7 @@
 			"name" : "Need You Now",
 			"singer" : "Lady Antebellum",
 			"playback": {
-				"youTubeVideoId" : "S-rB0pHI9fU"
+				"youTubeVideoId" : "4LMgO4JyBp4"
 			},
 			"categoryIds" : ["2","7"],
 			"lyrics" : {
@@ -14407,7 +14447,7 @@
 				"markupVersion" : "3"
 			},
 			"dateCreated" : 1521504000000,
-			"dateModified" : 1747612800000
+			"dateModified" : 1747785600000
 		}, {
 			"id" : 3000133,
 			"name" : "Radio",
@@ -14565,10 +14605,10 @@
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page144.txt",
-				"markupVersion" : "2"
+				"markupVersion" : "3"
 			},
 			"dateCreated" : 1541894400000,
-			"dateModified" : 1745712000000
+			"dateModified" : 1747785600000
 		}, {
 			"id" : 3000145,
 			"name" : "While My Guitar Gently Weeps",
@@ -16673,10 +16713,11 @@
 			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page303.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page303.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1747612800000,
-			"dateModified" : 1747612800000
+			"dateModified" : 1747785600000
 		}, {
 			"id" : 3000304,
 			"name" : "Somebody That I Used To Know",
@@ -16690,6 +16731,32 @@
 			},
 			"dateCreated" : 1747612800000,
 			"dateModified" : 1747612800000
+		}, {
+			"id" : 3000305,
+			"name" : "All My Loving",
+			"singer" : "The Beatles",
+			"playback": {
+				"youTubeVideoId" : "TSpiwK5fig0"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page305.txt"
+			},
+			"dateCreated" : 1747785600000,
+			"dateModified" : 1747785600000
+		}, {
+			"id" : 3000306,
+			"name" : "A Day In The Life",
+			"singer" : "The Beatles",
+			"playback": {
+				"youTubeVideoId" : "usNsCeOV4GM"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page306.txt"
+			},
+			"dateCreated" : 1747785600000,
+			"dateModified" : 1747785600000
 		}, {
 			"id" : 4000060,
 			"name" : "Lorelei",

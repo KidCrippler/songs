@@ -1,8 +1,8 @@
 איך הגלגל מסתובב - שמוליק קראוס
 מילים: יעקב רוטבליט   לחן: שמוליק קראוס
 
-E   C#m   B   B
-E   C#m   B   B
+E   C#m   F#m   B
+E   C#m   F#m   B
 
 E   C#m     F#m      B      E    C#m   F#m   B
 הו הו,        איך שגלגל מסתובב לו
@@ -24,7 +24,7 @@ F#m                  B
 
 E   C#m     F#m      B      E    C#m   F#m   B
 הו הו,        איך שגלגל מסתובב לו
-E   C#m     F#m      B      E    C#m   F#m   B
+E   C#m     F#m      B      E    E7
 הו הוו,       איך הגלגל מסתובב
 
  A
@@ -56,7 +56,7 @@ E   C#m     F#m     B      E    C#m   F#m   B
 
 E   C#m      F#m      B      E    C#m   F#m   B
 הו הוו,        איך שגלגל מסתובב לו
-E   C#m     F#m     B      E    C#m   F#m   B
+E   C#m     F#m      B      E    E7
 הו הו,       איך הגלגל מסתובב
 
  A
@@ -88,7 +88,7 @@ F#m          B
 
 E   C#m      F#m      B      E    C#m   F#m   B
 הו הוו,        איך הגלגל מסתובב לו
-E   C#m     F#m     B      E    C#m   F#m   B
+E   C#m     F#m      B      E    E7
 הו הו,       איך הגלגל מסתובב
 
  A
@@ -104,7 +104,7 @@ E   C#m      F#m      B      E    C#m   F#m   B
 הו הוו,        איך שגלגל מסתובב לו
 E   C#m     F#m     B      E    C#m   F#m   B
 הו הו,       איך הגלגל מסתובב
-E   C#m     F#m      B      E    C#m   F#m   B
+E   C#m     F#m      B     E    C#m   F#m   B
 הו הו,        איך שגלגל מסתובב לו
 E   C#m     F#m      B      E
 הו הוו,       איך הגלגל מסתובב
