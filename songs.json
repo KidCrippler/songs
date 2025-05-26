@@ -1,5 +1,5 @@
 {
-	"version" : "2025_05_25",
+	"version" : "2025_05_26",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -2416,123 +2416,159 @@
 			"id" : 1000187,
 			"name" : "מהמרחקים",
 			"singer" : "גלי עטרי וסגיב כהן",
+			"playback": {
+				"youTubeVideoId" : "-xBZjKIrU1Q"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page187.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page187.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1748217600000
 		}, {
 			"id" : 1000188,
 			"name" : "רק אתמול",
 			"singer" : "גלי עטרי",
+			"playback": {
+				"youTubeVideoId" : "B8GNkA63MGw"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page188.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page188.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1748217600000
 		}, {
 			"id" : 1000189,
 			"name" : "ילדות נשכחת",
 			"singer" : "נורית גלרון",
+			"playback": {
+				"youTubeVideoId" : "cde-wpmkP-U"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page189.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page189.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1748217600000
 		}, {
 			"id" : 1000190,
 			"name" : "פרח",
 			"singer" : "יהודה פוליקר",
+			"playback": {
+				"youTubeVideoId" : "YwWDlIZZ7Vo"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page190.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1700092800000
+			"dateModified" : 1748217600000
 		}, {
 			"id" : 1000191,
 			"name" : "לאורך הים",
 			"singer" : "עפרה חזה",
+			"playback": {
+				"youTubeVideoId" : "WxQRH2jEPfE"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page191.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1682121600000
+			"dateModified" : 1748217600000
 		}, {
 			"id" : 1000192,
 			"name" : "דברים שרציתי לומר",
 			"singer" : "יהודה פוליקר",
+			"playback": {
+				"youTubeVideoId" : "vWFKdqvdLO4"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page192.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1681948800000
+			"dateModified" : 1748217600000
 		}, {
 			"id" : 1000193,
 			"name" : "מישהו הולך תמיד איתי",
 			"singer" : "עפרה חזה",
+			"playback": {
+				"youTubeVideoId" : "2pN1v_iGJN4"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page193.txt",
 				"markupVersion" : "1"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1745712000000
+			"dateModified" : 1748217600000
 		}, {
 			"id" : 1000194,
 			"name" : "החיטה צומחת שוב",
 			"singer" : "חוה אלברשטיין",
+			"playback": {
+				"youTubeVideoId" : "gV6rRTKyq0Y"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page194.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1700092800000
+			"dateModified" : 1748217600000
 		}, {
 			"id" : 1000195,
-			"name" : "אני גרה מול המים",
+			"name" : "גרה מול המים",
 			"singer" : "ריטה",
+			"playback": {
+				"youTubeVideoId" : "Jxf5msri5Uw"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page195.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1700092800000
+			"dateModified" : 1748217600000
 		}, {
 			"id" : 1000196,
 			"name" : "הרדופים",
 			"singer" : "שלמה ארצי",
+			"playback": {
+				"youTubeVideoId" : "jl5uOClGcWQ"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page196.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1681948800000
+			"dateModified" : 1748217600000
 		}, {
 			"id" : 1000197,
 			"name" : "מישהו",
 			"singer" : "יהודית רביץ",
+			"playback": {
+				"youTubeVideoId" : "6CeaV0wU_54"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page197.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1700092800000
+			"dateModified" : 1748217600000
 		}, {
 			"id" : 1000198,
 			"name" : "הקיץ האחרון",
 			"singer" : "שפיות זמנית",
+			"playback": {
+				"youTubeVideoId" : "U4pBlyffh4k"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page198.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page198.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1748217600000
 		}, {
 			"id" : 1000199,
 			"name" : "יורם",
@@ -2547,12 +2583,15 @@
 			"id" : 1000200,
 			"name" : "זמר נוגה",
 			"singer" : "החלונות הגבוהים",
+			"playback": {
+				"youTubeVideoId" : "Tb43Fy-RGJw"
+			},
 			"categoryIds" : ["1","7"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page200.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1734048000000
+			"dateModified" : 1748217600000
 		}, {
 			"id" : 1000201,
 			"name" : "היה לי חבר, היה לי אח",
@@ -2583,12 +2622,15 @@
 			"id" : 1000204,
 			"name" : "פגישה חצי פגישה",
 			"singer" : "חנן יובל",
+			"playback": {
+				"youTubeVideoId" : "UNB2AnUXL1o"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page204.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1684195200000
+			"dateModified" : 1748217600000
 		}, {
 			"id" : 1000205,
 			"name" : "באהבתנו",
@@ -2640,13 +2682,16 @@
 			"id" : 1000209,
 			"name" : "עכשיו הכל בסדר",
 			"singer" : "יהודית רביץ",
+			"playback": {
+				"youTubeVideoId" : "93x_LZcSlCI"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page209.txt",
 				"markupVersion" : "2"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1651968000000
+			"dateModified" : 1748217600000
 		}, {
 			"id" : 1000210,
 			"name" : "זן נדיר",
