@@ -1,5 +1,5 @@
 {
-	"version" : "2025_05_30",
+	"version" : "2025_05_31",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -2573,12 +2573,15 @@
 			"id" : 1000199,
 			"name" : "יורם",
 			"singer" : "גידי גוב",
+			"playback": {
+				"youTubeVideoId" : "6716cMkX5Gs"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page199.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page199.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1748649600000
 		}, {
 			"id" : 1000200,
 			"name" : "זמר נוגה",
@@ -2635,22 +2638,28 @@
 			"id" : 1000205,
 			"name" : "באהבתנו",
 			"singer" : "יהודית רביץ",
+			"playback": {
+				"youTubeVideoId" : "6QBLiYxjt1M"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page205.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page205.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1748649600000
 		}, {
 			"id" : 1000206,
 			"name" : "תמונה",
 			"singer" : "יהודית רביץ",
+			"playback": {
+				"youTubeVideoId" : "str8AZmX7A8"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page206.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page206.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1748649600000
 		}, {
 			"id" : 1000207,
 			"name" : "ימים של שקט",
@@ -2736,72 +2745,93 @@
 			"id" : 1000213,
 			"name" : "לילה לי",
 			"singer" : "יוריק בן דוד",
+			"playback": {
+				"youTubeVideoId" : "xi2grz_lg9w"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page213.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page213.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1748649600000
 		}, {
 			"id" : 1000214,
 			"name" : "הגננים היום עצובים",
 			"singer" : "יהודית רביץ",
+			"playback": {
+				"youTubeVideoId" : "aKR5TjeS4gI"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page214.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page214.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1748649600000
 		}, {
 			"id" : 1000215,
 			"name" : "דרך ארוכה",
 			"singer" : "גלי עטרי",
+			"playback": {
+				"youTubeVideoId" : "Ax59Vq-oq3U"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page215.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page215.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1748649600000
 		}, {
 			"id" : 1000216,
 			"name" : "למחרת",
 			"singer" : "יהודית רביץ",
+			"playback": {
+				"youTubeVideoId" : "HSpcCEpwigo"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page216.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page216.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1748649600000
 		}, {
 			"id" : 1000217,
 			"name" : "לילה",
 			"singer" : "שלום חנוך",
+			"playback": {
+				"youTubeVideoId" : "cG_chE9vWnE"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page217.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page217.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1748649600000
 		}, {
 			"id" : 1000218,
 			"name" : "שיר המכולת",
 			"singer" : "כוורת",
+			"playback": {
+				"youTubeVideoId" : "Oo7yp053pmQ"
+			},
 			"categoryIds" : ["1","5","6"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page218.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page218.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1557360000000
+			"dateModified" : 1748649600000
 		}, {
 			"id" : 1000219,
 			"name" : "אצלך בעולם",
 			"singer" : "היהודים",
+			"playback": {
+				"youTubeVideoId" : "P6KnK0cVdhA"
+			},
 			"categoryIds" : ["1","7"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page219.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page219.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1600905600000
+			"dateModified" : 1748649600000
 		}, {
 			"id" : 1000220,
 			"name" : "אמריקה",
