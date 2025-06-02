@@ -2863,12 +2863,15 @@
 			"id" : 1000222,
 			"name" : "אה אה אה",
 			"singer" : "אפרת גוש",
+			"playback": {
+				"youTubeVideoId" : "WmcQ62AW7Jc"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page222.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page222.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1664236800000
+			"dateModified" : 1748822400000
 		}, {
 			"id" : 1000223,
 			"name" : "לראות את האור",
@@ -2886,64 +2889,82 @@
 			"id" : 1000224,
 			"name" : "מכה אפורה",
 			"singer" : "מוניקה סקס",
+			"playback": {
+				"youTubeVideoId" : "QpW0PkI-5x8"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page224.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1741219200000
+			"dateModified" : 1748822400000
 		}, {
 			"id" : 1000225,
 			"name" : "לקחת את ידי בידך",
 			"singer" : "יהודית רביץ",
+			"playback": {
+				"youTubeVideoId" : "VV2rGPHvB8g"
+			},
 			"categoryIds" : ["1","6"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page225.txt",
 				"markupVersion" : "1"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1733270400000
+			"dateModified" : 1748822400000
 		}, {
 			"id" : 1000226,
 			"name" : "יש בי עוד כח",
 			"singer" : "דין דין אביב",
+			"playback": {
+				"youTubeVideoId" : "bZRNeRxB2c4"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page226.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1682121600000
+			"dateModified" : 1748822400000
 		}, {
 			"id" : 1000227,
 			"name" : "זאת שמעל לכל המצופה",
 			"singer" : "דני סנדרסון",
+			"playback": {
+				"youTubeVideoId" : "KxTiFDXGyNc"
+			},
 			"categoryIds" : ["1","6"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page227.txt",
 				"markupVersion" : "2"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1679270400000
+			"dateModified" : 1748822400000
 		}, {
 			"id" : 1000228,
 			"name" : "לחיות נכון",
 			"singer" : "רונה קינן",
+			"playback": {
+				"youTubeVideoId" : "7y1-jvF2gIc"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page228.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page228.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1748822400000
 		}, {
 			"id" : 1000229,
 			"name" : "שפת אימי",
 			"singer" : "קורין אלאל",
+			"playback": {
+				"youTubeVideoId" : "5kzObgXJ-3g"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page229.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page229.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1748822400000
 		}, {
 			"id" : 1000230,
 			"name" : "אין עוד יום",
@@ -6187,6 +6208,58 @@
 			},
 			"dateCreated" : 1747785600000,
 			"dateModified" : 1747785600000
+		}, {
+			"id" : 1000501,
+			"name" : "אם זו אהבה",
+			"singer" : "פרמיירה (מזי כהן)",
+			"playback": {
+				"youTubeVideoId" : "Oz6W2cDgrE4"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page501.txt"
+			},
+			"dateCreated" : 1748822400000,
+			"dateModified" : 1748822400000
+		}, {
+			"id" : 1000502,
+			"name" : "בצהרי היום",
+			"singer" : "דיויד ברוזה ומאיר אריאל",
+			"playback": {
+				"youTubeVideoId" : "A4QpkNRY-Mo"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page502.txt"
+			},
+			"dateCreated" : 1748822400000,
+			"dateModified" : 1748822400000
+		}, {
+			"id" : 1000503,
+			"name" : "על גגות תל אביב",
+			"singer" : "אלונה דניאל",
+			"playback": {
+				"youTubeVideoId" : "NULEoYPWWbo"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page503.txt"
+			},
+			"dateCreated" : 1748822400000,
+			"dateModified" : 1748822400000
+		}, {
+			"id" : 1000504,
+			"name" : "תן לי כח",
+			"singer" : "אריאל זילבר",
+			"playback": {
+				"youTubeVideoId" : "nwTv6bIZKlo"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page504.txt"
+			},
+			"dateCreated" : 1748822400000,
+			"dateModified" : 1748822400000
 		}, {
 			"id" : 2000001,
 			"name" : "אדון שוקו",
@@ -16858,6 +16931,58 @@
 			},
 			"dateCreated" : 1747785600000,
 			"dateModified" : 1747785600000
+		}, {
+			"id" : 3000307,
+			"name" : "Chasing Pavements",
+			"singer" : "Adele",
+			"playback": {
+				"youTubeVideoId" : "z39Tf_7cRJw"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page307.txt"
+			},
+			"dateCreated" : 1748822400000,
+			"dateModified" : 1748822400000
+		}, {
+			"id" : 3000308,
+			"name" : "I'm Not In Love",
+			"singer" : "10cc",
+			"playback": {
+				"youTubeVideoId" : "OtBHfxU2wmc"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page308.txt"
+			},
+			"dateCreated" : 1748822400000,
+			"dateModified" : 1748822400000
+		}, {
+			"id" : 3000309,
+			"name" : "All You Need Is Love",
+			"singer" : "The Beatles",
+			"playback": {
+				"youTubeVideoId" : "_7xMfIp-irg"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page309.txt"
+			},
+			"dateCreated" : 1748822400000,
+			"dateModified" : 1748822400000
+		}, {
+			"id" : 3000310,
+			"name" : "Everything I Do I Do It For You",
+			"singer" : "Bryan Adams",
+			"playback": {
+				"youTubeVideoId" : "aQh8Bi3aEm8"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page310.txt"
+			},
+			"dateCreated" : 1748822400000,
+			"dateModified" : 1748822400000
 		}, {
 			"id" : 4000060,
 			"name" : "Lorelei",
