@@ -1,5 +1,5 @@
 {
-	"version" : "2025_06_02",
+	"version" : "2025_06_06",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -6877,10 +6877,11 @@
 			"singer" : "גידי גוב",
 			"categoryIds" : ["1","5"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage67.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage67.txt",
+				"markupVersion" : "2"
 			},
 			"dateCreated" : 1539388800000,
-			"dateModified" : 1539388800000
+			"dateModified" : 1749081600000
 		}, {
 			"id" : 2000068,
 			"name" : "לשם",
@@ -6983,10 +6984,10 @@
 			"singer" : "גידי גוב",
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage78.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage78.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1749081600000
 		}, {
 			"id" : 2000079,
 			"name" : "עוד נפגש",
@@ -13258,6 +13259,57 @@
 			},
 			"dateCreated" : 1748476800000,
 			"dateModified" : 1748476800000
+		}, {
+			"id" : 2000745,
+			"name" : "יש לי אהוב בסיירת חרוב",
+			"singer" : "להקת פיקוד מרכז",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage745.txt"
+			},
+			"dateCreated" : 1749081600000,
+			"dateModified" : 1749081600000
+		}, {
+			"id" : 2000746,
+			"name" : "איריסים",
+			"singer" : "עפרה חזה",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage746.txt"
+			},
+			"dateCreated" : 1749081600000,
+			"dateModified" : 1749081600000
+		}, {
+			"id" : 2000747,
+			"name" : "השר משה מונטיפיורי",
+			"singer" : "יהורם גאון",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage747.txt"
+			},
+			"dateCreated" : 1749081600000,
+			"dateModified" : 1749081600000
+		}, {
+			"id" : 2000748,
+			"name" : "יצאנו אט",
+			"singer" : "אריק איינשטיין",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage748.txt"
+			},
+			"dateCreated" : 1749081600000,
+			"dateModified" : 1749081600000
+		}, {
+			"id" : 2000749,
+			"name" : "הכל זהב",
+			"singer" : "התרנגולים",
+			"isPrivate" : true,
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage749.txt"
+			},
+			"dateCreated" : 1749081600000,
+			"dateModified" : 1749081600000
 		}, {
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
