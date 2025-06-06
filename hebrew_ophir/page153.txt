@@ -1,15 +1,15 @@
 ﻿צליל מכוון – יצחק קלפטר / יצחק קלפטר / יצחק קלפטר
 
-Am      Bm7b5    Cmaj7        Fmaj7
-Dm       G        C         Dm/B
-Am      Bm7b5        C        Fmaj7
-Dm      E         Am       Dm/B
+Am      Bm7b5    Cmaj7     Fmaj7
+Dm       G        C        Bm7b5
+Am      Bm7b5     C        Fmaj7
+Dm      E         Am       Bm7b5
 
 Am              Bm7b5
        בואי הנה בואי לכאן 
 Cmaj7              Fmaj7
        אני שולח לך צליל מכוון 
-Dm                  G         C     Dm/B
+Dm                  G         C     Bm7b5
        אחרי שנים של   חוסר וודאות 
 Am             Bm7b5
        בואי הנה אל המילים 
@@ -29,7 +29,7 @@ Am               Bm7b5
         בואי הנה בואי איתי 
 Cmaj7              Fmaj7
         כל כך פשוט להיות מעשי 
-Dm               G       C     Dm/B
+Dm               G       C     Bm7b5
         נצא ביחד   בטח נהנה 
 Am            Bm7b5
         שוברת לבבות קטנה 
@@ -37,9 +37,9 @@ C                  F
          אני שבור ללא תקנה 
 Dm               E  
         וזו סיבה   מספיק טובה 
-     Am  Bm7b5    Cmaj7     Fmaj7
-אז בואי   כן       ייה ייה  יייה
-Dm       G       C          Dm/B
+   Am     Bm7b5      Cmaj7     Fmaj7
+אז בואי    כן         ייה ייה  יייה
+Dm       G       C          Bm7b5
      נננננה     ננהההה
 Am    Bm7b5    C          F
     לללההההההה       ללה ללה
@@ -57,7 +57,7 @@ Am              Bm7b5
        בואי הנה בואי לכאן 
 Cmaj7              Fmaj7
         אני שולח לך צליל מכוון 
-Dm                  G         C     Dm/B
+Dm                  G         C     Bm7b5
        אחרי שנים של   חוסר וודאות 
 Am             Bm7b5
         שוברת לבבות קטנה 
@@ -65,17 +65,17 @@ Cmaj7           Fmaj7
         אני שבור ללא תקנה 
 Dm              E  
        וזו סיבה   מספיק טובה 
-     Am  Bm7b5    Cmaj7     Fmaj7
-אז בואי   כן       ייה ייה  יייה
-Dm       G       C          Dm/B
+   Am     Bm7b5      Cmaj7     Fmaj7
+אז בואי    כן         ייה ייה  יייה
+Dm       G       C          Bm7b5
      נננננה     ננהההה
 Am    Bm7b5    Cmaj7     Fmaj7
      ננננה      ננה ננה נננה
 Dm       E
      לללללהה
- Am    Bm7b5  Cmaj7              Fmaj7
+ Am    Bm7b5   Cmaj7              Fmaj7
 ללה     ייה    ייה      ייה ייה  יייה
-Dm       G       C          Dm/B
+Dm       G       C          Bm7b5
      נננננה     ננהההה
 Am    Bm7b5    Cmaj7     Fmaj7
      ננננה      ננה ננה נננה
