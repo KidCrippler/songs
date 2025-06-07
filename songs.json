@@ -1,5 +1,5 @@
 {
-	"version" : "2025_06_06",
+	"version" : "2025_06_07",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -2998,102 +2998,132 @@
 			"id" : 1000232,
 			"name" : "בלעדייך",
 			"singer" : "גידי גוב",
+			"playback": {
+				"youTubeVideoId" : "QSPCWk89NDw"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page232.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page232.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1749254400000
 		}, {
 			"id" : 1000233,
 			"name" : "חם ומתוק",
 			"singer" : "גן חיות",
+			"playback": {
+				"youTubeVideoId" : "yce83BhWNBo"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page233.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page233.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1749254400000
 		}, {
 			"id" : 1000234,
 			"name" : "חשבתי שיהיה רומנטי",
 			"singer" : "אוהד חיטמן",
+			"playback": {
+				"youTubeVideoId" : "E3H_WdKIfkI"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page234.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page234.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1749254400000
 		}, {
 			"id" : 1000235,
 			"name" : "תגידי לו",
 			"singer" : "אוהד חיטמן",
+			"playback": {
+				"youTubeVideoId" : "pM_WGJkrYos"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page235.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page235.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1749254400000
 		}, {
 			"id" : 1000237,
 			"name" : "ערב של יום בהיר",
 			"singer" : "אפרים שמיר",
+			"playback": {
+				"youTubeVideoId" : "y3O3xSg_AIo"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page237.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page237.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1749254400000
 		}, {
 			"id" : 1000238,
 			"name" : "אוהב להיות בבית",
 			"singer" : "אריק איינשטיין",
+			"playback": {
+				"youTubeVideoId" : "N_elLKPF7u0"
+			},
 			"categoryIds" : ["1","4","6"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page238.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page238.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1557187200000
+			"dateModified" : 1749254400000
 		}, {
 			"id" : 1000239,
 			"name" : "צא מזה",
 			"singer" : "אריק איינשטיין",
+			"playback": {
+				"youTubeVideoId" : "2GRq0Wia9PQ"
+			},
 			"categoryIds" : ["1","6"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page239.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page239.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1557187200000
+			"dateModified" : 1749254400000
 		}, {
 			"id" : 1000242,
 			"name" : "ירח כחול",
 			"singer" : "גן חיות",
+			"playback": {
+				"youTubeVideoId" : "R1q-t65xkSs"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page242.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page242.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1749254400000
 		}, {
 			"id" : 1000243,
 			"name" : "בדרך אל האושר",
 			"singer" : "דני רובס",
+			"playback": {
+				"youTubeVideoId" : "TJJ3kIL_Erw"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page243.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page243.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1749254400000
 		}, {
 			"id" : 1000244,
 			"name" : "במרחק נגיעה מכאן",
 			"singer" : "יזהר אשדות",
+			"playback": {
+				"youTubeVideoId" : "F78pD-cPccE"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page244.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page244.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1749254400000
 		}, {
 			"id" : 1000245,
 			"name" : "כבר עכשיו",
@@ -3112,22 +3142,28 @@
 			"id" : 1000247,
 			"name" : "בלדה לעוזב קיבוץ",
 			"singer" : "כיף התקווה הטובה",
+			"playback": {
+				"youTubeVideoId" : "fkLjy-hmfFM"
+			},
 			"categoryIds" : ["1","6"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page247.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page247.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1557187200000
+			"dateModified" : 1749254400000
 		}, {
 			"id" : 1000248,
 			"name" : "אף פעם לא תדעי",
 			"singer" : "שלמה ארצי",
+			"playback": {
+				"youTubeVideoId" : "8GmoiZ9j2YM"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page248.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page248.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1749254400000
 		}, {
 			"id" : 1000250,
 			"name" : "עוד פגישה",
@@ -3159,32 +3195,41 @@
 			"id" : 1000252,
 			"name" : "תפסיק לכוון אלי",
 			"singer" : "תיסלם",
+			"playback": {
+				"youTubeVideoId" : "iq-AQg8EAfw"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page252.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page252.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1749254400000
 		}, {
 			"id" : 1000253,
 			"name" : "משהו קטן וטוב",
 			"singer" : "משינה",
+			"playback": {
+				"youTubeVideoId" : "B5Ezz8SEvCg"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page253.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page253.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1749254400000
 		}, {
 			"id" : 1000254,
 			"name" : "חללית",
 			"singer" : "גזוז",
+			"playback": {
+				"youTubeVideoId" : "3Tgd_30fqQg"
+			},
 			"categoryIds" : ["1","5"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page254.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1678924800000
+			"dateModified" : 1749254400000
 		}, {
 			"id" : 1000255,
 			"name" : "הולך בטל",
@@ -16769,12 +16814,12 @@
 			"playback": {
 				"youTubeVideoId" : "PVjiKRfKpPI"
 			},
-			"categoryIds" : ["1"],
+			"categoryIds" : ["2"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page290.txt"
 			},
 			"dateCreated" : 1744588800000,
-			"dateModified" : 1744588800000
+			"dateModified" : 1749254400000
 		}, {
 			"id" : 3000291,
 			"name" : "Dancing In The Dark",
@@ -16782,7 +16827,7 @@
 			"playback": {
 				"youTubeVideoId" : "129kuDCQtHs"
 			},
-			"categoryIds" : ["1"],
+			"categoryIds" : ["2"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page291.txt"
 			},
@@ -16795,7 +16840,7 @@
 			"playback": {
 				"youTubeVideoId" : "d27gTrPPAyk"
 			},
-			"categoryIds" : ["1"],
+			"categoryIds" : ["2"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page292.txt"
 			},
@@ -16808,7 +16853,7 @@
 			"playback": {
 				"youTubeVideoId" : "z-GUjA67mdc"
 			},
-			"categoryIds" : ["1"],
+			"categoryIds" : ["2"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page293.txt"
 			},
@@ -16821,7 +16866,7 @@
 			"playback": {
 				"youTubeVideoId" : "AmIlUKo4dQc"
 			},
-			"categoryIds" : ["1"],
+			"categoryIds" : ["2"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page294.txt"
 			},
@@ -16834,7 +16879,7 @@
 			"playback": {
 				"youTubeVideoId" : "znDgBy2mHbc"
 			},
-			"categoryIds" : ["1"],
+			"categoryIds" : ["2"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page295.txt"
 			},
@@ -16847,7 +16892,7 @@
 			"playback": {
 				"youTubeVideoId" : "rtnAI1hgNyI"
 			},
-			"categoryIds" : ["1"],
+			"categoryIds" : ["2"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page296.txt"
 			},
@@ -16860,7 +16905,7 @@
 			"playback": {
 				"youTubeVideoId" : "-eHJ12Vhpyc"
 			},
-			"categoryIds" : ["1"],
+			"categoryIds" : ["2"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page297.txt",
 				"markupVersion" : "1"
@@ -16874,7 +16919,7 @@
 			"playback": {
 				"youTubeVideoId" : "tPgf_btTFlc"
 			},
-			"categoryIds" : ["1"],
+			"categoryIds" : ["2"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page298.txt"
 			},
@@ -16887,7 +16932,7 @@
 			"playback": {
 				"youTubeVideoId" : "G3dFpQzu54w"
 			},
-			"categoryIds" : ["1"],
+			"categoryIds" : ["2"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page299.txt"
 			},
@@ -16900,7 +16945,7 @@
 			"playback": {
 				"youTubeVideoId" : "bQtPzo-7AHs"
 			},
-			"categoryIds" : ["1"],
+			"categoryIds" : ["2"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page300.txt"
 			},
@@ -16913,7 +16958,7 @@
 			"playback": {
 				"youTubeVideoId" : "S-rB0pHI9fU"
 			},
-			"categoryIds" : ["1"],
+			"categoryIds" : ["2"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page301.txt"
 			},
@@ -16926,7 +16971,7 @@
 			"playback": {
 				"youTubeVideoId" : "czw8eqepir8"
 			},
-			"categoryIds" : ["1"],
+			"categoryIds" : ["2"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page302.txt"
 			},
@@ -16939,7 +16984,7 @@
 			"playback": {
 				"youTubeVideoId" : "MYU3F8uUGiw"
 			},
-			"categoryIds" : ["1"],
+			"categoryIds" : ["2"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page303.txt",
 				"markupVersion" : "1"
@@ -16953,7 +16998,7 @@
 			"playback": {
 				"youTubeVideoId" : "8UVNT4wvIGY"
 			},
-			"categoryIds" : ["1"],
+			"categoryIds" : ["2"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page304.txt"
 			},
@@ -16966,7 +17011,7 @@
 			"playback": {
 				"youTubeVideoId" : "TSpiwK5fig0"
 			},
-			"categoryIds" : ["1"],
+			"categoryIds" : ["2"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page305.txt"
 			},
@@ -16979,7 +17024,7 @@
 			"playback": {
 				"youTubeVideoId" : "usNsCeOV4GM"
 			},
-			"categoryIds" : ["1"],
+			"categoryIds" : ["2"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page306.txt"
 			},
@@ -16992,7 +17037,7 @@
 			"playback": {
 				"youTubeVideoId" : "z39Tf_7cRJw"
 			},
-			"categoryIds" : ["1"],
+			"categoryIds" : ["2"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page307.txt"
 			},
@@ -17005,7 +17050,7 @@
 			"playback": {
 				"youTubeVideoId" : "OtBHfxU2wmc"
 			},
-			"categoryIds" : ["1"],
+			"categoryIds" : ["2"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page308.txt"
 			},
@@ -17018,7 +17063,7 @@
 			"playback": {
 				"youTubeVideoId" : "_7xMfIp-irg"
 			},
-			"categoryIds" : ["1"],
+			"categoryIds" : ["2"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page309.txt"
 			},
@@ -17031,7 +17076,7 @@
 			"playback": {
 				"youTubeVideoId" : "aQh8Bi3aEm8"
 			},
-			"categoryIds" : ["1"],
+			"categoryIds" : ["2"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page310.txt"
 			},
