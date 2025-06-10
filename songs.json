@@ -1,5 +1,5 @@
 {
-	"version" : "2025_06_07",
+	"version" : "2025_06_11",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -3260,72 +3260,93 @@
 			"id" : 1000257,
 			"name" : "המכתב",
 			"singer" : "אביב גפן",
+			"playback": {
+				"youTubeVideoId" : "I4ymgH150jM"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page257.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page257.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1669248000000
+			"dateModified" : 1749600000000
 		}, {
 			"id" : 1000258,
 			"name" : "חצבים פורחים",
 			"singer" : "תיסלם",
+			"playback": {
+				"youTubeVideoId" : "STAHSLLBRIk"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page258.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page258.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1749600000000
 		}, {
 			"id" : 1000259,
 			"name" : "ככה את רצית אותי",
 			"singer" : "תמוז",
+			"playback": {
+				"youTubeVideoId" : "zJhMFR-uPW4"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page259.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page259.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1749600000000
 		}, {
 			"id" : 1000260,
 			"name" : "שוב היא כאן",
 			"singer" : "יוני רכטר",
+			"playback": {
+				"youTubeVideoId" : "LBTIfG7XWcM"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page260.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page260.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1749600000000
 		}, {
 			"id" : 1000261,
-			"name" : "את מביאה הכל לידי דמעות",
+			"name" : "מביאה הכל",
 			"singer" : "שלום חנוך",
+			"playback": {
+				"youTubeVideoId" : "kIY0m3ZAGRo"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page261.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page261.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1749600000000
 		}, {
 			"id" : 1000262,
 			"name" : "מעביר דף (המיסטיקנים הסינים)",
 			"singer" : "נורית גלרון",
+			"playback": {
+				"youTubeVideoId" : "8RNdKTl6_Vc"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page262.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page262.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1749600000000
 		}, {
 			"id" : 1000263,
 			"name" : "הללויה",
 			"singer" : "חלב ודבש",
+			"playback": {
+				"youTubeVideoId" : "byRwAYT5GZg"
+			},
 			"categoryIds" : ["1","6"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page263.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1718496000000
+			"dateModified" : 1749600000000
 		}, {
 			"id" : 1000264,
 			"name" : "חזקה מהרוח",
@@ -3343,43 +3364,55 @@
 			"id" : 1000265,
 			"name" : "לילות לבנים",
 			"singer" : "אביב גפן",
+			"playback": {
+				"youTubeVideoId" : "9LQq7uiRgCg"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page265.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page265.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1749600000000
 		}, {
 			"id" : 1000266,
 			"name" : "מה שאת אוהבת",
 			"singer" : "גלי עטרי",
+			"playback": {
+				"youTubeVideoId" : "VMSm0sDPx68"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page266.txt",
 				"markupVersion" : "2"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1749600000000
 		}, {
 			"id" : 1000267,
 			"name" : "דם חם",
 			"singer" : "שרי",
+			"playback": {
+				"youTubeVideoId" : "VMSm0sDPx68"
+			},
 			"categoryIds" : ["1","5"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page267.txt"
 			},
 			"dateCreated" : 1550361600000,
-			"dateModified" : 1550361600000
+			"dateModified" : 1749600000000
 		}, {
 			"id" : 1000268,
 			"name" : "אחכה לך בשדות",
 			"singer" : "משינה",
+			"playback": {
+				"youTubeVideoId" : "u0pFUTnzYaA"
+			},
 			"categoryIds" : ["1","5"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page268.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page268.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1749600000000
 		}, {
 			"id" : 1000269,
 			"name" : "איך הוא שר",
@@ -3412,12 +3445,15 @@
 			"id" : 1000271,
 			"name" : "עניין של זמן",
 			"singer" : "גידי גוב",
+			"playback": {
+				"youTubeVideoId" : "VMSm0sDPx68"
+			},
 			"categoryIds" : ["1","5"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page271.txt"
 			},
 			"dateCreated" : 1539388800000,
-			"dateModified" : 1539388800000
+			"dateModified" : 1749600000000
 		}, {
 			"id" : 1000272,
 			"name" : "תחרות כלבים",
@@ -3427,20 +3463,23 @@
 			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page272.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page272.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1749600000000
 		}, {
 			"id" : 1000273,
 			"name" : "שוב לא שקט",
 			"singer" : "רוקפור",
+			"playback": {
+				"youTubeVideoId" : "qqOuxh74M1s"
+			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page273.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page273.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1749600000000
 		}, {
 			"id" : 1000274,
 			"name" : "ימים טובים",
