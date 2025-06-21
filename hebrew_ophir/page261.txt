@@ -8,7 +8,7 @@ Aadd9    Aadd9/F#  Aadd9/B     Aadd9/E
        את מביאה הכל לידי דמעות
 Aadd9     Aadd9/F#   Aadd9/B  Aadd9/E
       ביום יפה כזה,   יכולנו   לבלות
-D   C#m  C     Bm  Aadd9/E   Aadd9+11/E
+D   C#m  C     Bm  Aadd9/E   Asus4/E
    בחוץ אביב מדליק פריחה
 Aadd9     Aadd9/F#   Aadd9/B    Aadd9/E
       רציתי לבקש      ממך סליחה
@@ -31,7 +31,7 @@ Aadd9     Aadd9/F#   Aadd9/B      Aadd9/E
       בלי שהרגשנו,   השתנה הלב
 Aadd9     Aadd9/F#   Aadd9/B  Aadd9/E
       בלי שניחשנו     האהבה    הפכה כאב
-D      C#m C  Bm  Aadd9/E      Aadd9+11/E
+D      C#m C  Bm  Aadd9/E      Asus4/E
    אין לעולם דבר   פשוט
 Aadd9    Aadd9/F#    Aadd9/B      Aadd9/E
       אי שם בדרך     מחכה טעות
@@ -54,4 +54,4 @@ Aadd9    Aadd9/F#     Aadd9/B     Aadd9/E
 Aadd9    Aadd9/F#     Aadd9/B     Aadd9/E
 מזמן                                מזמן
 Aadd9    Aadd9/F#     Aadd9/B     Aadd9/E   A
-מזמן                               
+מזמן 
