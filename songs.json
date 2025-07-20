@@ -1,5 +1,5 @@
 {
-	"version" : "2025_06_19",
+	"version" : "2025_07_21",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -13441,6 +13441,16 @@
 			},
 			"dateCreated" : 1749081600000,
 			"dateModified" : 1749081600000
+		}, {
+			"id" : 2000750,
+			"name" : "אם בחיים לא נאהב",
+			"singer" : "דני סנדרסון",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage750.txt"
+			},
+			"dateCreated" : 1752969600000,
+			"dateModified" : 1752969600000
 		}, {
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
