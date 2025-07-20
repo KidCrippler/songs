@@ -6987,21 +6987,10 @@
 			"singer" : "אילנה רובינא, נוער שוליים",
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage66.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage66.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
-		}, {
-			"id" : 2010066,
-			"name" : "לך איתה (C#m)",
-			"singer" : "אילנה רובינא, נוער שוליים",
-			"isPrivate" : true,
-			"categoryIds" : ["1"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage66_c%23m.jpg"
-			},
-			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1752969600000
 		}, {
 			"id" : 2000067,
 			"name" : "למה ליבך כמו קרח",
@@ -7575,10 +7564,10 @@
 			"singer" : "פורטרט",
 			"categoryIds" : ["1","5"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage144.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage144.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1752969600000
 		}, {
 			"id" : 2000145,
 			"name" : "פרצופה של המדינה",
