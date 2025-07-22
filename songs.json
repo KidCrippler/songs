@@ -1,5 +1,5 @@
 {
-	"version" : "2025_07_21",
+	"version" : "2025_07_23",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -13440,6 +13440,16 @@
 			},
 			"dateCreated" : 1752969600000,
 			"dateModified" : 1752969600000
+		}, {
+			"id" : 2000751,
+			"name" : "קפה טורקי",
+			"singer" : "אריק איינשטיין",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage751.txt"
+			},
+			"dateCreated" : 1753142400000,
+			"dateModified" : 1753142400000
 		}, {
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
