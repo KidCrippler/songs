@@ -1,5 +1,5 @@
 {
-	"version" : "2025_07_25",
+	"version" : "2025_08_26",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -13460,6 +13460,16 @@
 			},
 			"dateCreated" : 1753315200000,
 			"dateModified" : 1753315200000
+		}, {
+			"id" : 2000753,
+			"name" : "בשעה שכזאת",
+			"singer" : "אריק סיני",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage753.txt"
+			},
+			"dateCreated" : 1756166400000,
+			"dateModified" : 1756166400000
 		}, {
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
