@@ -1,5 +1,5 @@
 {
-	"version" : "2025_09_02",
+	"version" : "2025_09_06",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -2001,10 +2001,10 @@
 			"categoryIds" : ["1"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page153.txt",
-				"markupVersion" : "1"
+				"markupVersion" : "2"
 			},
 			"dateCreated" : 1547251200000,
-			"dateModified" : 1749168000000
+			"dateModified" : 1757116800000
 		}, {
 			"id" : 1000154,
 			"name" : "לא בא לי לשמוע",
@@ -2107,10 +2107,10 @@
 			"categoryIds" : ["1","4"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page161.txt",
-				"markupVersion" : "1"
+				"markupVersion" : "2"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1749168000000
+			"dateModified" : 1757116800000
 		}, {
 			"id" : 1000162,
 			"name" : "רוח סתיו",
@@ -2990,10 +2990,11 @@
 			},
 			"categoryIds" : ["1","5"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page231.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page231.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1663372800000
+			"dateModified" : 1757116800000
 		}, {
 			"id" : 1000232,
 			"name" : "בלעדייך",
@@ -3107,10 +3108,11 @@
 			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page243.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page243.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1749254400000
+			"dateModified" : 1757116800000
 		}, {
 			"id" : 1000244,
 			"name" : "במרחק נגיעה מכאן",
@@ -3213,10 +3215,11 @@
 			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page253.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page253.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1749254400000
+			"dateModified" : 1757116800000
 		}, {
 			"id" : 1000254,
 			"name" : "חללית",
@@ -3423,10 +3426,10 @@
 			"categoryIds" : ["1"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page269.txt",
-				"markupVersion" : "2"
+				"markupVersion" : "3"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1689120000000
+			"dateModified" : 1757116800000
 		}, {
 			"id" : 1000270,
 			"name" : "תשאירי לי מקום לחבק אותך",
@@ -3869,10 +3872,11 @@
 			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page311.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page311.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1628899200000
+			"dateModified" : 1757116800000
 		}, {
 			"id" : 1000312,
 			"name" : "בגלל הרוח",
@@ -6113,10 +6117,10 @@
 			"categoryIds" : ["1"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page483.txt",
-				"markupVersion" : "1"
+				"markupVersion" : "2"
 			},
 			"dateCreated" : 1744156800000,
-			"dateModified" : 1744588800000
+			"dateModified" : 1757116800000
 		}, {
 			"id" : 1000484,
 			"name" : "עתיד מתוק",
@@ -6224,17 +6228,17 @@
 		}, {
 			"id" : 1000492,
 			"name" : "תמיד כשאתה בא",
-			"singer" : "אפשרת גוש",
+			"singer" : "אפרת גוש",
 			"playback": {
 				"youTubeVideoId" : "9hvSfImLl8g"
 			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page492.txt",
-				"markupVersion" : "1"
+				"markupVersion" : "2"
 			},
 			"dateCreated" : 1746403200000,
-			"dateModified" : 1746835200000
+			"dateModified" : 1757116800000
 		}, {
 			"id" : 1000493,
 			"name" : "שיר אחר",
@@ -6348,10 +6352,11 @@
 			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page501.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page501.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1748822400000,
-			"dateModified" : 1748822400000
+			"dateModified" : 1757116800000
 		}, {
 			"id" : 1000502,
 			"name" : "בצהרי היום",
@@ -13490,10 +13495,10 @@
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page1.txt",
-				"markupVersion" : "3"
+				"markupVersion" : "4"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1749168000000
+			"dateModified" : 1757116800000
 		}, {
 			"id" : 3000002,
 			"name" : "Help",
@@ -14384,10 +14389,10 @@
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page98.txt",
-				"markupVersion" : "3"
+				"markupVersion" : "4"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1745712000000
+			"dateModified" : 1757116800000
 		}, {
 			"id" : 3000099,
 			"name" : "California Dreamin'",
@@ -14840,10 +14845,10 @@
 			"categoryIds" : ["2","7"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page132.txt",
-				"markupVersion" : "3"
+				"markupVersion" : "4"
 			},
 			"dateCreated" : 1521504000000,
-			"dateModified" : 1747785600000
+			"dateModified" : 1757116800000
 		}, {
 			"id" : 3000133,
 			"name" : "Radio",
@@ -14866,10 +14871,11 @@
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page134.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page134.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1521504000000,
-			"dateModified" : 1521504000000
+			"dateModified" : 1757116800000
 		}, {
 			"id" : 3000135,
 			"name" : "Fade Into You",
@@ -15068,10 +15074,11 @@
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page149.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page149.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1546905600000,
-			"dateModified" : 1546992000000
+			"dateModified" : 1757116800000
 		}, {
 			"id" : 3000150,
 			"name" : "Layla (Acoustic)",
@@ -15748,10 +15755,11 @@
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page200.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page200.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1598572800000,
-			"dateModified" : 1599091200000
+			"dateModified" : 1757116800000
 		}, {
 			"id" : 3000201,
 			"name" : "A Horse With No Name",
@@ -16065,10 +16073,11 @@
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page224.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page224.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1603497600000,
-			"dateModified" : 1603497600000
+			"dateModified" : 1757116800000
 		}, {
 			"id" : 3000225,
 			"name" : "If You Leave Me Now",
@@ -16225,10 +16234,11 @@
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page236.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page236.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1605657600000,
-			"dateModified" : 1605657600000
+			"dateModified" : 1757116800000
 		}, {
 			"id" : 3000237,
 			"name" : "I Want To Break Free",
@@ -16926,10 +16936,10 @@
 			"categoryIds" : ["2"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page289.txt",
-				"markupVersion" : "1"
+				"markupVersion" : "2"
 			},
 			"dateCreated" : 1744156800000,
-			"dateModified" : 1744588800000
+			"dateModified" : 1757116800000
 		}, {
 			"id" : 3000290,
 			"name" : "Take Me To Church",
