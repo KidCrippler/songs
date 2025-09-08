@@ -1,5 +1,5 @@
 {
-	"version" : "2025_09_06",
+	"version" : "2025_09_09",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -8532,10 +8532,11 @@
 			"singer" : "גידי גוב",
 			"categoryIds" : ["1","5"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage269.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage269.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1679011200000
+			"dateModified" : 1757376000000
 		}, {
 			"id" : 2000270,
 			"name" : "משהו חדש מתחיל",

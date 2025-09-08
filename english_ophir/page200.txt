@@ -1,4 +1,5 @@
 The Long And Winding Road - The Beatles
+Lyrics and Music: Lennon–McCartney
 
     Cm               Ab    Ab/Bb  
 The long and winding road 
@@ -6,7 +7,7 @@ Ab/Bb  Eb    Eb7     Ab    Ab
 That   leads to your door 
 Ab       Eb/G      Cm      Cm
     Will never disappear 
-Fm7                Bb7    Eb7sus
+Fm7                Bb7    Eb7sus4
     I've seen that road before 
 Ab     Eb/G   Cm           Cm7
     It always leads me here
@@ -19,7 +20,7 @@ Ab/Bb    Eb   Eb7     Ab   Ab
 That the rain washed away
 Ab      Eb/G   Cm            Cm
     Has left a pool of tears
-Fm7        Bb7     Eb7sus
+Fm7        Bb7     Eb7sus4
     crying for the day 
 Ab      Eb/G      Cm
     Why leave me standing here
@@ -41,7 +42,7 @@ Ab/Bb  Eb     Eb7     Ab      Ab
 To the long   winding road 
 Ab     Eb/G     Cm           Cm
    You left me standing here 
-Fm7             Bb7   Eb7sus  Eb7
+Fm7             Bb7   Eb7sus4  Eb7
     A long long time ago 
 Ab       Eb/G     Cm           Cm
    Don't leave me waiting here 
@@ -57,7 +58,7 @@ Ab/Bb  Eb     Eb7     Ab     Ab
 To the long   winding road 
 Ab     Eb/G     Cm            Cm
    You left me standing here 
-Fm7             Bb7   Eb7sus  Eb7
+Fm7             Bb7   Eb7sus4  Eb7
     A long long time ago 
 Ab       Eb/G    Cm             Cm 
    Don't keep me waiting here 
