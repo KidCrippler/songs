@@ -8335,21 +8335,10 @@
 			"singer" : "שלמה ארצי",
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage250.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage250.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
-		}, {
-			"id" : 2010250,
-			"name" : "האיש ההוא (G)",
-			"singer" : "שלמה ארצי",
-			"isPrivate" : true,
-			"categoryIds" : ["1"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage250_g.jpg"
-			},
-			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1757548800000
 		}, {
 			"id" : 2000252,
 			"name" : "השיר על תוכי יוסי",
