@@ -1,4 +1,5 @@
 Get Back - The Beatles
+Lyrics and Music: Lennon–McCartney
  
 A     A      A      A  G  D
  
@@ -22,8 +23,8 @@ Get back to where you once belonged
  
 Get back Jojo
  
-A      A      A      A   G D
-A      A      A      A   G D
+A      A      D      A   G D
+A      A      D      A   G D
  
     A          A
 Get back,  get back
@@ -60,10 +61,10 @@ Get back to where you once belonged
  
 Get back Loretta
 {E Guitar solo}
-A       A        D       A        G  D
-A      A      D      A    G D
+A      A      D      A       G  D
+A      A      D      A       G  D
                       go home
- 
+
     A          A
 Get back,  get back
     D                        A
