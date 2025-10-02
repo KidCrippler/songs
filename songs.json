@@ -1,5 +1,5 @@
 {
-	"version" : "2025_10_02",
+	"version" : "2025_10_03",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -13518,6 +13518,36 @@
 			"categoryIds" : ["1"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage758.txt"
+			},
+			"dateCreated" : 1759363200000,
+			"dateModified" : 1759363200000
+		}, {
+			"id" : 2000759,
+			"name" : "בשדות בית לחם",
+			"singer" : "הדודאים",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage759.txt"
+			},
+			"dateCreated" : 1759363200000,
+			"dateModified" : 1759363200000
+		}, {
+			"id" : 2000760,
+			"name" : "תפוח חינני",
+			"singer" : "הדודאים",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage760.txt"
+			},
+			"dateCreated" : 1759363200000,
+			"dateModified" : 1759363200000
+		}, {
+			"id" : 2000761,
+			"name" : "כיבוי אורות (למדבר)",
+			"singer" : "הדודאים",
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage761.txt"
 			},
 			"dateCreated" : 1759363200000,
 			"dateModified" : 1759363200000
