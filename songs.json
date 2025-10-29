@@ -1,5 +1,5 @@
 {
-	"version" : "2025_10_20",
+	"version" : "2025_10_29",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -15926,6 +15926,18 @@
 			},
 			"dateCreated" : 1759536000000,
 			"dateModified" : 1759536000000
+		}, {
+			"id" : 2000763,
+			"name" : "רקמה אנושית אחת",
+			"singer" : "חוה אלברשטיין",
+			"composers" : ["מוטי המר"],
+			"lyricists" : ["מוטי המר"],
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage763.txt"
+			},
+			"dateCreated" : 1761696000000,
+			"dateModified" : 1761696000000
 		}, {
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
