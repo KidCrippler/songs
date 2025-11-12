@@ -1,5 +1,5 @@
 {
-	"version" : "2025_11_10",
+	"version" : "2025_11_12",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -2550,10 +2550,10 @@
 			"categoryIds" : ["1"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page169.txt",
-				"markupVersion" : "1"
+				"markupVersion" : "2"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1743638400000
+			"dateModified" : 1762905600000
 		}, {
 			"id" : 1000170,
 			"name" : "השיר שיביא לך אהבה",
@@ -7383,6 +7383,51 @@
 			},
 			"dateCreated" : 1758931200000,
 			"dateModified" : 1758931200000
+		}, {
+			"id" : 1000506,
+			"name" : "נוודד אלייך",
+			"singer" : "נקמת הטרקטור",
+			"composers" : ["אבי בללי"],
+			"lyricists" : ["אבי בללי","אילן גרין"],
+			"playback": {
+				"youTubeVideoId" : "UfL4eWRWgXE"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page506.txt"
+			},
+			"dateCreated" : 1762905600000,
+			"dateModified" : 1762905600000
+		}, {
+			"id" : 1000507,
+			"name" : "שביר",
+			"singer" : "אריק איינשטיין",
+			"composers" : ["יצחק קלפטר"],
+			"lyricists" : ["אריק איינשטיין"],
+			"playback": {
+				"youTubeVideoId" : "3TkOAGmDsCY"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page507.txt"
+			},
+			"dateCreated" : 1762905600000,
+			"dateModified" : 1762905600000
+		}, {
+			"id" : 1000508,
+			"name" : "מה אתה עושה כשאתה קם בבוקר",
+			"singer" : "אריק איינשטיין",
+			"composers" : ["שלום חנוך"],
+			"lyricists" : ["שלום חנוך"],
+			"playback": {
+				"youTubeVideoId" : "E_3rcyHK3k0"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page508.txt"
+			},
+			"dateCreated" : 1762905600000,
+			"dateModified" : 1762905600000
 		}, {
 			"id" : 2000001,
 			"name" : "אדון שוקו",
@@ -19786,10 +19831,11 @@
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page280.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page280.txt",
+				"markupVersion" : "2"
 			},
 			"dateCreated" : 1669248000000,
-			"dateModified" : 1669248000000
+			"dateModified" : 1762905600000
 		}, {
 			"id" : 3000281,
 			"name" : "Living On My Own",
@@ -20259,6 +20305,51 @@
 			},
 			"dateCreated" : 1760918400000,
 			"dateModified" : 1760918400000
+		}, {
+			"id" : 3000312,
+			"name" : "Another Girl",
+			"singer" : "The Beatles",
+			"composers" : ["Paul McCartney","John Lennon"],
+			"lyricists" : ["Paul McCartney","John Lennon"],
+			"playback": {
+				"youTubeVideoId" : "EMBYNWr5R_U"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page312.txt"
+			},
+			"dateCreated" : 1762905600000,
+			"dateModified" : 1762905600000
+		}, {
+			"id" : 3000313,
+			"name" : "Back To The USSR",
+			"singer" : "The Beatles",
+			"composers" : ["Paul McCartney","John Lennon"],
+			"lyricists" : ["Paul McCartney","John Lennon"],
+			"playback": {
+				"youTubeVideoId" : "nS5_EQgbuLc"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page313.txt"
+			},
+			"dateCreated" : 1762905600000,
+			"dateModified" : 1762905600000
+		}, {
+			"id" : 3000314,
+			"name" : "Can't Buy Me Love",
+			"singer" : "The Beatles",
+			"composers" : ["Paul McCartney","John Lennon"],
+			"lyricists" : ["Paul McCartney","John Lennon"],
+			"playback": {
+				"youTubeVideoId" : "h3WJiqc_bEs"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page314.txt"
+			},
+			"dateCreated" : 1762905600000,
+			"dateModified" : 1762905600000
 		}, {
 			"id" : 4000060,
 			"name" : "Lorelei",

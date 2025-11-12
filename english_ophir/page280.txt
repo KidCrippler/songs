@@ -6,7 +6,7 @@ C
 F/Eb   Bb/D    F/Eb   Bb/D
 Bb     F/A      Gm    F/A   
 Bb             F/A
-G    Gsus2+4      G     G7
+G    Gsus4        G     G7
 
 C                        Am
 Love of my life   you've hurt me
@@ -25,9 +25,9 @@ because you don't know...
 C             F
 what it means to me
 
-Bb   F/A   Gm   F/A
+Bb - F/A - Gm - F
 Bb         F/A
-G  Gsus2+4    G    G7
+G  Gsus4    G    G7
 
 C                     Am
 Love of my life don't leave me
@@ -43,7 +43,7 @@ Bring it back, bring it back
 Don't take it away from me
   Bb    Am   Dm     Gm
 because you don't know...
-C             F
+C                F
 what it means to me
 
 C/Bb   F/A   C/Bb   F/A
@@ -66,7 +66,7 @@ I will be there
 at your side to remind you
     Gm
 How I still love you
-C   Csus2+4   C   C7   F
+C   Csus4     C   C7   F
 I  still    love you
 
 {Guitar solo}
