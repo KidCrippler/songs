@@ -1,5 +1,5 @@
 {
-	"version" : "2025_11_15",
+	"version" : "2025_11_18",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -859,10 +859,11 @@
 			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page57.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page57.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1666224000000
+			"dateModified" : 1763424000000
 		}, {
 			"id" : 1000058,
 			"name" : "אור הירח",
@@ -7409,10 +7410,11 @@
 			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page507.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page507.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1762905600000,
-			"dateModified" : 1762905600000
+			"dateModified" : 1763424000000
 		}, {
 			"id" : 1000508,
 			"name" : "מה אתה עושה כשאתה קם בבוקר",
@@ -7424,10 +7426,57 @@
 			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page508.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page508.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1762905600000,
-			"dateModified" : 1762905600000
+			"dateModified" : 1763424000000
+		}, {
+			"id" : 1000509,
+			"name" : "ארץ טרופית יפה",
+			"singer" : "יהודית רביץ",
+			"composers" : ["ג'ורג'י בן"],
+			"lyricists" : ["ג'ורג'י בן"],
+			"translators" : ["אהוד מנור"],
+			"playback": {
+				"youTubeVideoId" : "67DR0OvgbGA"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page509.txt"
+			},
+			"dateCreated" : 1763424000000,
+			"dateModified" : 1763424000000
+		}, {
+			"id" : 1000510,
+			"name" : "עלה נישא ברוח",
+			"singer" : "שושנה דמארי",
+			"composers" : ["עידן רייכל"],
+			"lyricists" : ["עידן רייכל"],
+			"playback": {
+				"youTubeVideoId" : "IBcrUU4IP50"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page510.txt"
+			},
+			"dateCreated" : 1763424000000,
+			"dateModified" : 1763424000000
+		}, {
+			"id" : 1000511,
+			"name" : "עוד תראי את הדרך",
+			"singer" : "מתי כספי",
+			"composers" : ["מתי כספי"],
+			"lyricists" : ["שמרית אור"],
+			"playback": {
+				"youTubeVideoId" : "p00mcqK319w"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page511.txt"
+			},
+			"dateCreated" : 1763424000000,
+			"dateModified" : 1763424000000
 		}, {
 			"id" : 2000001,
 			"name" : "אדון שוקו",
@@ -15306,10 +15355,10 @@
 			"categoryIds" : ["1"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage708.txt",
-				"markupVersion" : "1"
+				"markupVersion" : "2"
 			},
 			"dateCreated" : 1733616000000,
-			"dateModified" : 1747526400000
+			"dateModified" : 1763424000000
 		}, {
 			"id" : 2000709,
 			"name" : "אילו כל האוהבים",
