@@ -7498,10 +7498,10 @@
 			"lyricists" : ["עמוס קינן"],
 			"categoryIds" : ["1","7"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage3.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage3.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1764374400000
 		}, {
 			"id" : 2000004,
 			"name" : "אהבה",
