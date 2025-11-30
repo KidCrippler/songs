@@ -7841,14 +7841,14 @@
 			"id" : 2000040,
 			"name" : "המסע הגדול",
 			"singer" : "יוני רכטר",
-			"composers" : ["עממי"],
+			"composers" : ["עממי ברזילאי"],
 			"lyricists" : ["עלי מוהר"],
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage40.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage40.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1764460800000
 		}, {
 			"id" : 2000041,
 			"name" : "הנני כאן",
@@ -7869,10 +7869,10 @@
 			"lyricists" : ["יהודה פוליקר"],
 			"categoryIds" : ["1","5"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage42.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage42.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1764460800000
 		}, {
 			"id" : 2000044,
 			"name" : "התחנה הישנה",
@@ -7918,10 +7918,10 @@
 			"lyricists" : ["אהוד מנור"],
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage47.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage47.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1764460800000
 		}, {
 			"id" : 2000048,
 			"name" : "חסקה",
@@ -8032,10 +8032,10 @@
 			"lyricists" : ["אהוד מנור"],
 			"categoryIds" : ["1","7"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage56.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage56.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1764460800000
 		}, {
 			"id" : 2000057,
 			"name" : "יש לי סימפטיה",
@@ -8044,10 +8044,10 @@
 			"lyricists" : ["מאיר ויזלטיר"],
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage57.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage57.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1764460800000
 		}, {
 			"id" : 2000058,
 			"name" : "כל מה שרצית",
@@ -8068,10 +8068,10 @@
 			"lyricists" : ["צרויה להב"],
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage59.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage59.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1764460800000
 		}, {
 			"id" : 2000060,
 			"name" : "כתם הפרי",
@@ -9032,10 +9032,10 @@
 			"lyricists" : ["דני רובס"],
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage170.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage170.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1679011200000
+			"dateModified" : 1764460800000
 		}, {
 			"id" : 2000172,
 			"name" : "לא נרדמת תל-אביב",
@@ -10124,10 +10124,10 @@
 			"lyricists" : ["יהודה מסס","מסעוד קרוצ׳י"],
 			"categoryIds" : ["1","7"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage284.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage284.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1764460800000
 		}, {
 			"id" : 2000285,
 			"name" : "סיגל",
@@ -10162,32 +10162,6 @@
 			"categoryIds" : ["1"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage287.jpg"
-			},
-			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
-		}, {
-			"id" : 2000288,
-			"name" : "הכוח בחיי",
-			"singer" : "נוי דנן",
-			"composers" : ["רן אביב"],
-			"lyricists" : ["עינת הולנדר"],
-			"isPrivate" : true,
-			"categoryIds" : ["1"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage288.jpg"
-			},
-			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
-		}, {
-			"id" : 2010288,
-			"name" : "הכוח בחיי (Em)",
-			"singer" : "נוי דנן",
-			"composers" : ["רן אביב"],
-			"lyricists" : ["עינת הולנדר"],
-			"isPrivate" : true,
-			"categoryIds" : ["1"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage288_em.jpg"
 			},
 			"dateCreated" : 1519516800000,
 			"dateModified" : 1519516800000
