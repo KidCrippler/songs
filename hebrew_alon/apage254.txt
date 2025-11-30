@@ -52,8 +52,10 @@ A   E   D   A
   G           F  [F]
 תשיר כבר משהו
 
-{חשמלית} (C   C   Am   Am   Dm   Dm   G   G) x 2
-{אורגן}   A   A   A   A   A   G   F#m   E   [E]
+{חשמלית}
+(C   C   Am   Am   Dm   Dm   G   G) x 2
+{אורגן}
+A   A   A   A   A   G   F#m   E   [E]
 
                  F#m   A7
 אז אם אנחנו כאן הערב

@@ -7826,18 +7826,6 @@
 			"dateCreated" : 1519516800000,
 			"dateModified" : 1658620800000
 		}, {
-			"id" : 2000038,
-			"name" : "הייתי נער",
-			"singer" : "להקת הנחל",
-			"composers" : ["יאיר רוזנבלום"],
-			"lyricists" : ["דוד עתיד"],
-			"categoryIds" : ["1","6","7"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage38.jpg"
-			},
-			"dateCreated" : 1519516800000,
-			"dateModified" : 1557187200000
-		}, {
 			"id" : 2000039,
 			"name" : "הכניסיני תחת כנפך",
 			"singer" : "אריק איינשטיין",
@@ -8983,18 +8971,6 @@
 			},
 			"dateCreated" : 1519516800000,
 			"dateModified" : 1679011200000
-		}, {
-			"id" : 2000162,
-			"name" : "להתראות נעורים שלום אהבה",
-			"singer" : "משינה",
-			"composers" : ["יובל בנאי"],
-			"lyricists" : ["יובל בנאי"],
-			"categoryIds" : ["1"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage162.jpg"
-			},
-			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
 		}, {
 			"id" : 2000163,
 			"name" : "יש בי אהבה",
@@ -15484,7 +15460,6 @@
 			"singer" : "זאב רווח",
 			"composers" : ["נורית הירש"],
 			"lyricists" : ["חיים חפר"],
-			"isPrivate" : true,
 			"categoryIds" : ["1"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage722.txt"
