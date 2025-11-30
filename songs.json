@@ -8865,10 +8865,10 @@
 			"lyricists" : ["בן ארצי"],
 			"categoryIds" : ["1","7"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage149.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage149.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1764460800000
 		}, {
 			"id" : 2000150,
 			"name" : "שיר פרידה",
@@ -8877,11 +8877,10 @@
 			"lyricists" : ["שלמה ארצי"],
 			"categoryIds" : ["1","7"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage150.jpg",
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage150.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1722643200000
+			"dateModified" : 1764460800000
 		}, {
 			"id" : 2000151,
 			"name" : "סיבה טובה",
@@ -9737,26 +9736,10 @@
 			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage252.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage252.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
-		}, {
-			"id" : 2010252,
-			"name" : "השיר על תוכי יוסי (D)",
-			"singer" : "אריק איינשטיין",
-			"composers" : ["מיקי גבריאלוב"],
-			"lyricists" : ["אברהם חלפי"],
-			"isPrivate" : true,
-			"playback": {
-				"youTubeVideoId" : "Vb-Lo8FvHtQ"
-			},
-			"categoryIds" : ["1"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage252_d.jpg"
-			},
-			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1764460800000
 		}, {
 			"id" : 2000254,
 			"name" : "או שאתה שר או שלוקחים אותך מפה",
@@ -10185,10 +10168,10 @@
 			"lyricists" : ["דני סנדרסון"],
 			"categoryIds" : ["1","5"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage290.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage290.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1764460800000
 		}, {
 			"id" : 2000291,
 			"name" : "שיר הטרטע",
