@@ -1,5 +1,5 @@
 {
-	"version" : "2025_11_30",
+	"version" : "2025_12_01",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -9773,10 +9773,10 @@
 			"lyricists" : ["זאב נחמה"],
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage256.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage256.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1764547200000
 		}, {
 			"id" : 2000257,
 			"name" : "טיפות",
@@ -9912,11 +9912,10 @@
 			"lyricists" : ["זאב נחמה"],
 			"categoryIds" : ["1","5"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage268.jpg",
-				"imageVersion" : "1"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage268.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1764460800000
 		}, {
 			"id" : 2000269,
 			"name" : "אני שוב מתאהב",
@@ -10180,10 +10179,10 @@
 			"lyricists" : ["איתי שגב","אסף אשתר","גיל ססובר","צביקה הדר","רובי דואניאס"],
 			"categoryIds" : ["1","5"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage291.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage291.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1764460800000
 		}, {
 			"id" : 2000292,
 			"name" : "ג'סיקה",
@@ -10241,10 +10240,10 @@
 			"translators" : ["יעקב גלעד"],
 			"categoryIds" : ["1","5","6"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage296.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage296.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1557187200000
+			"dateModified" : 1764460800000
 		}, {
 			"id" : 2000297,
 			"name" : "אמא",
