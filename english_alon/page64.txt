@@ -1,7 +1,8 @@
 Your Song - Elton John
 Lyrics: Bernie Taupin   Music: Elton John
 
-{Piano Intro}   D  G/D  A/D  G/D
+{Piano Intro}
+D   G/D   A/D   G/D
 
 D                    Gmaj7  A/C#               F#m
    It's a little bit funny      this feeling inside
@@ -32,7 +33,7 @@ Bm/G#                  G6
     D/F#      G6             G             A   A4 - A -
 How wonderful life is while you're in the world
 
-D  G/D  A/D  G/D
+D   G/D   A/D   G/D
 
 D              Gmaj7  A/C#                    F#m
   I sat on the roof        and kicked off the moss

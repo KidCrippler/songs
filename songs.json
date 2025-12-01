@@ -8954,10 +8954,10 @@
 			"lyricists" : ["דני סנדרסון"],
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage157.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage157.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1764547200000
 		}, {
 			"id" : 2000160,
 			"name" : "גולית",
@@ -10652,10 +10652,11 @@
 			"lyricists" : ["דורון מדלי"],
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage331.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage331.txt",
+				"markupVersion" : "2"
 			},
 			"dateCreated" : 1532390400000,
-			"dateModified" : 1532390400000
+			"dateModified" : 1764547200000
 		}, {
 			"id" : 2000332,
 			"name" : "לעולם בעקבות השמש",
@@ -20421,10 +20422,11 @@
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page64.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page64.txt",
+				"markupVersion" : "2"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1764547200000
 		}, {
 			"id" : 4000072,
 			"name" : "Drops of Jupiter",
