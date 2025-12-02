@@ -1,5 +1,5 @@
 {
-	"version" : "2025_12_01",
+	"version" : "2025_12_02",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -8926,10 +8926,10 @@
 			"lyricists" : ["איתי רייכר","אילן שפלר","אסי כהן"],
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage154.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage154.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1764547200000
 		}, {
 			"id" : 2000155,
 			"name" : "אנשי הגשם",
@@ -9304,10 +9304,10 @@
 			"lyricists" : ["צרויה להב"],
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage202.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage202.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1560729600000
+			"dateModified" : 1764547200000
 		}, {
 			"id" : 2000203,
 			"name" : "ימות משיח",
@@ -9465,10 +9465,10 @@
 			"isPrivate" : true,
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage222.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage222.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1764547200000
 		}, {
 			"id" : 2000224,
 			"name" : "מחכה",
@@ -9477,23 +9477,10 @@
 			"lyricists" : ["עידן חביב"],
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage224.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage224.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
-		}, {
-			"id" : 2010224,
-			"name" : "מחכה (C#m)",
-			"singer" : "עידן חביב",
-			"composers" : ["עידן חביב"],
-			"lyricists" : ["עידן חביב"],
-			"isPrivate" : true,
-			"categoryIds" : ["1"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage224_c%23m.jpg"
-			},
-			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1764547200000
 		}, {
 			"id" : 2000226,
 			"name" : "אין מדינה לאהבה",
@@ -9526,10 +9513,10 @@
 			"lyricists" : ["דני רובס"],
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage229.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage229.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1764547200000
 		}, {
 			"id" : 2000231,
 			"name" : "עוד חוזר הניגון",
@@ -9538,10 +9525,10 @@
 			"lyricists" : ["נתן אלתרמן"],
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage231.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage231.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1764547200000
 		}, {
 			"id" : 2000232,
 			"name" : "ברחוב הנשמות הטהורות",
@@ -9785,10 +9772,10 @@
 			"lyricists" : ["עילי בוטנר"],
 			"categoryIds" : ["1","7"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage257.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage257.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1764547200000
 		}, {
 			"id" : 2000258,
 			"name" : "אמא שלי",
@@ -16883,10 +16870,11 @@
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page83.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page83.txt",
+				"markupVersion" : "2"
 			},
 			"dateCreated" : 1541894400000,
-			"dateModified" : 1541894400000
+			"dateModified" : 1764633600000
 		}, {
 			"id" : 3000085,
 			"name" : "Vincent",
