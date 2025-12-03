@@ -15939,6 +15939,30 @@
 			"dateCreated" : 1763164800000,
 			"dateModified" : 1763164800000
 		}, {
+			"id" : 2000766,
+			"name" : "אתן לך",
+			"singer" : "אייל גולן",
+			"composers" : ["פרנסיסקו דינו לופז ראמוס"],
+			"lyricists" : ["רותם כהן"],
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage766.txt"
+			},
+			"dateCreated" : 1764720000000,
+			"dateModified" : 1764720000000
+		}, {
+			"id" : 2000767,
+			"name" : "יא מאמא",
+			"singer" : "שמעון בוסקילה",
+			"composers" : ["עידן רייכל"],
+			"lyricists" : ["שמעון בוסקילה"],
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage767.txt"
+			},
+			"dateCreated" : 1764720000000,
+			"dateModified" : 1764720000000
+		}, {
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
 			"singer" : "The Beatles",
@@ -22043,6 +22067,36 @@
 			},
 			"dateCreated" : 1735084800000,
 			"dateModified" : 1735084800000
+		}, {
+			"id" : 4000196,
+			"name" : "Mon Amour",
+			"singer" : "Slimane",
+			"composers" : ["Slimane Nebchi","Yaacov Salah","Meir Salah"],
+			"lyricists" : ["Slimane Nebchi","Yaacov Salah","Meir Salah"],
+			"playback": {
+				"youTubeVideoId" : "VCzc5C6Gu5M"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page196.txt"
+			},
+			"dateCreated" : 1764720000000,
+			"dateModified" : 1764720000000
+		}, {
+			"id" : 4000197,
+			"name" : "Voila",
+			"singer" : "Barbara Pravi",
+			"composers" : ["Barbara Pravi","Igit","Lili Poe"],
+			"lyricists" : ["Barbara Pravi","Igit","Lili Poe"],
+			"playback": {
+				"youTubeVideoId" : "VJuD7AnV-uw"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page197.txt"
+			},
+			"dateCreated" : 1764720000000,
+			"dateModified" : 1764720000000
 		}
 	]
 }
