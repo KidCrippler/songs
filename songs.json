@@ -1,5 +1,5 @@
 {
-	"version" : "2025_12_02",
+	"version" : "2025_12_03",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -8598,10 +8598,10 @@
 			"lyricists" : ["אהוד מנור"],
 			"categoryIds" : ["1","5","7"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage109.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage109.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1764633600000
 		}, {
 			"id" : 2000110,
 			"name" : "אל תכעסי זה לא אסון",
@@ -8659,10 +8659,10 @@
 			"lyricists" : ["נורית זרחי"],
 			"categoryIds" : ["1","4"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage122.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage122.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1764720000000
 		}, {
 			"id" : 2000123,
 			"name" : "קרוב אל ליבך",
@@ -8793,10 +8793,10 @@
 			"lyricists" : ["מיכה שטרית","מיקי זר"],
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage142.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage142.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1764633600000
 		}, {
 			"id" : 2000143,
 			"name" : "אל העולם שלך",
@@ -8830,10 +8830,10 @@
 			"lyricists" : ["יאיר ניצני"],
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage145.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage145.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1764633600000
 		}, {
 			"id" : 2000146,
 			"name" : "מתוק כשמר לי",
@@ -8853,10 +8853,10 @@
 			"isPrivate" : true,
 			"categoryIds" : ["1","5"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage148.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage148.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1764633600000
 		}, {
 			"id" : 2000149,
 			"name" : "שבע עשרה",
@@ -9067,10 +9067,10 @@
 			"lyricists" : ["רמי קלינשטיין","תמי סטמרי"],
 			"categoryIds" : ["1","5"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage177.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage177.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1764720000000
 		}, {
 			"id" : 2000178,
 			"name" : "נבראתי לך",
@@ -9280,10 +9280,10 @@
 			"lyricists" : ["אתי אנקרי"],
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage199.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage199.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1764633600000
 		}, {
 			"id" : 2000201,
 			"name" : "עטוף ברחמים",
@@ -9489,10 +9489,11 @@
 			"lyricists" : ["יהונתן גפן"],
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage226.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage226.txt",
+				"markupVersion" : "2"
 			},
 			"dateCreated" : 1539388800000,
-			"dateModified" : 1550361600000
+			"dateModified" : 1764633600000
 		}, {
 			"id" : 2000228,
 			"name" : "יש מקום",
