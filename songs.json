@@ -1,5 +1,5 @@
 {
-	"version" : "2025_12_04",
+	"version" : "2025_12_05",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -7943,23 +7943,10 @@
 			"lyricists" : ["דן אלמגור"],
 			"categoryIds" : ["1","6"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage49.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage49.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1557187200000
-		}, {
-			"id" : 2010049,
-			"name" : "יום יבוא (F)",
-			"singer" : "אל תקרא לי שחור",
-			"composers" : ["בני נגרי"],
-			"lyricists" : ["דן אלמגור"],
-			"isPrivate" : true,
-			"categoryIds" : ["1","6"],
-			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage49_f.jpg"
-			},
-			"dateCreated" : 1519516800000,
-			"dateModified" : 1557187200000
+			"dateModified" : 1764806400000
 		}, {
 			"id" : 2000051,
 			"name" : "יום שישי",
@@ -8165,10 +8152,10 @@
 			"lyricists" : ["קרן פלס"],
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage68.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage68.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1764806400000
 		}, {
 			"id" : 2000069,
 			"name" : "מחכה",
@@ -8623,10 +8610,10 @@
 			"lyricists" : ["עידן עמדי"],
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage111.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage111.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1764806400000
 		}, {
 			"id" : 2000113,
 			"name" : "היא הולכת בדרכים",
@@ -9019,10 +9006,10 @@
 			"translators" : ["יעקב שבתאי"],
 			"categoryIds" : ["1","6"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage169.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage169.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1557187200000
+			"dateModified" : 1764892800000
 		}, {
 			"id" : 2000170,
 			"name" : "גרעינים",
