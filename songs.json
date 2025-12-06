@@ -1,5 +1,5 @@
 {
-	"version" : "2025_12_05",
+	"version" : "2025_12_06",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -8067,10 +8067,10 @@
 			"lyricists" : ["זאב נחמה"],
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage60.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage60.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1764979200000
 		}, {
 			"id" : 2000061,
 			"name" : "לא יכול להוריד ממך את העיניים",
@@ -8079,10 +8079,10 @@
 			"lyricists" : ["מאיר אריאל"],
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage61.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage61.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1764892800000
 		}, {
 			"id" : 2000062,
 			"name" : "לגור איתו",
@@ -8255,10 +8255,10 @@
 			"lyricists" : ["אביב גפן"],
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage77.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage77.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1764892800000
 		}, {
 			"id" : 2000078,
 			"name" : "עדיין מחכה לך",
@@ -8303,10 +8303,10 @@
 			"lyricists" : ["אברהם חלפי"],
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage81.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage81.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1764979200000
 		}, {
 			"id" : 2000082,
 			"name" : "עכשיו אתה חוזר בחזרה",
@@ -8486,10 +8486,10 @@
 			"lyricists" : ["אהוד מנור"],
 			"categoryIds" : ["1","5","6","7"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage97.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage97.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1557187200000
+			"dateModified" : 1764979200000
 		}, {
 			"id" : 2000098,
 			"name" : "שיר ישן",
