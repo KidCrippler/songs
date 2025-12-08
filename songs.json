@@ -8670,10 +8670,10 @@
 			"lyricists" : ["שלמה ארצי"],
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage127.jpg"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage127.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1765152000000
 		}, {
 			"id" : 2000128,
 			"name" : "יסמין",
@@ -9898,11 +9898,10 @@
 			"lyricists" : ["אהוד מנור"],
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage271.jpg",
-				"imageVersion" : "2"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage271.txt"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1519516800000
+			"dateModified" : 1765152000000
 		}, {
 			"id" : 2000272,
 			"name" : "מה שהלב בחר",
@@ -20421,6 +20420,9 @@
 			"id" : 4000074,
 			"name" : "Patience",
 			"singer" : "Take That",
+			"composers" : ["Gary Barlow","Howard Donald","Jason Orange","Mark Owen","John Shanks"],
+			"lyricists" : ["Gary Barlow","Howard Donald","Jason Orange","Mark Owen","John Shanks"],
+
 			"playback": {
 				"youTubeVideoId" : "273eSvOwpKk"
 			},
@@ -20434,6 +20436,8 @@
 			"id" : 4000087,
 			"name" : "Hero",
 			"singer" : "Mariah Carey",
+			"composers" : ["Mariah Carey", "Walter Afanasieff"],
+			"lyricists" : ["Mariah Carey"],
 			"playback": {
 				"youTubeVideoId" : "0IA3ZvCkRkQ"
 			},
