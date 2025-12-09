@@ -3,11 +3,11 @@
 
 (Gm  Eb  Cm  B) x 2
 
-Gm      Eb/G  Cm/G      B
+Gm      Eb/G  Cm/G     G+
    תם   הלילה,     תם לתוך האור 
-Gm         Eb/G  Cm/G        B
+Gm         Eb/G  Cm/G        G+
    נופל    ירח,        יותר מדי שיכור 
-Gm     Eb/G  Cm/G        B
+Gm     Eb/G  Cm/G       G+
    שם למעלה,      כמו תינוק טהור 
 Gm      Eb/G  Cm/G      B      Gm
    אתה למעלה,      לא עצוב לך לבד?
@@ -21,9 +21,9 @@ Gm      Eb/G  Cm/G      B      Gm
        B     Gm
 בי מתעוררת אהבה 
 
-   Eb/G   Cm/G     B
+   Eb/G   Cm/G     G+
 את השמש,       אש חמה שלי 
-Gm     Eb/G  Cm/G   B       Gm
+Gm     Eb/G  Cm/G   G+      Gm
    את נשרפת,      בכאב שלך לבד 
 
       Eb            Cm
@@ -32,11 +32,11 @@ Gm     Eb/G  Cm/G   B       Gm
 בי מתפוררת האימה 
       Eb            Cm
 (כמה ענוג הוא) כמה ענוג 
-       B     Gm ---
+       B     Gm --->
 בי מתעוררת אהבה 
 
-(Gm  Eb  Cm  B) x 2
-G - G/F - G/E - G/D -
+--->   (Gm    Eb     Cm     B) x 2
+        G  -  /F  -  /E  -  /D -
 
 Dm    Am         G
    כשהאור הופך כחול 
@@ -71,9 +71,8 @@ Dm  Am       G         G/F
 כמה ענוג האור שלך
       Eb            Cm
 (כמה ענוג הוא) כמה ענוג
-       B     Gm ---
+       B     Gm    --->
 בי מתעוררת אהבה 
 
-(Gm  Eb  Cm  B) x 2
-Gm
-
+--->   (Gm   Eb   Cm   B) x 2
+        Gm
