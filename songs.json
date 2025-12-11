@@ -1,5 +1,5 @@
 {
-	"version" : "2025_12_10",
+	"version" : "2025_12_11",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -36,7 +36,7 @@
 			"categoryIds" : ["1"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page1.txt",
-                "markupVersion" : "2"
+				"markupVersion" : "2"
 			},
 			"dateCreated" : 1551830400000,
 			"dateModified" : 1764201600000
@@ -2552,10 +2552,10 @@
 			"categoryIds" : ["1"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page169.txt",
-				"markupVersion" : "2"
+				"markupVersion" : "3"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1762905600000
+			"dateModified" : 1765411200000
 		}, {
 			"id" : 1000170,
 			"name" : "השיר שיביא לך אהבה",
@@ -2597,10 +2597,11 @@
 			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page172.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page172.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1747526400000
+			"dateModified" : 1765411200000
 		}, {
 			"id" : 1000173,
 			"name" : "קח אותי",
@@ -3097,10 +3098,10 @@
 			"categoryIds" : ["1"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page208.txt",
-				"markupVersion" : "1"
+				"markupVersion" : "2"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1665014400000
+			"dateModified" : 1765411200000
 		}, {
 			"id" : 1000209,
 			"name" : "עכשיו הכל בסדר",
@@ -3356,10 +3357,10 @@
 			"categoryIds" : ["1","6"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page225.txt",
-				"markupVersion" : "1"
+				"markupVersion" : "2"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1748822400000
+			"dateModified" : 1765411200000
 		}, {
 			"id" : 1000226,
 			"name" : "יש בי עוד כח",
@@ -3723,10 +3724,11 @@
 			},
 			"categoryIds" : ["1","5"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page254.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page254.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1519516800000,
-			"dateModified" : 1749254400000
+			"dateModified" : 1765411200000
 		}, {
 			"id" : 1000255,
 			"name" : "הולך בטל",
@@ -20410,7 +20412,6 @@
 			"singer" : "Take That",
 			"composers" : ["Gary Barlow","Howard Donald","Jason Orange","Mark Owen","John Shanks"],
 			"lyricists" : ["Gary Barlow","Howard Donald","Jason Orange","Mark Owen","John Shanks"],
-
 			"playback": {
 				"youTubeVideoId" : "273eSvOwpKk"
 			},
@@ -20424,7 +20425,7 @@
 			"id" : 4000087,
 			"name" : "Hero",
 			"singer" : "Mariah Carey",
-			"composers" : ["Mariah Carey", "Walter Afanasieff"],
+			"composers" : ["Mariah Carey","Walter Afanasieff"],
 			"lyricists" : ["Mariah Carey"],
 			"playback": {
 				"youTubeVideoId" : "0IA3ZvCkRkQ"
@@ -20439,8 +20440,8 @@
 			"id" : 4000089,
 			"name" : "Jailhouse Rock",
 			"singer" : "Elvis Presley",
-			"composers" : ["Jerry Leiber", "Mark Stoller"],
-			"lyricists" : ["Jerry Leiber", "Mark Stoller"],
+			"composers" : ["Jerry Leiber","Mark Stoller"],
+			"lyricists" : ["Jerry Leiber","Mark Stoller"],
 			"playback": {
 				"youTubeVideoId" : "gj0Rz-uP4Mk"
 			},
