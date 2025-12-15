@@ -1,6 +1,6 @@
 יש לי חולשה לרקדנים – ריקי גל / צוף פילוסוף / יענקל'ה רוטבליט
 
- Dm   Dm   Bb    C   X2 
+(Dm   Dm   Bb   C) x 2
 
 Dm           Bb    C    Dm     Dm  Bb  C
     איש צעיר בדלת ברק בצהריים
@@ -42,7 +42,7 @@ Dm          Bb   C   F
 האדמה תחתי רועדת
 C                   Dm   Dm   Bb    C
    רוצה אותו רק בשבילי
-          Dm   Dm   Bb    C  X3
+(Dm   Dm   Bb   C) x 3
 {סולו תופים  X 2}
 
 Dm            Bb     C       Dm   Dm  Bb  C
@@ -77,4 +77,4 @@ Dm          Bb   C   F
 האדמה תחתי רועדת
 C                   Dm   Dm   Bb    C
    רוצה אותו רק בשבילי
-          Dm   Dm   Bb    C  X3
+(Dm   Dm   Bb   C) x 3
