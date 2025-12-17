@@ -1,5 +1,5 @@
 {
-	"version" : "2025_12_11",
+	"version" : "2025_12_17",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -15914,6 +15914,18 @@
 			},
 			"dateCreated" : 1764720000000,
 			"dateModified" : 1764720000000
+		}, {
+			"id" : 2000768,
+			"name" : "הרבה פנים",
+			"singer" : "רמי קלינשטיין",
+			"composers" : ["רמי קלינשטיין"],
+			"lyricists" : ["רמי קלינשטיין"],
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage768.txt"
+			},
+			"dateCreated" : 1765929600000,
+			"dateModified" : 1765929600000
 		}, {
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
