@@ -15991,6 +15991,30 @@
 			"dateCreated" : 1771027200000,
 			"dateModified" : 1771027200000
 		}, {
+			"id" : 2000774,
+			"name" : "איך זה שכוכב",
+			"singer" : "מתי כספי",
+			"composers" : ["מתי כספי"],
+			"lyricists" : ["נתן זך"],
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage774.txt"
+			},
+			"dateCreated" : 1771027200000,
+			"dateModified" : 1771027200000
+		}, {
+			"id" : 2000775,
+			"name" : "שיר עם נקי",
+			"singer" : "מתי כספי",
+			"composers" : ["מתי כספי"],
+			"lyricists" : ["אהוד מנור"],
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage775.txt"
+			},
+			"dateCreated" : 1771027200000,
+			"dateModified" : 1771027200000
+		}, {
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
 			"singer" : "The Beatles",
