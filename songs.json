@@ -1,5 +1,5 @@
 {
-	"version" : "2026_02_14",
+	"version" : "2026_02_21",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -7020,10 +7020,11 @@
 			"categoryIds" : ["1"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page465.txt",
-				"markupVersion" : "1"
+				"markupVersion" : "2"
 			},
+			"keyShiftToOriginal" : 1,
 			"dateCreated" : 1667001600000,
-			"dateModified" : 1745712000000
+			"dateModified" : 1771632000000
 		}, {
 			"id" : 1000466,
 			"name" : "קרן שמש",
