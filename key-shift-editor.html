@@ -35,8 +35,11 @@
     <button id="load" class="primary">Open folder</button>
     <button id="save" disabled>Save</button>
     <input type="text" id="filter" placeholder="Filter by name or singer" style="padding: 0.5rem; border: 1px solid #ccc; border-radius: 4px; min-width: 200px;" />
+    <label style="font-size:0.875rem;display:flex;align-items:center;gap:0.3rem;"><input type="checkbox" id="show-set" checked> Key set</label>
+    <label style="font-size:0.875rem;display:flex;align-items:center;gap:0.3rem;"><input type="checkbox" id="show-unset" checked> No key</label>
+    <span id="count" class="hint"></span>
     <span id="toast">Saved</span>
-    <span id="hint" class="hint">Pick the folder that contains songs.json and hebrew_ophir once; Save updates without asking again.</span>
+    <span id="hint" class="hint">Pick the folder that contains songs.json</span>
   </div>
   <div id="cards" class="cards"></div>
   <p id="empty" class="empty" style="display:none;">Open folder to start.</p>
@@ -53,6 +56,8 @@
       const loadBtn = document.getElementById('load');
       const saveBtn = document.getElementById('save');
       const filterEl = document.getElementById('filter');
+      const showSetEl = document.getElementById('show-set');
+      const showUnsetEl = document.getElementById('show-unset');
       const cardsEl = document.getElementById('cards');
       const emptyEl = document.getElementById('empty');
       const lyricsPopup = document.getElementById('lyrics-popup');
@@ -136,13 +141,28 @@
         }
         saveBtn.disabled = false;
         const q = (filterEl.value || '').trim().toLowerCase();
-        const songs = q
-          ? data.songs.filter(function (s) {
-              const name = (s.name || '').toLowerCase();
-              const singer = (s.singer || '').toLowerCase();
-              return name.indexOf(q) !== -1 || singer.indexOf(q) !== -1;
-            })
-          : data.songs;
+        const showSet = showSetEl.checked;
+        const showUnset = showUnsetEl.checked;
+        const songs = data.songs.filter(function (s) {
+          const isSet = s.keyShiftToOriginal !== undefined && s.keyShiftToOriginal !== null;
+          if (!showSet && isSet) return false;
+          if (!showUnset && !isSet) return false;
+          if (q) {
+            const name = (s.name || '').toLowerCase();
+            const singer = (s.singer || '').toLowerCase();
+            if (name.indexOf(q) === -1 && singer.indexOf(q) === -1) return false;
+          }
+          return true;
+        }).slice().sort(function (a, b) {
+          const aSet = a.keyShiftToOriginal !== undefined && a.keyShiftToOriginal !== null;
+          const bSet = b.keyShiftToOriginal !== undefined && b.keyShiftToOriginal !== null;
+          if (aSet !== bSet) return aSet ? 1 : -1;
+          const aHeb = /^[\u0590-\u05FF]/.test(a.name || '');
+          const bHeb = /^[\u0590-\u05FF]/.test(b.name || '');
+          if (aHeb !== bHeb) return aHeb ? -1 : 1;
+          return (a.name || '').localeCompare(b.name || '');
+        });
+        document.getElementById('count').textContent = songs.length + ' songs';
         songs.forEach(function (song) {
           const card = document.createElement('div');
           card.className = 'card';
@@ -270,6 +290,8 @@
       loadBtn.addEventListener('click', loadFolder);
       saveBtn.addEventListener('click', save);
       filterEl.addEventListener('input', render);
+      showSetEl.addEventListener('change', render);
+      showUnsetEl.addEventListener('change', render);
       lyricsPopup.addEventListener('mouseenter', cancelHideLyrics);
       lyricsPopup.addEventListener('mouseleave', function () {
         if (hideLyricsTimer) clearTimeout(hideLyricsTimer);
