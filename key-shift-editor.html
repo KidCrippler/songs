@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Key shift editor</title>
+  <style>
+    * { box-sizing: border-box; }
+    body { font-family: system-ui, sans-serif; max-width: 900px; margin: 0 auto; padding: 1rem; }
+    h1 { font-size: 1.25rem; }
+    .toolbar { display: flex; gap: 0.75rem; align-items: center; flex-wrap: wrap; margin-bottom: 1rem; }
+    .toolbar button { padding: 0.5rem 1rem; border: 1px solid #333; background: #fff; border-radius: 4px; cursor: pointer; }
+    .toolbar button.primary { background: #333; color: #fff; border-color: #333; }
+    .toolbar button:disabled { opacity: 0.5; cursor: not-allowed; }
+    .toolbar .hint { font-size: 0.875rem; color: #666; }
+    .cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 0.75rem; }
+    .card { border: 1px solid #ddd; border-radius: 6px; padding: 0.75rem; background: #fafafa; }
+    .card .name { font-weight: 600; margin-bottom: 0.25rem; cursor: default; }
+    .lyrics-popup { display: none; position: fixed; z-index: 1000; max-width: 420px; padding: 0.6rem; background: #fff; border: 1px solid #333; border-radius: 6px; box-shadow: 2px 4px 12px rgba(0,0,0,0.15); font-size: 0.875rem; line-height: 1.4; white-space: pre-wrap; }
+    .lyrics-popup.visible { display: block; }
+    .card .singer { font-size: 0.875rem; color: #555; margin-bottom: 0.5rem; }
+    .card .key-line { display: flex; align-items: center; gap: 0.5rem; flex-wrap: wrap; }
+    .card .key-line .current { font-size: 0.875rem; color: #666; }
+    .card .key-line .current.key-set { color: #c00; font-weight: 600; }
+    .card select { padding: 0.35rem; min-width: 4rem; }
+    .card button { padding: 0.35rem 0.6rem; font-size: 0.875rem; }
+    .empty { color: #666; padding: 1rem 0; }
+    #toast { color: #1a7f3c; font-weight: 600; opacity: 0; transition: opacity 0.3s ease; pointer-events: none; }
+    #toast.visible { opacity: 1; }
+  </style>
+</head>
+<body>
+  <h1>Key shift editor</h1>
+  <div class="toolbar">
+    <button id="load" class="primary">Open folder</button>
+    <button id="save" disabled>Save</button>
+    <input type="text" id="filter" placeholder="Filter by name or singer" style="padding: 0.5rem; border: 1px solid #ccc; border-radius: 4px; min-width: 200px;" />
+    <span id="toast">Saved</span>
+    <span id="hint" class="hint">Pick the folder that contains songs.json and hebrew_ophir once; Save updates without asking again.</span>
+  </div>
+  <div id="cards" class="cards"></div>
+  <p id="empty" class="empty" style="display:none;">Open folder to start.</p>
+  <div id="lyrics-popup" class="lyrics-popup" aria-hidden="true"></div>
+
+  <script>
+    (function () {
+      const MIN = -5, MAX = 6;
+      let data = null;
+      let rawText = null;
+      let pendingChanges = new Map();
+      let rootDirHandle = null;
+
+      const loadBtn = document.getElementById('load');
+      const saveBtn = document.getElementById('save');
+      const filterEl = document.getElementById('filter');
+      const cardsEl = document.getElementById('cards');
+      const emptyEl = document.getElementById('empty');
+      const lyricsPopup = document.getElementById('lyrics-popup');
+      let hoverRequestId = 0;
+
+      function escapeHtml(s) {
+        if (s == null) return '';
+        const div = document.createElement('div');
+        div.textContent = s;
+        return div.innerHTML;
+      }
+
+      function relativePathFromMarkupUrl(markupUrl) {
+        if (!markupUrl || typeof markupUrl !== 'string') return null;
+        const i = markupUrl.indexOf('master/');
+        return i === -1 ? null : markupUrl.slice(i + 7);
+      }
+
+      function readLyricsFile(relativePath) {
+        if (!rootDirHandle) return Promise.reject(new Error('no handle'));
+        var parts = relativePath.replace(/^\.\//, '').split('/');
+        if (parts.length === 0) return Promise.reject(new Error('empty path'));
+        var dirs = parts.slice(0, -1);
+        var fileName = parts[parts.length - 1];
+        var p = Promise.resolve(rootDirHandle);
+        dirs.forEach(function (name) {
+          p = p.then(function (d) { return d.getDirectoryHandle(name); });
+        });
+        return p.then(function (d) { return d.getFileHandle(fileName); })
+          .then(function (f) { return f.getFile(); })
+          .then(function (file) { return file.text(); });
+      }
+
+      function showLyricsPreview(nameEl, song) {
+        const markupUrl = song.lyrics && song.lyrics.markupUrl;
+        const path = relativePathFromMarkupUrl(markupUrl);
+        if (!path || !rootDirHandle) return;
+        const myId = ++hoverRequestId;
+        readLyricsFile(path)
+          .then(function (text) {
+            if (myId !== hoverRequestId) return;
+            const lines = text.split(/\r?\n/);
+            var from = 3;
+            while (from < lines.length && lines[from].trim() === '') from++;
+            var slice = lines.slice(from, from + 8);
+            lyricsPopup.textContent = slice.join('\n');
+            var rect = nameEl.getBoundingClientRect();
+            lyricsPopup.style.left = rect.left + 'px';
+            lyricsPopup.style.top = (rect.bottom + 4) + 'px';
+            lyricsPopup.classList.add('visible');
+            lyricsPopup.setAttribute('aria-hidden', 'false');
+          })
+          .catch(function () {});
+      }
+
+      var hideLyricsTimer = null;
+      function hideLyricsPreview() {
+        hoverRequestId++;
+        lyricsPopup.classList.remove('visible');
+        lyricsPopup.setAttribute('aria-hidden', 'true');
+      }
+      function scheduleHideLyrics() {
+        if (hideLyricsTimer) clearTimeout(hideLyricsTimer);
+        hideLyricsTimer = setTimeout(function () {
+          hideLyricsTimer = null;
+          lyricsPopup.classList.remove('visible');
+          lyricsPopup.setAttribute('aria-hidden', 'true');
+        }, 80);
+      }
+      function cancelHideLyrics() {
+        if (hideLyricsTimer) { clearTimeout(hideLyricsTimer); hideLyricsTimer = null; }
+      }
+
+      function render() {
+        cardsEl.innerHTML = '';
+        emptyEl.style.display = 'none';
+        if (!data || !Array.isArray(data.songs)) {
+          emptyEl.style.display = 'block';
+          saveBtn.disabled = true;
+          return;
+        }
+        saveBtn.disabled = false;
+        const q = (filterEl.value || '').trim().toLowerCase();
+        const songs = q
+          ? data.songs.filter(function (s) {
+              const name = (s.name || '').toLowerCase();
+              const singer = (s.singer || '').toLowerCase();
+              return name.indexOf(q) !== -1 || singer.indexOf(q) !== -1;
+            })
+          : data.songs;
+        songs.forEach(function (song) {
+          const card = document.createElement('div');
+          card.className = 'card';
+          const current = song.keyShiftToOriginal;
+          const isSet = current !== undefined && current !== null;
+          const currentText = isSet ? 'Key: ' + current : 'Key: —';
+          card.innerHTML =
+            '<div class="name">' + escapeHtml(song.name) + '</div>' +
+            '<div class="singer">' + escapeHtml(song.singer || '') + '</div>' +
+            '<div class="key-line">' +
+              '<span class="current' + (isSet ? ' key-set' : '') + '">' + escapeHtml(currentText) + '</span>' +
+              '<select></select>' +
+              '<button>Set</button>' +
+            '</div>';
+          const sel = card.querySelector('select');
+          const setBtn = card.querySelector('button');
+          for (let i = MIN; i <= MAX; i++) {
+            const opt = document.createElement('option');
+            opt.value = i;
+            opt.textContent = i === 0 ? '0' : String(i);
+            if (current === i || ((current === undefined || current === null) && i === 0)) opt.selected = true;
+            sel.appendChild(opt);
+          }
+          setBtn.onclick = function () {
+            const newVal = parseInt(sel.value, 10);
+            song.keyShiftToOriginal = newVal;
+            pendingChanges.set(data.songs.indexOf(song), newVal);
+            render();
+          };
+          const nameEl = card.querySelector('.name');
+          if (song.lyrics && song.lyrics.markupUrl) {
+            nameEl.addEventListener('mouseenter', function () { cancelHideLyrics(); showLyricsPreview(nameEl, song); });
+            nameEl.addEventListener('mouseleave', scheduleHideLyrics);
+          }
+          cardsEl.appendChild(card);
+        });
+      }
+
+      async function loadFolder() {
+        if (typeof window.showDirectoryPicker !== 'function') {
+          alert('This browser does not support opening folders. Use Chrome or Edge.');
+          return;
+        }
+        try {
+          rootDirHandle = await window.showDirectoryPicker();
+          const fileHandle = await rootDirHandle.getFileHandle('songs.json');
+          const file = await fileHandle.getFile();
+          const text = await file.text();
+          rawText = text;
+          pendingChanges.clear();
+          data = JSON.parse(text);
+          render();
+        } catch (e) {
+          if (e.name !== 'AbortError') alert('Load failed: ' + e.message);
+        }
+      }
+
+      function patchSongKey(jsonText, songName, newValue) {
+        const escapedName = songName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+        const nameMatch = new RegExp('"name"\\s*:\\s*"' + escapedName + '"').exec(jsonText);
+        if (!nameMatch) return jsonText;
+        const searchFrom = nameMatch.index;
+        const tail = jsonText.slice(searchFrom);
+        const keyMatch = /"keyShiftToOriginal"\s*:\s*-?\d+/.exec(tail);
+        const dateMatch = /(\n[ \t]*)"dateCreated"/.exec(tail);
+        if (keyMatch && (!dateMatch || keyMatch.index < dateMatch.index)) {
+          // Field exists: replace only the number, leaving all surrounding text intact
+          const absPos = searchFrom + keyMatch.index;
+          const numMatch = /(-?\d+)$/.exec(keyMatch[0]);
+          const numStart = absPos + numMatch.index;
+          return jsonText.slice(0, numStart) + newValue + jsonText.slice(numStart + numMatch[0].length);
+        }
+        if (dateMatch) {
+          // Field missing: insert one line directly above "dateCreated", matching its indentation
+          const absDatePos = searchFrom + dateMatch.index;
+          const indent = dateMatch[1];
+          return jsonText.slice(0, absDatePos) +
+            indent + '"keyShiftToOriginal" : ' + newValue + ',' +
+            jsonText.slice(absDatePos);
+        }
+        return jsonText;
+      }
+
+      async function save() {
+        if (!data) return;
+        let json = rawText || JSON.stringify(data, null, '\t');
+        if (rawText && pendingChanges.size > 0) {
+          for (const [idx, newVal] of pendingChanges) {
+            const song = data.songs[idx];
+            if (song) json = patchSongKey(json, song.name, newVal);
+          }
+          rawText = json;
+          pendingChanges.clear();
+        }
+        if (rootDirHandle) {
+          try {
+            const fileHandle = await rootDirHandle.getFileHandle('songs.json');
+            const writable = await fileHandle.createWritable();
+            await writable.write(json);
+            await writable.close();
+            showToast();
+          } catch (e) {
+            alert('Save failed: ' + e.message);
+            return;
+          }
+        } else {
+          const blob = new Blob([json], { type: 'application/json' });
+          const a = document.createElement('a');
+          a.href = URL.createObjectURL(blob);
+          a.download = 'songs.json';
+          a.click();
+          URL.revokeObjectURL(a.href);
+          showToast();
+        }
+      }
+
+      let toastTimer = null;
+      function showToast() {
+        const toast = document.getElementById('toast');
+        toast.classList.add('visible');
+        if (toastTimer) clearTimeout(toastTimer);
+        toastTimer = setTimeout(function () { toast.classList.remove('visible'); toastTimer = null; }, 2000);
+      }
+
+      loadBtn.addEventListener('click', loadFolder);
+      saveBtn.addEventListener('click', save);
+      filterEl.addEventListener('input', render);
+      lyricsPopup.addEventListener('mouseenter', cancelHideLyrics);
+      lyricsPopup.addEventListener('mouseleave', function () {
+        if (hideLyricsTimer) clearTimeout(hideLyricsTimer);
+        hideLyricsTimer = null;
+        lyricsPopup.classList.remove('visible');
+        lyricsPopup.setAttribute('aria-hidden', 'true');
+      });
+
+      render();
+    })();
+  </script>
+</body>
+</html>
