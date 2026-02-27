@@ -1,5 +1,5 @@
 {
-	"version" : "2026_02_21",
+	"version" : "2026_02_27",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -16091,6 +16091,7 @@
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage760.txt"
 			},
+			"keyShiftToOriginal" : 1,
 			"dateCreated" : 1759363200000,
 			"dateModified" : 1759363200000
 		}, {
@@ -16103,6 +16104,7 @@
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage761.txt"
 			},
+			"keyShiftToOriginal" : 0,
 			"dateCreated" : 1759363200000,
 			"dateModified" : 1759363200000
 		}, {
@@ -16115,6 +16117,7 @@
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage762.txt"
 			},
+			"keyShiftToOriginal" : 2,
 			"dateCreated" : 1759536000000,
 			"dateModified" : 1759536000000
 		}, {
@@ -16127,6 +16130,7 @@
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage763.txt"
 			},
+			"keyShiftToOriginal" : 0,
 			"dateCreated" : 1761696000000,
 			"dateModified" : 1761696000000
 		}, {
@@ -16140,6 +16144,7 @@
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage764.txt"
 			},
+			"keyShiftToOriginal" : 2,
 			"dateCreated" : 1762732800000,
 			"dateModified" : 1762732800000
 		}, {
@@ -16152,6 +16157,7 @@
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage765.txt"
 			},
+			"keyShiftToOriginal" : 0,
 			"dateCreated" : 1763164800000,
 			"dateModified" : 1763164800000
 		}, {
@@ -16164,6 +16170,7 @@
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage766.txt"
 			},
+			"keyShiftToOriginal" : 4,
 			"dateCreated" : 1764720000000,
 			"dateModified" : 1764720000000
 		}, {
@@ -16176,6 +16183,7 @@
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage767.txt"
 			},
+			"keyShiftToOriginal" : 0,
 			"dateCreated" : 1764720000000,
 			"dateModified" : 1764720000000
 		}, {
@@ -16188,6 +16196,7 @@
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage768.txt"
 			},
+			"keyShiftToOriginal" : -1,
 			"dateCreated" : 1765929600000,
 			"dateModified" : 1765929600000
 		}, {
@@ -16201,6 +16210,7 @@
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage769.txt"
 			},
+			"keyShiftToOriginal" : 0,
 			"dateCreated" : 1767571200000,
 			"dateModified" : 1767571200000
 		}, {
@@ -16239,6 +16249,7 @@
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage772.txt"
 			},
+			"keyShiftToOriginal" : -1,
 			"dateCreated" : 1769558400000,
 			"dateModified" : 1769558400000
 		}, {
@@ -16251,6 +16262,7 @@
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage773.txt"
 			},
+			"keyShiftToOriginal" : 0,
 			"dateCreated" : 1771027200000,
 			"dateModified" : 1771027200000
 		}, {
@@ -16263,6 +16275,7 @@
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage774.txt"
 			},
+			"keyShiftToOriginal" : 0,
 			"dateCreated" : 1771027200000,
 			"dateModified" : 1771027200000
 		}, {
@@ -16275,8 +16288,22 @@
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage775.txt"
 			},
+			"keyShiftToOriginal" : 0,
 			"dateCreated" : 1771027200000,
 			"dateModified" : 1771027200000
+		}, {
+			"id" : 2000776,
+			"name" : "רומנטיקה",
+			"singer" : "צביקה פיק",
+			"composers" : ["שלומית אהרון", "עמי מנדלמן"],
+			"lyricists" : ["יובל דור"],
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage776.txt"
+			},
+			"keyShiftToOriginal" : 3,
+			"dateCreated" : 1772150400000,
+			"dateModified" : 1772150400000
 		}, {
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
