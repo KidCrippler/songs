@@ -7796,6 +7796,19 @@
 			"dateCreated" : 1776470400000,
 			"dateModified" : 1776470400000
 		}, {
+			"id" : 1000515,
+			"name" : "התקווה",
+			"singer" : "אין",
+			"composers" : ["עממי"],
+			"lyricists" : ["נפתלי הרץ אימבר"],
+			"isPrivate" : true,
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page515.txt"
+			},
+			"dateCreated" : 1776470400000,
+			"dateModified" : 1776470400000
+		}, {
 			"id" : 2000001,
 			"name" : "אדון שוקו",
 			"singer" : "אריק איינשטיין",
