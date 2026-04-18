@@ -1,5 +1,5 @@
 {
-	"version" : "2026_04_17",
+	"version" : "2026_04_18",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -7711,15 +7711,15 @@
 			"lyricists" : ["ג'ורג'י בן"],
 			"translators" : ["אהוד מנור"],
 			"playback": {
-				"youTubeVideoId" : "67DR0OvgbGA",
-				"markupVersion" : "1"
+				"youTubeVideoId" : "67DR0OvgbGA"
 			},
 			"categoryIds" : ["1"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page509.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page509.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1763424000000,
-			"dateModified" : 1771027200000
+			"dateModified" : 1776470400000
 		}, {
 			"id" : 1000510,
 			"name" : "עלה נישא ברוח",
@@ -7750,6 +7750,51 @@
 			},
 			"dateCreated" : 1763424000000,
 			"dateModified" : 1763424000000
+		}, {
+			"id" : 1000512,
+			"name" : "יש לי סיכוי",
+			"singer" : "אביתר בנאי",
+			"composers" : ["אביתר בנאי"],
+			"lyricists" : ["אביתר בנאי"],
+			"playback": {
+				"youTubeVideoId" : "v5hV3j6ywD4"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page512.txt"
+			},
+			"dateCreated" : 1776470400000,
+			"dateModified" : 1776470400000
+		}, {
+			"id" : 1000513,
+			"name" : "מי האיש",
+			"singer" : "חווה אלברשטיין",
+			"composers" : ["ברוך חייט"],
+			"lyricists" : ["מתוך תהילים"],
+			"playback": {
+				"youTubeVideoId" : "dW4S-A4sE6s"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page513.txt"
+			},
+			"dateCreated" : 1776470400000,
+			"dateModified" : 1776470400000
+		}, {
+			"id" : 1000514,
+			"name" : "עץ הדשא",
+			"singer" : "שלום חנוך",
+			"composers" : ["שלום חנוך"],
+			"lyricists" : ["נתן זך"],
+			"playback": {
+				"youTubeVideoId" : "GTjYHa4r_CQ"
+			},
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page514.txt"
+			},
+			"dateCreated" : 1776470400000,
+			"dateModified" : 1776470400000
 		}, {
 			"id" : 2000001,
 			"name" : "אדון שוקו",
@@ -8176,9 +8221,9 @@
 			"id" : 2000046,
 			"name" : "זמר שלוש התשובות",
 			"singer" : "רבקה זוהר",
-			"isPrivate" : true,
 			"composers" : ["אריה לבנון"],
 			"lyricists" : ["נתן אלתרמן"],
+			"isPrivate" : true,
 			"categoryIds" : ["1"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage46.jpg"
@@ -8489,9 +8534,9 @@
 			"id" : 2000073,
 			"name" : "נגיעה אחת רכה",
 			"singer" : "גידי גוב",
-			"isPrivate" : true,
 			"composers" : ["יוני רכטר"],
 			"lyricists" : ["עלי מוהר"],
+			"isPrivate" : true,
 			"categoryIds" : ["1"],
 			"lyrics" : {
 				"imageUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage73.jpg"
@@ -16263,8 +16308,8 @@
 			"id" : 2000772,
 			"name" : "תנו לי רוקנרול",
 			"singer" : "תיסלם",
-			"composers" : ["יזהר אשדות", "יאיר ניצני"],
-			"lyricists" : ["יזהר אשדות", "יאיר ניצני"],
+			"composers" : ["יזהר אשדות","יאיר ניצני"],
+			"lyricists" : ["יזהר אשדות","יאיר ניצני"],
 			"categoryIds" : ["1","5"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage772.txt"
@@ -16315,7 +16360,7 @@
 			"id" : 2000776,
 			"name" : "רומנטיקה",
 			"singer" : "צביקה פיק",
-			"composers" : ["שלומית אהרון", "עמי מנדלמן"],
+			"composers" : ["שלומית אהרון","עמי מנדלמן"],
 			"lyricists" : ["יובל דור"],
 			"categoryIds" : ["1"],
 			"lyrics" : {
@@ -22470,8 +22515,8 @@
 			"id" : 4000198,
 			"name" : "Flying Without Wings",
 			"singer" : "Westlife",
-			"composers" : ["Wayne Anthony Hector", "Steven McCutcheon"],
-			"lyricists" : ["Wayne Anthony Hector", "Steven McCutcheon"],
+			"composers" : ["Wayne Anthony Hector","Steven McCutcheon"],
+			"lyricists" : ["Wayne Anthony Hector","Steven McCutcheon"],
 			"playback": {
 				"youTubeVideoId" : "vKPGxGCFgTs"
 			},
@@ -22485,8 +22530,8 @@
 			"id" : 4000199,
 			"name" : "Twist And Shout",
 			"singer" : "The Beatles",
-			"composers" : ["Bert Berns", "Phil Medley"],
-			"lyricists" : ["Bert Berns", "Phil Medley"],
+			"composers" : ["Bert Berns","Phil Medley"],
+			"lyricists" : ["Bert Berns","Phil Medley"],
 			"playback": {
 				"youTubeVideoId" : "2RicaUqd9Hg"
 			},
