@@ -24,7 +24,7 @@ Fm        Am   Em       Gm   Dm  Esus4  E
        Fmaj7   /F#        Dm  Em    Am
 ושמות שמות            אתה בא והולך אלי.
 
-Am   /F  /F#    /F        Cmaj7   F#m7b5  Fº 
+Am   /F  /F#    /F        Cmaj7   F#m7b5  B7
 איי                  עלטה סביב
   Fmaj7 /F#  Fmaj7        Esus4   E
 הלוו--------------אי שאתה מקשיב
@@ -43,7 +43,7 @@ Fm         Am    Em     Gm    Dm   Esus4   E
        Fmaj7  /F#        Dm  Em    Am
 ופנים, פנים          אתה בא והולך אלי.
 
-Am   /F  /F#    /F        Cmaj7   F#m7b5  Fº 
+Am   /F  /F#    /F        Cmaj7   F#m7b5  B7
 ים                  דומיה סביב
 Fmaj7    /F#     Fmaj7  Esus4   E
 והי-----------ה אם אתה מקשיב
