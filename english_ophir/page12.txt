@@ -1,5 +1,6 @@
 Let it be - The beatles
 
+{Only Piano}
 C     G     Am     F
 C     G     F     Em  Dm  C
  
@@ -16,18 +17,19 @@ Standing right in front of me
 C                 G                F     Em  Dm  C
 Speaking words of wisdom    let it be
 
-
        Am         Am/G        F          C
 Let it be, let it be,  let it be, let it be
 C                G              F     Em  Dm  C
 Whisper words of wisdom, let it be
 
+{rhythm - Cymbal only}
     C	            G
 And when the broken hearted people, 
 Am            F
 Living in the world agree 
 C	         G               F     Em  Dm  C
 there will be an answer   let it be
+{Bass guitar}
     C	               G
 But though they may be parted, 
          Am                  F
@@ -35,6 +37,7 @@ There is still a chance that they may see
 C                G                F     Em  Dm  C
 there will be an answer    let it be
 
+{rhythm}
        Am         Am/G        F          C
 Let it be, let it be,  let it be, let it be
 C	         G	            F     Em  Dm  C
