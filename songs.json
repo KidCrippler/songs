@@ -5204,7 +5204,6 @@
 			"singer" : "פאר טסי",
 			"composers" : ["אבי אוחיון"],
 			"lyricists" : ["אבי אוחיון"],
-			"isPrivate" : true,
 			"playback": {
 				"youTubeVideoId" : "VD9F_7N_MbI"
 			},
