@@ -16324,6 +16324,45 @@
 			"dateCreated" : 1772150400000,
 			"dateModified" : 1772150400000
 		}, {
+			"id" : 2000777,
+			"name" : "מדע בדיוני",
+			"singer" : "אייל גולן",
+			"composers" : ["אבי אוחיון", "מתן דרור", "עידן שניאור"],
+			"lyricists" : ["אבי אוחיון"],
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage777.txt"
+			},
+			"keyShiftToOriginal" : 2,
+			"dateCreated" : 1779840000000,
+			"dateModified" : 1779840000000
+		}, {
+			"id" : 2000778,
+			"name" : "עוף מוזר",
+			"singer" : "פאר טסי",
+			"composers" : ["טל בן נון", "גלעד מרקוביץ"],
+			"lyricists" : ["פאר טסי", "טל בן נון", "גלעד מרקוביץ"],
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage778.txt"
+			},
+			"keyShiftToOriginal" : 4,
+			"dateCreated" : 1779840000000,
+			"dateModified" : 1779840000000
+		}, {
+			"id" : 2000779,
+			"name" : "תוכו רצוף אהבה",
+			"singer" : "ישי ריבו",
+			"composers" : ["ישי ריבו"],
+			"lyricists" : ["ישי ריבו"],
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage779.txt"
+			},
+			"keyShiftToOriginal" : 2,
+			"dateCreated" : 1779840000000,
+			"dateModified" : 1779840000000
+		}, {
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
 			"singer" : "The Beatles",
