@@ -1,5 +1,5 @@
 {
-	"version" : "2026_05_28",
+	"version" : "2026_05_29",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -16423,6 +16423,71 @@
 			"keyShiftToOriginal" : 2,
 			"dateCreated" : 1779840000000,
 			"dateModified" : 1779840000000
+		}, {
+			"id" : 2000780,
+			"name" : "רוז",
+			"singer" : "פאר טסי",
+			"composers" : ["פאר טסי", "טל בן נון", "איתן דרמון"],
+			"lyricists" : ["פאר טסי", "טל בן נון", "איתן דרמון"],
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage780.txt"
+			},
+			"keyShiftToOriginal" : 1,
+			"dateCreated" : 1779926400000,
+			"dateModified" : 1779926400000
+		}, {
+			"id" : 2000781,
+			"name" : "שלושים ושמונה",
+			"singer" : "פאר טסי",
+			"composers" : ["פאר טסי", "איתן דרמון"],
+			"lyricists" : ["פאר טסי", "איתן דרמון"],
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage781.txt"
+			},
+			"keyShiftToOriginal" : 0,
+			"dateCreated" : 1779926400000,
+			"dateModified" : 1779926400000
+		}, {
+			"id" : 2000782,
+			"name" : "רחוק מכולם",
+			"singer" : "עומר אדם",
+			"composers" : ["תמר יהלומי", "יונתן קלימי"],
+			"lyricists" : ["תמר יהלומי", "יונתן קלימי"],
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage782.txt"
+			},
+			"keyShiftToOriginal" : 0,
+			"dateCreated" : 1779926400000,
+			"dateModified" : 1779926400000
+		}, {
+			"id" : 2000783,
+			"name" : "לילות וקללות",
+			"singer" : "עומר אדם",
+			"composers" : ["טל קסטיאל", "עדן אטד", "רז קופרמן"],
+			"lyricists" : ["טל קסטיאל"],
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage783.txt"
+			},
+			"keyShiftToOriginal" : 2,
+			"dateCreated" : 1779926400000,
+			"dateModified" : 1779926400000
+		}, {
+			"id" : 2000784,
+			"name" : "אהבה חולה",
+			"singer" : "פאר טסי",
+			"composers" : ["פאר טסי", "מתן דרור", "איתן דרמון"],
+			"lyricists" : ["פאר טסי", "מתן דרור", "איתן דרמון"],
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage784.txt"
+			},
+			"keyShiftToOriginal" : 3,
+			"dateCreated" : 1779926400000,
+			"dateModified" : 1779926400000
 		}, {
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
