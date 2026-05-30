@@ -16515,6 +16515,19 @@
 			"dateCreated" : 1780099200000,
 			"dateModified" : 1780099200000
 		}, {
+			"id" : 2000787,
+			"name" : "רוקד עם הכאב",
+			"singer" : "פאר טסי",
+			"composers" : ["פאר טסי", "אריק זנטי"],
+			"lyricists" : ["פאר טסי", "אריק זנטי"],
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage787.txt"
+			},
+			"keyShiftToOriginal" : 4,
+			"dateCreated" : 1780099200000,
+			"dateModified" : 1780099200000
+		}, {
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
 			"singer" : "The Beatles",
