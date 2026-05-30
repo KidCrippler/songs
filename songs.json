@@ -16502,6 +16502,19 @@
 			"dateCreated" : 1780099200000,
 			"dateModified" : 1780099200000
 		}, {
+			"id" : 2000786,
+			"name" : "אהבה",
+			"singer" : "אושר כהן",
+			"composers" : ["אושר כהן"],
+			"lyricists" : ["אושר כהן"],
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage786.txt"
+			},
+			"keyShiftToOriginal" : 3,
+			"dateCreated" : 1780099200000,
+			"dateModified" : 1780099200000
+		}, {
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
 			"singer" : "The Beatles",
