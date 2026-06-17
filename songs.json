@@ -1,5 +1,5 @@
 {
-	"version" : "2026_06_11",
+	"version" : "2026_06_18",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -16388,7 +16388,7 @@
 			"id" : 2000777,
 			"name" : "מדע בדיוני",
 			"singer" : "אייל גולן",
-			"composers" : ["אבי אוחיון", "מתן דרור", "עידן שניאור"],
+			"composers" : ["אבי אוחיון","מתן דרור","עידן שניאור"],
 			"lyricists" : ["אבי אוחיון"],
 			"categoryIds" : ["1"],
 			"lyrics" : {
@@ -16401,8 +16401,8 @@
 			"id" : 2000778,
 			"name" : "עוף מוזר",
 			"singer" : "פאר טסי",
-			"composers" : ["טל בן נון", "גלעד מרקוביץ"],
-			"lyricists" : ["פאר טסי", "טל בן נון", "גלעד מרקוביץ"],
+			"composers" : ["טל בן נון","גלעד מרקוביץ"],
+			"lyricists" : ["פאר טסי","טל בן נון","גלעד מרקוביץ"],
 			"categoryIds" : ["1"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage778.txt"
@@ -16427,8 +16427,8 @@
 			"id" : 2000780,
 			"name" : "רוז",
 			"singer" : "פאר טסי",
-			"composers" : ["פאר טסי", "טל בן נון", "איתן דרמון"],
-			"lyricists" : ["פאר טסי", "טל בן נון", "איתן דרמון"],
+			"composers" : ["פאר טסי","טל בן נון","איתן דרמון"],
+			"lyricists" : ["פאר טסי","טל בן נון","איתן דרמון"],
 			"categoryIds" : ["1"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage780.txt"
@@ -16440,8 +16440,8 @@
 			"id" : 2000781,
 			"name" : "שלושים ושמונה",
 			"singer" : "פאר טסי",
-			"composers" : ["פאר טסי", "איתן דרמון"],
-			"lyricists" : ["פאר טסי", "איתן דרמון"],
+			"composers" : ["פאר טסי","איתן דרמון"],
+			"lyricists" : ["פאר טסי","איתן דרמון"],
 			"categoryIds" : ["1"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage781.txt"
@@ -16453,8 +16453,8 @@
 			"id" : 2000782,
 			"name" : "רחוק מכולם",
 			"singer" : "עומר אדם",
-			"composers" : ["תמר יהלומי", "יונתן קלימי"],
-			"lyricists" : ["תמר יהלומי", "יונתן קלימי"],
+			"composers" : ["תמר יהלומי","יונתן קלימי"],
+			"lyricists" : ["תמר יהלומי","יונתן קלימי"],
 			"categoryIds" : ["1"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage782.txt"
@@ -16466,7 +16466,7 @@
 			"id" : 2000783,
 			"name" : "לילות וקללות",
 			"singer" : "עומר אדם",
-			"composers" : ["טל קסטיאל", "עדן אטד", "רז קופרמן"],
+			"composers" : ["טל קסטיאל","עדן אטד","רז קופרמן"],
 			"lyricists" : ["טל קסטיאל"],
 			"categoryIds" : ["1"],
 			"lyrics" : {
@@ -16479,8 +16479,8 @@
 			"id" : 2000784,
 			"name" : "אהבה חולה",
 			"singer" : "פאר טסי",
-			"composers" : ["פאר טסי", "מתן דרור", "איתן דרמון"],
-			"lyricists" : ["פאר טסי", "מתן דרור", "איתן דרמון"],
+			"composers" : ["פאר טסי","מתן דרור","איתן דרמון"],
+			"lyricists" : ["פאר טסי","מתן דרור","איתן דרמון"],
 			"categoryIds" : ["1"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage784.txt"
@@ -16492,8 +16492,8 @@
 			"id" : 2000785,
 			"name" : "הלוואי",
 			"singer" : "חנן בן ארי ופאר טסי",
-			"composers" : ["פאר טסי", "חנן בן ארי", "איתן דרמון"],
-			"lyricists" : ["פאר טסי", "חנן בן ארי", "איתן דרמון"],
+			"composers" : ["פאר טסי","חנן בן ארי","איתן דרמון"],
+			"lyricists" : ["פאר טסי","חנן בן ארי","איתן דרמון"],
 			"categoryIds" : ["1"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage785.txt"
@@ -16518,8 +16518,8 @@
 			"id" : 2000787,
 			"name" : "רוקד עם הכאב",
 			"singer" : "פאר טסי",
-			"composers" : ["פאר טסי", "אריק זנטי"],
-			"lyricists" : ["פאר טסי", "אריק זנטי"],
+			"composers" : ["פאר טסי","אריק זנטי"],
+			"lyricists" : ["פאר טסי","אריק זנטי"],
 			"categoryIds" : ["1"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage787.txt"
@@ -16532,7 +16532,7 @@
 			"name" : "קחי לך זמן",
 			"singer" : "יציאת חירום",
 			"composers" : ["אלכס טופל"],
-			"lyricists" : ["אלכס טופל", "יוסי ברוש"],
+			"lyricists" : ["אלכס טופל","יוסי ברוש"],
 			"categoryIds" : ["1"],
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage788.txt"
@@ -20894,10 +20894,11 @@
 			},
 			"categoryIds" : ["2"],
 			"lyrics" : {
-				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page314.txt"
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_ophir/page314.txt",
+				"markupVersion" : "1"
 			},
 			"dateCreated" : 1762905600000,
-			"dateModified" : 1762905600000
+			"dateModified" : 1781740800000
 		}, {
 			"id" : 3000315,
 			"name" : "Hometown Glory",
