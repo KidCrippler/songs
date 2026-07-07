@@ -1,5 +1,5 @@
 {
-	"version" : "2026_07_04",
+	"version" : "2026_07_08",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -22894,7 +22894,22 @@
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page201.txt"
 			},
 			"dateCreated" : 1783036800000,
-			"dateModified" : 1783036800000
+			"dateModified" : 1783382400000
+		}, {
+			"id" : 4000202,
+			"name" : "Waterloo",
+			"singer" : "ABBA",
+			"composers" : ["Benny Andersson","Bjorn Ulvaeus"],
+			"lyricists" : ["Benny Andersson","Bjorn Ulvaeus"],
+			"playback": {
+				"youTubeVideoId" : "Sj_9CiNkkn4"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page202.txt"
+			},
+			"dateCreated" : 1783382400000,
+			"dateModified" : 1783382400000
 		}
 	]
 }
