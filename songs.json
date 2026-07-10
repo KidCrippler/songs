@@ -22893,6 +22893,7 @@
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page201.txt"
 			},
+			"keyShiftToOriginal" : 0,
 			"dateCreated" : 1783036800000,
 			"dateModified" : 1783382400000
 		}, {
@@ -22908,6 +22909,7 @@
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page202.txt"
 			},
+			"keyShiftToOriginal" : 0,
 			"dateCreated" : 1783382400000,
 			"dateModified" : 1783382400000
 		}, {
@@ -22923,6 +22925,7 @@
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page203.txt"
 			},
+			"keyShiftToOriginal" : 0,
 			"dateCreated" : 1783641600000,
 			"dateModified" : 1783641600000
 		}, {
@@ -22938,6 +22941,39 @@
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page204.txt"
 			},
+			"keyShiftToOriginal" : 0,
+			"dateCreated" : 1783641600000,
+			"dateModified" : 1783641600000
+		}, {
+			"id" : 4000205,
+			"name" : "Money Money Money",
+			"singer" : "ABBA",
+			"composers" : ["Benny Andersson","Bjorn Ulvaeus"],
+			"lyricists" : ["Benny Andersson","Bjorn Ulvaeus"],
+			"playback": {
+				"youTubeVideoId" : "ETxmCCsMoD0"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page205.txt"
+			},
+			"keyShiftToOriginal" : 0,
+			"dateCreated" : 1783641600000,
+			"dateModified" : 1783641600000
+		}, {
+			"id" : 4000206,
+			"name" : "Take A Chance On Me",
+			"singer" : "ABBA",
+			"composers" : ["Benny Andersson","Bjorn Ulvaeus"],
+			"lyricists" : ["Benny Andersson","Bjorn Ulvaeus"],
+			"playback": {
+				"youTubeVideoId" : "f_lfgahuMk0"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page206.txt"
+			},
+			"keyShiftToOriginal" : -1,
 			"dateCreated" : 1783641600000,
 			"dateModified" : 1783641600000
 		}
