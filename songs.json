@@ -22976,6 +22976,38 @@
 			"keyShiftToOriginal" : -1,
 			"dateCreated" : 1783641600000,
 			"dateModified" : 1783641600000
+		}, {
+			"id" : 4000207,
+			"name" : "Summer Night City",
+			"singer" : "ABBA",
+			"composers" : ["Benny Andersson","Bjorn Ulvaeus"],
+			"lyricists" : ["Benny Andersson","Bjorn Ulvaeus"],
+			"playback": {
+				"youTubeVideoId" : "_d5dPYHi17k"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page207.txt"
+			},
+			"keyShiftToOriginal" : 0,
+			"dateCreated" : 1783641600000,
+			"dateModified" : 1783641600000
+		}, {
+			"id" : 4000208,
+			"name" : "Lay All Your Love On Me",
+			"singer" : "ABBA",
+			"composers" : ["Benny Andersson","Bjorn Ulvaeus"],
+			"lyricists" : ["Benny Andersson","Bjorn Ulvaeus"],
+			"playback": {
+				"youTubeVideoId" : "ulZQTrV8QlQ"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page208.txt"
+			},
+			"keyShiftToOriginal" : 0,
+			"dateCreated" : 1783641600000,
+			"dateModified" : 1783641600000
 		}
 	]
 }
