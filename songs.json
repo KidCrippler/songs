@@ -1,5 +1,5 @@
 {
-	"version" : "2026_07_10",
+	"version" : "2026_07_11",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -23008,6 +23008,54 @@
 			"keyShiftToOriginal" : 0,
 			"dateCreated" : 1783641600000,
 			"dateModified" : 1783641600000
+		}, {
+			"id" : 4000209,
+			"name" : "SOS",
+			"singer" : "ABBA",
+			"composers" : ["Benny Andersson","Bjorn Ulvaeus","Stig Anderson"],
+			"lyricists" : ["Benny Andersson","Bjorn Ulvaeus","Stig Anderson"],
+			"playback": {
+				"youTubeVideoId" : "cvChjHcABPA"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page209.txt"
+			},
+			"keyShiftToOriginal" : 0,
+			"dateCreated" : 1783641600000,
+			"dateModified" : 1783641600000
+		}, {
+			"id" : 4000210,
+			"name" : "I Have A Dream",
+			"singer" : "ABBA",
+			"composers" : ["Benny Andersson","Bjorn Ulvaeus"],
+			"lyricists" : ["Benny Andersson","Bjorn Ulvaeus"],
+			"playback": {
+				"youTubeVideoId" : "ER_3h03omdE"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page210.txt"
+			},
+			"keyShiftToOriginal" : 1,
+			"dateCreated" : 1783641600000,
+			"dateModified" : 1783641600000
+		}, {
+			"id" : 4000211,
+			"name" : "Voulez Vous",
+			"singer" : "ABBA",
+			"composers" : ["Benny Andersson","Bjorn Ulvaeus"],
+			"lyricists" : ["Benny Andersson","Bjorn Ulvaeus"],
+			"playback": {
+				"youTubeVideoId" : "za05HBtGsgU"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page211.txt"
+			},
+			"keyShiftToOriginal" : 0,
+			"dateCreated" : 1783728000000,
+			"dateModified" : 1783728000000
 		}
 	]
 }
