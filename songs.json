@@ -1,5 +1,5 @@
 {
-	"version" : "2026_07_11",
+	"version" : "2026_07_14",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -23056,6 +23056,38 @@
 			"keyShiftToOriginal" : 0,
 			"dateCreated" : 1783728000000,
 			"dateModified" : 1783728000000
+		}, {
+			"id" : 4000212,
+			"name" : "Chiquitita",
+			"singer" : "ABBA",
+			"composers" : ["Benny Andersson","Bjorn Ulvaeus"],
+			"lyricists" : ["Benny Andersson","Bjorn Ulvaeus"],
+			"playback": {
+				"youTubeVideoId" : "p4QqMKe3rwY"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page212.txt"
+			},
+			"keyShiftToOriginal" : 0,
+			"dateCreated" : 1783987200000,
+			"dateModified" : 1783987200000
+		}, {
+			"id" : 4000213,
+			"name" : "Fernando",
+			"singer" : "ABBA",
+			"composers" : ["Benny Andersson","Bjorn Ulvaeus"],
+			"lyricists" : ["Benny Andersson","Bjorn Ulvaeus"],
+			"playback": {
+				"youTubeVideoId" : "dQsjAbZDx-4"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page213.txt"
+			},
+			"keyShiftToOriginal" : 0,
+			"dateCreated" : 1783987200000,
+			"dateModified" : 1783987200000
 		}
 	]
 }
