@@ -1,8 +1,10 @@
 Mamma Mia - ABBA
 Lyrics and Music: Benny Andersson, Stig Anderson and Bjorn Ulvaeus
 
-{Piano}                  D   D+   D   D+
-{Piano + Electric Guitar}   D   D+   D   D+
+{Piano}
+D   D+   D   D+
+{Piano + Electric Guitar}
+D   D+   D   D+
 
 D          A/D        D                       G    G
 I've been cheated by you since I don't know when
@@ -38,7 +40,8 @@ D             Bm
 G  C  G  Em7             A
    My my, I could never let you go
 
-{Piano + Electric Guitar}   D   D+   D   D+
+{Piano + Electric Guitar}
+D   D+   D   D+
 
 D         A/D        D                         G    G
 I've been angry and sad about things that you do
@@ -98,4 +101,5 @@ D             Bm
 G  C  G  Em7             A
    My my, I could never let you go
 
-{Piano + Electric Guitar}   D   D+   D   D+   D   D+   D   D+
+{Piano + Electric Guitar}
+D   D+   D   D+   D   D+   D   D+
