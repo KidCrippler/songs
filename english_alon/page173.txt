@@ -1,93 +1,96 @@
 Dancing Queen - ABBA
 Lyrics and Music: Aleksej Anatolevich Kortnev, Stig Anderson, Bjoern K. Ulvaeus, Benny Andersson
 
-A   D   A   D
-A   D   A   D
+A   D/A   A   D/A
+A   D/A
+E/A  -  A  -  E/G#  -  D/F#  -  A/E  -
 
-     E7             C#7
+     E              C#7
 Ooh, you can dance, you can jive
-F#m                      B
+F#m                     B7/Eb
 Having the time of your life
-      D             Bm
+      D             Bm7
 Ooh, see that girl, watch that scene
-             A             D      A      D
+             A               D/A
 Digging the dancing queen
 
-  A                                 D
+A  -  D/A  -  A  -  D/A  -
+
+  A                                 D/A
 Friday night and the lights are low
  A                            F#m
 Looking out for a place to go
-  E
+  E                       A/E    E7             A/E
 Where they play the right music, getting in the swing
-             E   F#m          E  -  F#m     -  F#m
+E           E    F#m   F#m      E/F#    -  F#m     -  F#m
 You come to look for a king
 
-A                         D
+A                         D/A
 Anybody could be that guy
  A                             F#m
 Night is young and the music's high
-E
+E7                 A/E    E7            A/E
 With a bit of rock music, everything is fine
-               E   F#m          E  -  F#m     -  F#m
+E             E    F#m   F#m     E/F#    -  F#m     -  F#m
 You're in the mood for a dance
-             Bm             E
+             Bm7             E7
 And when you get the chance
 
              A
 You are the dancing queen
- D                     A         D
+D/A                   A         D/A
 Young and sweet, only seventeen
- A
+A
 Dancing queen
- D                      A
+D/A                    E/A   A
 Feel the beat from the tambourine
-     D
-Oh, yeah
+E/G#   D/F#     A/E
+Oh,    yeah
 
-     E7             C#7
-Ooh, you can dance, you can jive
-F#m                      B
+E              C#7
+You can dance, you can jive
+F#m                     B7/Eb
 Having the time of your life
-      D             Bm
+      D             Bm7
 Ooh, see that girl, watch that scene
-             A             D      A      D
+             A               D/A      A      D/A
 Digging the dancing queen
 
-A    A   -   D   -
+A  -  D/A  -  A  -  D/A  -
 
- A                               D
+A                                D/A
 You're a teaser, you turn 'em on
- A                                 F#m
+A                                  F#m
 Leave them burning and then you're gone
- E
+E7               A/E     E7            A/E
 Looking out for another, anyone will do
-               E   F#m          E  -  F#m     -  F#m
+E             E    F#m   F#m     E/F#    -  F#m     -  F#m
 You're in the mood for a dance
-             Bm             E
+             Bm7             E7
 And when you get the chance
 
              A
 You are the dancing queen
- D                     A         D
+D/A                   A         D/A
 Young and sweet, only seventeen
- A
+A
 Dancing queen
- D                      A
+D/A                    E/A   A
 Feel the beat from the tambourine
-     D
-Oh, yeah
+E/G#   D/F#     A/E
+Oh,    yeah
 
-     E7             C#7
-Ooh, you can dance, you can jive
-F#m                      B
+E              C#7
+You can dance, you can jive
+F#m                     B7/Eb
 Having the time of your life
-      D             Bm
+      D             Bm7
 Ooh, see that girl, watch that scene
-             A             D      A      D
+             A               D/A      A      D/A
 Digging the dancing queen
-             A             D      A      D
+             A               D/A      A      D/A
 Digging the dancing queen
 
-A     D     A     D
+A   D/A   A   D/A
 
 {Fade Out}
