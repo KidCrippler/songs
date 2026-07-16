@@ -1,9 +1,11 @@
 Gimme Gimme Gimme - ABBA
 Lyrics and Music: Benny Andersson and Bjorn Ulvaeus
 
-{Electric Guitar}   (Dm   Gm   C9   Dm   Gm   Dm   C9   Dm) x 2
-{Synth + Everybody} (Dm   F   Am   Dm) x 2
-               Dm
+{Electric Guitar}
+(Dm   Gm   C9   Dm   Gm   Dm   C9   Dm) x 2
+{Synth + Everybody}
+(Dm   F   Am   Dm) x 2
+ Dm   Dm
 
 [Dm]
 Half past twelve
@@ -19,7 +21,7 @@ Blowing outside the window as I look around the room
 And it makes me so depressed to see the gloom
 Gm/Bb
       There's not a soul out there
-Gm                          Dm/A   A
+Gm                          Dm/A       A
     No one to hear my prayer
 
 Dm          Gm/Bb   C9        Dm
@@ -48,7 +50,7 @@ I open the window and I gaze into the night
 But there's nothing there to see, no one in sight
 Gm/Bb
       There's not a soul out there
-Gm                          Dm/A   A
+Gm                          Dm/A      A
     No one to hear my prayer
 
 Dm          Gm/Bb   C9        Dm
