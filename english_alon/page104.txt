@@ -2,150 +2,149 @@ The Winner Takes it All - ABBA
 Lyrics and Music: Benny Anderson and Bjoern Ulvaeus
 
 {Only piano}
-F  /A - Dm  /F# - Gm  C7
-F  /A - Dm  /F# - Gm  C7
+F  /C# - Dm  /F# - Gm  C
+F  /C# - Dm  /F# - Gm  C
 
                F
 I don't wanna talk
                    C/E
 About things we've gone through
-                    Gm
+                   Gm/D
 Though it's hurting me
-              C7
+              C
 Now it's history
-             F
+              F
 I've played all my cards
                        C/E
 And that's what you've done too
-                Gm
+                Gm/D
 Nothing more to say
-               C7
+                C
 No more ace to play
 
 {Bass joins}
                     F
 The winner takes it all
-    /A                Dm
+   A7/C#              Dm
 The loser's standing small
-  /F#           Gm
+ D7/F#          Gm
 Beside the victory
-                C7
+                C
 That's her destiny
 
 {Rest of the band joins}
               F
 I was in your arms
-             C/E
-Thinking I belonged there
-                   Gm
+          C/E
+Thinking I     belonged there
+                  Gm/D
 I figured it made sense
-               C7
+              C
 Building me a fence
              F
 Building me a home
                   C/E
 Thinking I'd be strong there
-             Gm
+            Gm/D
 But I was a fool
-               C7
+           C
 Playing by the rules
 
-                     F
+                    F
 The gods may throw a dice
-      /A         Dm
+      A7/C#    Dm
 Their minds as cold as ice
-    /F#     Gm
+    D7/F#   Gm
 And someone way down here
-          C7
+           C
 Loses someone dear
                 F
 The winner takes it all
-    /A           Dm
+   A7/C#         Dm
 The loser has to fall
-     /F#              Gm
+    D7/F#           Gm
 It's simple and it's plain
-             C7
+             C
 Why should I complain?
 
             F 
-But tell me  does she kiss
+But tell me   does she kiss
               C/E
 Like I used to kiss you?
-                 Gm
+                 Gm/D
 Does it feel the same
-                  C7
+                C
 When she calls your name?
             F
 Somewhere deep inside
                C/E
-You must know I miss you
-              Gm
+You must know I    miss you
+              Gm/D
 But what can I say?
-               C7
+               C
 Rules must be obeyed
 
                F
 The judges will decide
-    /A       Dm
+   A7/C#     Dm
 The likes of me abide
-    /F#           Gm
+   D7/F#         Gm
 Spectators of the show
-          C7
+          C
 Always staying low
-                F
+              F
 The game is on again
-  /A         Dm
+  A7/C#     Dm
 A lover or a friend
- /F#              Gm
+ D7/F#            Gm
 A big thing or a small
-                    C7   C7
+                    C   C
 The winner takes it all
 
 {Quiet, just piano}
-               F
+              F
 I don't wanna talk
-                C/E
+            C/E
 If it makes you feel sad
-            Gm
+           Gm/D
 And I understand
-                    C7
+                    C
 You've come to shake my hand
-        F
+       F
 I apologize
                 C/E
 If it makes you feel bad
-              Gm
+              Gm/D
 Seeing me so tense
-          C7
+           C
 No self-confidence (But you see)
 
                     F
 The winner takes it all
-     /A     Dm
-   /F#              Gm
+   A7/C#     Dm
+   D7/F#          Gm      C
 The winner takes it all
-       C7
 
-F                
+F
           So the winner
-/A    Dm
-          takes it all
-/F#   Gm            
-          And the the loser
-C7
+A7/C#    Dm
+              takes it all
+D7/F#    Gm
+              And the the loser
+C
           has to fall
 F
           Throw a dice
-/A   Dm
-          cold as ice
-/F#   Gm
-          Way down here
-C7
+A7/C#    Dm
+              cold as ice
+D7/F#    Gm
+              Way down here
+C
           someone dear
 F
           Takes it all
-/A   Dm
-          has to fall
-/F#   Gm
-          It seems plain...
-C7
+A7/C#    Dm
+              has to fall
+D7/F#    Gm                      C
+              It seems plain...
+{Fade Out}
