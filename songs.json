@@ -16675,6 +16675,45 @@
 			"dateCreated" : 1784246400000,
 			"dateModified" : 1784246400000
 		}, {
+			"id" : 2000796,
+			"name" : "מחר",
+			"singer" : "נעמי שמר",
+			"composers" : ["נעמי שמר"],
+			"lyricists" : ["נעמי שמר"],
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage796.txt"
+			},
+			"keyShiftToOriginal" : 2,
+			"dateCreated" : 1784246400000,
+			"dateModified" : 1784246400000
+		}, {
+			"id" : 2000797,
+			"name" : "חורשת האקליפטוס",
+			"singer" : "נעמי שמר",
+			"composers" : ["נעמי שמר"],
+			"lyricists" : ["נעמי שמר"],
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage797.txt"
+			},
+			"keyShiftToOriginal" : 0,
+			"dateCreated" : 1784246400000,
+			"dateModified" : 1784246400000
+		}, {
+			"id" : 2000798,
+			"name" : "רנה",
+			"singer" : "אריאל הורוביץ",
+			"composers" : ["אריאל הורוביץ"],
+			"lyricists" : ["אריאל הורוביץ"],
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage798.txt"
+			},
+			"keyShiftToOriginal" : -1,
+			"dateCreated" : 1784332800000,
+			"dateModified" : 1784332800000
+		}, {
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
 			"singer" : "The Beatles",
