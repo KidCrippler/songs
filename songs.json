@@ -1,5 +1,5 @@
 {
-	"version" : "2026_08_05",
+	"version" : "2026_08_27",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -16714,6 +16714,33 @@
 			"keyShiftToOriginal" : -1,
 			"dateCreated" : 1784332800000,
 			"dateModified" : 1784332800000
+		}, {
+			"id" : 2000799,
+			"name" : "ערב של שושנים",
+			"singer" : "הפרברים",
+			"composers" : ["יוסף הדר"],
+			"lyricists" : ["משה דור"],
+			"isPrivate" : true,
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage799.txt"
+			},
+			"keyShiftToOriginal" : 1,
+			"dateCreated" : 1787788800000,
+			"dateModified" : 1787788800000
+		}, {
+			"id" : 2000800,
+			"name" : "ערב של שושנים",
+			"singer" : "הדודאים",
+			"composers" : ["יוסף הדר"],
+			"lyricists" : ["משה דור"],
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage800.txt"
+			},
+			"keyShiftToOriginal" : 0,
+			"dateCreated" : 1787788800000,
+			"dateModified" : 1787788800000
 		}, {
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
