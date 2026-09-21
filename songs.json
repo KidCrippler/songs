@@ -449,7 +449,7 @@
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page27.txt",
 				"markupVersion" : "2"
 			},
-			"key" : "Am",
+			"key" : "Bm",
 			"dateCreated" : 1520121600000,
 			"dateModified" : 1771027200000
 		}, {
@@ -706,7 +706,7 @@
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page42.txt",
 				"markupVersion" : "1"
 			},
-			"key" : "A",
+			"key" : "D",
 			"dateCreated" : 1519516800000,
 			"dateModified" : 1771027200000
 		}, {
@@ -1307,7 +1307,7 @@
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page77.txt",
 				"markupVersion" : "1"
 			},
-			"key" : "Am",
+			"key" : "Dm",
 			"dateCreated" : 1519516800000,
 			"dateModified" : 1771027200000
 		}, {
@@ -1340,7 +1340,7 @@
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page79.txt",
 				"markupVersion" : "1"
 			},
-			"key" : "E",
+			"key" : "A",
 			"dateCreated" : 1519516800000,
 			"dateModified" : 1771027200000
 		}, {
@@ -2075,7 +2075,8 @@
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page123.txt"
 			},
-			"key" : "G",
+			"key" : "C",
+			"keyShiftToOriginal" : 0,
 			"dateCreated" : 1519516800000,
 			"dateModified" : 1745280000000
 		}, {
@@ -2603,7 +2604,7 @@
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page155.txt"
 			},
-			"key" : "G",
+			"key" : "Em",
 			"dateCreated" : 1519516800000,
 			"dateModified" : 1746662400000
 		}, {
@@ -2815,6 +2816,7 @@
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page168.txt"
 			},
 			"key" : "Bb",
+			"keyShiftToOriginal" : 0,
 			"dateCreated" : 1519516800000,
 			"dateModified" : 1747526400000
 		}, {
@@ -2831,7 +2833,7 @@
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page169.txt",
 				"markupVersion" : "4"
 			},
-			"key" : "D",
+			"key" : "Bm",
 			"dateCreated" : 1519516800000,
 			"dateModified" : 1771027200000
 		}, {
@@ -2880,7 +2882,7 @@
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page172.txt",
 				"markupVersion" : "1"
 			},
-			"key" : "Bm",
+			"key" : "D",
 			"dateCreated" : 1519516800000,
 			"dateModified" : 1765411200000
 		}, {
@@ -3368,7 +3370,7 @@
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page205.txt"
 			},
-			"key" : "Bm",
+			"key" : "D",
 			"dateCreated" : 1519516800000,
 			"dateModified" : 1748649600000
 		}, {
@@ -4428,7 +4430,7 @@
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page274.txt",
 				"markupVersion" : "1"
 			},
-			"key" : "D",
+			"key" : "Am",
 			"dateCreated" : 1539388800000,
 			"dateModified" : 1771027200000
 		}, {
@@ -5170,7 +5172,7 @@
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page329.txt",
 				"markupVersion" : "1"
 			},
-			"key" : "Am",
+			"key" : "G",
 			"dateCreated" : 1519516800000,
 			"dateModified" : 1771027200000
 		}, {
@@ -5579,7 +5581,7 @@
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page353.txt",
 				"markupVersion" : "2"
 			},
-			"key" : "C",
+			"key" : "Cm",
 			"dateCreated" : 1520812800000,
 			"dateModified" : 1771027200000
 		}, {
@@ -5630,7 +5632,7 @@
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page356.txt",
 				"markupVersion" : "4"
 			},
-			"key" : "C#m",
+			"key" : "F#m",
 			"dateCreated" : 1532390400000,
 			"dateModified" : 1771027200000
 		}, {
@@ -5992,7 +5994,7 @@
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page377.txt",
 				"markupVersion" : "1"
 			},
-			"key" : "Dm",
+			"key" : "Gm",
 			"dateCreated" : 1586563200000,
 			"dateModified" : 1771027200000
 		}, {
@@ -7397,7 +7399,7 @@
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page460.txt",
 				"markupVersion" : "1"
 			},
-			"key" : "G",
+			"key" : "Em",
 			"dateCreated" : 1665878400000,
 			"dateModified" : 1771027200000
 		}, {
@@ -7786,7 +7788,7 @@
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page483.txt",
 				"markupVersion" : "2"
 			},
-			"key" : "Fm",
+			"key" : "C",
 			"dateCreated" : 1744156800000,
 			"dateModified" : 1757116800000
 		}, {
@@ -8140,7 +8142,7 @@
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page505.txt"
 			},
-			"key" : "G",
+			"key" : "Dm",
 			"dateCreated" : 1758931200000,
 			"dateModified" : 1758931200000
 		}, {
@@ -8506,7 +8508,8 @@
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage19.txt"
 			},
-			"key" : "F",
+			"key" : "Cm",
+			"keyShiftToOriginal" : 0,
 			"dateCreated" : 1519516800000,
 			"dateModified" : 1748736000000
 		}, {
@@ -8563,7 +8566,7 @@
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage23.txt"
 			},
-			"key" : "C",
+			"key" : "Am",
 			"dateCreated" : 1519516800000,
 			"dateModified" : 1764374400000
 		}, {
@@ -8658,7 +8661,7 @@
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage34.txt"
 			},
-			"key" : "Am",
+			"key" : "C",
 			"dateCreated" : 1519516800000,
 			"dateModified" : 1684195200000
 		}, {
@@ -8710,7 +8713,8 @@
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage40.txt"
 			},
-			"key" : "G",
+			"key" : "C",
+			"keyShiftToOriginal" : 0,
 			"dateCreated" : 1519516800000,
 			"dateModified" : 1764460800000
 		}, {
@@ -10322,7 +10326,7 @@
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage207.txt"
 			},
-			"key" : "B",
+			"key" : "E",
 			"dateCreated" : 1519516800000,
 			"dateModified" : 1757548800000
 		}, {
@@ -10751,6 +10755,7 @@
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage257.txt"
 			},
 			"key" : "Em",
+			"keyShiftToOriginal" : 0,
 			"dateCreated" : 1519516800000,
 			"dateModified" : 1764547200000
 		}, {
@@ -11368,7 +11373,7 @@
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage305.txt"
 			},
-			"key" : "Fm",
+			"key" : "Cm",
 			"dateCreated" : 1520812800000,
 			"dateModified" : 1520812800000
 		}, {
@@ -11615,7 +11620,7 @@
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage325.txt"
 			},
-			"key" : "D",
+			"key" : "A",
 			"dateCreated" : 1532390400000,
 			"dateModified" : 1532390400000
 		}, {
@@ -11669,6 +11674,7 @@
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage329.txt"
 			},
 			"key" : "F#m",
+			"keyShiftToOriginal" : 0,
 			"dateCreated" : 1532390400000,
 			"dateModified" : 1532390400000
 		}, {
@@ -11857,7 +11863,7 @@
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage344.txt",
 				"markupVersion" : "2"
 			},
-			"key" : "C",
+			"key" : "Cm",
 			"dateCreated" : 1539388800000,
 			"dateModified" : 1557187200000
 		}, {
@@ -11948,7 +11954,8 @@
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage351.txt"
 			},
-			"key" : "D",
+			"key" : "Am",
+			"keyShiftToOriginal" : 0,
 			"dateCreated" : 1546905600000,
 			"dateModified" : 1748736000000
 		}, {
@@ -12263,7 +12270,7 @@
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage375.txt"
 			},
-			"key" : "A",
+			"key" : "C",
 			"dateCreated" : 1557014400000,
 			"dateModified" : 1557187200000
 		}, {
@@ -12276,7 +12283,7 @@
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage376.txt"
 			},
-			"key" : "Em",
+			"key" : "C",
 			"dateCreated" : 1557014400000,
 			"dateModified" : 1557187200000
 		}, {
@@ -12370,7 +12377,7 @@
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage383.txt"
 			},
-			"key" : "C",
+			"key" : "Am",
 			"dateCreated" : 1562544000000,
 			"dateModified" : 1562544000000
 		}, {
@@ -13529,7 +13536,7 @@
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage472.txt"
 			},
-			"key" : "Em",
+			"key" : "Am",
 			"dateCreated" : 1616803200000,
 			"dateModified" : 1616803200000
 		}, {
@@ -13816,7 +13823,7 @@
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage493.txt"
 			},
-			"key" : "D",
+			"key" : "F",
 			"dateCreated" : 1627084800000,
 			"dateModified" : 1627084800000
 		}, {
@@ -13898,7 +13905,8 @@
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage499.txt"
 			},
-			"key" : "G",
+			"key" : "Em",
+			"keyShiftToOriginal" : 0,
 			"dateCreated" : 1629590400000,
 			"dateModified" : 1629590400000
 		}, {
@@ -13990,7 +13998,7 @@
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage506.txt"
 			},
-			"key" : "Bb",
+			"key" : "Dm",
 			"dateCreated" : 1632268800000,
 			"dateModified" : 1632268800000
 		}, {
@@ -14610,7 +14618,7 @@
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage552.txt"
 			},
-			"key" : "Bm",
+			"key" : "Em",
 			"dateCreated" : 1645228800000,
 			"dateModified" : 1645228800000
 		}, {
@@ -15028,7 +15036,7 @@
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage583.txt"
 			},
-			"key" : "D",
+			"key" : "Dm",
 			"dateCreated" : 1659139200000,
 			"dateModified" : 1659139200000
 		}, {
@@ -16226,7 +16234,7 @@
 			"lyrics" : {
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage673.txt"
 			},
-			"key" : "Em",
+			"key" : "Am",
 			"dateCreated" : 1713916800000,
 			"dateModified" : 1713916800000
 		}, {
@@ -16998,6 +17006,7 @@
 				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage731.txt"
 			},
 			"key" : "Am",
+			"keyShiftToOriginal" : 2,
 			"dateCreated" : 1741910400000,
 			"dateModified" : 1741910400000
 		}, {
