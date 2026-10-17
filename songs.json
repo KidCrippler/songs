@@ -1,5 +1,5 @@
 {
-	"version" : "2026_08_27",
+	"version" : "2026_10_18",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -24942,6 +24942,23 @@
 			"keyShiftToOriginal" : 0,
 			"dateCreated" : 1783987200000,
 			"dateModified" : 1783987200000
+		}, {
+			"id" : 4000214,
+			"name" : "Knowing Me Knowing You",
+			"singer" : "ABBA",
+			"composers" : ["Benny Andersson","Bjorn Ulvaeus","Stig Anderson"],
+			"lyricists" : ["Benny Andersson","Bjorn Ulvaeus","Stig Anderson"],
+			"playback": {
+				"youTubeVideoId" : "iUrzicaiRLU"
+			},
+			"categoryIds" : ["2"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/english_alon/page214.txt"
+			},
+			"key" : "D",
+			"keyShiftToOriginal" : 0,
+			"dateCreated" : 1792195200000,
+			"dateModified" : 1792195200000
 		}
 	]
 }
