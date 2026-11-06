@@ -1,5 +1,5 @@
 {
-	"version" : "2026_10_18",
+	"version" : "2026_11_07",
 	"title" : "Default Songs List new",
 	"categories" : [{
 			"id" : "1",
@@ -18091,6 +18091,20 @@
 			"keyShiftToOriginal" : 0,
 			"dateCreated" : 1787788800000,
 			"dateModified" : 1787788800000
+		}, {
+			"id" : 2000801,
+			"name" : "מלכות החרמון",
+			"singer" : "להקת פיקוד צפון",
+			"composers" : ["אפי נצר"],
+			"lyricists" : ["יובב כץ"],
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage801.txt"
+			},
+			"key" : "Cm",
+			"keyShiftToOriginal" : 0,
+			"dateCreated" : 1793923200000,
+			"dateModified" : 1793923200000
 		}, {
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
