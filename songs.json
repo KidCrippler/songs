@@ -18103,8 +18103,22 @@
 			},
 			"key" : "Cm",
 			"keyShiftToOriginal" : 0,
-			"dateCreated" : 1793923200000,
-			"dateModified" : 1793923200000
+			"dateCreated" : 1794009600000,
+			"dateModified" : 1794009600000
+		}, {
+			"id" : 2000802,
+			"name" : "העולם בשחור לבן",
+			"singer" : "הדודאים",
+			"composers" : ["ישראל גוריון"],
+			"lyricists" : ["ישראל גוריון"],
+			"categoryIds" : ["1"],
+			"lyrics" : {
+				"markupUrl" : "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_alon/apage802.txt"
+			},
+			"key" : "A",
+			"keyShiftToOriginal" : 0,
+			"dateCreated" : 1794009600000,
+			"dateModified" : 1794009600000
 		}, {
 			"id" : 3000001,
 			"name" : "You've Got to Hide Your Love Away",
@@ -25003,8 +25017,8 @@
 			},
 			"key" : "C",
 			"keyShiftToOriginal" : 1,
-			"dateCreated" : 1793923200000,
-			"dateModified" : 1793923200000
+			"dateCreated" : 1794009600000,
+			"dateModified" : 1794009600000
 		}
 	]
 }
